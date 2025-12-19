@@ -56,8 +56,10 @@ Three ways machines learn:
     *   *Input:* Raw data ("Here is customer data, find patterns").
     *   *Use:* Customer segmentation, Recommendation engines.
 3.  **Reinforcement Learning:** Learning by trial and error.
-    *   *Input:* Actions + Rewards ("Good robot, have a cookie").
-    *   *Use:* Robotics, Trading bots, Game playing (AlphaGo).
+4.  **Data Processing and Model Evaluation**
+    *   **Data Processing:** "Garbage In, Garbage Out." AI finds patterns in data. If the data is biased or messy, the AI will be too.
+    *   **Train/Test Split:** You split your data into Training (80%) and Testing (20%). You never test the model on data it has already seen.
+    *   **Evaluation:** Accuracy isn't everything. In fraud detection, 99.9% accuracy is useless if you miss every single fraud case (because fraud is rare). We use metrics like **Precision** and **Recall**.
 
 ---
 
