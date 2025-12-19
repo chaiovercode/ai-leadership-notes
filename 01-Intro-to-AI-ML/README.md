@@ -46,17 +46,7 @@ Everything you're using today? That's Narrow AI. Your phone's face unlock, Netfl
 
 People throw these terms around interchangeably. They're not the same thing. Picture Russian nesting dolls:
 
-```
-┌─────────────────────────────────────────────┐
-│  ARTIFICIAL INTELLIGENCE                    │
-│  ┌───────────────────────────────────────┐  │
-│  │  MACHINE LEARNING                     │  │
-│  │  ┌─────────────────────────────────┐  │  │
-│  │  │  DEEP LEARNING                  │  │  │
-│  │  └─────────────────────────────────┘  │  │
-│  └───────────────────────────────────────┘  │
-└─────────────────────────────────────────────┘
-```
+![AI vs ML vs DL Hierarchy](./assets/ai_ml_dl.png)
 
 ### Breaking It Down
 
@@ -158,16 +148,7 @@ Deep Learning figures out the features itself. You just show it millions of cat 
 
 Think of it like a game of telephone, but productive:
 
-```
-INPUT          HIDDEN LAYERS           OUTPUT
-(raw data)     (pattern extraction)    (prediction)
-   │                                        │
-   ▼                                        ▼
-[Image] → [Edge detector] → [Shape finder] → [Object identifier] → "It's a cat!"
-   │           │                  │                 │
-Pixels    Finds lines         Finds ears,       Combines
-          & curves            eyes, shapes      everything
-```
+![Neural Network Architecture](./assets/neural_network.png)
 
 > **Must Watch:** If you want to see exactly how the math works in motion, 3blue1brown’s video [**But what is a neural network?**](https://www.youtube.com/watch?v=aircAruvnKk) is the single best explanation ever made.
 
