@@ -1,4 +1,4 @@
-# AI & Machine Learning — The No-Jargon Guide
+# Intro to AI & Machine Learning
 
 > **"AI is not about building a brain. It's about building a machine that can recognize patterns in data better and faster than any human ever could."**
 

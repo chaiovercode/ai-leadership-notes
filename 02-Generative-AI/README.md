@@ -1,90 +1,100 @@
-# Generative AI
+# Generative AI & Large Language Models
 
-> "We are entering an era where machines are not just analyzing the world, but creating it."
+> **"Traditional AI was a better librarian; Generative AI is a better writer."**
 
-Traditional AI (Module 1) focused on **prediction** and **classification** (e.g., "Is this a cat?"). Generative AI focuses on **creation** (e.g., "Draw me a cat in the style of Picasso").
+In Module 1, we learned that AI is about recognizing patterns. Generative AI takes it a step further: it uses those patterns to **create something new**.
 
 ---
 
 ## 📑 Table of Contents
-1.  [Introduction to Generative AI](#1-introduction-to-generative-ai)
-2.  [Large Language Models (LLMs)](#2-large-language-models-llms)
-3.  [Prompt Engineering](#3-prompt-engineering)
-4.  [RAG vs. Fine-tuning](#4-rag-vs-fine-tuning-build-vs-buy)
+
+1. [Introduction to Generative AI](#introduction-to-generative-ai)
+2. [Introduction to LLMs](#introduction-to-large-language-models)
+   - [Model Evolution](#1-types-of-models-and-evolution)
+   - [Pricing (Tokens)](#2-how-are-llms-priced)
+   - [Benchmarks](#3-llm-benchmarks)
+   - [Context Windows](#4-building-blocks-tokens-and-context)
+3. [Prompt Engineering](#prompt-engineering)
+   - [Strategies & Strategies](#prompting-strategies)
+   - [Parameters (Temperature, etc.)](#controlling-ai-output-using-parameters)
+4. [🎥 Deep Dive Videos](#🎥-deep-dive-best-visual-explanations)
 
 ---
 
-## 1. Introduction to Generative AI
+## Introduction to Generative AI
 
-GenAI models learn the underlying patterns of data (text, images, code) and generate *new* data that looks similar.
+### What is Generative AI?
+Traditional AI follows rules to categorize data (e.g., "Is this email spam?"). Generative AI (GenAI) creates new data (e.g., "Write an email to my boss").
 
-### The Foundation Models
-We no longer build models from scratch. We build on top of massive "Foundation Models" trained by tech giants.
-
-*   **Text:** GPT-4 (OpenAI), Gemini (Google), Claude (Anthropic), Llama (Meta).
-*   **Image:** Midjourney, Stable Diffusion, DALL-E 3.
-*   **Code:** GitHub Copilot, Cursor.
-*   **Video:** Sora, Runway Gen-3.
-
-### Key Shift: The Marginal Cost of Content
-GenAI drives the marginal cost of creating text, code, and images to near zero.
-*   **Before:** $100 for a marketing blog post.
-*   **After:** $0.01 for a draft, $10 for human review.
+*   **How it works:** It’s trained on a massive chunk of human knowledge (books, code, internet) and calculates the **probability** of what should come next.
+*   **The Content Revolution:** GenAI drives the cost of creating a "first draft" of anything—text, code, image, video—to effectively zero.
 
 ---
 
-## 2. Large Language Models (LLMs)
+## Introduction to Large Language Models (LLMs)
 
-### How do they work? (The "Next Token Prediction")
-At their core, LLMs are just fancy "autocomplete" engines. They predict the statistically most likely next word (token) in a sequence.
+### 1. Types of Models and Evolution
+LLMs have evolved at breakneck speed:
+*   **The Early Days:** GPT-1 and GPT-2 were interesting but couldn't hold a long conversation.
+*   **The Breakthrough (2020):** GPT-3 showed that "Scale is all you need." The bigger the model, the smarter it got.
+*   **The Modern Giants:** 
+    *   **OpenAI:** GPT-4o (The standard).
+    *   **Anthropic:** Claude 3.5 Sonnet (The "human-like" coder).
+    *   **Google:** Gemini 1.5 Pro (The one with the "infinite" memory).
+    *   **Meta:** Llama 3 (The open-source king).
 
-*   **Training:** They read the entire internet (Wikipedia, Reddit, Code, Books).
-*   **Reasoning:** Billions of parameters allow them to not just memorize, but "understand" relationships between concepts.
-*   **Hallucination:** Because they are probabilistic (guessing the next word), they can confidently state facts that are wrong. They prioritize *plausibility* over *truth*.
+### 2. How are LLMs priced?
+AI companies don't charge by the word; they charge by the **Token**.
+*   **Input Tokens:** The prompt you send.
+*   **Output Tokens:** The answer the AI writes.
+> 💰 **Pro Tip:** Output tokens are usually much more expensive because they require the computer to "think" in real-time.
 
----
+### 3. LLM Benchmarks (How to compare them)
+Don't trust marketing fluff. Look for these standardized scores:
+*   **MMLU:** General knowledge and reasoning.
+*   **HumanEval:** Coding ability.
+*   **GSM8K:** Grade-school math (surprisingly hard for AI).
+*   **LMSYS Chatbot Arena:** The only "live" leaderboard where humans vote on which AI is better.
 
-## 3. Prompt Engineering
+### 4. Building Blocks: Tokens and Context
+LLMs don't see "words." They see **Tokens**.
 
-Why do some people get amazing results and others get trash? **Context.**
+![Tokens Visualized](./assets/tokens.png)
 
-### The Framework of a Perfect Prompt
-1.  **Role:** "Act as a Senior Marketing Strategist..."
-2.  **Context:** "We are launching a new coffee brand for Gen-Z..."
-3.  **Task:** "Write 5 catchy Instagram captions..."
-4.  **Constraints:** "Under 20 words, use emojis, no hashtags."
-5.  **Output Format:** "Return a bulleted list."
-
-### Advanced Techniques
-*   **Few-Shot Prompting:** Giving the AI examples.
-    *   *Input:* "Happy -> Sad. Fast -> Slow. Up -> ?"
-    *   *AI:* "Down" (It learned the pattern).
-*   **Chain of Thought:** Asking the AI to "think step by step" reduces math/logic errors massively.
-
----
-
-## 4. RAG vs. Fine-tuning (Build vs. Buy)
-
-As a leader, you will face this decision: "How do I use AI with MY private data?"
-
-### Option A: RAG (Retrieval-Augmented Generation) - *The Open Book Exam*
-*   **Concept:** You give the AI a "cheat sheet" (your PDFs, emails, docs) just before it answers.
-*   **How:** You search your database for relevant info, paste it into the prompt, and say "Answer using only this info."
-*   **Pros:** Cheap, accurate, easy to update data, less hallucination.
-*   **Best for:** internal search, customer support bots.
-
-### Option B: Fine-tuning - *The Medical Residency*
-*   **Concept:** You retrain the model's brain to learn a new behavior or style.
-*   **How:** You feed it thousands of examples of "Input -> Ideal Output".
-*   **Pros:** Better style matching, faster, cheaper per query (shorter prompts).
-*   **Cons:** Expensive to train, hard to update facts (you have to retrain).
-*   **Best for:** specialized coding models, specific writing tones (brand voice).
-
-> **Verdict:** Start with RAG. Only Fine-tune if RAG fails.
+*   **Tokens:** Think of these as "syllables" or chunks of characters. 1,000 tokens ≈ 750 words.
+*   **Context Window:** This is the AI's "Short-term Memory."
+    *   If a model has a **128k context window**, it can "read" a whole book and remember the first chapter while talking about the last one.
+    *   If you exceed the window, the AI will "forget" the beginning of your conversation.
 
 ---
 
-### 🎥 Deep Dive: Best Visual Explanations
+## Prompt Engineering
+
+Prompt engineering is the art of giving an AI a clear, unambiguous goal.
+
+### 1. Foundations of Prompt Engineering
+A perfect prompt has three parts:
+1.  **Role:** "Act as a world-class lawyer..."
+2.  **Context:** "We are reviewing a contract for a SaaS startup..."
+3.  **Task:** "Summarize the termination clauses in bullet points."
+
+### 2. Prompting Strategies
+*   **Zero-Shot:** No examples. "Translate this to French."
+*   **Few-Shot:** Give 2-3 examples first. This drastically improves performance.
+*   **Chain of Thought:** Tell the AI to "Think step-by-step." This forces it to solve the logic before it gives you a (potentially wrong) answer.
+
+### 3. Controlling AI Output Using Parameters
+Most professional AI tools (OpenAI Playground, Google AI Studio) let you "dial" the AI's personality:
+
+*   **Temperature (0 to 1):**
+    *   **Close to 0:** Focused, predictable, conservative. (Best for code/math).
+    *   **Close to 1:** Creative, random, "hallucination-prone." (Best for brainstorming).
+*   **Top-P:** Another way to control "randomness" (best to leave this alone if you're changing Temperature).
+*   **Stop Sequences:** Tell the AI exactly where to stop writing (e.g., stop at "###").
+
+---
+
+## 🎥 Deep Dive: Best Visual Explanations
 
 *   **[Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)** (Andrej Karpathy) — **Highly Recommended.** This is the single best 1-hour overview of how LLMs are built and how they "think." Perfect for execs.
 *   **[But what is a GPT? Visualizing Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)** (3blue1brown) — A stunning visual breakdown of the "Attention" mechanism that makes ChatGPT work.
