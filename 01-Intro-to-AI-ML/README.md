@@ -87,9 +87,18 @@ Deep Learning is a specialized form of Machine Learning inspired by the structur
 
 ## 4. Deep Learning Architectures
 
-*   **CNN (Convolutional Neural Networks):** Good for **Images/Video**. (Spatial patterns).
-*   **RNN (Recurrent Neural Networks):** Good for **Sequence data**. (Time-series, old speech rec).
-*   **Transformers:** Good for **Language/Context**. (The standard for GenAI).
+Different tasks require different neural network structures.
+
+### 4.1 Convolutional Neural Networks (CNNs)
+*   **The "Vision" Brain:** CNNs are designed to process pixel data and identify spatial patterns. 
+*   **How it works:** It uses "filters" to scan an image for edges, then shapes, then objects.
+*   **Business Use:** Facial recognition, quality control in manufacturing (detecting defects), medical scan analysis.
+
+### 4.2 Recurrent Neural Networks (RNNs)
+*   **The "Memory" Brain:** RNNs are designed for sequential data where the order matters.
+*   **How it works:** It has a "loop" that allows information to persist from one step to the next.
+*   **Business Use:** Time-series forecasting (stock prices, inventory), rudimentary speech-to-text, early machine translation.
+*   **Note:** While RNNs were the standard for language, they have largely been superseded by **Transformers** (covered in Module 2) for complex text tasks.
 
 ---
 
