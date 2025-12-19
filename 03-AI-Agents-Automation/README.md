@@ -112,4 +112,11 @@ For sensitive business data, you might not want to send everything to OpenAI.
 
 ---
 
+### 🎥 Deep Dive: Best Visual Explanations
+
+*   **[What's next for AI Agents?](https://www.youtube.com/watch?v=rl9L_1G9Eis)** (Andrej Karpathy) — A short talk on why agents are the next major frontier in computing.
+*   **[Agentic Workflows are the Future](https://www.youtube.com/watch?v=sal78ACtGTc)** (Andrew Ng / Sequoia) — A brilliant explanation of why "Agentic Workflows" (iterative reasoning) beat simple prompt engineering.
+
+---
+
 > [Next Module: Applications of AI in Business](../04-AI-Business-Applications)

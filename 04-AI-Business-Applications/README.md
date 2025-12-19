@@ -75,4 +75,11 @@ Don't just add a chatbot to your app. Solves a specific user problem where intel
 
 ---
 
+### 🎥 Deep Dive: Best Visual Explanations
+
+*   **[AI is the New Electricity](https://www.youtube.com/watch?v=2ePf9rue1Ao)** (Andrew Ng / Stanford) — The classic talk that explains why AI is a general-purpose technology that will transform every industry.
+*   **[How AI can save our humanity](https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity)** (Kai-Fu Lee) — A great TED talk on the balance between AI automation and human compassion in the future of work.
+
+---
+
 > [Next Module: Ethics & Future of AI](../05-Ethics-Future-AI)

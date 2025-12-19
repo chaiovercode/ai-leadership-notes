@@ -84,4 +84,11 @@ As a leader, you will face this decision: "How do I use AI with MY private data?
 
 ---
 
+### 🎥 Deep Dive: Best Visual Explanations
+
+*   **[Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)** (Andrej Karpathy) — **Highly Recommended.** This is the single best 1-hour overview of how LLMs are built and how they "think." Perfect for execs.
+*   **[But what is a GPT? Visualizing Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)** (3blue1brown) — A stunning visual breakdown of the "Attention" mechanism that makes ChatGPT work.
+
+---
+
 > [Next Module: AI Agents & Automation](../03-AI-Agents-Automation)

@@ -1,7 +1,5 @@
 # Introduction to AI & Machine Learning
 
-# AI & Machine Learning — The No-Jargon Guide
-
 So you want to understand AI? Cool. Let's break it down without making your brain hurt.
 
 ---
@@ -254,6 +252,12 @@ Humans still provide the **judgment** (what should we do about it).
 This was just the foundation. The real fun starts when we get into Generative AI — systems that don't just analyze, but create. That's where LLMs, diffusion models, and all the stuff making headlines come in.
 
 But you've got the mental models now. When someone drops terms like "deep learning" or "reinforcement learning," you know what's up.
+
+---
+
+### 🎥 Deep Dive: Best Visual Explanations
+*   **[But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)** (3blue1brown) - 20 mins. The gold standard for understanding the math.
+*   **[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)** (Andrew Ng) - A full course, but his intro videos on YouTube are great for business leaders.
 
 ---
 
