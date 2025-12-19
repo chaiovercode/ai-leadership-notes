@@ -65,10 +65,23 @@ Three ways machines learn:
 
 ## 3. Deep Learning Basics
 
-Deep Learning automates "Feature Extraction".
-*   **Old ML:** Human had to measure "ear shape" to define a cat.
-*   **Deep Learning:** The Neural Network figures out that ears are important on its own.
-*   **Structure:** Input Layer -> Hidden Layers (Black Box) -> Output Layer.
+### 3.1 What is Deep Learning?
+Deep Learning is a specialized form of Machine Learning inspired by the structure of the human brain.
+*   **Core Difference:** In traditional ML, a human must manually define features (e.g., "look for ears"). In Deep Learning, the model figures out the features itself.
+*   **Why now?** It requires massive data and massive compute (GPUs), which only became available recently.
+
+### 3.2 Neural Networks Architecture
+*   **The Neuron:** A mathematical function that takes inputs, weights them, and produces an output.
+*   **The Layer:**
+    *   **Input Layer:** Raw data (pixels).
+    *   **Hidden Layers:** The "black box" layers that extract patterns (edges -> shapes -> objects).
+    *   **Output Layer:** The final prediction (Cat vs. Dog).
+*   **Deep:** "Deep" just means "many hidden layers" (often 100+).
+
+### 3.3 Deep Learning – Use Cases
+*   **Computer Vision:** FaceID, Medical Imaging (detecting tumors), Self-driving cars.
+*   **NLP (Language):** Google Translate, Sentiment Analysis, Chatbots.
+*   **Audio:** Speech-to-text (Siri/Alexa), Music generation.
 
 ---
 
