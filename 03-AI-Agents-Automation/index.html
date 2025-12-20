@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 03: AI Agents & Automation | AI Leadership Notes</title>
+    <meta name="description" content="From chatbots to workers. The agent loop, tools, memory systems, and design patterns that make AI actually do things.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --black: #050505;
+            --lime: #a3e635;
+            --lime-dim: rgba(163, 230, 53, 0.8);
+            --gray-100: #f5f5f5;
+            --gray-200: #e5e5e5;
+            --gray-300: #d4d4d4;
+            --gray-400: #a3a3a3;
+            --gray-500: #737373;
+            --gray-600: #525252;
+            --gray-700: #404040;
+            --gray-800: #262626;
+            --gray-900: #171717;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background-color: var(--black);
+            color: var(--gray-200);
+            font-family: 'JetBrains Mono', monospace;
+            line-height: 1.7;
+            overflow-x: hidden;
+        }
+
+        /* Grid background */
+        .bg-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image:
+                linear-gradient(rgba(163, 230, 53, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(163, 230, 53, 0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Gradient orbs */
+        .gradient-orb {
+            position: fixed;
+            width: 600px;
+            height: 600px;
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 0;
+            filter: blur(60px);
+        }
+
+        .gradient-orb-1 {
+            top: -200px;
+            right: -200px;
+            background: radial-gradient(circle, rgba(163, 230, 53, 0.08) 0%, transparent 70%);
+        }
+
+        .gradient-orb-2 {
+            bottom: -300px;
+            left: -200px;
+            background: radial-gradient(circle, rgba(163, 230, 53, 0.05) 0%, transparent 70%);
+        }
+
+        /* Noise texture */
+        .noise::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            opacity: 0.02;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+            z-index: 100;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--black);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #333;
+            border-radius: 3px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--lime);
+        }
+
+        ::selection {
+            background: rgba(163, 230, 53, 0.3);
+            color: #fff;
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 1rem 2rem;
+            background: rgba(5, 5, 5, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(163, 230, 53, 0.1);
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-logo {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--lime);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+        }
+
+        .nav-logo::before {
+            content: '>';
+            color: var(--gray-500);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--gray-400);
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--lime);
+        }
+
+        .nav-github {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--gray-400);
+            text-decoration: none;
+            font-size: 0.85rem;
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--gray-700);
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+
+        .nav-github:hover {
+            border-color: var(--lime);
+            color: var(--lime);
+        }
+
+        /* Module Header */
+        .module-header {
+            position: relative;
+            z-index: 10;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+        }
+
+        .module-number {
+            font-size: 0.8rem;
+            color: var(--gray-500);
+            margin-bottom: 1rem;
+        }
+
+        .module-number::before {
+            content: '// ';
+            color: var(--gray-600);
+        }
+
+        .module-title {
+            font-family: 'Inter', sans-serif;
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            color: var(--gray-100);
+        }
+
+        .module-title .lime {
+            color: var(--lime);
+        }
+
+        .module-subtitle {
+            font-size: 1rem;
+            color: var(--gray-400);
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.8;
+        }
+
+        /* Content */
+        .content-wrapper {
+            position: relative;
+            z-index: 10;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        #content {
+            line-height: 1.8;
+        }
+
+        /* Markdown Styles */
+        #content h1,
+        #content h2,
+        #content h3,
+        #content h4 {
+            font-family: 'Inter', sans-serif;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            font-weight: 600;
+            line-height: 1.3;
+        }
+
+        #content h1 {
+            font-size: 2.5rem;
+            color: var(--lime);
+            border-bottom: 2px solid rgba(163, 230, 53, 0.1);
+            padding-bottom: 1rem;
+        }
+
+        #content h2 {
+            font-size: 2rem;
+            color: var(--gray-100);
+            border-bottom: 1px solid rgba(163, 230, 53, 0.1);
+            padding-bottom: 0.5rem;
+        }
+
+        #content h3 {
+            font-size: 1.5rem;
+            color: var(--gray-200);
+        }
+
+        #content h4 {
+            font-size: 1.2rem;
+            color: var(--gray-200);
+        }
+
+        #content p {
+            margin-bottom: 1.5rem;
+            color: var(--gray-400);
+        }
+
+        #content a {
+            color: var(--lime);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        #content a:hover {
+            opacity: 0.7;
+        }
+
+        #content ul,
+        #content ol {
+            margin-bottom: 1.5rem;
+            padding-left: 2rem;
+            color: var(--gray-400);
+        }
+
+        #content li {
+            margin-bottom: 0.5rem;
+        }
+
+        #content blockquote {
+            margin: 2rem 0;
+            padding: 1.5rem 2rem;
+            background: rgba(255, 255, 255, 0.02);
+            border-left: 2px solid var(--lime);
+            font-style: italic;
+            color: var(--gray-300);
+            font-size: 1.1rem;
+        }
+
+        #content blockquote p {
+            margin-bottom: 0;
+        }
+
+        #content code {
+            font-family: 'JetBrains Mono', monospace;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.9em;
+            color: var(--lime);
+        }
+
+        #content pre {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(163, 230, 53, 0.2);
+            border-radius: 4px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            overflow-x: auto;
+        }
+
+        #content pre code {
+            background: none;
+            padding: 0;
+            color: var(--gray-200);
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+
+        #content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(163, 230, 53, 0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        #content th,
+        #content td {
+            padding: 1rem 1.5rem;
+            text-align: left;
+            border-bottom: 1px solid rgba(163, 230, 53, 0.1);
+        }
+
+        #content th {
+            font-weight: 500;
+            color: var(--lime);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        #content td {
+            color: var(--gray-400);
+        }
+
+        #content tr:last-child td {
+            border-bottom: none;
+        }
+
+        #content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 2rem 0;
+        }
+
+        #content hr {
+            border: none;
+            height: 1px;
+            background: rgba(163, 230, 53, 0.1);
+            margin: 3rem 0;
+        }
+
+        /* Navigation Buttons */
+        .module-nav {
+            position: relative;
+            z-index: 10;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 900px;
+            margin: 4rem auto 2rem;
+            padding: 2rem;
+            gap: 1rem;
+        }
+
+        .nav-btn {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 1rem 1.5rem;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(163, 230, 53, 0.1);
+            border-radius: 4px;
+            text-decoration: none;
+            color: var(--gray-200);
+            transition: all 0.3s ease;
+            flex: 1;
+            max-width: 300px;
+        }
+
+        .nav-btn:hover {
+            background: rgba(163, 230, 53, 0.05);
+            border-color: rgba(163, 230, 53, 0.3);
+        }
+
+        .nav-btn-label {
+            font-size: 0.75rem;
+            color: var(--gray-500);
+        }
+
+        .nav-btn-label::before {
+            content: '// ';
+            color: var(--gray-600);
+        }
+
+        .nav-btn-title {
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: var(--gray-200);
+        }
+
+        .nav-home {
+            padding: 1rem 1.5rem;
+            background: var(--lime);
+            border-radius: 4px;
+            text-decoration: none;
+            color: var(--black);
+            font-weight: 500;
+            transition: all 0.3s ease;
+            flex-shrink: 0;
+        }
+
+        .nav-home:hover {
+            box-shadow: 0 0 20px rgba(163, 230, 53, 0.3);
+        }
+
+        /* Loading State */
+        .loading {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: var(--gray-500);
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            nav {
+                padding: 1rem;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .module-header {
+                padding: 6rem 1.5rem 3rem;
+            }
+
+            .content-wrapper {
+                padding: 1.5rem;
+            }
+
+            .module-nav {
+                flex-direction: column;
+                padding: 1.5rem;
+            }
+
+            .nav-btn {
+                max-width: 100%;
+                width: 100%;
+            }
+
+            #content h1 {
+                font-size: 2rem;
+            }
+
+            #content h2 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body class="noise">
+    <div class="bg-grid"></div>
+    <div class="gradient-orb gradient-orb-1"></div>
+    <div class="gradient-orb gradient-orb-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="../" class="nav-logo">ai-leadership-notes</a>
+        <ul class="nav-links">
+            <li><a href="../#modules">modules</a></li>
+            <li><a href="https://github.com/chaiovercode/ai-leadership-notes" target="_blank" rel="noopener">github</a></li>
+        </ul>
+    </nav>
+
+    <!-- Module Header -->
+    <div class="module-header">
+        <div class="module-number">module 03</div>
+        <h1 class="module-title"><span class="lime">AI Agents</span> & Automation</h1>
+        <p class="module-subtitle">
+            From chatbots to workers. The agent loop, tools, memory systems, and design patterns that make AI actually do things.
+        </p>
+    </div>
+
+    <!-- Loading State -->
+    <div id="loading" class="loading">
+        <p>loading_content...</p>
+    </div>
+
+    <!-- Content -->
+    <div class="content-wrapper">
+        <div id="content"></div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="module-nav">
+        <a href="../02-Generative-AI/" class="nav-btn">
+            <div>
+                <div class="nav-btn-label">previous</div>
+                <div class="nav-btn-title"><- Generative AI</div>
+            </div>
+        </a>
+
+        <a href="../" class="nav-home">all_modules()</a>
+
+        <a href="../04-AI-Business-Applications/" class="nav-btn">
+            <div style="text-align: right;">
+                <div class="nav-btn-label">next</div>
+                <div class="nav-btn-title">Business Applications -></div>
+            </div>
+        </a>
+    </div>
+
+    <script>
+        // Configure marked.js
+        marked.setOptions({
+            breaks: true,
+            gfm: true,
+            headerIds: true,
+            mangle: false
+        });
+
+        // Load and render README.md
+        async function loadContent() {
+            try {
+                const response = await fetch('README.md');
+                if (!response.ok) {
+                    throw new Error('Failed to load content');
+                }
+
+                const markdown = await response.text();
+                const html = marked.parse(markdown);
+
+                document.getElementById('content').innerHTML = html;
+                document.getElementById('loading').style.display = 'none';
+
+                // Smooth scroll for anchor links
+                document.querySelectorAll('#content a[href^="#"]').forEach(anchor => {
+                    anchor.addEventListener('click', function (e) {
+                        e.preventDefault();
+                        const target = document.querySelector(this.getAttribute('href'));
+                        if (target) {
+                            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
+                    });
+                });
+            } catch (error) {
+                document.getElementById('loading').innerHTML = `
+                    <p style="color: var(--lime);">error: failed to load content</p>
+                `;
+                console.error('Error loading README:', error);
+            }
+        }
+
+        // Load content when page loads
+        loadContent();
+    </script>
+</body>
+</html>
