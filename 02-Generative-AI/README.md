@@ -10,26 +10,16 @@ That shift—from recognition to creation—is why everyone's losing their minds
 
 ## Table of Contents
 
-1. [What is Generative AI?](#what-is-generative-ai)
-   - [How It Actually Works](#how-it-actually-works)
-   - [Why This Changes Everything](#why-this-changes-everything)
-2. [Large Language Models (LLMs)](#large-language-models-llms)
-   - [The Evolution — From Dumb to Scary Smart](#the-evolution--from-dumb-to-scary-smart)
-   - [The Major Players](#the-major-players-right-now)
-   - [How LLMs Are Priced](#how-llms-are-priced)
-   - [How to Compare LLMs (Benchmarks)](#how-to-compare-llms-benchmarks)
-3. [Tokens & Context Windows](#tokens--context-windows)
-   - [What Are Tokens?](#what-are-tokens)
-   - [Context Windows Explained](#context-windows--the-ais-short-term-memory)
-4. [Prompt Engineering](#prompt-engineering)
-   - [The Perfect Prompt Formula](#the-perfect-prompt-formula)
-   - [Prompting Strategies](#prompting-strategies)
-   - [Temperature & Other Settings](#temperature--other-settings)
-5. [Recommended Deep Dives](#recommended-deep-dives)
+1. [What is Generative AI?](#1-what-is-generative-ai)
+2. [Large Language Models (LLMs)](#2-large-language-models-llms)
+3. [Tokens & Context Windows](#3-tokens--context-windows)
+4. [Prompt Engineering](#4-prompt-engineering)
+5. [Recommended Deep Dives](#5-recommended-deep-dives)
+6. [Quick Reference](#6-quick-reference)
 
 ---
 
-## What is Generative AI?
+## 1. What is Generative AI?
 
 ![Generative AI Overview](./assets/gen-ai.png)
 
@@ -49,7 +39,7 @@ Traditional AI is like a judge at a dog show: "That's a poodle. That's a labrado
 
 ---
 
-### How It Actually Works
+### 1.1 How It Actually Works
 
 Here's where it gets wild—and honestly, a bit philosophically weird.
 
@@ -83,7 +73,7 @@ Nobody fully understands why it works as well as it does. We know the mechanics 
 
 ---
 
-### Why This Changes Everything
+### 1.2 Why This Changes Everything
 
 Here's the economic insight that matters most:
 
@@ -109,7 +99,7 @@ If your job is "producing first drafts," you're in trouble. If your job is "know
 
 ---
 
-## Large Language Models (LLMs)
+## 2. Large Language Models (LLMs)
 
 LLMs are the engines behind ChatGPT, Claude, Gemini, and friends. They're neural networks trained specifically on text, and they've gotten absurdly good absurdly fast.
 
@@ -129,18 +119,19 @@ Still, as a general rule: more parameters + more training data + better architec
 
 ---
 
-### The Evolution — From Dumb to Scary Smart
+### 2.1 The Evolution — From Dumb to Scary Smart
 
 Understanding the history helps you understand why things are moving so fast—and why the current moment feels unprecedented.
 
 | Era | What Happened | Vibe Check |
 |-----|---------------|------------|
 | **GPT-1 (2018)** | Proof of concept. Could finish sentences, kinda. | Like autocomplete, but worse. Often incoherent. |
-| **GPT-2 (2019)** | Could write paragraphs that made sense. | OpenAI was scared to release it publicly (lol in hindsight). The output was often creepy-good. |
-| **GPT-3 (2020)** | The breakthrough. Proved "bigger = smarter" at scale. | Could write essays, code, have conversations. First time people said "wait, is this thing... intelligent?" |
-| **ChatGPT (Nov 2022)** | GPT-3.5 with chat fine-tuning and RLHF | The "holy crap" moment for the public. 100M users in 2 months—fastest-growing app in history. |
-| **GPT-4 / Claude 3 / Gemini (2023-24)** | Multimodal (text + images), way smarter, fewer hallucinations | Can pass the bar exam, debug complex code, analyze images |
-| **Now (2025)** | Agents, reasoning models, tool use | AI that can actually *do* things, not just *say* things |
+| **GPT-3 (2020)** | The breakthrough. Proved "bigger = smarter" at scale. | Could write essays, code, have conversations. |
+| **ChatGPT (Nov 2022)** | GPT-3.5 with chat fine-tuning and RLHF | The "holy crap" moment for the public. 100M users in 2 months. |
+| **GPT-4 / Claude 3 (2023-24)** | Multimodal (text + images), way smarter, fewer hallucinations | Can pass the bar exam, debug complex code, analyze images. |
+| **Early 2025** | Reasoning Models (o1/o3) & DeepSeek | AI that thinks before it speaks. Solves PhD-level STEM problems. |
+| **Late 2025** | Gemini 3 & Claude 4.5 | Almost indistinguishable reasoning from humans for complex logic. |
+| **Now (Dec 2025)** | Full Agency & Synthetic Data | AI that manages its own tasks and trains on simulated worlds. |
 
 **The key pattern to notice:** Each generation wasn't just incrementally better—it crossed capability thresholds that opened entirely new use cases.
 
@@ -150,18 +141,18 @@ GPT-2 could write a paragraph. GPT-3 could write a coherent essay. GPT-4 could p
 
 ---
 
-### The Major Players Right Now
+### 2.2 The Major Players Right Now
 
 The AI landscape moves fast, but here's where things stand:
 
 | Company | Model | Known For |
 |---------|-------|-----------|
-| **OpenAI** | GPT-4o, o1 | The household name. Strong all-rounder. Best brand recognition. |
-| **Anthropic** | Claude 3.5 Sonnet / Opus | Excellent at coding, long documents, sounds more natural. Strong on safety. |
-| **Google** | Gemini 1.5 Pro | Massive context window (can read entire books at once). Native multimodal. |
-| **Meta** | Llama 3 | Open-source king — free to use and modify. Powers tons of startups. |
-| **Mistral** | Mistral Large | European alternative, surprisingly capable for the size. Strong at technical tasks. |
-| **xAI** | Grok | Built into X/Twitter, real-time info access. Edgier personality. |
+| **Anthropic** | Claude 4.5 Opus | The "IQ King." Best at programming logic, creative writing, and human nuance. |
+| **OpenAI** | GPT-5.2 | The powerhouse generalist. Best native multimodal "voice" and planning. |
+| **Google** | Gemini 3 Pro | The "Video King." Handles 3M+ tokens and explains hours of footage instantly. |
+| **Meta** | Llama 4 | The Open-Source standard. Allows businesses to host top-tier AI locally. |
+| **xAI** | Grok 4.1 | Real-time mastery. Fastest access to X data and high-speed reasoning. |
+| **DeepSeek** | DeepSeek-V3 | Efficiency breakthrough. World-class performance at 1/15th the cost. |
 
 **The important insight:** No single model is "best" at everything.
 
@@ -171,7 +162,7 @@ You pick based on the job. It's like asking "what's the best vehicle?" Depends�
 
 ---
 
-### How LLMs Are Priced
+### 2.3 How LLMs Are Priced
 
 When you use LLMs via API (building them into products), you pay per **token**, not per word or per request.
 
@@ -190,29 +181,25 @@ When you use LLMs via API (building them into products), you pay per **token**, 
 
 Generation is 4x+ more computationally expensive than reading. Hence the price difference.
 
-> **Real Example Pricing (GPT-4o as of late 2024):**
-> - Input: ~$2.50 per 1 million tokens
-> - Output: ~$10 per 1 million tokens
-> 
-> A typical back-and-forth chat message might cost $0.001-0.01. You'd need thousands of conversations to rack up serious costs.
+A typical back-and-forth chat message now costs less than **$0.00001** for lightweight models (like Gemini 3 Flash) and **$0.003 - $0.008** for frontier thinking models like Claude 4.5 or GPT-5.2.
 
 **Practical implication:** If you're building something with AI, keep your prompts concise. That long system prompt you copy-paste every time? It gets charged on every single request. A 2,000-token system prompt that runs 10,000 times = 20 million tokens = $50 just for the prompt, before any responses.
 
 ---
 
-### How to Compare LLMs (Benchmarks)
+### 2.4 How to Compare LLMs (Benchmarks)
 
 Marketing claims are useless. Every company says their model is "the most advanced" or "state-of-the-art." So how do you actually compare?
 
 Standardized benchmarks. These are like SAT scores for AI—everyone takes the same test, so you can compare apples to apples.
 
-| Benchmark | What It Tests | Why It Matters |
+| Benchmark | What It Tests | State of the Art (Late 2025) |
 |-----------|---------------|----------------|
-| **MMLU** | General knowledge across 57 subjects (history, math, law, medicine...) | The "SAT score" of AI — broad intelligence measure across domains |
-| **HumanEval** | Code generation (write Python functions that pass unit tests) | Can it actually code, or just talk about coding? |
-| **GSM8K** | Grade-school math word problems | Surprisingly hard for AI. Tests actual reasoning, not just pattern matching. |
-| **GPQA** | PhD-level science questions (physics, chemistry, biology) | For when you need serious technical depth |
-| **LMSYS Chatbot Arena** | Real humans vote on which response they prefer (blind comparison) | The only "vibes-based" benchmark — and honestly often the most useful |
+| **SWE-bench (Verified)** | Real-world software engineering | **81%** (Claude 4.5 Opus) |
+| **GPQA Diamond** | PhD-level expert knowledge | **93%** (GPT-5.2 Pro / Gemini 3) |
+| **MMLU Pro** | High-level general intelligence | **90%** (Gemini 3 Pro) |
+| **ARC-AGI-2** | Fluid intelligence & novel reasoning | **53%** (GPT-5.2 Thinking) |
+| **LMSYS Arena** | Human preference (Double-blind) | Varies, but Claude 4.5 holds the lead. |
 
 **Why benchmarks matter—and why they don't:**
 
@@ -224,13 +211,13 @@ But benchmarks don't tell you everything. A model might ace MMLU but give terrib
 
 ---
 
-## Tokens & Context Windows
+## 3. Tokens & Context Windows
 
 These two concepts come up constantly. Let me demystify them properly.
 
 ---
 
-### What Are Tokens?
+### 3.1 What Are Tokens?
 
 LLMs don't read words—they read **tokens**. This is a fundamental architectural choice that has real consequences for how you use these tools.
 
@@ -270,7 +257,7 @@ Also: code is token-heavy. All those brackets, semicolons, and special character
 
 ---
 
-### Context Windows — The AI's Short-Term Memory
+### 3.2 Context Windows — The AI's Short-Term Memory
 
 The context window is everything the AI can "see" at once during a single conversation turn.
 
@@ -287,20 +274,21 @@ All of this has to fit within the limit.
 
 | Model | Context Window | What That Means In Practice |
 |-------|----------------|-----------------|
-| GPT-3.5 | 4,096 tokens | About 3 pages. Long conversations get truncated—the AI "forgets" earlier messages. |
-| GPT-4 | 128k tokens | A full novel (~300 pages). Can hold very long conversations or analyze large documents. |
-| Claude 3 | 200k tokens | Multiple novels. Can analyze entire codebases or legal document sets at once. |
-| Gemini 1.5 | 1M+ tokens | Absurd. Can process hours of video transcripts or entire textbooks. |
+| **Legacy Models** | 8,000 tokens | About 6 pages. AI "forgets" your name mid-conversation. |
+| **Frontier (GPT-5.2 / Claude 4.5)** | 400,000+ tokens | Multiple dense books. Can analyze entire legal cases or small codebases. |
+| **Gemini 3 Pro** | 3,000,000+ tokens | Hours of 8K video, years of sensor data, or thousands of PDFs. |
 
 **A concrete example:**
 
 You're analyzing a 50-page legal contract. 50 pages ≈ 37,500 words ≈ 50,000 tokens.
 
-- **With a 4k context window:** You literally can't fit the document. You'd need to chunk it into sections, analyze each separately, and somehow synthesize the findings. Error-prone and tedious.
+You're analyzing a massive project folder containing 500 files, or several 1,000-page regulatory documents.
 
-- **With a 128k context window:** Paste the whole thing. Ask "What are all the termination clauses and how do they interact?" Get a coherent answer that considers the entire document.
+- **With an 8k context window (Legacy):** You literally can't fit the data. You'd need to chunk it into sections, analyze each separately, and somehow synthesize the findings. Error-prone and tedious.
 
-Larger context windows don't just let you analyze bigger documents—they let you ask questions that require understanding relationships across distant parts of the text.
+- **With a 250k+ context window (Claude 4.5 / GPT-5):** Paste the entire set of documents. Ask "Find every conflict between these three 500-page contracts." Get a coherent answer is seconds.
+
+- **With a 3M+ context window (Gemini 3):** Upload 4 hours of raw 8K video from a security camera. Ask "At what time did the delivery truck arrive, and what was the license plate?" The AI "watches" the whole video at once to find the answer.
 
 **The catch (and it's important):**
 
@@ -312,7 +300,7 @@ Research has found a "lost in the middle" problem: information at the very begin
 
 ---
 
-## Prompt Engineering
+## 4. Prompt Engineering
 
 Here's where theory meets practice. The difference between a useless AI response and a brilliant one is often just **how you asked**.
 
@@ -320,7 +308,7 @@ Prompt engineering is the skill of crafting inputs that get the outputs you want
 
 ---
 
-### The Perfect Prompt Formula
+### 4.1 The Perfect Prompt Formula
 
 Every great prompt has three ingredients:
 
@@ -358,7 +346,7 @@ Same underlying request. Wildly different results. The good prompt:
 
 ---
 
-### Prompting Strategies
+### 4.2 Prompting Strategies
 
 Different tasks benefit from different approaches. Here are the big three:
 
@@ -426,7 +414,7 @@ When you force it to show work, each reasoning step becomes part of the context 
 
 ---
 
-### Temperature & Other Settings
+### 4.3 Temperature & Other Settings
 
 When you use AI through APIs or playgrounds (not just chat interfaces), you can tune these parameters:
 
@@ -488,7 +476,7 @@ Useful for structured outputs where you know exactly what the end should look li
 
 ---
 
-## Recommended Deep Dives
+## 5. Recommended Deep Dives
 
 These are genuinely excellent resources if you want to go deeper:
 
@@ -502,25 +490,22 @@ When people talk about "attention" in transformers, what do they actually mean? 
 
 ---
 
-## Quick Reference
+## 6. Quick Reference
 
 | AI Concept or Model | Category | Key Features and Characteristics | Technical Specifications or Metrics | Primary Use Case or Significance |
 | :--- | :--- | :--- | :--- | :--- |
-| **GPT-4** | Model | Multimodal capabilities (text and images); increased intelligence with reduced hallucinations. | Rumored over 1 trillion parameters; 128k context window; 90th percentile bar exam score. | Passing professional exams, debugging complex code, and generalist tasks. |
-| **GPT-3** | Model | Breakthrough model; demonstrated that scaling parameter size improves performance. | 175 billion parameters; 10th percentile on bar exam. | Writing essays, generating code, and conversational tasks. |
-| **ChatGPT** | Model/App | Based on GPT-3.5 architecture; utilizes Reinforcement Learning from Human Feedback (RLHF). | 100M users within 2 months of launch. | Mainstream public breakthrough for generative AI. |
-| **Llama 3** | Model | Leading open-source model; allows for free use and modification. | Not specified | Powering startups and local AI deployment for data privacy. |
-| **Gemini 1.5 Pro** | Model | Native multimodal architecture; capable of processing diverse media types. | 1M+ tokens context window. | Handling massive documents and large-scale data analysis (e.g., books, video). |
-| **Claude 3.5 Sonnet / Opus** | Model | Strong focus on safety and natural-sounding output; excels at long-form analysis. | 200k context window. | Nuanced writing, following complex instructions, and coding. |
-| **Tokens** | Mechanic | Fundamental processing units consisting of chunks of text (approx. 4 characters). | 1,000 tokens $\approx$ 750 words. | Determines data processing limits and serves as the primary unit for pricing. |
-| **Context Window** | Mechanic | Referred to as the 'short-term memory' of the AI; limits how much text is considered at once. | Range: 4k (GPT-3.5) to 1M+ (Gemini 1.5). | Allows for analysis of long documents and maintaining conversation history. |
-| **Temperature** | Mechanic/Setting | Configuration that controls the randomness of token selection during generation. | Scale: 0.0 to 1.0+. | Adjusts output from deterministic/factual (0.0) to creative/random (1.0+). |
-| **Chain of Thought** | Strategy/Prompting | Technique involving instructing the AI to 'think step by step' before providing an answer. | N/A | Critical for solving math problems, logic puzzles, and multi-step reasoning. |
-| **MMLU** | Benchmark | Massively Multitask Language Understanding; tests knowledge across 57 subjects. | General intelligence metric. | Used as a standard 'SAT score' for comparing AI model intelligence. |
-| **Mistral Large** | Model | High-performance European alternative; optimized for efficiency. | N/A | Technical tasks and ensuring regional technological sovereignty. |
-| **Grok** | Model | Real-time information access via X (formerly Twitter); features an edgy personality. | N/A | Real-time information retrieval and social media integration. |
-| **GPT-2** | Model | Capable of generating coherent multi-paragraph text. | 1.5 billion parameters. | Raised early safety concerns regarding high-quality automated output. |
-| **GPT-1** | Model | Initial proof of concept for generative pre-training. | N/A | Demonstrated early generative capabilities, though often incoherent. |
+| **GPT-5.2** | Model | Next-gen generalist; massive logic and multimodal performance jump. | Multi-thousand context; improved factual accuracy. | Strategic planning, high-end content creation. |
+| **GPT-3** | Model | The model that proved scaling works. | 175 billion parameters. | Historical milestone in LLM development. |
+| **Claude 4.5 Opus** | Model | Unmatched at coding and structured reasoning; very natural "human" voice. | 250k-400k context window. | Engineering, creative writing, and data extraction. |
+| **Gemini 3 Pro** | Model | Deeply integrated into productivity tools; massive reasoning jump. | 3M+ token context window. | Research, video analysis, and large-codebase management. |
+| **Grok 4.1** | Model | High-speed model with real-time access to X data. | 2M context window. | News analysis, customer service, and real-time monitoring. |
+| **DeepSeek V3** | Model | Proved efficiency can match scale. | 1/15th training cost vs frontier. | High-performance cost optimization. |
+| **Llama 4** | Model | The powerhouse of open-weights. | Competitive with GPT-5 class models. | Local hosting and privacy-critical apps. |
+| **Tokens** | Mechanic | The basic unit of currency in LLMs (chunks of ~4 chars). | 1,000 tokens $\approx$ 750 words. | Budgeting and understanding model constraints. |
+| **Context Window** | Mechanic | The AI's working memory for a single conversation. | Up to 3M+ (Gemini 3). | Analyzing books, hours of video, or entire project directories. |
+| **Temperature** | Setting | Controls the "creativity" or randomness of output. | Scale: 0.0 (factual) to 1.0+ (random). | Balancing precision vs. brainstorming. |
+| **o1 / o3** | Model Type | Reasoning models that "think" before generating an answer. | Utilizes "Chain of Thought" internally. | Complex math, science, and multi-step logic. |
+| **Sora / Veo** | Modal | High-fidelity generative video from text/image prompts. | 60s+ 4K video generation. | Marketing, concept art, and rapid video prototyping. |
 
 ---
 
