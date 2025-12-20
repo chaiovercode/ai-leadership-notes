@@ -31,6 +31,8 @@ That shift—from recognition to creation—is why everyone's losing their minds
 
 ## What is Generative AI?
 
+![Generative AI Overview](./assets/gen-ai.png)
+
 Let's start with what makes generative AI fundamentally different from the AI we discussed in Module 1.
 
 Traditional AI answers questions by picking from existing options. Generative AI creates things that never existed before.
@@ -502,19 +504,23 @@ When people talk about "attention" in transformers, what do they actually mean? 
 
 ## Quick Reference
 
-| Term | Plain English |
-|------|---------------|
-| **Generative AI** | AI that creates new content (text, images, code) rather than classifying existing content |
-| **LLM** | Large Language Model — the text-based AI engines powering ChatGPT, Claude, etc. |
-| **Token** | A chunk of text (~4 characters). The fundamental unit LLMs process. |
-| **Context Window** | How much text the AI can "see" at once — its working memory |
-| **Temperature** | Creativity/randomness dial. Low = focused and predictable, High = varied and risky |
-| **Zero-shot** | Asking directly without providing examples |
-| **Few-shot** | Showing examples first to demonstrate the pattern you want |
-| **Chain of Thought** | Making the AI reason step-by-step before answering — dramatically improves accuracy on complex tasks |
-| **Hallucination** | When AI confidently generates false information — it doesn't "know" it's wrong |
-| **Fine-tuning** | Additional training on specific data to specialize a general model |
-| **RLHF** | Reinforcement Learning from Human Feedback — how models learn to be helpful and safe |
+| AI Concept or Model | Category | Key Features and Characteristics | Technical Specifications or Metrics | Primary Use Case or Significance |
+| :--- | :--- | :--- | :--- | :--- |
+| **GPT-4** | Model | Multimodal capabilities (text and images); increased intelligence with reduced hallucinations. | Rumored over 1 trillion parameters; 128k context window; 90th percentile bar exam score. | Passing professional exams, debugging complex code, and generalist tasks. |
+| **GPT-3** | Model | Breakthrough model; demonstrated that scaling parameter size improves performance. | 175 billion parameters; 10th percentile on bar exam. | Writing essays, generating code, and conversational tasks. |
+| **ChatGPT** | Model/App | Based on GPT-3.5 architecture; utilizes Reinforcement Learning from Human Feedback (RLHF). | 100M users within 2 months of launch. | Mainstream public breakthrough for generative AI. |
+| **Llama 3** | Model | Leading open-source model; allows for free use and modification. | Not specified | Powering startups and local AI deployment for data privacy. |
+| **Gemini 1.5 Pro** | Model | Native multimodal architecture; capable of processing diverse media types. | 1M+ tokens context window. | Handling massive documents and large-scale data analysis (e.g., books, video). |
+| **Claude 3.5 Sonnet / Opus** | Model | Strong focus on safety and natural-sounding output; excels at long-form analysis. | 200k context window. | Nuanced writing, following complex instructions, and coding. |
+| **Tokens** | Mechanic | Fundamental processing units consisting of chunks of text (approx. 4 characters). | 1,000 tokens $\approx$ 750 words. | Determines data processing limits and serves as the primary unit for pricing. |
+| **Context Window** | Mechanic | Referred to as the 'short-term memory' of the AI; limits how much text is considered at once. | Range: 4k (GPT-3.5) to 1M+ (Gemini 1.5). | Allows for analysis of long documents and maintaining conversation history. |
+| **Temperature** | Mechanic/Setting | Configuration that controls the randomness of token selection during generation. | Scale: 0.0 to 1.0+. | Adjusts output from deterministic/factual (0.0) to creative/random (1.0+). |
+| **Chain of Thought** | Strategy/Prompting | Technique involving instructing the AI to 'think step by step' before providing an answer. | N/A | Critical for solving math problems, logic puzzles, and multi-step reasoning. |
+| **MMLU** | Benchmark | Massively Multitask Language Understanding; tests knowledge across 57 subjects. | General intelligence metric. | Used as a standard 'SAT score' for comparing AI model intelligence. |
+| **Mistral Large** | Model | High-performance European alternative; optimized for efficiency. | N/A | Technical tasks and ensuring regional technological sovereignty. |
+| **Grok** | Model | Real-time information access via X (formerly Twitter); features an edgy personality. | N/A | Real-time information retrieval and social media integration. |
+| **GPT-2** | Model | Capable of generating coherent multi-paragraph text. | 1.5 billion parameters. | Raised early safety concerns regarding high-quality automated output. |
+| **GPT-1** | Model | Initial proof of concept for generative pre-training. | N/A | Demonstrated early generative capabilities, though often incoherent. |
 
 ---
 
