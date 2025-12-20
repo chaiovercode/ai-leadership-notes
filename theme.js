@@ -5,16 +5,16 @@
     const themeToggle = document.querySelector('.theme-toggle');
     const html = document.documentElement;
 
-    // Check for saved theme preference or default to light
-    const savedTheme = localStorage.getItem('theme') || 'light';
-    if (savedTheme === 'light') {
-        html.setAttribute('data-theme', 'light');
+    // Check for saved theme preference or default to dark
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    if (savedTheme === 'dark') {
+        html.setAttribute('data-theme', 'dark');
     }
 
     if (themeToggle) {
         themeToggle.addEventListener('click', () => {
             const currentTheme = html.getAttribute('data-theme');
-            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
 
             if (newTheme === 'light') {
                 html.setAttribute('data-theme', 'light');
