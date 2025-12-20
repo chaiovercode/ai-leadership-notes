@@ -449,7 +449,7 @@ When you need a fast reminder, here's your cheat sheet:
 
 ---
 
-## 🎥 Deep Dive: Best Visual Explanations
+## Deep Dive: Best Visual Explanations
 
 If you want to go further, these are the gold standards:
 
