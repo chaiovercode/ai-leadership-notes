@@ -2,7 +2,7 @@
 
 > **"Traditional AI was a better librarian; Generative AI is a better writer."**
 
-In Module 1, we covered how AI recognizes patterns—classification, prediction, sorting things into buckets. This module is about something fundamentally different: AI using those patterns to **create something that didn't exist before**.
+In Module 1, we covered how AI recognizes patterns, classification, prediction, sorting things into buckets. This module is about something fundamentally different: AI using those patterns to **create something that didn't exist before**.
 
 That shift—from recognition to creation—is why everyone's losing their minds right now.
 
@@ -12,6 +12,11 @@ That shift—from recognition to creation—is why everyone's losing their minds
 
 1. [What is Generative AI?](#1-what-is-generative-ai)
 2. [Large Language Models (LLMs)](#2-large-language-models-llms)
+   - [2.1 The Modern Training Recipe (2025)](#21-the-modern-training-recipe-2025)
+   - [2.2 The Evolution — From Dumb to Scary Smart](#22-the-evolution--from-dumb-to-scary-smart)
+   - [2.3 The Major Players Right Now](#23-the-major-players-right-now)
+   - [2.4 How LLMs Are Priced](#24-how-llms-are-priced)
+   - [2.5 How to Compare LLMs (Benchmarks)](#25-how-to-compare-llms-benchmarks)
 3. [Tokens & Context Windows](#3-tokens--context-windows)
 4. [Prompt Engineering](#4-prompt-engineering)
 5. [Recommended Deep Dives](#5-recommended-deep-dives)
@@ -33,37 +38,37 @@ Traditional AI answers questions by picking from existing options. Generative AI
 | "What's in this photo?" → "A dog" | "Create a photo of a dog wearing a business suit" |
 | "Translate this sentence" | "Write a poem in the style of Shakespeare" |
 
-See the difference? One is classification—sorting inputs into predefined categories. The other is creation—producing novel outputs from scratch.
+See the difference? One is classification, sorting inputs into predefined categories. The other is creation producing novel outputs from scratch.
 
-Traditional AI is like a judge at a dog show: "That's a poodle. That's a labrador. That one's disqualified." Generative AI is like a breeder who creates entirely new dogs you've never seen before.
+Traditional AI is like a judge at a dog show: "That's a poodle. That's a labrador. That one's disqualified." Generative AI is like a breeder who creates entirely new dogs you have never seen before.
 
 ---
 
 ### 1.1 How It Actually Works
 
-Here's where it gets wild—and honestly, a bit philosophically weird.
+Here's where it gets wild and honestly, a bit philosophically weird.
 
 Generative AI is basically just **prediction on steroids**.
 
 Let me show you what I mean. When you type "The capital of France is..." the AI doesn't actually "know" that Paris is the capital of France. It doesn't have a database of facts it looks up. Instead, it calculates:
 
-*"Based on every piece of text I've ever been trained on, what word has the highest probability of coming next in this sequence?"*
+*"Based on every piece of text I have ever been trained on, what word has the highest probability of coming next in this sequence?"*
 
 And because it's seen "The capital of France is Paris" millions of times across Wikipedia, textbooks, news articles, and random web pages, the word "Paris" gets assigned a very high probability.
 
 **Let me walk you through the actual mechanics:**
 
-1. The model takes your input text and converts it into numbers (we'll cover tokenization later)
+1. The model takes your input text and converts it into numbers (we will cover tokenization later)
 2. Those numbers flow through billions of mathematical operations (the neural network)
 3. The output is a probability distribution over every possible next word
-4. The model picks a word (usually the highest probability, but not always—more on that in Temperature)
+4. The model picks a word (usually the highest probability, but not always. More on that in Temperature)
 5. That word becomes part of the input, and the process repeats
 
 So when you ask ChatGPT to write a poem, it's not "thinking about poetry." It's playing an insanely sophisticated game of "what word comes next?" over and over again, hundreds of times per response.
 
 **Here's a concrete example:**
 
-When you ask an LLM to write Python code like `def calculate_tax(`, it's not reasoning about programming logic or tax law. It's predicting: "Based on the millions of Python files I've seen, what characters typically follow `def calculate_tax(`?"
+When you ask an LLM to write Python code like `def calculate_tax(`, it's not reasoning about programming logic or tax law. It's predicting: "Based on the millions of Python files I have seen, what characters typically follow `def calculate_tax(`?"
 
 It's seen enough code that it "knows" a function definition needs parameters, then a colon, then an indented body. It's seen enough tax-related functions to know what variables and calculations are common.
 
@@ -85,7 +90,7 @@ Think about what that means:
 |--------------|-------------|
 | Hiring a copywriter for product descriptions: $50-200 each | Generate 100 drafts in 5 minutes, edit the best one |
 | Developer writes boilerplate code: 2 hours | AI generates it: 30 seconds, developer reviews |
-| Creating a presentation outline: 45 minutes of staring at blank slides | "Give me a 10-slide outline for a Q3 sales review" — done in 10 seconds |
+| Creating a presentation outline: 45 minutes of staring at blank slides | "Give me a 10-slide outline for a Q3 sales review". Done in 10 seconds |
 | Drafting a legal contract from scratch: billable hours | AI generates a starting template, lawyer refines |
 
 **The key insight:** The work didn't disappear. It shifted.
@@ -93,35 +98,52 @@ Think about what that means:
 Before: Most time spent on *creation* (staring at blank pages, writing first drafts)
 After: Most time spent on *curation and editing* (selecting, refining, fact-checking)
 
-This is like the shift from hand-copying manuscripts to printing presses. The scribes didn't disappear—they became editors, typesetters, and publishers. The value moved up the chain.
+This is like the shift from hand-copying manuscripts to printing presses. The scribes didn't disappear, they became editors, typesetters, and publishers. The value moved up the chain.
 
-If your job is "producing first drafts," you're in trouble. If your job is "knowing what good looks like and making things better," you're more valuable than ever.
+If your job is "producing first drafts," you are in trouble. If your job is "knowing what good looks like and making things better," you are more valuable than ever.
 
 ---
 
 ## 2. Large Language Models (LLMs)
 
-LLMs are the engines behind ChatGPT, Claude, Gemini, and friends. They're neural networks trained specifically on text, and they've gotten absurdly good absurdly fast.
+LLMs are the engines behind ChatGPT, Claude, Gemini, and friends. They are neural networks trained specifically on text, and they have gotten absurdly good absurdly fast.
 
 Let me explain what makes them "large" and why that matters.
 
-**The "Large" in Large Language Models** refers to the number of parameters—the adjustable numbers inside the neural network that get tuned during training. More parameters = more capacity to learn patterns.
+**The "Large" in Large Language Models** refers to the number of parameters, the adjustable numbers inside the neural network that determine how it processes information. In late 2025, we are no longer just making models "bigger", we are making them "smarter" through more efficient architectures.
 
-- GPT-2 (2019): 1.5 billion parameters
-- GPT-3 (2020): 175 billion parameters  
-- GPT-4 (2023): rumored to be over 1 trillion parameters
+- **GPT-2 (2019):** 1.5 billion parameters. (Now considered tiny).
+- **GPT-4 (2023):** ~1.8 trillion parameters. This was the first major "Mixture of Experts" model.
+- **DeepSeek V3 (Early 2025):** 671 billion parameters. Proved efficiency beats raw size.
+- **Llama 4 Behemoth (Late 2025):** 2 trillion total parameters; the open-source powerhouse.
+- **GPT-5.2 (Late 2025):** Estimated 3.5+ trillion parameters, the largest known general-purpose model.
 
-Why does size matter? Think of parameters like memory capacity. A model with more parameters can store more nuanced patterns. It can remember that "bank" means something different in "river bank" vs. "bank account" vs. "bank shot in pool." Smaller models might conflate these; larger models keep them distinct.
+### The Breakthrough: Total vs. Active Parameters
+As models crossed the trillion-parameter mark, they became too "heavy" to run all at once. The solution? **Mixture of Experts (MoE).**
 
-But there's more to it than just size. Training data matters enormously. A small model trained on high-quality data can outperform a larger model trained on garbage. The architecture (how the network is structured) matters. The training process (how you adjust those parameters) matters.
+Think of a traditional model (Dense) like a **General Practitioner**. If you ask them a medical question, they use their entire brain to answer.
 
-Still, as a general rule: more parameters + more training data + better architecture = smarter model.
+Think of an MoE model like a **Hospital Floor**. The floor has 2 trillion parameters (Total), but when you ask a coding question, only the "Coding Specialists" wake up. The "French Poets" and "Biologists" stay asleep. 
+- **Total Parameters:** All the knowledge the model has stored (e.g., 2 trillion).
+- **Active Parameters:** The specific subset of "experts" used for *your* specific prompt (e.g., 200 billion).
+
+This allows models like **Llama 4** to have the IQ of a 2-trillion parameter model while running as fast as a much smaller one.
+
+### 2.1 The Modern Training Recipe (2025)
+Leading labs no longer just throw more data at a model. They follow a specific, four-stage recipe to create a production-grade AI:
+
+1.  **Pretraining (The Foundation):** The model reads the entire internet. It learns language, facts, and patterns. This is where the core "intelligence" is born.
+2.  **Supervised Fine-Tuning or SFT (The Teacher):** Humans show the model thousands of examples of good questions and answers. It learns how to format its thoughts and follow instructions.
+3.  **RLHF (The Vibe Check):** Humans rank different AI responses. The model learns to be helpful, harmless, and polite. It learns the "human vibe."
+4.  **RLVR (The Logic Boss):** This is the **2025 breakthrough**. The model is trained against **Verifiable Rewards** (math problems or code puzzles). If the model gets the math right, it gets a "point." Through millions of these trials, the model spontaneously learns to "reason," double-check its work, and correct its own mistakes.
+
+**The shift:** Most of the progress in 2025 didn't come from making models bigger, but from **spending** months running **RLVR** (Logic Boss) training to turn existing intelligence into deep reasoning.
 
 ---
 
-### 2.1 The Evolution — From Dumb to Scary Smart
+### 2.2 The Evolution — From Dumb to Scary Smart
 
-Understanding the history helps you understand why things are moving so fast—and why the current moment feels unprecedented.
+Understanding the history helps you understand why things are moving so fast and why the current moment feels unprecedented.
 
 | Era | What Happened | Vibe Check |
 |-----|---------------|------------|
@@ -131,17 +153,18 @@ Understanding the history helps you understand why things are moving so fast—a
 | **GPT-4 / Claude 3 (2023-24)** | Multimodal (text + images), way smarter, fewer hallucinations | Can pass the bar exam, debug complex code, analyze images. |
 | **Early 2025** | Reasoning Models (o1/o3) & DeepSeek | AI that thinks before it speaks. Solves PhD-level STEM problems. |
 | **Late 2025** | Gemini 3 & Claude 4.5 | Almost indistinguishable reasoning from humans for complex logic. |
-| **Now (Dec 2025)** | Full Agency & Synthetic Data | AI that manages its own tasks and trains on simulated worlds. |
+| **Dec 11, 2025**| **GPT-5.2** Release | The final "frontier" release of 2025; massive logic and agency jump. |
+| **Now (Dec 2025)**| Full Agency & Synthetic Data | AI that manages its own tasks and trains on simulated worlds. |
 
-**The key pattern to notice:** Each generation wasn't just incrementally better—it crossed capability thresholds that opened entirely new use cases.
+**The "Intelligence Ceiling":** In 2023, the Bar Exam was the gold standard (GPT-4 hit the 90th percentile). By late 2025, that test is considered "solved." The new frontier is **Humanity's Last Exam (HLE)**—2,500 PhD-level questions designed to be impossible for AI.
+- **GPT-4:** Scored near 0% on HLE.
+- **Claude 4.5 / GPT-5.2:** Are currently fighting to break the **50%** barrier. 
 
-GPT-2 could write a paragraph. GPT-3 could write a coherent essay. GPT-4 could pass professional licensing exams. Each jump wasn't 10% better—it was "can now do things it literally couldn't do before."
-
-**A concrete comparison:** GPT-3 scored around the 10th percentile on the bar exam (basically failing). GPT-4 scores around the 90th percentile (passing comfortably). Same test, same prompting approach—just a smarter model.
+Each jump isn't just "more facts"; it's higher-order reasoning across disciplines that even human experts find difficult.
 
 ---
 
-### 2.2 The Major Players Right Now
+### 2.3 The Major Players Right Now
 
 The AI landscape moves fast, but here's where things stand:
 
@@ -152,17 +175,17 @@ The AI landscape moves fast, but here's where things stand:
 | **Google** | Gemini 3 Pro | The "Video King." Handles 3M+ tokens and explains hours of footage instantly. |
 | **Meta** | Llama 4 | The Open-Source standard. Allows businesses to host top-tier AI locally. |
 | **xAI** | Grok 4.1 | Real-time mastery. Fastest access to X data and high-speed reasoning. |
-| **DeepSeek** | DeepSeek-V3 | Efficiency breakthrough. World-class performance at 1/15th the cost. |
+| **DeepSeek** | DeepSeek-V3.2 | Efficiency breakthrough. GPT-5 level logic at 1/15th the operational cost. |
 
 **The important insight:** No single model is "best" at everything.
 
 Claude tends to be better at nuanced writing, following complex instructions, and coding. GPT-4 is a strong generalist with the biggest ecosystem. Gemini handles massive documents better than anyone. Llama lets you run AI locally without sending data to a company.
 
-You pick based on the job. It's like asking "what's the best vehicle?" Depends—are you hauling furniture, racing, or driving kids to school?
+You pick based on the job. It's like asking "what's the best vehicle?" Depends on the job, are you hauling furniture, racing, or driving kids to school?
 
 ---
 
-### 2.3 How LLMs Are Priced
+### 2.4 How LLMs Are Priced
 
 When you use LLMs via API (building them into products), you pay per **token**, not per word or per request.
 
@@ -181,13 +204,13 @@ When you use LLMs via API (building them into products), you pay per **token**, 
 
 Generation is 4x+ more computationally expensive than reading. Hence the price difference.
 
-A typical back-and-forth chat message now costs less than **$0.00001** for lightweight models (like Gemini 3 Flash) and **$0.003 - $0.008** for frontier thinking models like Claude 4.5 or GPT-5.2.
+A typical back-and-forth chat message now costs less than **$0.00001** for "Flash-tier" models (like Gemini 3 Flash) and **$0.003 - $0.008** for frontier thinking models like Claude 4.5 or GPT-5.2. 2023-era models like GPT-3.5 are now essentially free or retired.
 
 **Practical implication:** If you're building something with AI, keep your prompts concise. That long system prompt you copy-paste every time? It gets charged on every single request. A 2,000-token system prompt that runs 10,000 times = 20 million tokens = $50 just for the prompt, before any responses.
 
 ---
 
-### 2.4 How to Compare LLMs (Benchmarks)
+### 2.5 How to Compare LLMs (Benchmarks)
 
 Marketing claims are useless. Every company says their model is "the most advanced" or "state-of-the-art." So how do you actually compare?
 
@@ -195,19 +218,28 @@ Standardized benchmarks. These are like SAT scores for AI—everyone takes the s
 
 | Benchmark | What It Tests | State of the Art (Late 2025) |
 |-----------|---------------|----------------|
+| **Humanity's Last Exam (HLE)** | PhD-level reasoning (The new "SAT") | **50.7%** (Grok 4 Heavy) |
 | **SWE-bench (Verified)** | Real-world software engineering | **81%** (Claude 4.5 Opus) |
-| **GPQA Diamond** | PhD-level expert knowledge | **93%** (GPT-5.2 Pro / Gemini 3) |
-| **MMLU Pro** | High-level general intelligence | **90%** (Gemini 3 Pro) |
-| **ARC-AGI-2** | Fluid intelligence & novel reasoning | **53%** (GPT-5.2 Thinking) |
-| **LMSYS Arena** | Human preference (Double-blind) | Varies, but Claude 4.5 holds the lead. |
+| **GPQA Diamond** | Deep expert knowledge (Physics/Bio) | **93%** (GPT-5.2 Thinking) |
+| **ARC-AGI-2** | Fluid intelligence (Novel puzzles) | **53%** (GPT-5.2 Thinking) |
+| **LMSYS Arena** | Human preference (Double-blind) | **Claude 4.5 Opus** (Current Leader) |
 
 **Why benchmarks matter—and why they don't:**
 
-Benchmarks give you a baseline. If Model A scores 90% on MMLU and Model B scores 75%, Model A is probably smarter in a general sense.
+### The 2025 Warning: RLVR & "Gaming" the System
+By late 2025, benchmarks became less reliable than ever. This is due to a new training stage called **Reinforcement Learning from Verifiable Rewards (RLVR)**.
 
-But benchmarks don't tell you everything. A model might ace MMLU but give terrible advice when you ask it to plan a road trip. It might score 95% on coding benchmarks but struggle with your specific codebase.
+In the old days (2022-2023), AI was trained by humans voting on which answer they liked (RLHF). Now, labs train AI against **objective rewards** (like a math problem with a single right answer or code that must pass a test). 
+- **The Result:** AI "spontaneously" develops extreme reasoning and backtracking strategies to win the game. It isn't just "predicting the next word"; it's searching for the winning answer.
+- **The Downside:** AI can learn to "game" the specific structure of a test without becoming smarter at general tasks. As [Andrej Karpathy](https://karpathy.bearblog.dev/year-in-review-2025/) noted, RLVR turns benchmarks into a high-stakes video game for models, occasionally inflating their "perceived" IQ.
 
-**The real test:** Try it on YOUR use case. Benchmarks are the screening interview; actual performance on your tasks is the job trial.
+### The New Scaling Law: Test-Time Compute
+If you see a model score 90% on a test, you now have to ask: **How long did it think?**
+Starting with OpenAI's **o3** and the **DeepSeek R1** breakthroughs in early 2025, we discovered a new knob for intelligence: **Test-Time Compute.** 
+- Instead of just building a "bigger" model, we let the existing model "think longer" (generate thousands of hidden reasoning steps) before it gives an answer.
+- The more time you give it to "reason," the higher the score—even for the exact same model.
+
+**The real test:** Because of this "benchmarking game," don't trust a spreadsheet. Try it on **YOUR** specific use case. Benchmarks are now just the screening interview; your proprietary data is the job trial.
 
 ---
 
@@ -238,9 +270,11 @@ LLMs don't read words—they read **tokens**. This is a fundamental architectura
 
 There are roughly 170,000 words in English. Add technical terms, names, slang, other languages, code syntax... you'd need millions of entries in your vocabulary. That's computationally unwieldy.
 
-Instead, tokenizers use a technique called "subword tokenization." They build a vocabulary of common chunks—maybe 50,000-100,000 tokens—that can combine to represent any text.
+Instead, tokenizers use a technique called "subword tokenization." They build a vocabulary of common chunks—maybe 50,000-100,000 tokens, that can combine to represent any text.
 
 Common words like "the," "is," and "and" are single tokens. Less common words get split into recognizable pieces. The word "tokenization" might become ["token", "ization"]. This means even words the model has never seen can be processed—it just breaks them into familiar subparts.
+
+![Tokenization](assets/tokens.png)
 
 **Practical rules of thumb:**
 
@@ -251,9 +285,9 @@ Common words like "the," "is," and "and" are single tokens. Less common words ge
 
 **Why this matters to you:**
 
-Token limits determine how much you can send AND receive. If a model has a 4,000 token limit and your prompt uses 3,500 tokens, you only have 500 tokens left for the response. That's maybe 375 words—about a page. Ask for a detailed analysis and you'll get cut off mid-sentence.
+Token limits determine how much you can send AND receive. If a model has a 4,000 token limit and your prompt uses 3,500 tokens, you only have 500 tokens left for the response. That's maybe 375 words which is about a page. Ask for a detailed analysis and you will get cut off mid-sentence.
 
-Also: code is token-heavy. All those brackets, semicolons, and special characters each consume tokens. A 100-line Python script might use more tokens than a 500-word essay.
+Also: code is token-heavy. All those brackets, semicolons, and special characters each consume tokens. A 100 line Python script might use more tokens than a 500-word essay.
 
 ---
 
@@ -261,7 +295,7 @@ Also: code is token-heavy. All those brackets, semicolons, and special character
 
 The context window is everything the AI can "see" at once during a single conversation turn.
 
-Think of it like working memory. When you're solving a math problem, you can only hold so many numbers in your head at once. The AI has a similar limitation—except it's measured in tokens.
+Think of it like working memory. When you are solving a math problem, you can only hold so many numbers in your head at once. The AI has a similar limitation except it's measured in tokens.
 
 **What's inside the context window:**
 - Your current message
@@ -280,9 +314,9 @@ All of this has to fit within the limit.
 
 **A concrete example:**
 
-You're analyzing a 50-page legal contract. 50 pages ≈ 37,500 words ≈ 50,000 tokens.
+You are analyzing a 50-page legal contract. 50 pages ≈ 37,500 words ≈ 50,000 tokens.
 
-You're analyzing a massive project folder containing 500 files, or several 1,000-page regulatory documents.
+You are analyzing a massive project folder containing 500 files, or several 1,000-page regulatory documents.
 
 - **With an 8k context window (Legacy):** You literally can't fit the data. You'd need to chunk it into sections, analyze each separately, and somehow synthesize the findings. Error-prone and tedious.
 
@@ -290,13 +324,11 @@ You're analyzing a massive project folder containing 500 files, or several 1,000
 
 - **With a 3M+ context window (Gemini 3):** Upload 4 hours of raw 8K video from a security camera. Ask "At what time did the delivery truck arrive, and what was the license plate?" The AI "watches" the whole video at once to find the answer.
 
-**The catch (and it's important):**
+**The 2025 Challenge: Context Drift**
 
-Just because a model *can* handle 200k tokens doesn't mean it's equally good at attending to all of them.
+While models can now "read" millions of tokens without forgetting (near 100% recall), they suffer from **Context Drift**. This means that by the middle of a massive project, the AI's "reasoning" might get lazy or distracted, even if it technically remembers the facts.
 
-Research has found a "lost in the middle" problem: information at the very beginning and very end of the context gets processed better than information in the middle. If you paste a 100-page document and the key fact is on page 47, the model might miss it while catching facts from pages 1-5 and 95-100.
-
-**Practical implication:** Put your most important information at the beginning or end of your prompt. Don't bury the key question in the middle of a wall of text.
+**Practical implication:** Put your most critical instructions at the very end of your prompt ("The Postscript Rule") to ensure the model's focus is freshest when it starts generating your answer.
 
 ---
 
@@ -494,18 +526,18 @@ When people talk about "attention" in transformers, what do they actually mean? 
 
 | AI Concept or Model | Category | Key Features and Characteristics | Technical Specifications or Metrics | Primary Use Case or Significance |
 | :--- | :--- | :--- | :--- | :--- |
-| **GPT-5.2** | Model | Next-gen generalist; massive logic and multimodal performance jump. | Multi-thousand context; improved factual accuracy. | Strategic planning, high-end content creation. |
+| **GPT-5.2** | Model | Next-gen generalist; massive logic and multimodal performance jump. | **400k+** context; **93%+** GPQA score. | Strategic planning, high-end content creation. |
 | **GPT-3** | Model | The model that proved scaling works. | 175 billion parameters. | Historical milestone in LLM development. |
-| **Claude 4.5 Opus** | Model | Unmatched at coding and structured reasoning; very natural "human" voice. | 250k-400k context window. | Engineering, creative writing, and data extraction. |
-| **Gemini 3 Pro** | Model | Deeply integrated into productivity tools; massive reasoning jump. | 3M+ token context window. | Research, video analysis, and large-codebase management. |
-| **Grok 4.1** | Model | High-speed model with real-time access to X data. | 2M context window. | News analysis, customer service, and real-time monitoring. |
-| **DeepSeek V3** | Model | Proved efficiency can match scale. | 1/15th training cost vs frontier. | High-performance cost optimization. |
-| **Llama 4** | Model | The powerhouse of open-weights. | Competitive with GPT-5 class models. | Local hosting and privacy-critical apps. |
+| **Claude 4.5 Opus** | Model | Unmatched at coding and structured reasoning; very natural "human" voice. | **400k** context; **81%+** SWE-bench. | Engineering, creative writing, and data extraction. |
+| **Gemini 3 Pro** | Model | Deeply integrated into productivity tools; massive reasoning jump. | **3M+** token context window. | Research, video analysis, and large-codebase management. |
+| **Grok 4.1** | Model | High-speed model with real-time access to X data. | **2M** context window. | News analysis, customer service, and real-time monitoring. |
+| **DeepSeek V3.2** | Model | Proved efficiency can match scale. | **671B** total / **37B** active parameters. | High-performance cost optimization. |
+| **Llama 4** | Model | The powerhouse of open-weights. | **2T** total / **288B** active parameters. | Local hosting and privacy-critical apps. |
 | **Tokens** | Mechanic | The basic unit of currency in LLMs (chunks of ~4 chars). | 1,000 tokens $\approx$ 750 words. | Budgeting and understanding model constraints. |
 | **Context Window** | Mechanic | The AI's working memory for a single conversation. | Up to 3M+ (Gemini 3). | Analyzing books, hours of video, or entire project directories. |
 | **Temperature** | Setting | Controls the "creativity" or randomness of output. | Scale: 0.0 (factual) to 1.0+ (random). | Balancing precision vs. brainstorming. |
-| **o1 / o3** | Model Type | Reasoning models that "think" before generating an answer. | Utilizes "Chain of Thought" internally. | Complex math, science, and multi-step logic. |
-| **Sora / Veo** | Modal | High-fidelity generative video from text/image prompts. | 60s+ 4K video generation. | Marketing, concept art, and rapid video prototyping. |
+| **o-series (o1/o3/o4)** | Model Type | Reasoning models that "think" before generating an answer. | Internal Chain of Thought & RL. | Complex math, science, and multi-step logic. |
+| **Sora / Veo 3.1** | Modal | High-fidelity generative video; landmark **Disney/Marvel** licensing deal. | 60s+ 4K video generation. | Marketing, creative prototyping, and immersive content. |
 
 ---
 
