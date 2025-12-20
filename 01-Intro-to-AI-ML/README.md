@@ -145,6 +145,8 @@ The ideas weren't new—we just finally had the horsepower and raw material to m
 
 ## How Machines Actually Learn
 
+![How Machines Learn](./assets/how-machines-learn.png)
+
 Alright, here's where it gets really interesting. There are three fundamentally different approaches to training an AI, and understanding them helps you understand what any AI product is actually doing under the hood.
 
 ### 1. Supervised Learning (The Teacher Method)
@@ -433,16 +435,17 @@ AI doesn't replace judgment. It makes judgment more powerful—and more importan
 
 When you need a fast reminder, here's your cheat sheet:
 
-| Term | What is it? | Simple Analogy |
-| :--- | :--- | :--- |
-| **Model** | The "brain" of the AI—the mathematical structure that makes predictions | A recipe book. It contains instructions for turning inputs into outputs. |
-| **Training** | The process of feeding data to a model so it learns patterns | Studying for an exam. The more (good) studying, the better the performance. |
-| **Inference** | Using a trained model to make predictions on new data | Taking the exam. Applying what you learned to new questions. |
-| **Parameters** | The numbers inside the model that get adjusted during training | The ingredients in a recipe. GPT-4 has over a trillion of these "ingredients." |
-| **Overfitting** | When a model memorizes training data instead of learning general patterns | A student who memorized the answer key but can't handle new questions. |
-| **Hallucination** | When the AI confidently generates false or nonsensical information | A confident student "faking it" on a test—sounds plausible, but wrong. |
-| **Fine-tuning** | Taking a pre-trained model and training it further on specific data | A medical student specializing in cardiology after general training. |
-| **Prompt** | The input/instruction you give to an AI model | The question on the exam. How you ask determines what answer you get. |
+| AI Subfield/Approach | Primary Learning Method | Analogy | Business Examples | Key Architecture or Mechanism | Strengths & Limitations |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Artificial Intelligence** | Rule-based or Pattern Matching | A thermostat or a chess program from 1995. | Thermostats adjusting heat; early chess software. | Human-written rules or broad decision-making logic. | Broadest term; can be as simple as a thermostat but lacks self-improvement from data. |
+| **Machine Learning (ML)** | Pattern discovery from data | Human provides examples $\rightarrow$ computer discovers rules. | Spam filtering (learning patterns of 'spamminess'). | Statistical models that improve by looking at data examples. | Solves the 'whack-a-mole' problem of manual rules; requires high-quality labeled data. |
+| **Deep Learning (DL)** | Hierarchical pattern recognition | Russian nesting dolls (it is a specific type of ML). | FaceID; autonomous vehicles; ChatGPT. | Neural networks with many layers (Deep). | Figures out important features automatically; requires massive compute and data. |
+| **Supervised Learning** | The Teacher Method (Labeled data) | Teaching a kid with flashcards. | Loan default prediction; diagnosing diseases from X-rays. | Feedback loop: feeding examples with correct answers and adjusting math to reduce error. | Highly accurate for specific tasks; getting high-quality labels is expensive and time-consuming. |
+| **Unsupervised Learning** | The Explorer Method (Unlabeled data) | Grouping 1,000 random LEGO pieces without instructions. | Customer segmentation; anomaly detection; market basket analysis. | Clustering and finding natural structures in data without predefined labels. | Finds unknown patterns; difficult to measure success compared to supervised learning. |
+| **Reinforcement Learning** | The Trial & Error Method | Training a dog with treats and rewards. | Warehouse robot movements; trading algorithms; self-driving cars. | Agent takes action in an environment to maximize a reward signal. | Excellent for complex goal-oriented tasks; can be difficult to define the reward system correctly. |
+| **Convolutional Neural Networks (CNNs)** | Spatial pattern recognition | Sliding a small 'window' across an image to see local patterns. | Tesla cameras; medical imaging; manufacturing quality control. | Convolutional layers that learn position-independent visual features. | Best for vision/images; optimized for spatial patterns. |
+| **Recurrent Neural Networks (RNNs)** | Sequential processing with memory | Reading a sentence where each word depends on the one before it. | Next-word prediction; speech recognition; stock price prediction. | Feedback loops that carry information from earlier in a sequence forward. | Good for sequences; struggles with long-term memory (fades over long sequences). |
+| **Transformers** | Attention-based sequence processing | Looking at an entire paragraph at once instead of through a magnifying glass. | ChatGPT; Claude; GitHub Copilot; document summarization. | Attention mechanism that relates all parts of a sequence simultaneously. | Scales beautifully and understands long-range context; extremely compute-intensive. |
 
 ---
 
