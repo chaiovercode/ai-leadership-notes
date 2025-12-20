@@ -6,8 +6,6 @@ In the previous modules, we covered AI that recognizes patterns (Module 1) and A
 
 Chatbots talk. Agents *do*. That's the shift happening right now.
 
-![AI Agent Automation Overview](./assets/ai-agent-automatiom.png)
-
 ---
 
 ## Table of Contents
@@ -174,6 +172,8 @@ Think of an agent like a person doing a job. A person has a brain (for thinking)
 ---
 
 ### The Agent Loop in Action
+
+![AI Agent Automation Flow](./assets/ai-agent-automatiom.png)
 
 These four components work together in a loop. Let me trace through a real example so you can see exactly what happens:
 
