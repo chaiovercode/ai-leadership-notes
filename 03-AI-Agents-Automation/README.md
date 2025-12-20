@@ -10,30 +10,31 @@ Chatbots talk. Agents *do*. That's the shift happening right now.
 
 ## Table of Contents
 
-1. [From Chatbots to Agents](#from-chatbots-to-agents)
+1. [From Chatbots to Agents](#1-from-chatbots-to-agents)
    - [What's the Difference?](#whats-the-difference)
    - [Traditional Software vs. AI Agents](#traditional-software-vs-ai-agents)
-2. [How Agents Work](#how-agents-work)
+2. [How Agents Work](#2-how-agents-work)
    - [The Four Core Components](#the-four-core-components)
    - [The Agent Loop](#the-agent-loop-in-action)
-3. [Tools — The Agent's Hands](#tools--the-agents-hands)
-   - [What Counts as a Tool?](#what-counts-as-a-tool)
+3. [Tools — The Agent's Hands](#3-tools--the-agents-hands)
+   - [The "Master Key": Computer Use](#the-master-key-computer-use)
    - [How the AI Chooses Tools](#how-the-ai-chooses-tools)
-4. [Memory — How Agents Remember](#memory--how-agents-remember)
+4. [Memory — How Agents Remember](#4-memory--how-agents-remember)
    - [Short-Term Memory](#short-term-memory)
    - [Long-Term Memory](#long-term-memory-vector-databases)
-5. [Agentic Design Patterns](#agentic-design-patterns)
+5. [Agentic Design Patterns](#5-agentic-design-patterns)
    - [Reflection](#1-reflection--self-checking)
    - [Planning](#2-planning--think-before-acting)
    - [Multi-Agent Systems](#3-multi-agent-collaboration)
-6. [Which Models Make Good Agents?](#which-models-make-good-agents)
-7. [Running Models Locally](#running-models-locally-for-privacy)
-8. [Frameworks to Build Agents](#frameworks-to-build-agents)
-9. [Recommended Deep Dives](#recommended-deep-dives)
+6. [Which Models Make Good Agents?](#6-which-models-make-good-agents)
+7. [Running Models Locally](#7-running-models-locally)
+8. [Frameworks to Build Agents](#8-frameworks-to-build-agents)
+9. [Recommended Deep Dives](#9-recommended-deep-dives)
+10. [Quick Reference](#10-quick-reference)
 
 ---
 
-## From Chatbots to Agents
+## 1. From Chatbots to Agents
 
 ### What's the Difference?
 
@@ -48,30 +49,29 @@ Let me make this distinction crystal clear, because it's fundamental to understa
 
 **The core insight:** A chatbot is like calling a knowledgeable friend for advice. An agent is like hiring an assistant who actually does the work.
 
-With a chatbot, you're still the one doing things—the AI just tells you what to do. With an agent, you specify the outcome you want, and the AI figures out the steps and executes them.
+With a chatbot, you are still the one doing things, the AI just tells you what to do. With an agent, you specify the outcome you want, and the AI figures out the steps and executes them.
 
-> **Real Example — The Difference in Action:**
+> **Real Example — The Evolution (Dec 2025):**
 > 
-> **Chatbot interaction:**
+> **Chatbot interaction (2022-2023):**
 > You: "Help me find flights to Tokyo"
-> Bot: "Here are some options: JAL has flights for $800, ANA for $750..."
-> You: "Book the ANA one"
-> Bot: "To book, visit ana.com and enter your details..."
+> Bot: "Here are some options. To book, visit ana.com..."
 > 
-> You still have to visit the site, fill out forms, enter payment info, select seats...
+> **Standard Agent interaction (2024):**
+> You: "Book me a flight to Tokyo."
+> Agent: *Calls the Airline API → Fills in details → Sends confirmation*
 > 
-> **Agent interaction:**
-> You: "Book me the cheapest flight to Tokyo for next month, window seat, vegetarian meal"
-> Agent: *searches flights → compares prices → selects best option → fills out booking form → enters your saved payment info → selects window seat → requests vegetarian meal → confirms booking → sends you the confirmation*
-> You: *receive email with boarding pass*
+> **Computer Use Agent (Dec 2025 - e.g., OpenAI Operator/Claude 4.5):**
+> You: "Go to my favorite travel site, find a flight that fits my calendar, and book it using my stored card."
+> Agent: *Opens your browser → Clicks the mouse on the search bar → Types the destination → Navigates the UI like a human → Handles the checkout → Closes the tab.*
 
-That's the vision. We're not fully there for everything yet—but we're getting remarkably close for many tasks.
+That is the vision. In late 2025, we have moved from AI that uses "APIs" (back-door connections) to AI that can "see" and "use" a computer just like you do.
 
 ---
 
 ### Traditional Software vs. AI Agents
 
-This distinction helps you understand what makes agents fundamentally different from the software we've built for decades.
+This distinction helps you understand what makes agents fundamentally different from the software we have built for decades.
 
 **Traditional Software = Recipe Following**
 
@@ -131,7 +131,7 @@ Agents can handle situations the developer never explicitly programmed for. They
 
 ---
 
-## How Agents Work
+## 2. How Agents Work
 
 Now let's get into the mechanics. What's actually happening inside an agent?
 
@@ -139,25 +139,7 @@ Now let's get into the mechanics. What's actually happening inside an agent?
 
 Think of an agent like a person doing a job. A person has a brain (for thinking), hands (for doing), plans (for organizing), and eyes (for seeing results). Agents have the same:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        AI AGENT                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│   BRAIN (LLM)         →  Reasoning and decision-making      │
-│      Claude, GPT-4           "What should I do next?"          │
-│                                                                 │
-│   TOOLS (Hands)       →  Actions it can take                │
-│      APIs, functions         Search web, send email, run code  │
-│                                                                 │
-│   PLANNING            →  Breaking goals into steps          │
-│                              "First X, then Y, then Z"         │
-│                                                                 │
-│   OBSERVATION         →  Seeing results and adapting        │
-│                              "That worked. Now what?"          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+![AI Agent Components](./assets/ai-agent-components.png)
 
 **Let me explain each:**
 
@@ -255,7 +237,7 @@ This is the fundamental difference from traditional automation. Traditional auto
 
 ---
 
-## Tools — The Agent's Hands
+## 3. Tools — The Agent's Hands
 
 Here's a crucial concept: **an LLM by itself can only generate text**. That's it. It can write beautiful prose about how to search the web, but it can't actually search the web.
 
@@ -270,15 +252,15 @@ A tool is any function the AI can call. Technically, it's an API or piece of cod
 
 | Tool Type | Examples | What It Does |
 |-----------|----------|--------------|
-| **Search** | Google, Bing, Perplexity | Find current information on the web |
-| **Browse** | Web scraper, URL reader | Read and extract content from websites |
-| **Code** | Python executor, terminal | Run calculations, scripts, data processing |
-| **Data** | SQL query, API call | Access databases and external services |
-| **Communication** | Email, Slack, SMS | Send messages to people |
-| **Files** | Read/write docs, PDFs | Handle documents, create/modify files |
-| **Custom** | Your company's CRM, ERP | Whatever you build and connect |
+| **Computer Use** | OpenAI Operator, Claude Computer Use | Take control of the mouse and keyboard to use any app. |
+| **Search** | Perplexity, Google, Bing | Find current information on the web. |
+| **Browse** | Playwright, Firecrawl | Read and extract content from websites. |
+| **Code** | Python executor, Terminal | Run calculations, data processing, or scripts. |
+| **Communication** | Gmail API, Slack, Teams | Send messages to people or systems. |
+| **Data** | SQL query, Snowflake, API | Access databases and enterprise services. |
+| **Custom** | Your company's proprietary API | Whatever specific function you build and connect. |
 
-**The mental model:** Think of tools like apps on a smartphone. The phone (LLM) is powerful, but without apps (tools), it can't do much useful. Each app gives the phone a new capability. Same with agent tools.
+**The mental model:** Think of tools like apps on a smartphone. The phone (LLM) is powerful, but without apps (tools), it can't do much. Each app gives the phone a new capability. Late 2025 has brought us the "Master Key": **Computer Use**, allowing agents to use any app on your screen without needing a specific API.
 
 > **Concrete Example:**
 > 
@@ -343,7 +325,7 @@ Good: `"Searches the web for current information. Use when you need facts, news,
 
 ---
 
-## Memory — How Agents Remember
+## 4. Memory — How Agents Remember
 
 When an agent works on a multi-step task, it needs to remember what it's done. "I already searched for flights. I found 5 options. Now I'm filtering by price." Without memory, the agent would be lost after each step.
 
@@ -419,7 +401,7 @@ Vector databases enable this through a process called embedding:
 
 ---
 
-## Agentic Design Patterns
+## 5. Agentic Design Patterns
 
 Through trial and error, the AI community has discovered patterns that make agents more reliable. These aren't just nice-to-haves—they often make the difference between an agent that mostly works and one that's actually useful.
 
@@ -564,13 +546,15 @@ Result: Well-researched, structured, accurate piece
 
 | Framework | What It Does |
 |-----------|--------------|
-| **CrewAI** | Built specifically for multi-agent teams. Define agents, their roles, and how they hand off work. |
-| **AutoGen** (Microsoft) | Agents can have conversations with each other. Good for collaborative problem-solving. |
-| **LangGraph** | Build complex agent workflows as graphs. Powerful but steeper learning curve. |
+| **PydanticAI (v1.37)** | The enterprise gold standard (updated Dec 19, 2025). Best for type-safe, validated production agents. |
+| **CrewAI** | The multi-agent leader. Best for teams of agents collaborating on complex goals. |
+| **OpenAI Agents SDK 1.1** | The native replacement for Swarm. Best for deep integration with GPT-5's agentic features. |
+| **LangGraph** | Build complex, repeatable agentic cycles. For advanced developers needing total control. |
+| **Smolagents** | HuggingFace's lightweight approach. Uses Python code as the language for agent-tool communication. |
 
 ---
 
-## Which Models Make Good Agents?
+## 6. Which Models Make Good Agents?
 
 Not all LLMs are equal when it comes to agentic tasks. Here's what matters:
 
@@ -592,17 +576,20 @@ Long, multi-step tasks generate lots of context. Can the model keep track? Does 
 
 | Model | Agentic Capability | Notes |
 |-------|-------------------|-------|
-| **Claude 3.5 Sonnet / Opus** | Excellent | Great at tool use, handles very long context, stays focused on goals |
-| **GPT-4o** | Excellent | Strong all-rounder, reliable function calling, well-tested |
-| **Gemini 1.5 Pro** | Very Good | Massive context window helps with complex multi-step tasks |
-| **Llama 3 70B** | Good | Best open-source option, viable for less complex agents |
-| **GPT-3.5 / Smaller models** | Weak | Struggles with complex reasoning, hallucinates tool names, loses track |
+| **GPT-5.2 Thinking** | **Top Tier** | The "Pro" standard. The first to break 55%+ on **SWE-bench Pro** (Dec 2025). |
+| **Claude 4.5 Opus** | **Top Tier** | The "Computer Use" leader. 66.3% on OSWorld; unmatched nuance in long-horizon tasks. |
+| **Gemini 3 Flash** | **Excellent** | **Released Dec 17, 2025.** Outperforms Gemini 3 Pro in agentic coding (76% SWE-bench). |
+| **Qwen3 VL 235B** | **Excellent** | The surprise OSWorld leader (66.7%). The current king of pure visual browser navigation. |
+| **DeepSeek V3.2-Speciale**| **Excellent** | Launched Dec 2025; specifically optimized for "High-Intensity reasoning" and agentic logic. |
+| **Llama 4 Behemoth** | **Great** | The open-source sovereign standard. The best model for private, on-prem agents. |
 
-> **Practical advice:** If you're building something real, use the bigger models for the orchestrator (the main decision-making agent). You can use smaller, cheaper models for simple sub-tasks like summarization or formatting. But your central "brain" should be capable.
+> **Practical advice:** As of late December 2025, **Gemini 3 Flash** is the new "Sweet Spot" for developers—it offers near-frontier agentic reasoning at the speed and cost of a "Flash" model. Use it for high-volume tasks and **Claude 4.5 / GPT-5.2** for high-stakes orchestration.
+
+> **Practical advice:** If you are building something real in 2026, use **Claude 4.5** or **GPT-5.2** for the orchestrator (the brain). You can use smaller, faster models like **Gemini 3 Flash** or **DeepSeek** for simple sub-tasks like formatting.
 
 ---
 
-## Running Models Locally (For Privacy)
+## 7. Running Models Locally
 
 Sometimes you can't send data to OpenAI or Anthropic's servers. Common reasons:
 
@@ -655,7 +642,7 @@ AWS Bedrock and Azure OpenAI are interesting middle grounds: you get access to t
 
 ---
 
-## Frameworks to Build Agents
+## 8. Frameworks to Build Agents
 
 You don't have to build agents from scratch. Frameworks handle the orchestration—the think-act-observe loop, tool calling, memory management, and error handling.
 
@@ -723,7 +710,7 @@ The key thing to notice: you didn't program the logic of "search first, then cal
 
 ---
 
-## Recommended Deep Dives
+## 9. Recommended Deep Dives
 
 **[What's next for AI Agents?](https://www.youtube.com/watch?v=rl9L_1G9Eis)** — Andrej Karpathy
 
@@ -731,23 +718,20 @@ Short talk (about 20 min) where Karpathy explains why agents are the next paradi
 
 **[Agentic Workflows are the Future](https://www.youtube.com/watch?v=sal78ACtGTc)** — Andrew Ng (Sequoia talk)
 
-Andrew Ng presents compelling data showing that agentic, iterative workflows (where the AI reflects, revises, and improves) dramatically outperform single-shot prompting. The before/after comparisons are eye-opening.
+Andrew Ng presents compelling data showing that agentic, iterative workflows (where the AI reflects, revises, and improves) dramatically outperform single-shot prompting. Note: In the 2025 holiday season, it was reported that **17% of all online orders** were influenced or executed by AI agents.
 
 ---
 
-## Quick Reference
+## 10. Quick Reference
 
-| Feature | Description | Key Components | Capabilities | Example Use Case | Memory Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Autonomous Agents** | Systems that follow goals rather than rigid pre-programmed scripts, capable of reasoning through novel situations and obstacles. | Brain (LLM), Tools (Hands), Planning, Observation | Reasoning, decision-making, adapting to unexpected results, and breaking goals into sub-tasks. | Booking a flight autonomously or scheduling a meeting with multiple constraints. | Short-term and Long-term |
-| **Chatbots vs. Agents** | Chatbots are reactive single-turn systems that provide information, while agents are proactive multi-step systems that pursue goals. | Reactive vs. Proactive; Information delivery vs. Action execution | Answering questions and providing instructions. | Finding flight options versus executing the booking process. | Short-term (Conversation context) |
-| **Core Architecture: Brain** | The central intelligence of the agent responsible for reasoning and decision-making. | Large Language Models (LLMs) such as Claude 3.5, GPT-4o, or Gemini 1.5 Pro | Understanding intent, interpreting tool results, handling problems, and deciding next steps. | Synthesizing competitor pricing into a comparison summary. | Short-term (Context window) |
-| **Core Architecture: Tools** | Functions or APIs that allow the LLM to interact with the external world beyond text generation. | Search, Browse, Code, Data, Communication, Files, and Custom APIs | Web searching, scraping, running Python code, SQL querying, and sending communications. | Using a calculator tool to determine a 15% tip on a bill. | N/A |
-| **Planning Pattern** | A design pattern focusing on creating a roadmap or list of sub-goals before executing a complex task. | Sub-goal decomposition and roadmap creation | Handling complex dependencies, preventing circular logic, and ensuring structural integrity. | Researching statistics and creating an outline before writing a blog post. | Short-term |
-| **Reflection Pattern** | A design pattern where the agent checks its own work for errors or improvements before final delivery. | Self-review loop and internal verification steps | Error correction, tone adjustment, and bug fixing in generated code. | An agent running its own code in a sandbox to fix an "undefined variable" error. | Short-term |
-| **Multi-Agent Collaboration** | Using a team of specialized agents with distinct roles and narrow focuses to complete a complex project. | Specialized roles (Researcher, Writer, Editor, Fact-Checker) and frameworks (CrewAI, AutoGen) | Narrow focus, optimized prompts per role, easier debugging, and checkpoint verification. | A market report generated by a researcher finding data and a writer narrating it. | N/A |
-| **Short-Term Memory** | Storage of the current conversation context to track progress and state within a single session. | Context window, message history, and observed results | Remembering previous steps in a multi-step task and filtering results. | Filtering 5 flight options found in a previous step to 3 based on price. | Short-term |
-| **Long-Term Memory** | External storage that allows agents to remember information across different sessions using semantic search. | Vector Databases (Pinecone, Chroma, Weaviate, Qdrant) and Embeddings | Retrieving past preferences, project history, and relevant documents by meaning. | Finding legal cases similar to a ruling analyzed in a previous month. | Long-term |
+| Feature | Description | Key Components | Benchmarks (Dec 21, 2025) | Memory Type |
+| :--- | :--- | :--- | :--- | :--- |
+| **Autonomous Agents** | Goals-driven systems that reason through obstacles. | Brain, Tools, Planning, Observation | **OSWorld:** 66.7% (Qwen3 VL) | Short & Long-term |
+| **Computer Use** | Agents that interact with software via mouse/keyboard/screen. | Vision models, UI reasoning | **SWE-bench Pro:** 55.6% (GPT-5.2 Think) | Short-term |
+| **Agentic Frameworks** | Infrastructure for building/scaling agents. | PydanticAI, OpenAI Agents SDK | **SWE-bench Verified:** 80.9% (Claude 4.5) | N/A |
+| **Core Architecture** | The "Brain" and "Hands" model of systems. | LLM + Toolset (APIs/Computer) | **GAIA:** 75% accuracy (SOTA) | N/A |
+| **Short-Term Memory** | Session-specific context (history). | Context Window (up to 3M+) | **Recall:** 99.8% (Gemini 3 Pro/Flash) | Context Window |
+| **Long-Term Memory** | Cross-session memory (past sessions). | Vector DBs (Pinecone, Chroma) | **Search:** Meaning-based retrieval | Vector Database |
 
 ---
 
