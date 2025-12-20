@@ -1,0 +1,12 @@
+title: AI Leadership Notes
+description: Strategic frameworks, case studies, and notes on leading AI initiatives and leveraging generative AI for business impact.
+theme: null
+plugins: []
+include:
+  - index.html
+  - README.md
+  - 01-Intro-to-AI-ML
+  - 02-Generative-AI
+  - 03-AI-Agents-Automation
+  - 04-AI-Business-Applications
+  - 05-Ethics-Future-AI
