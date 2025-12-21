@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-21T15:15:56.687Z",
+  "updated": "2025-12-21T18:47:30.503Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "Show HN: Books mentioned on Hacker News in 2025",
+      "url": "https://hackernews-readings-613604506318.us-west1.run.app",
+      "hnUrl": "https://news.ycombinator.com/item?id=46345897",
+      "score": 125,
+      "comments": 55
+    },
+    {
+      "title": "Coarse Is Better",
+      "url": "https://borretti.me/article/coarse-is-better",
+      "hnUrl": "https://news.ycombinator.com/item?id=46344514",
+      "score": 127,
+      "comments": 67
+    },
     {
       "title": "Show HN: Jmail – Google Suite for Epstein files",
       "url": "https://www.jmail.world",
       "hnUrl": "https://news.ycombinator.com/item?id=46339600",
-      "score": 1092,
-      "comments": 239
-    },
-    {
-      "title": "Ruby website redesigned",
-      "url": "https://www.ruby-lang.org/en/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46342859",
-      "score": 205,
-      "comments": 68
+      "score": 1252,
+      "comments": 277
     },
     {
       "title": "Backing up Spotify",
       "url": "https://annas-archive.li/blog/backing-up-spotify.html",
       "hnUrl": "https://news.ycombinator.com/item?id=46338339",
-      "score": 1485,
-      "comments": 500
+      "score": 1630,
+      "comments": 542
+    },
+    {
+      "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+      "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46346510",
+      "score": 42,
+      "comments": 30
+    },
+    {
+      "title": "Ruby website redesigned",
+      "url": "https://www.ruby-lang.org/en/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46342859",
+      "score": 268,
+      "comments": 104
+    },
+    {
+      "title": "Reasons Not to Become Famous (2020)",
+      "url": "https://tim.blog/2020/02/02/reasons-to-not-become-famous/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46345341",
+      "score": 114,
+      "comments": 78
+    },
+    {
+      "title": "Show HN: WalletWallet – create Apple passes from anything",
+      "url": "https://walletwallet.alen.ro/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46345745",
+      "score": 119,
+      "comments": 52
     },
     {
       "title": "Indoor tanning makes youthful skin much older on a genetic level",
       "url": "https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level",
       "hnUrl": "https://news.ycombinator.com/item?id=46342447",
-      "score": 115,
-      "comments": 57
+      "score": 167,
+      "comments": 122
+    },
+    {
+      "title": "Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M",
+      "url": "https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46346536",
+      "score": 27,
+      "comments": 7
+    },
+    {
+      "title": "Show HN: RenderCV – Open-source CV/resume generator, YAML → PDF",
+      "url": "https://github.com/rendercv/rendercv",
+      "hnUrl": "https://news.ycombinator.com/item?id=46344616",
+      "score": 36,
+      "comments": 22
     },
     {
       "title": "Measuring AI Ability to Complete Long Tasks",
       "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
       "hnUrl": "https://news.ycombinator.com/item?id=46342166",
-      "score": 182,
-      "comments": 119
-    },
-    {
-      "title": "Show HN: The Official National Train Map Sucked, So I Made My Own",
-      "url": "https://www.bdzmap.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46344270",
-      "score": 17,
-      "comments": 3
-    },
-    {
-      "title": "The uncertain origins of aspirin",
-      "url": "https://www.asimov.press/p/aspirin",
-      "hnUrl": "https://news.ycombinator.com/item?id=46295982",
-      "score": 32,
-      "comments": 5
+      "score": 202,
+      "comments": 153
     },
     {
       "title": "Go ahead, self-host Postgres",
       "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
       "hnUrl": "https://news.ycombinator.com/item?id=46336947",
-      "score": 592,
-      "comments": 341
+      "score": 634,
+      "comments": 373
     },
     {
       "title": "Claude in Chrome",
       "url": "https://claude.com/chrome",
       "hnUrl": "https://news.ycombinator.com/item?id=46339777",
-      "score": 240,
-      "comments": 124
+      "score": 277,
+      "comments": 154
     },
     {
-      "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
-      "url": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
-      "hnUrl": "https://news.ycombinator.com/item?id=46339031",
-      "score": 265,
-      "comments": 89
-    },
-    {
-      "title": "Log level 'error' should mean that something needs to be fixed",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
-      "hnUrl": "https://news.ycombinator.com/item?id=46301059",
-      "score": 419,
-      "comments": 268
-    },
-    {
-      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
-      "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46337438",
-      "score": 379,
-      "comments": 60
-    },
-    {
-      "title": "OpenSCAD is kinda neat",
-      "url": "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46337984",
-      "score": 271,
-      "comments": 206
-    },
-    {
-      "title": "Big GPUs don't need big PCs",
-      "url": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
-      "hnUrl": "https://news.ycombinator.com/item?id=46338016",
-      "score": 246,
-      "comments": 104
-    },
-    {
-      "title": "Show HN: HN Wrapped 2025 - an LLM reviews your year on HN",
-      "url": "https://hn-wrapped.kadoa.com?year=2025",
-      "hnUrl": "https://news.ycombinator.com/item?id=46336104",
-      "score": 237,
-      "comments": 127
+      "title": "Show HN: The Official National Train Map Sucked, So I Made My Own",
+      "url": "https://www.bdzmap.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46344270",
+      "score": 51,
+      "comments": 12
     }
   ]
 }
