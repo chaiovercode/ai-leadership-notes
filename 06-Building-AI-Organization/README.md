@@ -1,4 +1,4 @@
-# Building an AI Organization: Roles, Culture and Hiring (2025 Deep Dive) 🏷️ Coming Soon
+# Building an AI Organization: Roles, Culture and Hiring (2025 Deep Dive)
 
 > **"Technological change is not additive; it is ecological. One new species changes the entire forest."** - Neil Postman
 

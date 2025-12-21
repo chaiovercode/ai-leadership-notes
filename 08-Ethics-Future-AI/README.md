@@ -1,4 +1,4 @@
-# Ethics, Policy and The Future of AI (2025 Deep Dive) 🏷️ Coming Soon
+# Ethics, Policy and The Future of AI (2025 Deep Dive)
 
 > **"With great power comes great responsibility."** - Uncle Ben (and Voltaire)
 
