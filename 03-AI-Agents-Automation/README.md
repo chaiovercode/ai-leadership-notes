@@ -766,13 +766,3 @@ Andrew Ng presents compelling data showing that agentic, iterative workflows (wh
 
 > [Next Module: Applications of AI in Business](../04-AI-Business-Applications)
 
----
-
-## Recent Updates
-
-*Auto-updated weekly from AI/tech news sources*
-
-### Week of Dec 21, 2025
-- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)** - &lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_xCoMYQ5.max-600x600.format-webp.webp"&gt;Today, Google Cloud ... *(Google AI Blog)*
-- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** - &lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kaggle_AI_intensive_hero.max-600x600.format-webp.webp"&gt;Kaggle’s AI Age... *(Google AI Blog)*
-

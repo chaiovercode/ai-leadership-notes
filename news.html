@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News | AI Leadership Notes</title>
+    <meta name="description" content="Weekly curated AI and tech news categorized by topic.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="theme.css">
+
+    <style>
+        .container {
+            position: relative;
+            z-index: 10;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Page Header */
+        .page-header {
+            padding: 120px 0 4rem;
+        }
+
+        .page-header h1 {
+            font-family: 'Inter', sans-serif;
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+        }
+
+        .page-header h1 .highlight {
+            color: var(--primary);
+        }
+
+        .page-subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            max-width: 600px;
+        }
+
+        .last-updated {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--text-dim);
+            margin-top: 1rem;
+        }
+
+        /* Category Filters */
+        .category-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-muted);
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            border-color: var(--primary);
+            color: var(--primary);
+            background: rgba(34, 211, 238, 0.1);
+        }
+
+        .filter-btn .count {
+            margin-left: 0.5rem;
+            opacity: 0.6;
+        }
+
+        /* News Grid */
+        .news-section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-family: 'Inter', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .section-title::before {
+            content: '>';
+            color: var(--primary);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .section-title .category-tag {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-weight: 400;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.25rem;
+        }
+
+        .news-card {
+            display: block;
+            padding: 1.5rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            text-decoration: none;
+            transition: all 0.2s ease;
+        }
+
+        .news-card:hover {
+            border-color: var(--primary);
+            background: var(--bg-card-hover);
+            transform: translateY(-2px);
+        }
+
+        .news-card-title {
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+        }
+
+        .news-card:hover .news-card-title {
+            color: var(--primary);
+        }
+
+        .news-card-description {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            line-height: 1.6;
+            margin-bottom: 1rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .news-card-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+        }
+
+        .news-source {
+            color: var(--accent);
+        }
+
+        .news-date {
+            color: var(--text-dim);
+        }
+
+        /* Category Colors */
+        .category-ai-ml { border-left: 3px solid var(--primary); }
+        .category-genai { border-left: 3px solid var(--secondary); }
+        .category-agents { border-left: 3px solid var(--accent); }
+        .category-business { border-left: 3px solid var(--muted); }
+        .category-ethics { border-left: 3px solid #ef4444; }
+
+        .tag-ai-ml { background: rgba(34, 211, 238, 0.15); color: var(--primary); }
+        .tag-genai { background: rgba(52, 211, 153, 0.15); color: var(--secondary); }
+        .tag-agents { background: rgba(251, 191, 36, 0.15); color: var(--accent); }
+        .tag-business { background: rgba(139, 92, 246, 0.15); color: var(--muted); }
+        .tag-ethics { background: rgba(239, 68, 68, 0.15); color: #ef4444; }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: var(--text-muted);
+        }
+
+        .empty-state h3 {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+        }
+
+        /* Footer */
+        footer {
+            padding: 4rem 0;
+            border-top: 1px solid var(--border);
+            text-align: center;
+            margin-top: 4rem;
+        }
+
+        .footer-text {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .footer-text a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .footer-text a:hover {
+            color: var(--secondary);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            nav {
+                padding: 1rem;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .page-header {
+                padding-top: 100px;
+            }
+        }
+    </style>
+</head>
+
+<body class="noise">
+    <div class="bg-grid"></div>
+    <div class="gradient-orb gradient-orb-1"></div>
+    <div class="gradient-orb gradient-orb-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="./" class="nav-logo">ai-leadership-notes</a>
+        <ul class="nav-links">
+            <li><a href="./#modules">modules</a></li>
+            <li><a href="./#ai-tools">tools</a></li>
+            <li><a href="./news.html" class="active">news</a></li>
+        </ul>
+        <div class="nav-right">
+            <button class="theme-toggle" aria-label="Toggle theme">
+                <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="5" />
+                    <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" />
+                </svg>
+                <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z" />
+                </svg>
+            </button>
+            <a href="https://github.com/chaiovercode/ai-leadership-notes" class="nav-github" target="_blank" rel="noopener">
+                <svg viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" />
+                </svg>
+                github
+            </a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <!-- Page Header -->
+        <header class="page-header">
+            <h1><span class="highlight">AI</span> News</h1>
+            <p class="page-subtitle">
+                Weekly curated news from AI and tech sources, organized by topic to help you stay informed.
+            </p>
+            <p class="last-updated" id="lastUpdated">loading...</p>
+        </header>
+
+        <!-- Category Filters -->
+        <div class="category-filters" id="categoryFilters">
+            <button class="filter-btn active" data-category="all">all</button>
+            <button class="filter-btn" data-category="ai-ml">AI & ML</button>
+            <button class="filter-btn" data-category="genai">Generative AI</button>
+            <button class="filter-btn" data-category="agents">AI Agents</button>
+            <button class="filter-btn" data-category="business">Business</button>
+            <button class="filter-btn" data-category="ethics">Ethics & Safety</button>
+        </div>
+
+        <!-- News Content -->
+        <main id="newsContent">
+            <div class="empty-state">
+                <h3>Loading news...</h3>
+                <p>Fetching the latest AI updates</p>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <p class="footer-text">
+                News auto-updated weekly from RSS feeds. <a href="./">Back to home</a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="theme.js"></script>
+    <script>
+        const CATEGORY_NAMES = {
+            'ai-ml': 'AI & Machine Learning',
+            'genai': 'Generative AI',
+            'agents': 'AI Agents & Automation',
+            'business': 'Business Applications',
+            'ethics': 'Ethics & Safety'
+        };
+
+        let allNews = [];
+        let currentFilter = 'all';
+
+        async function loadNews() {
+            try {
+                const response = await fetch('categorized-news.json');
+                const data = await response.json();
+
+                // Update last updated time
+                const updated = new Date(data.updated);
+                document.getElementById('lastUpdated').textContent =
+                    `Last updated: ${updated.toLocaleDateString('en-US', {
+                        weekday: 'long',
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                        hour: '2-digit',
+                        minute: '2-digit'
+                    })}`;
+
+                allNews = data.categories;
+                renderNews(allNews);
+                updateFilterCounts(allNews);
+
+            } catch (err) {
+                console.error('Failed to load news:', err);
+                document.getElementById('newsContent').innerHTML = `
+                    <div class="empty-state">
+                        <h3>Unable to load news</h3>
+                        <p>Please try again later or check back after the weekly update.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function renderNews(categories) {
+            const container = document.getElementById('newsContent');
+
+            // Filter categories if needed
+            const filteredCategories = currentFilter === 'all'
+                ? categories
+                : categories.filter(cat => cat.id === currentFilter);
+
+            if (filteredCategories.length === 0 || filteredCategories.every(cat => cat.articles.length === 0)) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <h3>No news in this category</h3>
+                        <p>Check back after the next weekly update.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = filteredCategories
+                .filter(cat => cat.articles.length > 0)
+                .map(category => `
+                    <section class="news-section">
+                        <h2 class="section-title">
+                            ${CATEGORY_NAMES[category.id] || category.id}
+                            <span class="category-tag tag-${category.id}">${category.articles.length} articles</span>
+                        </h2>
+                        <div class="news-grid">
+                            ${category.articles.map(article => `
+                                <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener"
+                                   class="news-card category-${category.id}">
+                                    <h3 class="news-card-title">${escapeHtml(article.title)}</h3>
+                                    <p class="news-card-description">${escapeHtml(article.description)}</p>
+                                    <div class="news-card-meta">
+                                        <span class="news-source">${escapeHtml(article.source)}</span>
+                                        <span class="news-date">${formatDate(article.date)}</span>
+                                    </div>
+                                </a>
+                            `).join('')}
+                        </div>
+                    </section>
+                `).join('');
+        }
+
+        function updateFilterCounts(categories) {
+            const filters = document.querySelectorAll('.filter-btn');
+            filters.forEach(btn => {
+                const category = btn.dataset.category;
+                if (category === 'all') {
+                    const total = categories.reduce((sum, cat) => sum + cat.articles.length, 0);
+                    btn.innerHTML = `all <span class="count">(${total})</span>`;
+                } else {
+                    const cat = categories.find(c => c.id === category);
+                    const count = cat ? cat.articles.length : 0;
+                    btn.innerHTML = `${btn.textContent.split(' ')[0]} <span class="count">(${count})</span>`;
+                }
+            });
+        }
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            const now = new Date();
+            const diffDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
+
+            if (diffDays === 0) return 'Today';
+            if (diffDays === 1) return 'Yesterday';
+            if (diffDays < 7) return `${diffDays} days ago`;
+
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Filter buttons
+        document.getElementById('categoryFilters').addEventListener('click', (e) => {
+            if (e.target.classList.contains('filter-btn')) {
+                document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+                e.target.classList.add('active');
+                currentFilter = e.target.dataset.category;
+                renderNews(allNews);
+            }
+        });
+
+        // Load on page load
+        loadNews();
+    </script>
+</body>
+
+</html>

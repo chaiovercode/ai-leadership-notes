@@ -1,0 +1,246 @@
+name: Update AI News
+
+on:
+  schedule:
+    # Runs every Monday at 9:00 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch RSS feeds and generate categorized news
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const http = require('http');
+          const fs = require('fs');
+
+          // RSS feed sources
+          const RSS_FEEDS = [
+            { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', source: 'TechCrunch' },
+            { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', source: 'The Verge' },
+            { url: 'https://venturebeat.com/category/ai/feed/', source: 'VentureBeat' },
+            { url: 'https://openai.com/blog/rss/', source: 'OpenAI Blog' },
+            { url: 'https://www.anthropic.com/rss.xml', source: 'Anthropic' },
+            { url: 'https://blog.google/technology/ai/rss/', source: 'Google AI Blog' }
+          ];
+
+          // Category definitions with keywords
+          const CATEGORIES = {
+            'ai-ml': {
+              name: 'AI & Machine Learning',
+              keywords: ['neural network', 'deep learning', 'machine learning', 'training', 'model', 'architecture', 'benchmark', 'parameter']
+            },
+            'genai': {
+              name: 'Generative AI',
+              keywords: ['llm', 'gpt', 'claude', 'gemini', 'chatgpt', 'language model', 'prompt', 'hallucination', 'grok', 'mistral', 'llama', 'openai', 'anthropic', 'token']
+            },
+            'agents': {
+              name: 'AI Agents & Automation',
+              keywords: ['agent', 'autonomous', 'automation', 'workflow', 'tool use', 'function calling', 'agentic', 'mcp']
+            },
+            'business': {
+              name: 'Business Applications',
+              keywords: ['enterprise', 'business', 'productivity', 'startup', 'funding', 'valuation', 'revenue', 'customer', 'saas', 'acquisition']
+            },
+            'ethics': {
+              name: 'Ethics & Safety',
+              keywords: ['safety', 'ethics', 'regulation', 'bias', 'privacy', 'governance', 'policy', 'law', 'act', 'responsible', 'alignment', 'risk']
+            }
+          };
+
+          const MAX_ARTICLES_PER_CATEGORY = 10;
+
+          // Fetch URL with redirect handling
+          function fetchUrl(url, maxRedirects = 5) {
+            return new Promise((resolve, reject) => {
+              if (maxRedirects <= 0) {
+                reject(new Error('Too many redirects'));
+                return;
+              }
+
+              const protocol = url.startsWith('https') ? https : http;
+              const req = protocol.get(url, {
+                headers: {
+                  'User-Agent': 'Mozilla/5.0 (compatible; AINewsBot/1.0)',
+                  'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+                },
+                timeout: 10000
+              }, (res) => {
+                if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+                  let redirectUrl = res.headers.location;
+                  if (!redirectUrl.startsWith('http')) {
+                    const urlObj = new URL(url);
+                    redirectUrl = `${urlObj.protocol}//${urlObj.host}${redirectUrl}`;
+                  }
+                  resolve(fetchUrl(redirectUrl, maxRedirects - 1));
+                  return;
+                }
+
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => resolve(data));
+                res.on('error', reject);
+              });
+
+              req.on('error', reject);
+              req.on('timeout', () => {
+                req.destroy();
+                reject(new Error('Request timeout'));
+              });
+            });
+          }
+
+          // Parse RSS XML to extract articles
+          function parseRSS(xml, source) {
+            const articles = [];
+            const itemRegex = /<item>([\s\S]*?)<\/item>/gi;
+            const titleRegex = /<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/i;
+            const linkRegex = /<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/link>/i;
+            const pubDateRegex = /<pubDate>(.*?)<\/pubDate>/i;
+            const descRegex = /<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i;
+
+            let match;
+            while ((match = itemRegex.exec(xml)) !== null) {
+              const item = match[1];
+              const titleMatch = item.match(titleRegex);
+              const linkMatch = item.match(linkRegex);
+              const dateMatch = item.match(pubDateRegex);
+              const descMatch = item.match(descRegex);
+
+              if (titleMatch && linkMatch) {
+                const title = titleMatch[1].replace(/<[^>]*>/g, '').replace(/&#\d+;/g, '').trim();
+                const link = linkMatch[1].trim();
+                const pubDate = dateMatch ? new Date(dateMatch[1]) : new Date();
+                let description = descMatch ? descMatch[1].replace(/<[^>]*>/g, '').replace(/&#\d+;/g, '').trim() : '';
+                description = description.substring(0, 200) + (description.length > 200 ? '...' : '');
+
+                articles.push({
+                  title,
+                  url: link,
+                  date: pubDate.toISOString(),
+                  description,
+                  source
+                });
+              }
+            }
+            return articles;
+          }
+
+          // Categorize an article based on keywords
+          function categorizeArticle(article) {
+            const text = (article.title + ' ' + article.description).toLowerCase();
+            const matches = [];
+
+            for (const [categoryId, category] of Object.entries(CATEGORIES)) {
+              for (const keyword of category.keywords) {
+                if (text.includes(keyword.toLowerCase())) {
+                  matches.push(categoryId);
+                  break;
+                }
+              }
+            }
+
+            // Default to genai if no specific match (most AI news is about GenAI)
+            return matches.length > 0 ? matches : ['genai'];
+          }
+
+          async function main() {
+            console.log('Fetching RSS feeds...');
+            const oneWeekAgo = new Date();
+            oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+
+            const allArticles = [];
+
+            for (const feed of RSS_FEEDS) {
+              try {
+                console.log(`Fetching ${feed.source}...`);
+                const xml = await fetchUrl(feed.url);
+                const articles = parseRSS(xml, feed.source);
+
+                // Filter to last week only
+                const recentArticles = articles.filter(a => new Date(a.date) >= oneWeekAgo);
+                allArticles.push(...recentArticles);
+                console.log(`  Found ${recentArticles.length} recent articles`);
+              } catch (err) {
+                console.log(`  Error fetching ${feed.source}: ${err.message}`);
+              }
+            }
+
+            console.log(`\nTotal articles from past week: ${allArticles.length}`);
+
+            // Categorize articles
+            const categorizedNews = {};
+            for (const categoryId of Object.keys(CATEGORIES)) {
+              categorizedNews[categoryId] = [];
+            }
+
+            for (const article of allArticles) {
+              const categories = categorizeArticle(article);
+              for (const categoryId of categories) {
+                if (categorizedNews[categoryId]) {
+                  categorizedNews[categoryId].push(article);
+                }
+              }
+            }
+
+            // Sort by date and limit per category
+            const output = {
+              updated: new Date().toISOString(),
+              categories: Object.entries(CATEGORIES).map(([id, cat]) => {
+                const articles = categorizedNews[id]
+                  .sort((a, b) => new Date(b.date) - new Date(a.date))
+                  .slice(0, MAX_ARTICLES_PER_CATEGORY);
+
+                // Remove duplicates by URL
+                const seen = new Set();
+                const unique = articles.filter(a => {
+                  if (seen.has(a.url)) return false;
+                  seen.add(a.url);
+                  return true;
+                });
+
+                console.log(`${cat.name}: ${unique.length} articles`);
+                return {
+                  id,
+                  name: cat.name,
+                  articles: unique
+                };
+              })
+            };
+
+            fs.writeFileSync('categorized-news.json', JSON.stringify(output, null, 2));
+            console.log('\nSaved to categorized-news.json');
+          }
+
+          main().catch(err => {
+            console.error('Error:', err);
+            process.exit(1);
+          });
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add categorized-news.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update categorized AI news [skip ci]"
+            git pull --rebase
+            git push
+          fi

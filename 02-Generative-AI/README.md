@@ -578,16 +578,3 @@ When people talk about "attention" in transformers, what do they actually mean? 
 
 > [Next Module: AI Agents Automation →](../03-AI-Agents-Automation)
 
----
-
-## Recent Updates
-
-*Auto-updated weekly from AI/tech news sources*
-
-### Week of Dec 21, 2025
-- **[OpenAI allows users to directly adjust ChatGPT’s enthusiasm level](https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/)** - ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use. *(TechCrunch)*
-- **[OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors](https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/)** - OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. ... *(TechCrunch)*
-- **[OpenAI is reportedly trying to raise $100B at an $830B valuation](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/)** - The ChatGPT maker is aiming to raise the funding by the end of the first quarter in 2026, and the company may ask sovereign wealth funds to invest in ... *(TechCrunch)*
-- **[ChatGPT launches an app store, lets developers know it&#8217;s open for business](https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/)** - OpenAI is looking to populate its flagship chatbot with a host of new user experiences. *(TechCrunch)*
-- **[ChatGPT&#8217;s mobile app hits new milestone of $3B in consumer spending](https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/)** - ChatGPT has reached $3B in lifetime mobile consumer spending in just 31 months, faster than TikTok and major streaming apps. *(TechCrunch)*
-

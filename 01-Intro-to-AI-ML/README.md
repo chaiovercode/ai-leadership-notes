@@ -604,13 +604,3 @@ If you want to go further, these are the gold standards:
 
 > [Next Module: Generative AI →](../02-Generative-AI)
 
----
-
-## Recent Updates
-
-*Auto-updated weekly from AI/tech news sources*
-
-### Week of Dec 21, 2025
-- **[OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors](https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/)** - OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. ... *(TechCrunch)*
-- **[Luma releases a new AI model that lets users generate a video from a start  and end frame](https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/)** - Luma AI's new model is available through the company's Dream Machine platform. *(TechCrunch)*
-
