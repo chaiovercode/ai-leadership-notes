@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-21T07:40:15.020Z",
+  "updated": "2025-12-21T15:15:56.687Z",
   "source": "Hacker News",
   "stories": [
-    {
-      "title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics",
-      "url": "https://haveibeenflocked.com/news/cyble-downtime",
-      "hnUrl": "https://news.ycombinator.com/item?id=46341305",
-      "score": 347,
-      "comments": 64
-    },
     {
       "title": "Show HN: Jmail – Google Suite for Epstein files",
       "url": "https://www.jmail.world",
       "hnUrl": "https://news.ycombinator.com/item?id=46339600",
-      "score": 630,
-      "comments": 125
+      "score": 1092,
+      "comments": 239
     },
     {
-      "title": "Backing Up Spotify",
+      "title": "Ruby website redesigned",
+      "url": "https://www.ruby-lang.org/en/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46342859",
+      "score": 205,
+      "comments": 68
+    },
+    {
+      "title": "Backing up Spotify",
       "url": "https://annas-archive.li/blog/backing-up-spotify.html",
       "hnUrl": "https://news.ycombinator.com/item?id=46338339",
-      "score": 1075,
-      "comments": 363
+      "score": 1485,
+      "comments": 500
     },
     {
-      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
+      "title": "Indoor tanning makes youthful skin much older on a genetic level",
+      "url": "https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level",
+      "hnUrl": "https://news.ycombinator.com/item?id=46342447",
+      "score": 115,
+      "comments": 57
+    },
+    {
+      "title": "Measuring AI Ability to Complete Long Tasks",
       "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
       "hnUrl": "https://news.ycombinator.com/item?id=46342166",
-      "score": 96,
-      "comments": 67
+      "score": 182,
+      "comments": 119
     },
     {
-      "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
-      "url": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
-      "hnUrl": "https://news.ycombinator.com/item?id=46339031",
-      "score": 221,
-      "comments": 77
+      "title": "Show HN: The Official National Train Map Sucked, So I Made My Own",
+      "url": "https://www.bdzmap.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46344270",
+      "score": 17,
+      "comments": 3
     },
     {
-      "title": "Claude in Chrome",
-      "url": "https://claude.com/chrome",
-      "hnUrl": "https://news.ycombinator.com/item?id=46339777",
-      "score": 176,
-      "comments": 86
-    },
-    {
-      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
-      "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46337438",
-      "score": 329,
-      "comments": 48
-    },
-    {
-      "title": "Log level 'error' should mean that something needs to be fixed",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
-      "hnUrl": "https://news.ycombinator.com/item?id=46301059",
-      "score": 363,
-      "comments": 228
-    },
-    {
-      "title": "Big GPUs don't need big PCs",
-      "url": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
-      "hnUrl": "https://news.ycombinator.com/item?id=46338016",
-      "score": 184,
-      "comments": 61
+      "title": "The uncertain origins of aspirin",
+      "url": "https://www.asimov.press/p/aspirin",
+      "hnUrl": "https://news.ycombinator.com/item?id=46295982",
+      "score": 32,
+      "comments": 5
     },
     {
       "title": "Go ahead, self-host Postgres",
       "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
       "hnUrl": "https://news.ycombinator.com/item?id=46336947",
-      "score": 483,
-      "comments": 302
+      "score": 592,
+      "comments": 341
     },
     {
-      "title": "What's New in Python 3.15",
-      "url": "https://docs.python.org/3.15/whatsnew/3.15.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46304630",
-      "score": 41,
-      "comments": 3
+      "title": "Claude in Chrome",
+      "url": "https://claude.com/chrome",
+      "hnUrl": "https://news.ycombinator.com/item?id=46339777",
+      "score": 240,
+      "comments": 124
     },
     {
-      "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
-      "url": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
-      "hnUrl": "https://news.ycombinator.com/item?id=46287848",
-      "score": 271,
-      "comments": 82
+      "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
+      "url": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
+      "hnUrl": "https://news.ycombinator.com/item?id=46339031",
+      "score": 265,
+      "comments": 89
     },
     {
-      "title": "I spent a week without IPv4 (2023)",
-      "url": "https://www.apalrd.net/posts/2023/network_ipv6/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46338365",
-      "score": 136,
-      "comments": 233
+      "title": "Log level 'error' should mean that something needs to be fixed",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
+      "hnUrl": "https://news.ycombinator.com/item?id=46301059",
+      "score": 419,
+      "comments": 268
     },
     {
-      "title": "Show HN: HN Wrapped 2025 - an LLM reviews your year on HN",
-      "url": "https://hn-wrapped.kadoa.com?year=2025",
-      "hnUrl": "https://news.ycombinator.com/item?id=46336104",
-      "score": 175,
-      "comments": 97
+      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+      "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46337438",
+      "score": 379,
+      "comments": 60
     },
     {
       "title": "OpenSCAD is kinda neat",
       "url": "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/",
       "hnUrl": "https://news.ycombinator.com/item?id=46337984",
-      "score": 231,
-      "comments": 166
+      "score": 271,
+      "comments": 206
+    },
+    {
+      "title": "Big GPUs don't need big PCs",
+      "url": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
+      "hnUrl": "https://news.ycombinator.com/item?id=46338016",
+      "score": 246,
+      "comments": 104
+    },
+    {
+      "title": "Show HN: HN Wrapped 2025 - an LLM reviews your year on HN",
+      "url": "https://hn-wrapped.kadoa.com?year=2025",
+      "hnUrl": "https://news.ycombinator.com/item?id=46336104",
+      "score": 237,
+      "comments": 127
     }
   ]
 }
