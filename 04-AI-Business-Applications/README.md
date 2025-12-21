@@ -1,4 +1,4 @@
-# AI Business Applications: Strategy, Marketing, Sales and Ops (2025 Deep Dive)
+# AI Business Applications: Strategy, Marketing, Sales and Ops (2025 Deep Dive) 🏷️ Coming Soon
 
 > **"AI will not replace managers, but managers who use AI will replace those who don't."** - Rob Thomas, IBM
 
