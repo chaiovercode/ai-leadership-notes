@@ -38,7 +38,7 @@ jobs:
 
           const AI_TECH_KEYWORDS = [
             'ai', 'artificial intelligence', 'machine learning', 'ml', 'llm', 'gpt',
-            'claude', 'openai', 'anthropic', 'google', 'gemini, 'microsoft', 'meta', 'apple',
+            'claude', 'openai', 'anthropic', 'google', 'gemini', 'microsoft', 'meta', 'apple',
             'neural', 'deep learning', 'transformer', 'chatbot', 'copilot',
             'automation', 'robot', 'agent', 'model', 'training', 'inference',
             'startup', 'tech', 'software', 'developer', 'programming', 'code',
