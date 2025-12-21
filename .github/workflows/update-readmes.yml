@@ -310,5 +310,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update READMEs with weekly AI news [skip ci]"
+            git pull --rebase
             git push
           fi
