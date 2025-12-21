@@ -1,0 +1,315 @@
+{
+  "updated": "2025-12-21T18:57:49.808Z",
+  "categories": [
+    {
+      "id": "ai-ml",
+      "name": "AI & Machine Learning",
+      "articles": [
+        {
+          "title": "Hiring specialists made sense before AI — now generalists win",
+          "url": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win",
+          "date": "2025-12-20T19:00:00.000Z",
+          "description": "Tony Stoyanov is CTO and co-founder of EliseAIIn the 2010s, tech companies chased staff-level specialists: Backend engineers, data scientists, system architects. That model worked when technology evol...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Yann LeCun confirms his new world model startup, reportedly seeks $5B+ valuation",
+          "url": "https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/",
+          "date": "2025-12-19T19:23:44.000Z",
+          "description": "Renowned AI scientist Yann LeCun confirmed on Thursday the worst-kept secret in the tech world: that he had indeed launched a new startup. Although he did say he will not be running the new company as...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors",
+          "url": "https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/",
+          "date": "2025-12-19T17:51:05.000Z",
+          "description": "OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. Still, questions remain about how well policies tr...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta is developing a new image and video model for a 2026 release, report says",
+          "url": "https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/",
+          "date": "2025-12-19T16:05:29.000Z",
+          "description": "Meta aims to make the text-based model better at coding while also exploring new world models that understand visual information and can reason, plan, and act without needing to be trained on every po...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Luma releases a new AI model that lets users generate a video from a start  and end frame",
+          "url": "https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/",
+          "date": "2025-12-18T14:52:58.000Z",
+          "description": "Luma AI's new model is available through the company's Dream Machine platform.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises",
+          "url": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
+          "date": "2025-12-17T19:24:00.000Z",
+          "description": "Enterprises can now harness the power of a large language model that&#x27;s near that of the state-of-the-art Google’s Gemini 3 Pro, but at a fraction of the cost and with increased speed, thanks to t...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Gemini 3 Flash: frontier intelligence built for speed",
+          "url": "https://blog.google/products/gemini/gemini-3-flash/",
+          "date": "2025-12-17T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp\"&gt;Gemini 3 Flash offers frontier intelligence built for spee...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Black box AI isn’t enough: Why enterprise consulting is moving to grounded models",
+          "url": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded",
+          "date": "2025-12-16T05:00:00.000Z",
+          "description": "Presented by SAPIn an era where anyone can spin up an LLM, the real differentiator isn’t the AI technology itself, but the institutional knowledge it’s grounded in. Internal and partner consultants le...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
+          "url": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms",
+          "date": "2025-12-15T20:16:00.000Z",
+          "description": "We&#x27;ve heard (and written, here at VentureBeat) lots about the generative AI race between the U.S. and China, as those have been the countries with the groups most active in fielding new models (w...",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "name": "Generative AI",
+      "articles": [
+        {
+          "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+          "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+          "date": "2025-12-21T15:46:29.000Z",
+          "description": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+          "url": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
+          "date": "2025-12-20T20:34:07.000Z",
+          "description": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hardwares brutal week: iRobot, Luminar, and Rad Power go bankrupt",
+          "url": "https://techcrunch.com/podcast/hardwares-brutal-week-irobot-luminar-and-rad-power-go-bankrupt/",
+          "date": "2025-12-19T18:18:48.000Z",
+          "description": "The hardware world had a brutal week, with iRobot, Luminar, and Rad Power Bikes all filing for bankruptcy. Each company faces its own mix of tariff pressures, supply chain issues, and shifting markets...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors",
+          "url": "https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/",
+          "date": "2025-12-19T17:51:05.000Z",
+          "description": "OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. Still, questions remain about how well policies tr...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Known uses voice AI to help you go on more in-person dates",
+          "url": "https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/",
+          "date": "2025-12-19T17:23:34.000Z",
+          "description": "In its test phase in San Francisco, Known said it observed 80% of its introductions led to physical dates, which is much higher than swipe-based dating apps.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "40 of our most helpful AI tips from 2025",
+          "url": "https://blog.google/technology/ai/ai-tips-2025/",
+          "date": "2025-12-19T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_hero.max-600x600.format-webp.webp\"&gt;Learn more about the AI tips and tools Google shared in 2025.",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "OpenAI is reportedly trying to raise $100B at an $830B valuation",
+          "url": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/",
+          "date": "2025-12-19T13:32:57.000Z",
+          "description": "The ChatGPT maker is aiming to raise the funding by the end of the first quarter in 2026, and the company may ask sovereign wealth funds to invest in the round.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPT launches an app store, lets developers know its open for business",
+          "url": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+          "date": "2025-12-18T20:22:50.000Z",
+          "description": "OpenAI is looking to populate its flagship chatbot with a host of new user experiences.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Why British politicians are flocking to American tech giants",
+          "url": "https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/",
+          "date": "2025-12-18T19:50:23.000Z",
+          "description": "Former British Chancellor of the Exchequer George Osborne has joined OpenAI as managing director and head of OpenAI for Countries. He also will run Coinbase's internal advisory council.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPTs mobile app hits new milestone of $3B in consumer spending",
+          "url": "https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/",
+          "date": "2025-12-18T19:50:02.000Z",
+          "description": "ChatGPT has reached $3B in lifetime mobile consumer spending in just 31 months, faster than TikTok and major streaming apps.",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "agents",
+      "name": "AI Agents & Automation",
+      "articles": [
+        {
+          "title": "5 ways AI agents will transform the way we work in 2026",
+          "url": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+          "date": "2025-12-19T14:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_xCoMYQ5.max-600x600.format-webp.webp\"&gt;Today, Google Cloud dropped its 2026 AI Agent Trends Report.",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Palona goes vertical, launches Vision, Workflow: 4 key lessons for AI builders",
+          "url": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai",
+          "date": "2025-12-18T18:10:00.000Z",
+          "description": "Building an enterprise AI company on a &quot;foundation of shifting sand&quot; is the central challenge for founders today, according to the leadership at Palona AI. Today, the Palo Alto-based startup...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI",
+          "url": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
+          "date": "2025-12-18T17:00:00.000Z",
+          "description": "Anthropic said on Wednesday it would release its Agent Skills technology as an open standard, a strategic bet that sharing its approach to making AI assistants more capable will cement the company&#x2...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Inside Kaggle's AI Agents intensive course with Google",
+          "url": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
+          "date": "2025-12-18T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kaggle_AI_intensive_hero.max-600x600.format-webp.webp\"&gt;Kaggle’s AI Agents Intensive with Google brought learners togethe...",
+          "source": "Google AI Blog"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business Applications",
+      "articles": [
+        {
+          "title": "Ex-Splunk execs startup Resolve AI hits $1 billion valuation with Series A",
+          "url": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/",
+          "date": "2025-12-20T00:58:42.000Z",
+          "description": "The round was led by Lightspeed Venture Partners, according to people familiar with the deal.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cursor continues acquisition spree with Graphite deal",
+          "url": "https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/",
+          "date": "2025-12-19T21:51:22.000Z",
+          "description": "Graphite is an AI code review assistant that was last valued at $290 million.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Yann LeCun confirms his new world model startup, reportedly seeks $5B+ valuation",
+          "url": "https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/",
+          "date": "2025-12-19T19:23:44.000Z",
+          "description": "Renowned AI scientist Yann LeCun confirmed on Thursday the worst-kept secret in the tech world: that he had indeed launched a new startup. Although he did say he will not be running the new company as...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI is reportedly trying to raise $100B at an $830B valuation",
+          "url": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/",
+          "date": "2025-12-19T13:32:57.000Z",
+          "description": "The ChatGPT maker is aiming to raise the funding by the end of the first quarter in 2026, and the company may ask sovereign wealth funds to invest in the round.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "From Roombas to e-bikes, why are hardware startups going bankrupt?",
+          "url": "https://techcrunch.com/video/from-roombas-to-e-bikes-why-are-hardware-startups-going-bankrupt/",
+          "date": "2025-12-19T13:00:00.000Z",
+          "description": "The hardware world had a brutal week, withiRobot,Luminar, andRad Power Bikesall filing for bankruptcy. Each company faces its own mix of tariff pressures, supply chain issues, and shifting markets, bu...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPT launches an app store, lets developers know its open for business",
+          "url": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+          "date": "2025-12-18T20:22:50.000Z",
+          "description": "OpenAI is looking to populate its flagship chatbot with a host of new user experiences.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Pickle Robot adds Tesla veteran as first CFO",
+          "url": "https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/",
+          "date": "2025-12-18T20:01:46.000Z",
+          "description": "Jeff Evanson recently joined Pickle Robot as the company's first CFO as the startup has allegedly expanded its partnership with UPS.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Palona goes vertical, launches Vision, Workflow: 4 key lessons for AI builders",
+          "url": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai",
+          "date": "2025-12-18T18:10:00.000Z",
+          "description": "Building an enterprise AI company on a &quot;foundation of shifting sand&quot; is the central challenge for founders today, according to the leadership at Palona AI. Today, the Palo Alto-based startup...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI",
+          "url": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
+          "date": "2025-12-18T17:00:00.000Z",
+          "description": "Anthropic said on Wednesday it would release its Agent Skills technology as an open standard, a strategic bet that sharing its approach to making AI assistants more capable will cement the company&#x2...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game",
+          "url": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
+          "date": "2025-12-18T16:00:00.000Z",
+          "description": "The startup has raised a $3.6 million seed round led by Khosla Ventures.",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "ethics",
+      "name": "Ethics & Safety",
+      "articles": [
+        {
+          "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
+          "url": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
+          "date": "2025-12-20T18:20:34.000Z",
+          "description": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors",
+          "url": "https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/",
+          "date": "2025-12-19T17:51:05.000Z",
+          "description": "OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. Still, questions remain about how well policies tr...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta is developing a new image and video model for a 2026 release, report says",
+          "url": "https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/",
+          "date": "2025-12-19T16:05:29.000Z",
+          "description": "Meta aims to make the text-based model better at coding while also exploring new world models that understand visual information and can reason, plan, and act without needing to be trained on every po...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazons new Alexa+ feature adds conversational AI to Ring doorbells",
+          "url": "https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/",
+          "date": "2025-12-18T14:00:00.000Z",
+          "description": "Amazon said that the feature uses the Ring doorbell's video descriptions to determine who the person in front of the camera is based on their uniform, actions, and what they are holding.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises",
+          "url": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
+          "date": "2025-12-17T19:24:00.000Z",
+          "description": "Enterprises can now harness the power of a large language model that&#x27;s near that of the state-of-the-art Google’s Gemini 3 Pro, but at a fraction of the cost and with increased speed, thanks to t...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
+          "url": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms",
+          "date": "2025-12-15T20:16:00.000Z",
+          "description": "We&#x27;ve heard (and written, here at VentureBeat) lots about the generative AI race between the U.S. and China, as those have been the countries with the groups most active in fielding new models (w...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "We’re publishing an AI playbook to help others with sustainability reporting.",
+          "url": "https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/",
+          "date": "2025-12-15T17:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp\"&gt;We’re sharing a practical playbook to help organizations s...",
+          "source": "Google AI Blog"
+        }
+      ]
+    }
+  ]
+}
