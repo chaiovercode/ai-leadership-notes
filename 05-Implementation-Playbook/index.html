@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Module 05: Ethics & Future of AI | AI Leadership Notes</title>
-    <meta name="description" content="Risk, responsibility, and trajectory. Navigating bias, privacy, and the evolving regulatory landscape.">
+    <title>Module 06: The AI Implementation Playbook | AI Leadership Notes</title>
+    <meta name="description"
+        content="Foundational concepts for non-technical leaders. What AI actually is, how machines learn, and why data quality is everything.">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="../theme.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
@@ -69,34 +73,6 @@
 
         #content {
             line-height: 1.8;
-        }
-
-        /* Coming Soon Notice */
-        .coming-soon-notice {
-            max-width: 600px;
-            margin: 4rem auto;
-            padding: 2rem;
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 4px;
-            text-align: center;
-        }
-
-        .coming-soon-notice::before {
-            content: '[!] ';
-            color: var(--primary);
-            font-weight: 600;
-        }
-
-        .coming-soon-notice h2 {
-            color: var(--primary);
-            margin-bottom: 1rem;
-            font-family: 'Inter', sans-serif;
-        }
-
-        .coming-soon-notice p {
-            color: var(--text-muted);
-            margin-bottom: 0;
         }
 
         /* Markdown Styles */
@@ -385,6 +361,7 @@
         }
     </style>
 </head>
+
 <body class="noise">
     <div class="bg-grid"></div>
     <div class="gradient-orb gradient-orb-1"></div>
@@ -395,16 +372,18 @@
         <a href="../" class="nav-logo">ai-leadership-notes</a>
         <ul class="nav-links">
             <li><a href="../#modules">modules</a></li>
-            <li><a href="https://github.com/chaiovercode/ai-leadership-notes" target="_blank" rel="noopener">github</a></li>
+            <li><a href="https://github.com/chaiovercode/ai-leadership-notes" target="_blank" rel="noopener">github</a>
+            </li>
         </ul>
         <div class="nav-right">
             <button class="theme-toggle" aria-label="Toggle theme">
                 <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <circle cx="12" cy="12" r="5"/>
-                    <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+                    <circle cx="12" cy="12" r="5" />
+                    <path
+                        d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" />
                 </svg>
                 <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+                    <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z" />
                 </svg>
             </button>
         </div>
@@ -413,9 +392,10 @@
     <!-- Module Header -->
     <div class="module-header">
         <div class="module-number">module 05</div>
-        <h1 class="module-title"><span class="highlight">Ethics & Future</span> of AI</h1>
+        <h1 class="module-title"><span class="highlight">Implementation</span> Playbook</h1>
         <p class="module-subtitle">
-            Risk, responsibility, and trajectory. Navigating bias, privacy, and the evolving regulatory landscape.
+            The guide to execution: Build vs Buy, budgeting, and risk management strategies for getting AI into
+            production.
         </p>
     </div>
 
@@ -435,12 +415,17 @@
             <div>
                 <div class="nav-btn-label">previous</div>
                 <div class="nav-btn-title"><- Business Applications</div>
-            </div>
+                </div>
         </a>
 
         <a href="../" class="nav-home">all_modules()</a>
 
-        <div style="flex: 1; max-width: 300px;"></div>
+        <a href="../06-Building-AI-Organization/" class="nav-btn">
+            <div style="text-align: right;">
+                <div class="nav-btn-label">next</div>
+                <div class="nav-btn-title">Building AI Org -></div>
+            </div>
+        </a>
     </div>
 
     <script src="../theme.js"></script>
@@ -458,15 +443,7 @@
             try {
                 const response = await fetch('README.md');
                 if (!response.ok) {
-                    // If README doesn't exist, show coming soon message
-                    document.getElementById('content').innerHTML = `
-                        <div class="coming-soon-notice">
-                            <h2>coming_soon</h2>
-                            <p>This module is currently under development. Check back soon for comprehensive content on AI ethics and the future of AI.</p>
-                        </div>
-                    `;
-                    document.getElementById('loading').style.display = 'none';
-                    return;
+                    throw new Error('Failed to load content');
                 }
 
                 const markdown = await response.text();
@@ -497,4 +474,5 @@
         loadContent();
     </script>
 </body>
+
 </html>

@@ -234,7 +234,7 @@ This one's fundamentally different from both approaches above. You don't give th
 3. The AI learns: "That action in that situation gave me +10 points"
 4. Over thousands of attempts, it builds a map: "In situation X, action Y tends to give the best rewards"
 
-This is how DeepMind's AlphaGo beat the world champion at Go—a game so complex that you can't just show it examples of "good moves." Instead, it played millions of games against itself, slowly figuring out which strategies led to winning.
+This is how DeepMind's AlphaGo beat the world champion at Go, a game so complex that you can't just show it examples of "good moves." Instead, it played millions of games against itself, slowly figuring out which strategies led to winning.
 
 **The Key Difference:**
 - Supervised learning: Learn from correct answers
@@ -255,7 +255,13 @@ This might be the most important section in this entire guide.
 
 AI doesn't "know" anything. It doesn't have common sense. It doesn't have judgment. **It just repeats patterns it saw in the data.** If those patterns are flawed, the AI will be flawed confidently and at scale.
 
-### The Risk: Bias Amplification
+### 5.1 Data Strategy for Leaders
+The phrase "Garbage In, Garbage Out" is a cliché because it is true. But for a leader, this means more than just "clean your data." It means you need a **Data Strategy**.
+- **Data Governance:** Who owns the data? Is it legal to use? If you scrape the web, are you violating copyright?
+- **Data Lineage:** Can you trace where a specific piece of information came from?
+- **Data Diversity:** Does your data represent all your customers, or just the ones who complain the loudest?
+
+### 5.2 The Risk: Bias Amplification
 
 Let's make this concrete. Say you are a company building an AI to screen job applications. You train it on 10 years of hiring data.
 
@@ -479,6 +485,31 @@ A chatbot *talks* to you. An agent *works* for you. An agent is task-oriented so
 ---
 
 ## 13. AI in Business — The Reality Check
+
+### 13.1 The "Black Box" Problem (Explainable AI)
+Leaders love accountability. AI hates it. 
+Deep learning models are often "Black Boxes"—data goes in, an answer comes out, but nobody (not even the developers) knows exactly *why*.
+- **The Risk:** If an AI rejects a loan application, you need to explain *why* to the regulators. "The computer said so" is not a legal defense.
+- **Explainable AI (XAI):** This is a field dedicated to making AI show its work. It attempts to highlight *which* data points influenced the decision.
+- **Leadership Takeaway:** For high-stakes decisions (hiring, lending, healthcare), demand XAI. Do not accept a black box.
+
+### 13.2 The "Buy vs. Build" Framework
+Should you train your own model or just use OpenAI? This is the #1 question for leaders.
+
+| Factor | **Buy (Use an API)** | **Build (Train Your Own)** |
+| :--- | :--- | :--- |
+| **Speed** | Instant. Get an API key and start. | Slow. Months of data cleaning and training. |
+| **Cost** | Cheap to start, expensive at massive scale. | Expensive upfront (GPUs, talent), cheaper per-unit at massive scale. |
+| **Talent** | Needs general developers. | Needs hard-to-find AI Researchers. |
+| **Performance** | World-class (GPT-4/Claude). | Good, but likely not smarter than GPT-4. |
+| **Control** | Low. Vendor changes the model, you break. | High. You own the weights and the code. |
+| **Privacy** | Data goes to vendor (unless Enterprise SKU). | Data never leaves your servers. |
+
+**The Verdict:** **Buy first.** Only build if you have a unique data advantage that provides a defensible moat, or if regulatory requirements force you to keep everything on-premise.
+
+---
+
+### 13.3 The API Revolution
 
 Okay, you understand how AI works now. But what does this mean for your organization? Two key insights:
 

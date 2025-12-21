@@ -77,7 +77,51 @@ This is the frontier. Modules 1 and 2 covered AI that answers questions and crea
 
 ---
 
-### 5. [Ethics & Future of AI](./05-Ethics-Future-AI)
+### 5. [The AI Implementation Playbook](./05-Implementation-Playbook)
+*Strategy, execution, and risk management.*
+
+Moving from theory to practice. How to actually budget, plan, and execute an AI initiative without burning money.
+
+**What you'll learn:**
+- **The "Crawl, Walk, Run" framework** — Why you should smart small.
+- **Budgeting for AI** — It is not just about API costs; it is about engineering time and data cleaning.
+- **Risk Management** — Red teaming and guardrails.
+
+---
+
+### 6. [Building the AI Organization](./06-Building-AI-Organization)
+*People, culture, and organizational structure.*
+
+AI is a people problem, not just a tech problem.
+
+**What you'll learn:**
+- **New roles you need** — You might not need a Chief AI Officer, but you do need AI Engineers.
+- **Upskilling strategy** — How to train your existing workforce.
+- **Managing "AI Anxiety"** — How to lead through the fear of replacement.
+
+---
+
+### 7. [Executive Productivity Masterclass](./07-Executive-Productivity)
+*Personal application for leaders.*
+
+How to use these tools yourself to multiply your own output.
+
+**What you'll learn:**
+- **AI for decision support** — Using LLMs as a sparring partner.
+- **The "Digital Chief of Staff"** — Automating your inbox and schedule.
+- **Advanced prompting for leadership** — Writing strategic memos and speeches.
+
+---
+
+### 8. [Ethics & Future of AI](./08-Ethics-Future-AI)
+*Risk, responsibility, and trajectory.*
+
+Module 1-4 focused on what AI *can* do. This module focuses on what it *should* do, and where the technology is heading next.
+
+**What you'll learn:**
+- **The specific risks of GenAI** — Beyond just "bias," we look at hallucination, data leakage, and copyright liability.
+- **The regulatory landscape** — What leaders need to know about the EU AI Act and emerging standards.
+- **The future trajectory** — From multimodal models to reasoning agents.
 
 ---
 
@@ -98,7 +142,7 @@ The goal is to give you mental models that hold up when the specific technologie
 
 ## How to Use This Repository
 
-- **Sequential learning:** Work through Modules 1-5 in order. Each builds on the previous.
+- **Sequential learning:** Work through Modules 1-8 in order. Each builds on the previous.
 - **Reference lookup:** Jump directly to specific topics as questions arise.
 
 ---
@@ -111,7 +155,10 @@ The goal is to give you mental models that hold up when the specific technologie
 | [02 - Generative AI](./02-Generative-AI) | LLMs, prompting, customization |
 | [03 - AI Agents](./03-AI-Agents-Automation) | Autonomous action, tools, memory |
 | [04 - Business Applications](./04-AI-Business-Applications) | Use cases by function |
-| [05 - Ethics & Future](./05-Ethics-Future-AI) | Risk, responsibility, trajectory |
+| [05 - Implementation](./05-Implementation-Playbook) | Strategy, execution, budgeting |
+| [06 - Building AI Org](./06-Building-AI-Organization) | People, culture, roles |
+| [07 - Executive Productivity](./07-Executive-Productivity) | Personal leadership tools |
+| [08 - Ethics & Future](./08-Ethics-Future-AI) | Risk, responsibility, trajectory |
 
 ---
 

@@ -129,7 +129,24 @@ Think of an MoE model like a **Hospital Floor**. The floor has 2 trillion parame
 
 This allows models like **Llama 4** to have the IQ of a 2-trillion parameter model while running as fast as a much smaller one.
 
-### 2.1 The Modern Training Recipe (2025)
+### 2.1.1 RAG vs. Fine-tuning (The Textbook vs. Med School)
+One of the most common confusions for leaders is how to "teach" an AI about their business. There are two main ways:
+
+**1. Fine-tuning (Med School)**
+- **What it is:** Retraining the model's brain. You update the weights.
+- **Analogy:** Sending a student to medical school. They learn the vocabulary, the style of thinking, and the deep patterns of medicine.
+- **Use for:** Teaching a new *behavior*, *style*, or *format*. (e.g., "Write like our brand voice," or "Speak medical French").
+- **Does NOT fix:** It does not teach new *facts*. If you fine-tune on today's stock price, it will forget it tomorrow.
+
+**2. RAG (The Textbook)**
+- **What it is:** Retrieval-Augmented Generation. Giving the model access to your documents.
+- **Analogy:** Giving a student a textbook during an open-book exam.
+- **Use for:** Teaching new *facts* and *knowledge*. (e.g., "What is our Q3 revenue?").
+- **Why it wins:** It is cheaper, faster, and reduces hallucinations because the model must cite its sources.
+
+**Leadership Rule of Thumb:** 90% of business use cases need RAG, not Fine-tuning.
+
+### 2.2 The Modern Training Recipe (2025)
 Leading labs no longer just throw more data at a model. They follow a specific, four-stage recipe to create a production-grade AI:
 
 1.  **Pretraining (The Foundation):** The model reads the entire internet. It learns language, facts, and patterns. This is where the core "intelligence" is born.
@@ -206,7 +223,10 @@ Generation is 4x+ more computationally expensive than reading. Hence the price d
 
 A typical back-and-forth chat message now costs less than **$0.00001** for "Flash-tier" models (like Gemini 3 Flash) and **$0.003 - $0.008** for frontier thinking models like Claude 4.5 or GPT-5.2. 2023-era models like GPT-3.5 are now essentially free or retired.
 
-**Practical implication:** If you're building something with AI, keep your prompts concise. That long system prompt you copy-paste every time? It gets charged on every single request. A 2,000-token system prompt that runs 10,000 times = 20 million tokens = $50 just for the prompt, before any responses.
+### 2.4.1 CAPEX vs. OPEX (The CFO Conversation)
+- **Training is CAPEX:** It requires a massive upfront investment in GPUs and electricity (Capital Expenditure). This is for the Googles and OpenAIs of the world.
+- **Inference is OPEX:** "Running" the model costs money every time you ask a question (Operating Expenditure).
+- **The Trap:** Inference costs scale linearly with usage. If your product goes viral, your API bill explodes. You must forecast usage carefully.
 
 ---
 
@@ -240,6 +260,21 @@ Starting with OpenAI's **o3** and the **DeepSeek R1** breakthroughs in early 202
 - The more time you give it to "reason," the higher the score—even for the exact same model.
 
 **The real test:** Because of this "benchmarking game," don't trust a spreadsheet. Try it on **YOUR** specific use case. Benchmarks are now just the screening interview; your proprietary data is the job trial.
+
+### 2.5.1 Hallucinations & Grounding
+AI lies. We call it "hallucinating" to be polite, but it generates false information confidently.
+- **Why:** Remember, it is just predicting the next word. Sometimes the most probable next word is a lie that sounds plausible.
+- **The Fix (Grounding):** Force the AI to cite its sources. "Answer this question using ONLY the provided document." If it cannot find the answer in the document, it must say "I do not know."
+- **Leadership Takeaway:** Never use a raw LLM for factual queries (e.g., "What is the law in Texas?"). Always use a Grounded system (RAG) that points to the specific statute.
+
+### 2.5.2 Open vs. Closed Source Strategy
+**Closed Models (OpenAI, Google, Anthropic):**
+- **Pros:** Smartest models, easiest to use, managed security.
+- **Cons:** You send your data to them. You are dependent on their pricing.
+
+**Open Models (Llama, Mistral):**
+- **Pros:** You control the data. You can run it on your own servers (privacy). No vendor lock-in.
+- **Cons:** You need an engineering team to manage it. Slightly dumber than the top closed models.
 
 ---
 
