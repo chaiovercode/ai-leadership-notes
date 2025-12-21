@@ -1237,34 +1237,6 @@
             </table>
         </section>
 
-        <!-- Suggest a Topic -->
-        <section class="suggest-topic" id="suggest-topic">
-            <div class="section-header" style="text-align: center;">
-                <p class="section-label">contribute</p>
-                <h2 class="section-title">Suggest a Topic</h2>
-                <p class="section-subtitle">Have an AI topic you'd like covered? Let us know.</p>
-            </div>
-            <form class="suggest-form" id="suggestForm" action="https://formspree.io/f/your-form-id" method="POST">
-                <div class="form-group">
-                    <label class="form-label" for="suggestName">name (optional)</label>
-                    <input type="text" id="suggestName" name="name" class="form-input" placeholder="Your name">
-                </div>
-                <div class="form-group">
-                    <label class="form-label" for="suggestEmail">email (optional)</label>
-                    <input type="email" id="suggestEmail" name="email" class="form-input" placeholder="your@email.com">
-                </div>
-                <div class="form-group">
-                    <label class="form-label" for="suggestTopic">topic suggestion *</label>
-                    <textarea id="suggestTopic" name="topic" class="form-textarea" placeholder="What AI topic would you like to learn about?" required></textarea>
-                </div>
-                <button type="submit" class="form-submit">submit_suggestion() -></button>
-            </form>
-            <div class="form-success" id="formSuccess" style="display: none;">
-                <p>> suggestion_received</p>
-                <p>Thanks for your input! We'll consider it for future content.</p>
-            </div>
-        </section>
-
         <!-- Footer -->
         <footer>
             <div class="footer-logo">> ai-leadership-notes</div>
@@ -1506,30 +1478,6 @@
             }
         });
 
-        // Suggest Topic Form
-        const suggestForm = document.getElementById('suggestForm');
-        const formSuccess = document.getElementById('formSuccess');
-
-        suggestForm.addEventListener('submit', async (e) => {
-            e.preventDefault();
-
-            const formData = new FormData(suggestForm);
-
-            try {
-                // For demo: just show success (replace with actual form submission)
-                suggestForm.style.display = 'none';
-                formSuccess.style.display = 'block';
-
-                // If using Formspree, uncomment this:
-                // await fetch(suggestForm.action, {
-                //     method: 'POST',
-                //     body: formData,
-                //     headers: { 'Accept': 'application/json' }
-                // });
-            } catch (err) {
-                console.error('Form submission error:', err);
-            }
-        });
     </script>
 </body>
 
