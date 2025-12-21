@@ -10,17 +10,17 @@ That shift—from recognition to creation—is why everyone's losing their minds
 
 ## Table of Contents
 
-1. [What is Generative AI?](#1-what-is-generative-ai)
-2. [Large Language Models (LLMs)](#2-large-language-models-llms)
-   - [2.1 The Modern Training Recipe (2025)](#21-the-modern-training-recipe-2025)
-   - [2.2 The Evolution — From Dumb to Scary Smart](#22-the-evolution--from-dumb-to-scary-smart)
-   - [2.3 The Major Players Right Now](#23-the-major-players-right-now)
-   - [2.4 How LLMs Are Priced](#24-how-llms-are-priced)
-   - [2.5 How to Compare LLMs (Benchmarks)](#25-how-to-compare-llms-benchmarks)
-3. [Tokens & Context Windows](#3-tokens--context-windows)
-4. [Prompt Engineering](#4-prompt-engineering)
-5. [Recommended Deep Dives](#5-recommended-deep-dives)
-6. [Quick Reference](#6-quick-reference)
+1. [What is Generative AI?](#what-is-generative-ai)
+2. [Large Language Models (LLMs)](#large-language-models-llms)
+   - [The Modern Training Recipe (2025)](#the-modern-training-recipe-2025)
+   - [The Evolution: From Dumb to Scary Smart](#the-evolution-from-dumb-to-scary-smart)
+   - [The Major Players Right Now](#the-major-players-right-now)
+   - [How LLMs Are Priced](#how-llms-are-priced)
+   - [How to Compare LLMs (Benchmarks)](#how-to-compare-llms-benchmarks)
+3. [Tokens and Context Windows](#tokens-context-windows)
+4. [Prompt Engineering](#prompt-engineering)
+5. [Recommended Deep Dives](#recommended-deep-dives)
+6. [Quick Reference](#quick-reference)
 
 ---
 
@@ -158,7 +158,7 @@ Leading labs no longer just throw more data at a model. They follow a specific, 
 
 ---
 
-### 2.2 The Evolution — From Dumb to Scary Smart
+### 2.2 The Evolution: From Dumb to Scary Smart
 
 Understanding the history helps you understand why things are moving so fast and why the current moment feels unprecedented.
 
@@ -326,7 +326,7 @@ Also: code is token-heavy. All those brackets, semicolons, and special character
 
 ---
 
-### 3.2 Context Windows — The AI's Short-Term Memory
+### 3.2 Context Windows: The AI Short-Term Memory
 
 The context window is everything the AI can "see" at once during a single conversation turn.
 

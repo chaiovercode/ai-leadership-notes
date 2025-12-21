@@ -15,18 +15,18 @@ They ask: "Review this contract and flag the 3 riskiest clauses."
 
 ## Table of Contents
 
-1. [The Mental Model: Chief of Staff](#1-the-mental-model-chief-of-staff)
-2. [The Second Brain](#2-the-second-brain-your-personal-knowledge-engine)
-3. [Decision Making: The Simulator](#3-decision-making-the-simulator)
-4. [Meetings: The Scribe](#4-meetings-the-scribe)
-5. [Communications: The Mirror](#5-communications-the-mirror)
-6. [Research: The Analyst](#6-research-the-analyst)
-7. [Writing: The Ghostwriter](#7-writing-the-ghostwriter)
-8. [Scheduling: The Air Traffic Controller](#8-scheduling-the-air-traffic-controller)
-9. [The AI Executive Assistant](#9-the-ai-executive-assistant)
-10. [Workflow Automation](#10-workflow-automation-the-invisible-team)
-11. [The 2025 Tech Stack for Executives](#11-the-2025-tech-stack-for-executives)
-12. [Building Your Personal AI System](#12-building-your-personal-ai-system)
+1. [The Mental Model: Chief of Staff](#the-mental-model-chief-of-staff)
+2. [The Second Brain](#the-second-brain-your-personal-knowledge-engine)
+3. [Decision Making: The Simulator](#decision-making-the-simulator)
+4. [Meetings: The Scribe](#meetings-the-scribe)
+5. [Communications: The Mirror](#communications-the-mirror)
+6. [Research: The Analyst](#research-the-analyst)
+7. [Writing: The Ghostwriter](#writing-the-ghostwriter)
+8. [Scheduling: The Air Traffic Controller](#scheduling-the-air-traffic-controller)
+9. [The AI Executive Assistant](#the-ai-executive-assistant)
+10. [Workflow Automation](#workflow-automation-the-invisible-team)
+11. [The 2025 Tech Stack for Executives](#the-2025-tech-stack-for-executives)
+12. [Building Your Personal AI System](#building-your-personal-ai-system)
 
 ---
 

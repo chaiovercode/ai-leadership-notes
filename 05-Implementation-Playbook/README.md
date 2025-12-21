@@ -15,19 +15,19 @@ This playbook breaks down the scary technical terms (RAG, Embeddings, Fine-Tunin
 
 ## Table of Contents
 
-1. [The Core Concept: Embeddings](#1-the-core-concept-embeddings-the-supermarket-analogy)
-2. [RAG: The Open Book Test](#2-rag-retrieval-augmented-generation-the-open-book-test)
-3. [Fine-Tuning: The Gym Analogy](#3-fine-tuning-the-gym-analogy)
-4. [Vector Databases: The Filing Cabinet](#4-vector-databases-the-filing-cabinet)
-5. [Data Preparation: The Kitchen Prep](#5-data-preparation-the-kitchen-prep)
-6. [The Valley of Death](#6-the-valley-of-death-from-poc-to-production)
-7. [Evaluation: The Scorecard](#7-evaluation-the-scorecard)
-8. [Hallucination Prevention: The Fact Checker](#8-hallucination-prevention-the-fact-checker)
-9. [Buy vs. Build](#9-the-decision-checklist-buy-vs-build)
-10. [Cost Optimization: The Meter](#10-cost-optimization-the-meter)
-11. [Security and Compliance](#11-security-and-compliance-the-vault)
-12. [Monitoring in Production](#12-monitoring-in-production-the-dashboard)
-13. [Where is the ROI?](#13-where-is-the-roi-the-map)
+1. [The Core Concept: Embeddings](#the-core-concept-embeddings-the-supermarket-analogy)
+2. [RAG: The Open Book Test](#rag-retrieval-augmented-generation-the-open-book-test)
+3. [Fine-Tuning: The Gym Analogy](#fine-tuning-the-gym-analogy)
+4. [Vector Databases: The Filing Cabinet](#vector-databases-the-filing-cabinet)
+5. [Data Preparation: The Kitchen Prep](#data-preparation-the-kitchen-prep)
+6. [The Valley of Death](#the-valley-of-death-from-poc-to-production)
+7. [Evaluation: The Scorecard](#evaluation-the-scorecard)
+8. [Hallucination Prevention: The Fact Checker](#hallucination-prevention-the-fact-checker)
+9. [Buy vs. Build](#the-decision-checklist-buy-vs-build)
+10. [Cost Optimization: The Meter](#cost-optimization-the-meter)
+11. [Security and Compliance](#security-and-compliance-the-vault)
+12. [Monitoring in Production](#monitoring-in-production-the-dashboard)
+13. [Where is the ROI?](#where-is-the-roi-the-map)
 
 ---
 

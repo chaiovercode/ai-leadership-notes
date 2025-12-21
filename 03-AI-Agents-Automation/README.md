@@ -10,27 +10,26 @@ Chatbots talk. Agents *do*. That's the shift happening right now.
 
 ## Table of Contents
 
-1. [From Chatbots to Agents](#1-from-chatbots-to-agents)
+1. [From Chatbots to Agents](#from-chatbots-to-agents)
    - [What's the Difference?](#whats-the-difference)
    - [Traditional Software vs. AI Agents](#traditional-software-vs-ai-agents)
-2. [How Agents Work](#2-how-agents-work)
+2. [How Agents Work](#how-agents-work)
    - [The Four Core Components](#the-four-core-components)
    - [The Agent Loop](#the-agent-loop-in-action)
-3. [Tools — The Agent's Hands](#3-tools--the-agents-hands)
-   - [The "Master Key": Computer Use](#the-master-key-computer-use)
+3. [Tools: The Agent's Hands](#tools-the-agents-hands)
    - [How the AI Chooses Tools](#how-the-ai-chooses-tools)
-4. [Memory — How Agents Remember](#4-memory--how-agents-remember)
+4. [Memory: How Agents Remember](#memory-how-agents-remember)
    - [Short-Term Memory](#short-term-memory)
    - [Long-Term Memory](#long-term-memory-vector-databases)
-5. [Agentic Design Patterns](#5-agentic-design-patterns)
-   - [Reflection](#1-reflection--self-checking)
-   - [Planning](#2-planning--think-before-acting)
-   - [Multi-Agent Systems](#3-multi-agent-collaboration)
-6. [Which Models Make Good Agents?](#6-which-models-make-good-agents)
-7. [Running Models Locally](#7-running-models-locally)
-8. [Frameworks to Build Agents](#8-frameworks-to-build-agents)
-9. [Recommended Deep Dives](#9-recommended-deep-dives)
-10. [Quick Reference](#10-quick-reference)
+5. [Agentic Design Patterns](#agentic-design-patterns)
+   - [Reflection: Self-Checking](#reflection-self-checking)
+   - [Planning: Think Before Acting](#planning-think-before-acting)
+   - [Multi-Agent Collaboration](#multi-agent-collaboration)
+6. [Which Models Make Good Agents?](#which-models-make-good-agents)
+7. [Running Models Locally](#running-models-locally)
+8. [Frameworks to Build Agents](#frameworks-to-build-agents)
+9. [Recommended Deep Dives](#recommended-deep-dives)
+10. [Quick Reference](#quick-reference)
 
 ---
 
@@ -243,7 +242,7 @@ This is the fundamental difference from traditional automation. Traditional auto
 
 ---
 
-## 3. Tools — The Agent's Hands
+## 3. Tools: The Agent's Hands
 
 Here's a crucial concept: **an LLM by itself can only generate text**. That's it. It can write beautiful prose about how to search the web, but it can't actually search the web.
 
@@ -354,7 +353,7 @@ We are moving toward a world where agents talk to agents.
 
 ---
 
-## 4. Memory — How Agents Remember
+## 4. Memory: How Agents Remember
 
 When an agent works on a multi-step task, it needs to remember what it's done. "I already searched for flights. I found 5 options. Now I'm filtering by price." Without memory, the agent would be lost after each step.
 
@@ -434,7 +433,7 @@ Vector databases enable this through a process called embedding:
 
 Through trial and error, the AI community has discovered patterns that make agents more reliable. These aren't just nice-to-haves—they often make the difference between an agent that mostly works and one that's actually useful.
 
-### 1. Reflection — Self-Checking
+### 1. Reflection: Self-Checking
 
 **The problem:** Agents make mistakes. They might write code with bugs, emails with typos, or reports with errors. Without reflection, these mistakes go straight to the user.
 
@@ -485,7 +484,7 @@ Step 5: If good, deliver to user
 
 ---
 
-### 2. Planning — Think Before Acting
+### 2. Planning: Think Before Acting
 
 **The problem:** Complex tasks have many steps. If the agent just starts doing things without a plan, it often goes in circles, misses steps, or does things in the wrong order.
 

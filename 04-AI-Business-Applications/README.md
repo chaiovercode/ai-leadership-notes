@@ -14,18 +14,18 @@ This module will strip away the buzzwords (LLM, Transformer, RAG) and explain wh
 
 ## Table of Contents
 
-1. [The Core Concept: The Prediction Machine](#1-the-core-concept-the-prediction-machine)
-2. [Agents vs. Chatbots: The Intern Analogy](#2-agents-vs-chatbots-the-intern-analogy)
-3. [Marketing: The Segment of One](#3-marketing-the-segment-of-one)
-4. [Sales: The Sniper vs. Shotgun](#4-sales-the-sniper-vs-shotgun-approach)
-5. [Customer Service: The Infinite Agent](#5-customer-service-the-infinite-agent)
-6. [Operations: The Check Engine Light](#6-operations-the-check-engine-light-for-everything)
-7. [Finance: The Crystal Ball](#7-finance-the-crystal-ball)
-8. [HR: The Talent Radar](#8-hr-the-talent-radar)
-9. [Legal: The Contract Scanner](#9-legal-the-contract-scanner)
-10. [Product Development: The Accelerator](#10-product-development-the-accelerator)
-11. [Strategy: The War Games Room](#11-strategy-the-war-games-room)
-12. [The Centaur Business](#12-final-thought-the-centaur-business)
+1. [The Core Concept: The Prediction Machine](#the-core-concept-the-prediction-machine)
+2. [Agents vs. Chatbots: The Intern Analogy](#agents-vs-chatbots-the-intern-analogy)
+3. [Marketing: The Segment of One](#marketing-the-segment-of-one)
+4. [Sales: The Sniper vs. Shotgun Approach](#sales-the-sniper-vs-shotgun-approach)
+5. [Customer Service: The Infinite Agent](#customer-service-the-infinite-agent)
+6. [Operations: The Check Engine Light](#operations-the-check-engine-light-for-everything)
+7. [Finance: The Crystal Ball](#finance-the-crystal-ball)
+8. [HR: The Talent Radar](#hr-the-talent-radar)
+9. [Legal: The Contract Scanner](#legal-the-contract-scanner)
+10. [Product Development: The Accelerator](#product-development-the-accelerator)
+11. [Strategy: The War Games Room](#strategy-the-war-games-room)
+12. [Final Thought: The Centaur Business](#final-thought-the-centaur-business)
 
 ---
 

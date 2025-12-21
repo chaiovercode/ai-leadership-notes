@@ -12,18 +12,18 @@ We are not going to talk about "sci-fi." We are going to talk about **Risk Manag
 
 ## Table of Contents
 
-1. [The Alignment Problem: King Midas](#1-the-alignment-problem-king-midas)
-2. [Model Collapse: The Habsburg Jaw](#2-model-collapse-the-habsburg-jaw)
-3. [Instrumental Convergence: The Paperclip Maximizer](#3-instrumental-convergence-the-paperclip-maximizer)
-4. [The EU AI Act: The Seatbelt](#4-the-eu-ai-act-the-seatbelt)
-5. [The Deepfake Crisis: Zero Trust](#5-the-deepfake-crisis-zero-trust)
-6. [Content Credentials: The Digital Watermark](#6-content-credentials-the-digital-watermark)
-7. [The AGI Timeline](#7-the-agi-timeline-what-the-experts-say)
-8. [AI Safety and Responsible Development](#8-ai-safety-and-responsible-development)
-9. [Bias and Fairness](#9-bias-and-fairness-the-hidden-discrimination)
-10. [The Future: Scenarios for 2030](#10-the-future-scenarios-for-2030)
-11. [Your Role as a Leader](#11-your-role-as-a-leader)
-12. [The 5 Golden Rules](#12-the-5-golden-rules)
+1. [The Alignment Problem: King Midas](#the-alignment-problem-king-midas)
+2. [Model Collapse: The Habsburg Jaw](#model-collapse-the-habsburg-jaw)
+3. [Instrumental Convergence: The Paperclip Maximizer](#instrumental-convergence-the-paperclip-maximizer)
+4. [The EU AI Act: The Seatbelt](#the-eu-ai-act-the-seatbelt)
+5. [The Deepfake Crisis: Zero Trust](#the-deepfake-crisis-zero-trust)
+6. [Content Credentials: The Digital Watermark](#content-credentials-the-digital-watermark)
+7. [The AGI Timeline](#the-agi-timeline-what-the-experts-say)
+8. [AI Safety and Responsible Development](#ai-safety-and-responsible-development)
+9. [Bias and Fairness](#bias-and-fairness-the-hidden-discrimination)
+10. [The Future: Scenarios for 2030](#the-future-scenarios-for-2030)
+11. [Your Role as a Leader](#your-role-as-a-leader)
+12. [The 5 Golden Rules](#the-5-golden-rules)
 
 ---
 

@@ -13,18 +13,18 @@ This module explains how to restructure your "Kitchen" (Company) for the AI era.
 
 ## Table of Contents
 
-1. [The Structure: Hub and Spoke](#1-the-structure-hub-and-spoke)
-2. [The AI Center of Excellence](#2-the-ai-center-of-excellence-the-power-plant)
-3. [The Roles: Who You Need](#3-the-roles-who-you-need)
-4. [Team Sizing Patterns](#4-team-sizing-patterns)
-5. [The Hiring Crisis](#5-the-hiring-crisis-the-2025-reality)
-6. [The Culture: Dealing with Fear](#6-the-culture-dealing-with-fear)
-7. [The Sandbox Culture](#7-the-sandbox-culture)
-8. [The Hackathon Method](#8-the-hackathon-method)
-9. [Upskilling: The Pyramid](#9-upskilling-the-pyramid)
-10. [The Change Management Playbook](#10-the-change-management-playbook)
-11. [Governance and Ethics](#11-governance-and-ethics)
-12. [Measuring Organizational AI Maturity](#12-measuring-organizational-ai-maturity)
+1. [The Structure: Hub and Spoke](#the-structure-hub-and-spoke)
+2. [The AI Center of Excellence](#the-ai-center-of-excellence-the-power-plant)
+3. [The Roles: Who You Need](#the-roles-who-you-need)
+4. [Team Sizing Patterns](#team-sizing-patterns)
+5. [The Hiring Crisis](#the-hiring-crisis-the-2025-reality)
+6. [The Culture: Dealing with Fear](#the-culture-dealing-with-fear)
+7. [The Sandbox Culture](#the-sandbox-culture)
+8. [The Hackathon Method](#the-hackathon-method)
+9. [Upskilling: The Pyramid](#upskilling-the-pyramid)
+10. [The Change Management Playbook](#the-change-management-playbook)
+11. [Governance and Ethics](#governance-and-ethics)
+12. [Measuring Organizational AI Maturity](#measuring-organizational-ai-maturity)
 
 ---
 

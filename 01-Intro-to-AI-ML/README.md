@@ -10,20 +10,20 @@ By the end of this, you won't just *know* what AI is and you will understand *wh
 
 ## Table of Contents
 
-1. [What Even Is AI?](#what-even-is-ai) — Breaking the hype.
-2. [AI vs. ML vs. DL](#ai-vs-machine-learning-vs-deep-learning) — The Russian Doll analogy.
-3. [A Quick History](#a-quick-history-the-cliff-notes-version) — How we got here.
-4. [How Machines Actually Learn](#how-machines-actually-learn) — The 3 main methods.
-5. [The Golden Rule: Data](#the-golden-rule-garbage-in-garbage-out) — Why your AI is only as good as your data.
-6. [Deep Learning — The Magic Sauce](#deep-learning--why-things-got-so-good) — Why things suddenly got so good.
-7. [The Architectures (CNN vs RNN)](#neural-network-architectures-the-right-tool-for-the-job) — Eyes vs. Memory.
-8. [Multimodal AI — Beyond Text](#multimodal-ai--beyond-text) — AI that sees, hears, and speaks.
-9. [Reasoning Models & Test-Time Compute](#reasoning-models--test-time-compute) — The shift from "guessing" to "thinking."
-10. [Small Language Models (SLMs)](#small-language-models-slms) — The rise of the tiny giants.
-11. [RAG — Retrieval-Augmented Generation](#rag--retrieval-augmented-generation) — Giving AI an open book.
-12. [AI Agents — The Next Frontier](#ai-agents--the-next-frontier) — From "Chatbots" to "Co-workers."
-13. [AI in Business — The Reality Check](#ai-in-business--the-reality-check) — Prediction vs. Judgment.
-14. [Quick Reference Card](#quick-reference-card) — The "Cheat Sheet."
+1. [What Even Is AI?](#what-even-is-ai)
+2. [AI vs. Machine Learning vs. Deep Learning](#ai-vs-machine-learning-vs-deep-learning)
+3. [A Quick History (The Cliff Notes Version)](#a-quick-history-the-cliff-notes-version)
+4. [How Machines Actually Learn](#how-machines-actually-learn)
+5. [The Golden Rule: Data (Garbage In, Garbage Out)](#the-golden-rule-data-garbage-in-garbage-out)
+6. [Deep Learning: The Magic Sauce](#deep-learning-the-magic-sauce)
+7. [Neural Network Architectures (The Right Tool for the Job)](#neural-network-architectures-the-right-tool-for-the-job)
+8. [Multimodal AI: Beyond Text](#multimodal-ai-beyond-text)
+9. [Reasoning Models and Test-Time Compute](#reasoning-models-test-time-compute)
+10. [Small Language Models (SLMs)](#small-language-models-slms)
+11. [RAG: Retrieval-Augmented Generation](#rag-retrieval-augmented-generation)
+12. [AI Agents: The Next Frontier](#ai-agents-the-next-frontier)
+13. [AI in Business: The Reality Check](#ai-in-business-the-reality-check)
+14. [Quick Reference Card](#quick-reference-card)
 
 ---
 
@@ -296,7 +296,7 @@ This is like the difference between a student who understands algebra and a stud
 
 ---
 
-## 6. Deep Learning — The Magic Sauce
+## 6. Deep Learning: The Magic Sauce
 
 Traditional machine learning had a ceiling. Here's why deep learning broke through it.
 
@@ -408,7 +408,7 @@ When processing "The cat sat on the mat because it was tired," a Transformer dir
 
 ---
 
-## 8. Multimodal AI — Beyond Text
+## 8. Multimodal AI: Beyond Text
 
 For a long time, AI was "blind" or "deaf" it could only process text. Multimodal AI changed that by allowing models to interpret and generate combinations of text, images, audio, and video simultaneously.
 
@@ -422,7 +422,7 @@ Modern models like **Claude 4.5**, **Gemini 3**, and **Grok 4.1** are natively m
 
 ---
 
-## 9. Reasoning Models & Test-Time Compute
+## 9. Reasoning Models and Test-Time Compute
 
 ![Reasoning Models](./assets/reasoning-models.png)
 
@@ -453,7 +453,7 @@ SLMs are the future of agentic AI because they are sufficiently powerful for man
 
 ---
 
-## 11. RAG — Retrieval-Augmented Generation
+## 11. RAG: Retrieval-Augmented Generation
 
 If you ask a standard AI "What was my company's revenue last Tuesday?", it will likely hallucinate (lie) or say it doesn't know. Its training data stopped months ago, and it doesn't have access to your private files.
 
@@ -469,7 +469,7 @@ Instead of trying to memorize everything during training, a RAG system works lik
 
 ---
 
-## 12. AI Agents — The Next Frontier
+## 12. AI Agents: The Next Frontier
 
 In 2025, Sam Altman (CEO of OpenAI) dubbed this the "year of agentic AI." We moved past the "Chatbot" era and into the **"Agentic" era**. 
 
@@ -484,7 +484,7 @@ A chatbot *talks* to you. An agent *works* for you. An agent is task-oriented so
 
 ---
 
-## 13. AI in Business — The Reality Check
+## 13. AI in Business: The Reality Check
 
 ### 13.1 The "Black Box" Problem (Explainable AI)
 Leaders love accountability. AI hates it. 
