@@ -1,0 +1,314 @@
+name: Update READMEs with AI News
+
+on:
+  schedule:
+    # Runs every Monday at 9:00 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readmes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch RSS feeds and update READMEs
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const http = require('http');
+          const fs = require('fs');
+          const path = require('path');
+
+          // RSS feed sources
+          const RSS_FEEDS = [
+            { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', source: 'TechCrunch' },
+            { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', source: 'The Verge' },
+            { url: 'https://venturebeat.com/category/ai/feed/', source: 'VentureBeat' },
+            { url: 'https://openai.com/blog/rss/', source: 'OpenAI Blog' },
+            { url: 'https://www.anthropic.com/rss.xml', source: 'Anthropic' },
+            { url: 'https://blog.google/technology/ai/rss/', source: 'Google AI Blog' }
+          ];
+
+          // Module keyword mapping
+          const MODULE_KEYWORDS = {
+            '01-Intro-to-AI-ML': ['neural network', 'deep learning', 'machine learning', 'training data', 'model architecture', 'ai model', 'artificial intelligence'],
+            '02-Generative-AI': ['llm', 'gpt', 'claude', 'gemini', 'prompt', 'chatgpt', 'language model', 'hallucination', 'grok', 'mistral', 'llama'],
+            '03-AI-Agents-Automation': ['ai agent', 'autonomous', 'tool use', 'mcp', 'function calling', 'agentic', 'automation', 'workflow automation'],
+            '04-AI-Business-Applications': ['enterprise ai', 'business ai', 'productivity', 'workflow', 'customer service', 'sales ai'],
+            '05-Implementation-Playbook': ['ai strategy', 'deployment', 'implementation', 'roi', 'ai adoption', 'scaling ai'],
+            '06-Building-AI-Organization': ['ai team', 'hiring ai', 'ai culture', 'upskilling', 'ai talent', 'ai leadership'],
+            '07-Executive-Productivity': ['ai assistant', 'executive', 'leadership', 'copilot', 'personal ai'],
+            '08-Ethics-Future-AI': ['ai safety', 'ethics', 'regulation', 'agi', 'alignment', 'bias', 'responsible ai', 'ai governance']
+          };
+
+          const MAX_UPDATES_PER_MODULE = 5;
+          const WEEKS_TO_KEEP = 4;
+
+          // Fetch URL with redirect handling
+          function fetchUrl(url, maxRedirects = 5) {
+            return new Promise((resolve, reject) => {
+              if (maxRedirects <= 0) {
+                reject(new Error('Too many redirects'));
+                return;
+              }
+
+              const protocol = url.startsWith('https') ? https : http;
+              const req = protocol.get(url, {
+                headers: {
+                  'User-Agent': 'Mozilla/5.0 (compatible; AINewsBot/1.0)',
+                  'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+                },
+                timeout: 10000
+              }, (res) => {
+                if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+                  let redirectUrl = res.headers.location;
+                  if (!redirectUrl.startsWith('http')) {
+                    const urlObj = new URL(url);
+                    redirectUrl = `${urlObj.protocol}//${urlObj.host}${redirectUrl}`;
+                  }
+                  resolve(fetchUrl(redirectUrl, maxRedirects - 1));
+                  return;
+                }
+
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => resolve(data));
+                res.on('error', reject);
+              });
+
+              req.on('error', reject);
+              req.on('timeout', () => {
+                req.destroy();
+                reject(new Error('Request timeout'));
+              });
+            });
+          }
+
+          // Parse RSS XML to extract articles
+          function parseRSS(xml, source) {
+            const articles = [];
+            const itemRegex = /<item>([\s\S]*?)<\/item>/gi;
+            const titleRegex = /<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/i;
+            const linkRegex = /<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/link>/i;
+            const pubDateRegex = /<pubDate>(.*?)<\/pubDate>/i;
+            const descRegex = /<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i;
+
+            let match;
+            while ((match = itemRegex.exec(xml)) !== null) {
+              const item = match[1];
+              const titleMatch = item.match(titleRegex);
+              const linkMatch = item.match(linkRegex);
+              const dateMatch = item.match(pubDateRegex);
+              const descMatch = item.match(descRegex);
+
+              if (titleMatch && linkMatch) {
+                const title = titleMatch[1].replace(/<[^>]*>/g, '').trim();
+                const link = linkMatch[1].trim();
+                const pubDate = dateMatch ? new Date(dateMatch[1]) : new Date();
+                let description = descMatch ? descMatch[1].replace(/<[^>]*>/g, '').trim() : '';
+                description = description.substring(0, 150) + (description.length > 150 ? '...' : '');
+
+                articles.push({ title, link, pubDate, description, source });
+              }
+            }
+            return articles;
+          }
+
+          // Match article to modules based on keywords
+          function matchModules(article) {
+            const text = (article.title + ' ' + article.description).toLowerCase();
+            const matches = [];
+
+            for (const [module, keywords] of Object.entries(MODULE_KEYWORDS)) {
+              for (const keyword of keywords) {
+                if (text.includes(keyword.toLowerCase())) {
+                  matches.push(module);
+                  break;
+                }
+              }
+            }
+            return matches;
+          }
+
+          // Get current week string
+          function getWeekString(date = new Date()) {
+            const options = { year: 'numeric', month: 'short', day: 'numeric' };
+            return `Week of ${date.toLocaleDateString('en-US', options)}`;
+          }
+
+          // Parse existing updates section from README
+          function parseExistingUpdates(content) {
+            const updatesMatch = content.match(/## Recent Updates\n\n\*Auto-updated weekly[\s\S]*?(?=\n---\n|$)/);
+            if (!updatesMatch) return { weeks: [], existingUrls: new Set() };
+
+            const updatesSection = updatesMatch[0];
+            const weeks = [];
+            const existingUrls = new Set();
+
+            const weekRegex = /### (Week of [^\n]+)\n([\s\S]*?)(?=###|$)/g;
+            let weekMatch;
+
+            while ((weekMatch = weekRegex.exec(updatesSection)) !== null) {
+              const weekTitle = weekMatch[1];
+              const weekContent = weekMatch[2];
+              const articles = [];
+
+              const articleRegex = /- \*\*\[([^\]]+)\]\(([^)]+)\)\*\* - ([^*]+)\*\(([^)]+)\)\*/g;
+              let articleMatch;
+
+              while ((articleMatch = articleRegex.exec(weekContent)) !== null) {
+                articles.push({
+                  title: articleMatch[1],
+                  link: articleMatch[2],
+                  description: articleMatch[3].trim(),
+                  source: articleMatch[4]
+                });
+                existingUrls.add(articleMatch[2]);
+              }
+
+              if (articles.length > 0) {
+                weeks.push({ title: weekTitle, articles });
+              }
+            }
+
+            return { weeks, existingUrls };
+          }
+
+          // Update README with new articles
+          function updateReadme(modulePath, newArticles) {
+            const readmePath = path.join(modulePath, 'README.md');
+            if (!fs.existsSync(readmePath)) return false;
+
+            let content = fs.readFileSync(readmePath, 'utf8');
+            const { weeks, existingUrls } = parseExistingUpdates(content);
+
+            // Filter out already existing articles
+            const filteredArticles = newArticles.filter(a => !existingUrls.has(a.link));
+            if (filteredArticles.length === 0 && weeks.length > 0) return false;
+
+            // Create new week entry
+            const currentWeek = getWeekString();
+            const newWeekArticles = filteredArticles.slice(0, MAX_UPDATES_PER_MODULE);
+
+            if (newWeekArticles.length > 0) {
+              // Add new week at the beginning
+              weeks.unshift({
+                title: currentWeek,
+                articles: newWeekArticles
+              });
+            }
+
+            // Keep only last N weeks
+            const trimmedWeeks = weeks.slice(0, WEEKS_TO_KEEP);
+
+            // Build updates section
+            let updatesSection = `## Recent Updates\n\n*Auto-updated weekly from AI/tech news sources*\n\n`;
+
+            for (const week of trimmedWeeks) {
+              updatesSection += `### ${week.title}\n`;
+              for (const article of week.articles) {
+                updatesSection += `- **[${article.title}](${article.link})** - ${article.description} *(${article.source})*\n`;
+              }
+              updatesSection += '\n';
+            }
+
+            // Remove existing updates section if present
+            content = content.replace(/---\n\n## Recent Updates\n\n\*Auto-updated weekly[\s\S]*?(?=\n---\n|$)/, '');
+
+            // Find insertion point (before final --- or at end)
+            const lastHrMatch = content.match(/\n---\s*$/);
+            if (lastHrMatch) {
+              content = content.replace(/\n---\s*$/, `\n\n---\n\n${updatesSection}---\n`);
+            } else {
+              content = content.trim() + `\n\n---\n\n${updatesSection}`;
+            }
+
+            fs.writeFileSync(readmePath, content);
+            return true;
+          }
+
+          async function main() {
+            console.log('Fetching RSS feeds...');
+            const oneWeekAgo = new Date();
+            oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+
+            const allArticles = [];
+
+            for (const feed of RSS_FEEDS) {
+              try {
+                console.log(`Fetching ${feed.source}...`);
+                const xml = await fetchUrl(feed.url);
+                const articles = parseRSS(xml, feed.source);
+
+                // Filter to last week only
+                const recentArticles = articles.filter(a => a.pubDate >= oneWeekAgo);
+                allArticles.push(...recentArticles);
+                console.log(`  Found ${recentArticles.length} recent articles`);
+              } catch (err) {
+                console.log(`  Error fetching ${feed.source}: ${err.message}`);
+              }
+            }
+
+            console.log(`\nTotal articles from past week: ${allArticles.length}`);
+
+            // Group articles by module
+            const moduleArticles = {};
+            for (const module of Object.keys(MODULE_KEYWORDS)) {
+              moduleArticles[module] = [];
+            }
+
+            for (const article of allArticles) {
+              const modules = matchModules(article);
+              for (const module of modules) {
+                moduleArticles[module].push(article);
+              }
+            }
+
+            // Update each module's README
+            let updatedCount = 0;
+            for (const [module, articles] of Object.entries(moduleArticles)) {
+              if (articles.length > 0) {
+                console.log(`\n${module}: ${articles.length} matching articles`);
+
+                // Sort by date (newest first) and score
+                articles.sort((a, b) => b.pubDate - a.pubDate);
+
+                if (updateReadme(module, articles)) {
+                  console.log(`  Updated README`);
+                  updatedCount++;
+                } else {
+                  console.log(`  No new articles to add`);
+                }
+              }
+            }
+
+            console.log(`\nUpdated ${updatedCount} README files`);
+          }
+
+          main().catch(err => {
+            console.error('Error:', err);
+            process.exit(1);
+          });
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update READMEs with weekly AI news [skip ci]"
+            git push
+          fi
