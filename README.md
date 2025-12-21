@@ -74,54 +74,115 @@ This is the frontier. Modules 1 and 2 covered AI that answers questions and crea
 ---
 
 ### 4. [Applications of AI in Business](./04-AI-Business-Applications)
+*Strategy, Marketing, Sales, and Operations transformed.*
+
+This is where AI meets the P&L. Every business function is being reshaped by AI, and understanding the specific applications helps you prioritize where to invest.
+
+**What you will learn:**
+
+- **The Prediction Machine concept** — AI is not magic; it is cheap prediction. When prediction becomes free, the value of judgment skyrockets. Understanding this economics changes how you think about every AI investment.
+
+- **Agents vs. Chatbots** — The difference between a bot that tells you how to return a shoe and one that actually processes the refund. This is the shift from information to action.
+
+- **Marketing: Segment of One** — How Netflix shows different thumbnails to different users for the same show. Dynamic creative optimization at scale.
+
+- **Sales: Sniper vs. Shotgun** — Moving from spray-and-pray email blasts to signal-based selling where AI finds ready buyers.
+
+- **Operations: The Check Engine Light** — Predictive maintenance, demand forecasting, and supply chain optimization.
+
+**Key takeaway:** You will see exactly how AI applies to each business function, with concrete examples and economics, so you can identify the highest-ROI opportunities in your organization.
 
 ---
 
 ### 5. [The AI Implementation Playbook](./05-Implementation-Playbook)
-*Strategy, execution, and risk management.*
+*From experiment to production engine.*
 
-Moving from theory to practice. How to actually budget, plan, and execute an AI initiative without burning money.
+Most AI projects die in the "Valley of Death" between demo and production. This module is the survival guide.
 
-**What you'll learn:**
-- **The "Crawl, Walk, Run" framework** — Why you should smart small.
-- **Budgeting for AI** — It is not just about API costs; it is about engineering time and data cleaning.
-- **Risk Management** — Red teaming and guardrails.
+**What you will learn:**
+
+- **Embeddings and Vector Databases** — The "Supermarket" analogy for how AI understands meaning, and how to choose between Pinecone, Weaviate, and Chroma.
+
+- **RAG vs. Fine-Tuning** — The "Library vs. Gym" decision. When to give your AI new knowledge (RAG) versus new behavior (Fine-Tuning). 90% of the time, you want RAG.
+
+- **Data Preparation and Chunking** — The "Bread Loaf" problem. How to slice your documents so the AI can digest them properly.
+
+- **Evaluation and Metrics** — Moving from "vibes" to scorecards. The RAG Triad metrics that tell you exactly what to fix.
+
+- **Hallucination Prevention** — How to achieve 96% reduction in hallucination rates with proper grounding and guardrails.
+
+- **Cost Optimization** — Model tiering, caching, and batching. Not every question needs Einstein.
+
+**Key takeaway:** A concrete implementation roadmap from POC to production, with checklists for each phase.
 
 ---
 
 ### 6. [Building the AI Organization](./06-Building-AI-Organization)
-*People, culture, and organizational structure.*
+*Roles, culture, and change management.*
 
-AI is a people problem, not just a tech problem.
+You can buy all the GPUs in the world, but if your culture is fearful, you will fail. AI is a people problem.
 
-**What you'll learn:**
-- **New roles you need** — You might not need a Chief AI Officer, but you do need AI Engineers.
-- **Upskilling strategy** — How to train your existing workforce.
-- **Managing "AI Anxiety"** — How to lead through the fear of replacement.
+**What you will learn:**
+
+- **Hub and Spoke Structure** — Centralize infrastructure and security; decentralize application and workflows. The "Power Plant vs. Appliance" model.
+
+- **The AI Center of Excellence** — What it does, how to staff it, and the four phases of maturity.
+
+- **The Roles You Actually Need** — AI Implementation Engineers, ML Platform Engineers, AI Governance Specialists. Why "Prompt Engineer" is now a skill, not a job.
+
+- **The Hiring Crisis** — AI job postings up 21% annually, but up to half of AI jobs could go unfilled by 2027. How to grow your own talent.
+
+- **The Centaur Mindset** — Killing the "replacement" narrative and installing the "human + AI" narrative. Managing fear through transparency and upskilling.
+
+- **The Upskilling Pyramid** — 100% AI Aware, smaller group AI Builders, expert cohort AI Masters.
+
+**Key takeaway:** A complete playbook for organizational transformation, from structure to culture to training.
 
 ---
 
 ### 7. [Executive Productivity Masterclass](./07-Executive-Productivity)
-*Personal application for leaders.*
+*Your personal AI-powered operating system.*
 
-How to use these tools yourself to multiply your own output.
+This module is personal. How do you, as a leader, use AI to double your cognitive output?
 
-**What you'll learn:**
-- **AI for decision support** — Using LLMs as a sparring partner.
-- **The "Digital Chief of Staff"** — Automating your inbox and schedule.
-- **Advanced prompting for leadership** — Writing strategic memos and speeches.
+**What you will learn:**
+
+- **The Chief of Staff Mental Model** — Stop thinking of AI as software. Think of it as a Harvard Grad Intern who is incredibly smart, incredibly fast, and incredibly naive.
+
+- **The Second Brain** — Capture, storage, and retrieval. How to build a personal knowledge engine with NotebookLM, Readwise, and Obsidian.
+
+- **Decision Making: The Simulator** — Using AI as a Devil's Advocate, Board Member simulator, and Competitor role-player to stress-test your strategies.
+
+- **Meetings: The Scribe** — Outsourcing memory so you can focus on thinking. Otter, Fireflies, Granola.
+
+- **The 2025 Tech Stack** — Perplexity for research, Claude for writing, NotebookLM for documents, Motion for scheduling. Under $100/month for capabilities that would have cost $500,000 in human staff.
+
+**Key takeaway:** A complete personal productivity system built on AI, with daily and weekly routines.
 
 ---
 
 ### 8. [Ethics & Future of AI](./08-Ethics-Future-AI)
-*Risk, responsibility, and trajectory.*
+*Risk, responsibility, and the road ahead.*
 
-Module 1-4 focused on what AI *can* do. This module focuses on what it *should* do, and where the technology is heading next.
+If you get Strategy wrong, you lose money. If you get Ethics wrong, you lose your reputation, your freedom, or worse.
 
-**What you'll learn:**
-- **The specific risks of GenAI** — Beyond just "bias," we look at hallucination, data leakage, and copyright liability.
-- **The regulatory landscape** — What leaders need to know about the EU AI Act and emerging standards.
-- **The future trajectory** — From multimodal models to reasoning agents.
+**What you will learn:**
+
+- **The Alignment Problem** — The "King Midas" risk. AI does exactly what you ask, not what you want. Why constraints matter more than goals.
+
+- **Model Collapse** — The "Habsburg Jaw" of AI. Why training AI on AI-generated data leads to degradation, and why human data is gold.
+
+- **The EU AI Act** — The first comprehensive AI regulation. Risk tiers, compliance timelines, and penalties up to 7% of global turnover.
+
+- **The Deepfake Crisis** — When you cannot trust your eyes or ears. The "Safe Word" solution and organizational defenses.
+
+- **Content Credentials (C2PA)** — The digital watermark solution. How 300+ organizations are building provenance into content.
+
+- **The AGI Timeline** — What Sam Altman, Dario Amodei, and Demis Hassabis are actually saying about when AGI arrives.
+
+- **Bias and Fairness** — The Amazon resume screener case study. Where bias appears and how to mitigate it.
+
+**Key takeaway:** The 5 Golden Rules for ethical AI deployment: Humans in the Loop, Disclosure, Data Dignity, Red Teaming, and Optimism.
 
 ---
 
