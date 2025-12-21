@@ -2,157 +2,361 @@
   {
     "module": "01",
     "title": "What is AI?",
-    "url": "./01-Intro-to-AI-ML/#what-even-is-ai",
-    "content": "AI is pattern recognition at scale. Math plus data plus computing power. Pattern matching that recognizes cats, spam, faces."
+    "url": "./01-Intro-to-AI-ML/#1-what-even-is-ai",
+    "content": "AI is pattern recognition at scale. Math plus data plus computing power. Pattern matching that recognizes cats, spam, faces. Not mystical, just really good pattern matching."
+  },
+  {
+    "module": "01",
+    "title": "The Three Levels of AI",
+    "url": "./01-Intro-to-AI-ML/#the-three-levels-of-ai",
+    "content": "Narrow AI for one specific task like spam filters. General Purpose AI handles many tasks like Claude, Gemini, GPT. AGI is human-level intelligence and doesn't exist yet."
   },
   {
     "module": "01",
     "title": "AI vs Machine Learning vs Deep Learning",
-    "url": "./01-Intro-to-AI-ML/#ai-vs-machine-learning-vs-deep-learning",
-    "content": "Russian doll analogy. AI is the big umbrella. Machine Learning improves from data. Deep Learning uses neural networks."
+    "url": "./01-Intro-to-AI-ML/#2-ai-vs-machine-learning-vs-deep-learning",
+    "content": "Russian doll analogy. AI is the big umbrella. Machine Learning improves from data. Deep Learning uses neural networks with many layers."
   },
   {
     "module": "01",
-    "title": "How Machines Learn",
-    "url": "./01-Intro-to-AI-ML/#how-machines-actually-learn",
-    "content": "Supervised learning with labeled data. Unsupervised learning finds patterns. Reinforcement learning learns from rewards."
+    "title": "Machine Learning Explained",
+    "url": "./01-Intro-to-AI-ML/#machine-learning-the-game-changer",
+    "content": "Traditional programming is human writes rules, computer follows. Machine learning is human provides examples, computer discovers rules. System improves itself by looking at data."
+  },
+  {
+    "module": "01",
+    "title": "Supervised Learning",
+    "url": "./01-Intro-to-AI-ML/#1-supervised-learning-the-teacher-method",
+    "content": "Teaching with flashcards. Give machine data AND correct answers. Used for loan default prediction, disease diagnosis from X-rays, spam filtering."
+  },
+  {
+    "module": "01",
+    "title": "Unsupervised Learning",
+    "url": "./01-Intro-to-AI-ML/#2-unsupervised-learning-the-explorer-method",
+    "content": "Give AI data but no answers. Find patterns without labels. Customer segmentation, anomaly detection, market basket analysis. Discovers unknown patterns."
+  },
+  {
+    "module": "01",
+    "title": "Reinforcement Learning",
+    "url": "./01-Intro-to-AI-ML/#3-reinforcement-learning-the-trial--error-method",
+    "content": "Trial and error with rewards. Like training a dog with treats. Used for robotics, trading algorithms, self-driving cars, game AI like AlphaGo."
   },
   {
     "module": "01",
     "title": "Garbage In Garbage Out",
-    "url": "./01-Intro-to-AI-ML/#the-golden-rule-garbage-in-garbage-out",
-    "content": "Data quality is everything. Your AI is only as good as your data. Bias in data leads to bias in predictions."
+    "url": "./01-Intro-to-AI-ML/#5-the-golden-rule-garbage-in-garbage-out",
+    "content": "Data quality is everything. Your AI is only as good as your data. Bias in data leads to bias in predictions. Amazon's hiring AI learned gender bias from historical data."
+  },
+  {
+    "module": "01",
+    "title": "Data Strategy for Leaders",
+    "url": "./01-Intro-to-AI-ML/#51-data-strategy-for-leaders",
+    "content": "Data Governance: who owns data, is it legal to use. Data Lineage: trace where information came from. Data Diversity: does data represent all customers."
   },
   {
     "module": "01",
     "title": "Deep Learning & Neural Networks",
-    "url": "./01-Intro-to-AI-ML/#deep-learning--why-things-got-so-good",
-    "content": "Neural networks with multiple layers. CNNs for images. RNNs for sequences. Transformers revolutionized NLP."
+    "url": "./01-Intro-to-AI-ML/#6-deep-learning--the-magic-sauce",
+    "content": "Neural networks with multiple layers. Figures out important features automatically. Layer 1 detects edges, Layer 2 shapes, Layer 3 parts, Layer 4 objects."
+  },
+  {
+    "module": "01",
+    "title": "CNN - Convolutional Neural Networks",
+    "url": "./01-Intro-to-AI-ML/#cnns-convolutional-neural-networks-built-for-vision",
+    "content": "Built for images and vision. Tesla cameras, medical imaging, facial recognition, manufacturing quality control. Learns position-independent patterns."
+  },
+  {
+    "module": "01",
+    "title": "RNN - Recurrent Neural Networks",
+    "url": "./01-Intro-to-AI-ML/#rnns-recurrent-neural-networks-built-for-sequences",
+    "content": "Built for sequences where order matters. Text, time series, audio. Has memory. Used for word prediction, speech recognition, stock prices."
+  },
+  {
+    "module": "01",
+    "title": "Transformers Architecture",
+    "url": "./01-Intro-to-AI-ML/#transformers-the-new-king",
+    "content": "Attention Is All You Need paper from 2017. Looks at entire sequence at once. Powers GPT, Claude, Gemini. Context windows up to 3M+ tokens."
   },
   {
     "module": "01",
     "title": "Multimodal AI",
-    "url": "./01-Intro-to-AI-ML/#multimodal-ai--beyond-text",
-    "content": "AI that handles text, images, audio, video. Vision language models. GPT-4V, Gemini, Claude can see and describe images."
+    "url": "./01-Intro-to-AI-ML/#8-multimodal-ai--beyond-text",
+    "content": "AI that handles text, images, audio, video simultaneously. Claude 4.5, Gemini 3, Grok 4.1 are natively multimodal. Can see, hear, and speak."
+  },
+  {
+    "module": "01",
+    "title": "Reasoning Models & Test-Time Compute",
+    "url": "./01-Intro-to-AI-ML/#9-reasoning-models--test-time-compute",
+    "content": "Models like OpenAI o1, o3 that think before speaking. Chain of Thought reasoning. The more time to think, the better the answer. RLVR training."
+  },
+  {
+    "module": "01",
+    "title": "Small Language Models (SLMs)",
+    "url": "./01-Intro-to-AI-ML/#10-small-language-models-slms",
+    "content": "Microsoft Phi, Gemini Nano, distilled Llama. Run on device without internet. Privacy benefits. 100x cheaper and faster. 140x more efficient than 2023."
   },
   {
     "module": "01",
     "title": "RAG - Retrieval Augmented Generation",
-    "url": "./01-Intro-to-AI-ML/#rag--retrieval-augmented-generation",
-    "content": "Giving AI access to external knowledge. Vector databases store embeddings. Reduces hallucinations with grounded answers."
+    "url": "./01-Intro-to-AI-ML/#11-rag--retrieval-augmented-generation",
+    "content": "Open book solution for AI. Retrieves relevant documents from database. Generates answer based on verified data. Stops hallucinations, keeps data current."
   },
   {
     "module": "01",
-    "title": "Small Language Models",
-    "url": "./01-Intro-to-AI-ML/#small-language-models-slms",
-    "content": "Smaller models like Phi, Mistral, Llama. Run on device. Lower cost, faster inference, privacy benefits."
+    "title": "AI Agents Introduction",
+    "url": "./01-Intro-to-AI-ML/#12-ai-agents--the-next-frontier",
+    "content": "Chatbot talks, agent works for you. Task-oriented, autonomous. Search web, use tools, connect to APIs. Multi-agent systems work together."
+  },
+  {
+    "module": "01",
+    "title": "Prediction vs Judgment",
+    "url": "./01-Intro-to-AI-ML/#2-prediction-vs-judgment",
+    "content": "AI lowers the cost of prediction. Humans still own judgment. Prediction tells probabilities. Judgment decides the response. AI makes judgment more powerful."
+  },
+  {
+    "module": "01",
+    "title": "Buy vs Build Framework",
+    "url": "./01-Intro-to-AI-ML/#132-the-buy-vs-build-framework",
+    "content": "Should you train your own model or use API? Buy is instant and cheap to start. Build needs hard-to-find AI talent. Buy first, only build if unique data advantage."
+  },
+  {
+    "module": "01",
+    "title": "The API Revolution",
+    "url": "./01-Intro-to-AI-ML/#1-the-api-revolution",
+    "content": "You don't need a PhD to use AI anymore. Just need an API key. Cost dropped 280-fold since 2022. Startups can add world-class AI in a weekend."
   },
   {
     "module": "02",
     "title": "What is Generative AI?",
     "url": "./02-Generative-AI/#1-what-is-generative-ai",
-    "content": "AI that creates new content. Text, images, code, music. Prediction on steroids. The first draft costs zero."
+    "content": "AI that creates new content. Text, images, code, music. Prediction on steroids. Traditional AI is a librarian, Generative AI is a writer."
+  },
+  {
+    "module": "02",
+    "title": "How Generative AI Works",
+    "url": "./02-Generative-AI/#11-how-it-actually-works",
+    "content": "Prediction on steroids. Calculates highest probability next word. Playing sophisticated game of what word comes next, hundreds of times per response."
+  },
+  {
+    "module": "02",
+    "title": "First Draft Costs Zero",
+    "url": "./02-Generative-AI/#12-why-this-changes-everything",
+    "content": "The first draft of anything now costs basically zero. Work shifted from creation to curation and editing. Like shift from hand-copying to printing press."
   },
   {
     "module": "02",
     "title": "Large Language Models (LLMs)",
     "url": "./02-Generative-AI/#2-large-language-models-llms",
-    "content": "GPT, Claude, Gemini, Llama. Trained on internet text. Predict next token. Billions of parameters."
+    "content": "GPT, Claude, Gemini, Llama. Neural networks trained on text. GPT-5.2 has 3.5+ trillion parameters. DeepSeek proved efficiency beats raw size."
   },
   {
     "module": "02",
-    "title": "Tokens and Context Windows",
-    "url": "./02-Generative-AI/#3-tokens--context-windows",
-    "content": "Tokens are word pieces. Context window is memory limit. 128K tokens means longer conversations. Token pricing affects cost."
+    "title": "Mixture of Experts (MoE)",
+    "url": "./02-Generative-AI/#the-breakthrough-total-vs-active-parameters",
+    "content": "Like a hospital floor instead of one doctor. Total parameters is all knowledge. Active parameters is the subset used for your specific prompt."
   },
   {
     "module": "02",
-    "title": "Prompt Engineering",
-    "url": "./02-Generative-AI/#4-prompt-engineering",
-    "content": "How you ask matters. System prompts set behavior. Few-shot examples guide output. Chain of thought for reasoning."
+    "title": "RAG vs Fine-tuning",
+    "url": "./02-Generative-AI/#211-rag-vs-fine-tuning-the-textbook-vs-med-school",
+    "content": "Fine-tuning is like med school, teaches behavior and style. RAG is like a textbook, teaches facts. 90% of business use cases need RAG not fine-tuning."
   },
   {
     "module": "02",
-    "title": "Temperature and Sampling",
-    "url": "./02-Generative-AI/#temperature",
-    "content": "Temperature controls randomness. Low temperature for facts. High temperature for creativity. Top-p nucleus sampling."
-  },
-  {
-    "module": "02",
-    "title": "Fine-tuning LLMs",
-    "url": "./02-Generative-AI/#fine-tuning",
-    "content": "Customize models for specific tasks. LoRA for efficient training. Domain adaptation. Instruction tuning."
-  },
-  {
-    "module": "03",
-    "title": "From Chatbots to Agents",
-    "url": "./03-AI-Agents-Automation/#1-from-chatbots-to-agents",
-    "content": "Chatbots talk, agents do. Goal-following vs recipe-following. Agents take actions autonomously."
-  },
-  {
-    "module": "03",
-    "title": "How Agents Work",
-    "url": "./03-AI-Agents-Automation/#2-how-agents-work",
-    "content": "The agent loop: perceive, think, act, observe. Four components: brain, tools, memory, planning."
-  },
-  {
-    "module": "03",
-    "title": "Tools - The Agent's Hands",
-    "url": "./03-AI-Agents-Automation/#3-tools--the-agents-hands",
-    "content": "Function calling. API integrations. Computer use for browser automation. MCP protocol for tool connections."
-  },
-  {
-    "module": "03",
-    "title": "Agent Memory Systems",
-    "url": "./03-AI-Agents-Automation/#4-memory--how-agents-remember",
-    "content": "Short-term memory in context. Long-term memory with vector databases. Episodic and semantic memory."
-  },
-  {
-    "module": "03",
-    "title": "Agentic Design Patterns",
-    "url": "./03-AI-Agents-Automation/#5-agentic-design-patterns",
-    "content": "Reflection for self-checking. ReAct for reasoning and acting. Multi-agent collaboration and orchestration."
-  },
-  {
-    "module": "03",
-    "title": "Multi-Agent Systems",
-    "url": "./03-AI-Agents-Automation/#3-multi-agent-collaboration",
-    "content": "Multiple agents working together. Specialized roles. Debate and consensus. CrewAI, AutoGen frameworks."
-  },
-  {
-    "module": "03",
-    "title": "Running Models Locally",
-    "url": "./03-AI-Agents-Automation/#7-running-models-locally",
-    "content": "Ollama for local inference. LM Studio GUI. Privacy and offline use. Quantization for smaller models."
-  },
-  {
-    "module": "03",
-    "title": "Agent Frameworks",
-    "url": "./03-AI-Agents-Automation/#8-frameworks-to-build-agents",
-    "content": "LangChain, LangGraph for building agents. CrewAI for multi-agent. Semantic Kernel from Microsoft."
-  },
-  {
-    "module": "01",
-    "title": "Prediction vs Judgment",
-    "url": "./01-Intro-to-AI-ML/#ai-in-business--the-reality-check",
-    "content": "AI lowers the cost of prediction. Humans still own judgment. Strategic decisions need human oversight."
+    "title": "LLM Training Recipe",
+    "url": "./02-Generative-AI/#22-the-modern-training-recipe-2025",
+    "content": "Pretraining reads internet. Supervised Fine-Tuning shows good examples. RLHF for human vibe. RLVR for logic and math verification rewards."
   },
   {
     "module": "02",
     "title": "Comparing LLM Models",
     "url": "./02-Generative-AI/#23-the-major-players-right-now",
-    "content": "OpenAI GPT-4, Anthropic Claude, Google Gemini, Meta Llama. Benchmarks like MMLU, HumanEval. Pricing comparison."
+    "content": "Claude 4.5 Opus is IQ King for programming and writing. GPT-5.2 is powerhouse generalist. Gemini 3 Pro handles 3M+ tokens. Llama 4 is open-source standard."
   },
   {
-    "module": "01",
-    "title": "Reasoning Models",
-    "url": "./01-Intro-to-AI-ML/#reasoning-models--test-time-compute",
-    "content": "o1, o3 models that think step by step. Test-time compute. Chain of thought reasoning. Better at math and logic."
+    "module": "02",
+    "title": "LLM Pricing",
+    "url": "./02-Generative-AI/#24-how-llms-are-priced",
+    "content": "Pay per token not per word. Input tokens are cheaper, output tokens more expensive. Generation runs full network for every token. CAPEX vs OPEX."
+  },
+  {
+    "module": "02",
+    "title": "LLM Benchmarks",
+    "url": "./02-Generative-AI/#25-how-to-compare-llms-benchmarks",
+    "content": "Humanity's Last Exam for PhD-level reasoning. SWE-bench for software engineering. GPQA Diamond for expert knowledge. LMSYS Arena for human preference."
+  },
+  {
+    "module": "02",
+    "title": "Hallucinations & Grounding",
+    "url": "./02-Generative-AI/#251-hallucinations--grounding",
+    "content": "AI generates false information confidently. Fix with grounding: force AI to cite sources. Answer using ONLY provided document. Never use raw LLM for factual queries."
+  },
+  {
+    "module": "02",
+    "title": "Tokens and Context Windows",
+    "url": "./02-Generative-AI/#3-tokens--context-windows",
+    "content": "Tokens are word pieces, about 4 characters. Context window is AI working memory. 1000 tokens equals 750 words. Gemini 3 Pro has 3M+ token context."
+  },
+  {
+    "module": "02",
+    "title": "Prompt Engineering",
+    "url": "./02-Generative-AI/#4-prompt-engineering",
+    "content": "How you ask matters. Perfect prompt formula: Role, Context, Task. System prompts set behavior. Few-shot examples guide output. Chain of thought for reasoning."
+  },
+  {
+    "module": "02",
+    "title": "Zero-Shot Prompting",
+    "url": "./02-Generative-AI/#zero-shot--just-ask-directly",
+    "content": "Just ask directly with no examples. Works for simple unambiguous tasks. Translate, define, explain. Fails for nuanced tasks where format isn't obvious."
+  },
+  {
+    "module": "02",
+    "title": "Few-Shot Prompting",
+    "url": "./02-Generative-AI/#few-shot--show-examples-first",
+    "content": "Show input-output example pairs first. Model sees pattern and applies it. Classification, formatting, style transfer. More examples make pattern clearer."
+  },
+  {
+    "module": "02",
+    "title": "Chain of Thought Prompting",
+    "url": "./02-Generative-AI/#chain-of-thought--think-step-by-step",
+    "content": "Tell AI to reason through problem before answering. Think step by step. Prevents jumping to wrong conclusions. Best for math, logic, multi-step analysis."
+  },
+  {
+    "module": "02",
+    "title": "Temperature Setting",
+    "url": "./02-Generative-AI/#temperature-00-to-10",
+    "content": "Controls randomness in token selection. Temperature 0 is deterministic for code and facts. Temperature 0.7-0.9 for creative writing. High temperature for wild ideas."
+  },
+  {
+    "module": "03",
+    "title": "From Chatbots to Agents",
+    "url": "./03-AI-Agents-Automation/#1-from-chatbots-to-agents",
+    "content": "Chatbot talks, agent does. Goal-following vs recipe-following. Agent is like hiring assistant who does the work. Specify outcome, AI figures out steps and executes."
+  },
+  {
+    "module": "03",
+    "title": "Traditional Software vs AI Agents",
+    "url": "./03-AI-Agents-Automation/#traditional-software-vs-ai-agents",
+    "content": "Traditional software follows explicit rules. Agents follow goals and reason through obstacles. Agents handle situations developer never programmed for."
+  },
+  {
+    "module": "03",
+    "title": "Human-in-the-Loop",
+    "url": "./03-AI-Agents-Automation/#11-human-in-the-loop-hitl",
+    "content": "Agent does work but pauses for human approval before dangerous actions. The Copilot model: agent proposes, human disposes. Always demand HITL switch for spending money."
+  },
+  {
+    "module": "03",
+    "title": "How Agents Work",
+    "url": "./03-AI-Agents-Automation/#2-how-agents-work",
+    "content": "Four core components: Brain (LLM), Tools (hands), Planning, Observation. The agent loop: think, act, observe, repeat until goal complete."
+  },
+  {
+    "module": "03",
+    "title": "The Agent Loop",
+    "url": "./03-AI-Agents-Automation/#the-agent-loop-in-action",
+    "content": "Think: reason about what to do. Act: call a tool. Observe: see what happened. Agents reason through obstacles that weren't pre-programmed."
+  },
+  {
+    "module": "03",
+    "title": "Tools - The Agent's Hands",
+    "url": "./03-AI-Agents-Automation/#3-tools--the-agents-hands",
+    "content": "LLM can only generate text, tools let it act. Computer Use, web search, browse, code execution, email, database queries. Like apps on a smartphone."
   },
   {
     "module": "03",
     "title": "Computer Use",
     "url": "./03-AI-Agents-Automation/#the-master-key-computer-use",
-    "content": "AI that controls mouse and keyboard. Browser automation. Vision-based interaction. OpenAI Operator, Claude computer use."
+    "content": "AI that controls mouse and keyboard. OpenAI Operator, Claude computer use. Vision-based interaction. Uses any app without needing specific API. The master key."
+  },
+  {
+    "module": "03",
+    "title": "Tool Descriptions",
+    "url": "./03-AI-Agents-Automation/#how-the-ai-chooses-tools",
+    "content": "AI reads tool descriptions to decide which to use. Good descriptions lead to correct tool choice. Write descriptions like explaining to smart but uninformed person."
+  },
+  {
+    "module": "03",
+    "title": "Agent Security - Prompt Injection",
+    "url": "./03-AI-Agents-Automation/#32-security-risks-prompt-injection",
+    "content": "Nightmare scenario: hacker embeds instructions in email that agent follows. SQL Injection of the AI era. Never give agent god mode permissions. Use spending limits."
+  },
+  {
+    "module": "03",
+    "title": "Agent Memory Systems",
+    "url": "./03-AI-Agents-Automation/#4-memory--how-agents-remember",
+    "content": "Short-term memory is conversation context in context window. Long-term memory uses vector databases for cross-session memory. Semantic search by meaning."
+  },
+  {
+    "module": "03",
+    "title": "Vector Databases",
+    "url": "./03-AI-Agents-Automation/#long-term-memory-vector-databases",
+    "content": "Store text as numerical vectors representing meaning. Search by similarity, not keywords. Pinecone, Chroma, Weaviate, Qdrant. Enables remembering across sessions."
+  },
+  {
+    "module": "03",
+    "title": "Reflection Pattern",
+    "url": "./03-AI-Agents-Automation/#1-reflection--self-checking",
+    "content": "Agent reviews its own work before delivering. Self-proofreading catches errors. Code generation: run code, observe errors, fix, run again until works."
+  },
+  {
+    "module": "03",
+    "title": "Planning Pattern",
+    "url": "./03-AI-Agents-Automation/#2-planning--think-before-acting",
+    "content": "Create roadmap before executing. Without planning, agents go in circles or miss steps. Front-loads thinking. Makes dependencies explicit."
+  },
+  {
+    "module": "03",
+    "title": "Multi-Agent Systems",
+    "url": "./03-AI-Agents-Automation/#3-multi-agent-collaboration",
+    "content": "Multiple specialized agents work together. Researcher, Writer, Editor, Fact-checker. Each agent has narrow focus. CrewAI, AutoGen, LangGraph frameworks."
+  },
+  {
+    "module": "03",
+    "title": "Best Models for Agents",
+    "url": "./03-AI-Agents-Automation/#6-which-models-make-good-agents",
+    "content": "GPT-5.2 and Claude 4.5 Opus are top tier. Gemini 3 Flash is the sweet spot for developers. Llama 4 for private on-prem agents. Need strong reasoning and tool-use."
+  },
+  {
+    "module": "03",
+    "title": "Running Models Locally",
+    "url": "./03-AI-Agents-Automation/#7-running-models-locally",
+    "content": "Ollama for local inference on your computer. LM Studio GUI. AWS Bedrock and Azure OpenAI for cloud with data sovereignty. Privacy and offline use benefits."
+  },
+  {
+    "module": "03",
+    "title": "Agent Frameworks",
+    "url": "./03-AI-Agents-Automation/#8-frameworks-to-build-agents",
+    "content": "PydanticAI for enterprise. CrewAI for multi-agent teams. OpenAI Agents SDK for GPT integration. LangGraph for complex workflows. Smolagents for lightweight agents."
+  },
+  {
+    "module": "01",
+    "title": "AI History Timeline",
+    "url": "./01-Intro-to-AI-ML/#3-a-quick-history-the-cliff-notes-version",
+    "content": "1956 birth of AI. AI Winters in 70s-90s. 2012 ImageNet breakthrough with GPUs. 2017 Transformers paper. 2022 ChatGPT explosion. 2025 Claude 4.5 and Gemini 3."
+  },
+  {
+    "module": "02",
+    "title": "Open vs Closed Models",
+    "url": "./02-Generative-AI/#252-open-vs-closed-source-strategy",
+    "content": "Closed models like GPT, Claude are smartest and easiest. Open models like Llama give control and privacy. Open models slightly dumber but no vendor lock-in."
+  },
+  {
+    "module": "02",
+    "title": "Context Window Explained",
+    "url": "./02-Generative-AI/#32-context-windows--the-ais-short-term-memory",
+    "content": "Everything AI can see at once. Current message, conversation history, documents, system prompt. Legacy was 8K tokens. Gemini 3 Pro has 3M+ tokens."
+  },
+  {
+    "module": "03",
+    "title": "Agent Economy",
+    "url": "./03-AI-Agents-Automation/#33-the-agent-economy",
+    "content": "Agents talking to agents. Personal shopping agent negotiates with travel agency agent. Agents will have digital wallets. Is your website agent-readable?"
+  },
+  {
+    "module": "03",
+    "title": "Measuring Agent Performance",
+    "url": "./03-AI-Agents-Automation/#31-measuring-agent-performance",
+    "content": "Success rate without human intervention. Cost per task. Resolution time vs human. Customer sentiment for client-facing agents."
   }
 ]

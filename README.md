@@ -162,4 +162,4 @@ The goal is to give you mental models that hold up when the specific technologie
 
 ---
 
-*Last updated: 20-12-2025*
+*Last updated: 21-12-2025*

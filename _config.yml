@@ -9,4 +9,10 @@ include:
   - 02-Generative-AI
   - 03-AI-Agents-Automation
   - 04-AI-Business-Applications
-  - 05-Ethics-Future-AI
+  - 05-Implementation-Playbook
+  - 06-Building-AI-Organization
+  - 07-Executive-Productivity
+  - 08-Ethics-Future-AI
+  - tools.json
+  - news.json
+  - search-index.json

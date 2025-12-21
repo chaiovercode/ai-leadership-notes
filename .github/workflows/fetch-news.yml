@@ -2,8 +2,8 @@ name: Fetch Trending AI & Tech News
 
 on:
   schedule:
-    # Runs daily at 7:00 AM UTC (adjust timezone as needed)
-    - cron: '0 7 * * *'
+    # Runs daily at 7:00 AM IST (adjust timezone as needed)
+    - cron: '0 12 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -38,13 +38,14 @@ jobs:
 
           const AI_TECH_KEYWORDS = [
             'ai', 'artificial intelligence', 'machine learning', 'ml', 'llm', 'gpt',
-            'claude', 'openai', 'anthropic', 'google', 'microsoft', 'meta', 'apple',
+            'claude', 'openai', 'anthropic', 'google', 'gemini, 'microsoft', 'meta', 'apple',
             'neural', 'deep learning', 'transformer', 'chatbot', 'copilot',
             'automation', 'robot', 'agent', 'model', 'training', 'inference',
             'startup', 'tech', 'software', 'developer', 'programming', 'code',
             'api', 'cloud', 'data', 'security', 'crypto', 'blockchain', 'web',
             'python', 'javascript', 'rust', 'golang', 'open source', 'github',
-            'saas', 'funding', 'acquisition', 'launch', 'product'
+            'saas', 'funding', 'acquisition', 'launch', 'product', 'deepseek',
+            'qwen', 'kimi'
           ];
 
           const isRelevant = (title) => {
