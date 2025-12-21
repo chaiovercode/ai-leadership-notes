@@ -528,6 +528,413 @@
             opacity: 1;
             transform: translateY(0);
         }
+
+        /* News Panel */
+        .news-panel {
+            position: fixed;
+            right: 0;
+            top: 80px;
+            width: 320px;
+            max-height: calc(100vh - 100px);
+            background: var(--bg-card);
+            border-left: 1px solid var(--border);
+            z-index: 100;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s ease;
+        }
+
+        .news-panel-header {
+            padding: 1rem 1.25rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: var(--bg-card);
+            flex-shrink: 0;
+        }
+
+        .news-panel-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .news-panel-title::before {
+            content: '>';
+            color: var(--secondary);
+        }
+
+        .news-list {
+            overflow-y: auto;
+            flex: 1;
+            padding: 0.5rem 0;
+        }
+
+        .news-item {
+            display: block;
+            padding: 0.85rem 1.25rem;
+            text-decoration: none;
+            border-bottom: 1px solid var(--border);
+            transition: background 0.2s ease;
+        }
+
+        .news-item:hover {
+            background: var(--bg-card-hover);
+        }
+
+        .news-item:last-child {
+            border-bottom: none;
+        }
+
+        .news-item-title {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            margin-bottom: 0.4rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .news-item:hover .news-item-title {
+            color: var(--text-primary);
+        }
+
+        .news-item-meta {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-dim);
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .news-item-meta span {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+
+        .news-panel-footer {
+            padding: 0.75rem 1.25rem;
+            border-top: 1px solid var(--border);
+            background: var(--bg-card);
+            flex-shrink: 0;
+        }
+
+        .news-updated {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-dim);
+        }
+
+        .news-source-link {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--accent);
+            text-decoration: none;
+            float: right;
+        }
+
+        .news-source-link:hover {
+            color: var(--primary);
+        }
+
+        /* Adjust main content when panel is visible */
+        @media (min-width: 1200px) {
+            .container {
+                margin-right: 340px;
+            }
+        }
+
+        @media (max-width: 1199px) {
+            .news-panel {
+                display: none;
+            }
+        }
+
+        /* AI Tools Directory */
+        .ai-tools {
+            padding: 6rem 0;
+            border-top: 1px solid var(--border);
+        }
+
+        .tools-filter {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-muted);
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            border-color: var(--primary);
+            color: var(--primary);
+            background: rgba(34, 211, 238, 0.1);
+        }
+
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+
+        .tool-card {
+            display: block;
+            padding: 1.25rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            text-decoration: none;
+            transition: all 0.2s ease;
+        }
+
+        .tool-card:hover {
+            border-color: var(--primary);
+            background: var(--bg-card-hover);
+            transform: translateY(-2px);
+        }
+
+        .tool-card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        .tool-name {
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .tool-category {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--accent);
+            background: rgba(251, 191, 36, 0.1);
+            padding: 0.2rem 0.5rem;
+            border-radius: 3px;
+        }
+
+        .tool-description {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        .tool-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            margin-top: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--primary);
+        }
+
+        .tool-card:hover .tool-link {
+            color: var(--secondary);
+        }
+
+        /* Suggest Topic Form */
+        .suggest-topic {
+            padding: 4rem 0;
+            border-top: 1px solid var(--border);
+        }
+
+        .suggest-form {
+            max-width: 500px;
+            margin: 2rem auto 0;
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-label {
+            display: block;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .form-input,
+        .form-textarea {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-primary);
+            transition: border-color 0.2s ease;
+        }
+
+        .form-input:focus,
+        .form-textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .form-textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+
+        .form-submit {
+            width: 100%;
+            padding: 0.9rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.95rem;
+            font-weight: 500;
+            background: var(--primary);
+            color: var(--bg-primary);
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .form-submit:hover {
+            box-shadow: 0 0 20px rgba(34, 211, 238, 0.4);
+        }
+
+        .form-success {
+            text-align: center;
+            padding: 2rem;
+            color: var(--secondary);
+        }
+
+        /* Search Bar */
+        .search-container {
+            position: relative;
+            margin-right: 1rem;
+        }
+
+        .search-input {
+            width: 200px;
+            padding: 0.5rem 0.75rem 0.5rem 2rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--text-primary);
+            transition: all 0.2s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary);
+            width: 280px;
+        }
+
+        .search-input::placeholder {
+            color: var(--text-dim);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 0.6rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 14px;
+            height: 14px;
+            color: var(--text-dim);
+            pointer-events: none;
+        }
+
+        .search-results {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            margin-top: 0.5rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            max-height: 400px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .search-results.active {
+            display: block;
+        }
+
+        .search-result-item {
+            display: block;
+            padding: 0.75rem 1rem;
+            text-decoration: none;
+            border-bottom: 1px solid var(--border);
+            transition: background 0.2s ease;
+        }
+
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+
+        .search-result-item:hover {
+            background: var(--bg-card-hover);
+        }
+
+        .search-result-title {
+            font-size: 0.85rem;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .search-result-module {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--primary);
+        }
+
+        .search-result-snippet {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .search-no-results {
+            padding: 1rem;
+            text-align: center;
+            color: var(--text-dim);
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 768px) {
+            .search-container {
+                display: none;
+            }
+        }
     </style>
 </head>
 
@@ -541,10 +948,18 @@
         <div class="nav-logo">ai-leadership-notes</div>
         <ul class="nav-links">
             <li><a href="#modules">modules</a></li>
+            <li><a href="#ai-tools">tools</a></li>
             <li><a href="#philosophy">philosophy</a></li>
-            <li><a href="#quick-nav">quick_nav</a></li>
         </ul>
         <div class="nav-right">
+            <div class="search-container">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+                <input type="text" class="search-input" id="searchInput" placeholder="search modules...">
+                <div class="search-results" id="searchResults"></div>
+            </div>
             <button class="theme-toggle" aria-label="Toggle theme">
                 <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="5" />
@@ -565,6 +980,20 @@
             </a>
         </div>
     </nav>
+
+    <!-- News Panel -->
+    <aside class="news-panel" id="newsPanel">
+        <div class="news-panel-header">
+            <span class="news-panel-title">trending_news</span>
+        </div>
+        <div class="news-list" id="newsList">
+            <!-- News items loaded dynamically -->
+        </div>
+        <div class="news-panel-footer">
+            <span class="news-updated" id="newsUpdated">loading...</span>
+            <a href="https://news.ycombinator.com" target="_blank" rel="noopener" class="news-source-link">hn -></a>
+        </div>
+    </aside>
 
     <div class="container">
         <!-- Hero -->
@@ -732,6 +1161,31 @@
             </div>
         </section>
 
+        <!-- AI Tools Directory -->
+        <section class="ai-tools" id="ai-tools">
+            <div class="section-header">
+                <p class="section-label">toolkit</p>
+                <h2 class="section-title">AI Tools Directory</h2>
+                <p class="section-subtitle">Curated tools to supercharge your AI workflow. Click to explore.</p>
+            </div>
+            <div class="tools-filter">
+                <button class="filter-btn active" data-filter="all">all</button>
+                <button class="filter-btn" data-filter="multimodal">multimodal</button>
+                <button class="filter-btn" data-filter="image">image</button>
+                <button class="filter-btn" data-filter="video">video</button>
+                <button class="filter-btn" data-filter="coding">coding</button>
+                <button class="filter-btn" data-filter="design">design</button>
+                <button class="filter-btn" data-filter="research">research</button>
+                <button class="filter-btn" data-filter="writing">writing</button>
+                <button class="filter-btn" data-filter="audio">audio</button>
+                <button class="filter-btn" data-filter="nocode">no-code</button>
+                <button class="filter-btn" data-filter="automation">automation</button>
+            </div>
+            <div class="tools-grid" id="toolsGrid">
+                <!-- Tools loaded dynamically from tools.json -->
+            </div>
+        </section>
+
         <!-- Quick Nav -->
         <section class="quick-nav" id="quick-nav">
             <div class="section-header">
@@ -781,6 +1235,34 @@
                     </tr>
                 </tbody>
             </table>
+        </section>
+
+        <!-- Suggest a Topic -->
+        <section class="suggest-topic" id="suggest-topic">
+            <div class="section-header" style="text-align: center;">
+                <p class="section-label">contribute</p>
+                <h2 class="section-title">Suggest a Topic</h2>
+                <p class="section-subtitle">Have an AI topic you'd like covered? Let us know.</p>
+            </div>
+            <form class="suggest-form" id="suggestForm" action="https://formspree.io/f/your-form-id" method="POST">
+                <div class="form-group">
+                    <label class="form-label" for="suggestName">name (optional)</label>
+                    <input type="text" id="suggestName" name="name" class="form-input" placeholder="Your name">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="suggestEmail">email (optional)</label>
+                    <input type="email" id="suggestEmail" name="email" class="form-input" placeholder="your@email.com">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="suggestTopic">topic suggestion *</label>
+                    <textarea id="suggestTopic" name="topic" class="form-textarea" placeholder="What AI topic would you like to learn about?" required></textarea>
+                </div>
+                <button type="submit" class="form-submit">submit_suggestion() -></button>
+            </form>
+            <div class="form-success" id="formSuccess" style="display: none;">
+                <p>> suggestion_received</p>
+                <p>Thanks for your input! We'll consider it for future content.</p>
+            </div>
         </section>
 
         <!-- Footer -->
@@ -848,6 +1330,205 @@
                 e.preventDefault();
                 document.querySelector(this.getAttribute('href'))?.scrollIntoView({ behavior: 'smooth' });
             });
+        });
+
+        // News Panel
+        async function loadNews() {
+            try {
+                const response = await fetch('news.json');
+                const data = await response.json();
+
+                const newsList = document.getElementById('newsList');
+                const newsUpdated = document.getElementById('newsUpdated');
+
+                // Format update time
+                const updated = new Date(data.updated);
+                const timeAgo = getTimeAgo(updated);
+                newsUpdated.textContent = `updated ${timeAgo}`;
+
+                // Render news items
+                newsList.innerHTML = data.stories.map(story => `
+                    <a href="${story.url}" target="_blank" rel="noopener" class="news-item">
+                        <div class="news-item-title">${escapeHtml(story.title)}</div>
+                        <div class="news-item-meta">
+                            <span>${story.score} pts</span>
+                            <span>${story.comments} comments</span>
+                        </div>
+                    </a>
+                `).join('');
+            } catch (err) {
+                console.error('Failed to load news:', err);
+                document.getElementById('newsList').innerHTML =
+                    '<div class="news-item"><div class="news-item-title" style="color: var(--text-dim)">Unable to load news</div></div>';
+            }
+        }
+
+        function getTimeAgo(date) {
+            const seconds = Math.floor((new Date() - date) / 1000);
+            if (seconds < 60) return 'just now';
+            const minutes = Math.floor(seconds / 60);
+            if (minutes < 60) return `${minutes}m ago`;
+            const hours = Math.floor(minutes / 60);
+            if (hours < 24) return `${hours}h ago`;
+            const days = Math.floor(hours / 24);
+            return `${days}d ago`;
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Load news on page load
+        loadNews();
+
+        // AI Tools - Load from JSON
+        let allTools = [];
+        const toolsGrid = document.getElementById('toolsGrid');
+        const filterBtns = document.querySelectorAll('.filter-btn');
+
+        // Category display names
+        const categoryLabels = {
+            'writing': 'writing',
+            'research': 'research',
+            'image': 'image',
+            'video': 'video',
+            'coding': 'coding',
+            'design': 'design',
+            'audio': 'audio',
+            'nocode': 'no-code',
+            'automation': 'automation'
+        };
+
+        async function loadTools() {
+            try {
+                const response = await fetch('tools.json');
+                allTools = await response.json();
+                renderTools(allTools);
+            } catch (err) {
+                console.error('Failed to load tools:', err);
+                toolsGrid.innerHTML = '<p style="color: var(--text-muted);">Failed to load tools</p>';
+            }
+        }
+
+        function renderTools(tools) {
+            toolsGrid.innerHTML = tools.map(tool => `
+                <a href="${tool.url}" target="_blank" rel="noopener" class="tool-card fade-in" data-category="${tool.category}">
+                    <div class="tool-card-header">
+                        <span class="tool-name">${tool.name}</span>
+                        <span class="tool-category">${categoryLabels[tool.category] || tool.category}</span>
+                    </div>
+                    <p class="tool-description">${tool.description}</p>
+                    <span class="tool-link">open -></span>
+                </a>
+            `).join('');
+
+            // Re-observe for fade-in animations
+            document.querySelectorAll('.tool-card.fade-in').forEach(el => observer.observe(el));
+        }
+
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                filterBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                const filter = btn.dataset.filter;
+                const filtered = filter === 'all'
+                    ? allTools
+                    : allTools.filter(t => t.category === filter);
+                renderTools(filtered);
+            });
+        });
+
+        loadTools();
+
+        // Search functionality
+        let searchIndex = [];
+        const searchInput = document.getElementById('searchInput');
+        const searchResults = document.getElementById('searchResults');
+
+        // Load search index
+        fetch('search-index.json')
+            .then(res => res.json())
+            .then(data => { searchIndex = data; })
+            .catch(err => console.error('Failed to load search index:', err));
+
+        searchInput.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+
+            if (query.length < 2) {
+                searchResults.classList.remove('active');
+                return;
+            }
+
+            const results = searchIndex.filter(item =>
+                item.title.toLowerCase().includes(query) ||
+                item.content.toLowerCase().includes(query)
+            ).slice(0, 8);
+
+            if (results.length === 0) {
+                searchResults.innerHTML = '<div class="search-no-results">No results found</div>';
+            } else {
+                searchResults.innerHTML = results.map(item => `
+                    <a href="${item.url}" class="search-result-item">
+                        <div class="search-result-title">${highlightMatch(item.title, query)}</div>
+                        <div class="search-result-module">Module ${item.module}</div>
+                        <div class="search-result-snippet">${highlightMatch(item.content, query)}</div>
+                    </a>
+                `).join('');
+            }
+
+            searchResults.classList.add('active');
+        });
+
+        function highlightMatch(text, query) {
+            const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+            return text.replace(regex, '<mark style="background: rgba(34, 211, 238, 0.3); color: inherit;">$1</mark>');
+        }
+
+        function escapeRegex(string) {
+            return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
+        // Close search results when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-container')) {
+                searchResults.classList.remove('active');
+            }
+        });
+
+        // Close on escape key
+        searchInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                searchResults.classList.remove('active');
+                searchInput.blur();
+            }
+        });
+
+        // Suggest Topic Form
+        const suggestForm = document.getElementById('suggestForm');
+        const formSuccess = document.getElementById('formSuccess');
+
+        suggestForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const formData = new FormData(suggestForm);
+
+            try {
+                // For demo: just show success (replace with actual form submission)
+                suggestForm.style.display = 'none';
+                formSuccess.style.display = 'block';
+
+                // If using Formspree, uncomment this:
+                // await fetch(suggestForm.action, {
+                //     method: 'POST',
+                //     body: formData,
+                //     headers: { 'Accept': 'application/json' }
+                // });
+            } catch (err) {
+                console.error('Form submission error:', err);
+            }
         });
     </script>
 </body>

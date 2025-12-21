@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Gemini",
+    "category": "multimodal",
+    "description": "Google's sleeper hit. Quietly became the best while everyone was watching OpenAI",
+    "url": "https://gemini.google.com"
+  },
+  {
+    "name": "ChatGPT",
+    "category": "multimodal",
+    "description": "800M users who don't know alternatives exist. The Toyota Camry of AI",
+    "url": "https://chat.openai.com"
+  },
+  {
+    "name": "Claude",
+    "category": "multimodal",
+    "description": "What developers use when they need actual work done. The thinking person's AI",
+    "url": "https://claude.ai"
+  },
+  {
+    "name": "Perplexity",
+    "category": "research",
+    "description": "Google Search if Google still cared about search. Actually cites sources",
+    "url": "https://perplexity.ai"
+  },
+  {
+    "name": "NotebookLM",
+    "category": "research",
+    "description": "Turns your boring PDFs into podcasts. Google's best kept secret",
+    "url": "https://notebooklm.google.com"
+  },
+  {
+    "name": "Nano Banana",
+    "category": "image",
+    "description": "The new king. 4K output that actually follows your prompts. Midjourney is shaking",
+    "url": "https://gemini.google.com"
+  },
+  {
+    "name": "Midjourney",
+    "category": "image",
+    "description": "Was industry-leading. Still living off 2023 reputation. Discord-only in 2025, seriously?",
+    "url": "https://midjourney.com"
+  },
+  {
+    "name": "fal.ai",
+    "category": "image",
+    "description": "600+ models for devs who actually ship. $200M revenue says something",
+    "url": "https://fal.ai/"
+  },
+  {
+    "name": "Ideogram",
+    "category": "image",
+    "description": "The only one that can spell words in images. Low bar, but someone had to clear it",
+    "url": "https://ideogram.ai"
+  },
+  {
+    "name": "Leonardo AI",
+    "category": "image",
+    "description": "For game devs who can't afford concept artists. Gets the job done",
+    "url": "https://leonardo.ai"
+  },
+  {
+    "name": "Runway",
+    "category": "video",
+    "description": "The OG that everyone else copied. Gen-3 still slaps",
+    "url": "https://runwayml.com"
+  },
+  {
+    "name": "HeyGen",
+    "category": "video",
+    "description": "Lip-sync so good it's probably illegal somewhere. LinkedIn influencers swear by it",
+    "url": "https://heygen.com"
+  },
+  {
+    "name": "Sora",
+    "category": "video",
+    "description": "The hype was insane. The waitlist was longer. Now it's just... fine?",
+    "url": "https://sora.com"
+  },
+  {
+    "name": "Kling",
+    "category": "video",
+    "description": "TikTok's parent company. 2-min videos that are weirdly good. ByteDance stays winning",
+    "url": "https://klingai.com"
+  },
+  {
+    "name": "Veo",
+    "category": "video",
+    "description": "Google's answer to Sora. Hollywood quality if you can get access",
+    "url": "https://deepmind.google/technologies/veo"
+  },
+  {
+    "name": "Higgsfield",
+    "category": "video",
+    "description": "Why pick one when you can have all? Sora, Veo, Kling in one place",
+    "url": "https://higgsfield.ai"
+  },
+  {
+    "name": "Cursor",
+    "category": "coding",
+    "description": "VSCode but it actually writes your code. Devs are obsessed, rightfully so",
+    "url": "https://cursor.com"
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "coding",
+    "description": "The first, not the best anymore. Your company probably pays for it anyway",
+    "url": "https://github.com/features/copilot"
+  },
+  {
+    "name": "Replit",
+    "category": "coding",
+    "description": "Online IDE that deletes databases and lies about it. Use at your own risk",
+    "url": "https://replit.com"
+  },
+  {
+    "name": "Bolt.new",
+    "category": "coding",
+    "description": "Vibe-code an entire app in your browser. Deploy before you regret it",
+    "url": "https://bolt.new"
+  },
+  {
+    "name": "Canva AI",
+    "category": "design",
+    "description": "170M people who gave up on learning Figma. No shame, it works",
+    "url": "https://canva.com"
+  },
+  {
+    "name": "Figma AI",
+    "category": "design",
+    "description": "For designers who still have standards. AI features are catching up",
+    "url": "https://figma.com"
+  },
+  {
+    "name": "Adobe Firefly",
+    "category": "design",
+    "description": "Adobe's attempt to stay relevant. Integrated everywhere you're already paying",
+    "url": "https://adobe.com/products/firefly"
+  },
+  {
+    "name": "Gamma",
+    "category": "design",
+    "description": "Death to PowerPoint. AI presentations that don't look like 2005",
+    "url": "https://gamma.app"
+  },
+  {
+    "name": "Napkin AI",
+    "category": "design",
+    "description": "Text to diagrams that actually make sense. 5M users can't be wrong",
+    "url": "https://www.napkin.ai/"
+  },
+  {
+    "name": "Notion AI",
+    "category": "writing",
+    "description": "For people whose whole life is in Notion. Convenient if you're already there",
+    "url": "https://notion.so"
+  },
+  {
+    "name": "Jasper",
+    "category": "writing",
+    "description": "When ChatGPT and Claude don't work and you want to feel enterprise-y",
+    "url": "https://jasper.ai"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "audio",
+    "description": "Voice cloning so real it should probably be regulated. Use responsibly",
+    "url": "https://elevenlabs.io"
+  },
+  {
+    "name": "Suno",
+    "category": "audio",
+    "description": "Make a hit song with zero talent. Musicians are not happy about this one",
+    "url": "https://suno.ai"
+  },
+  {
+    "name": "v0",
+    "category": "nocode",
+    "description": "Vercel's viral moment. Generates React components that actually work",
+    "url": "https://v0.dev"
+  },
+  {
+    "name": "Lovable",
+    "category": "nocode",
+    "description": "Build apps by describing them. Deploy before your PM changes requirements",
+    "url": "https://lovable.dev"
+  },
+  {
+    "name": "Emergent",
+    "category": "nocode",
+    "description": "Multi-agent chaos that somehow produces working apps. 700K believers",
+    "url": "https://app.emergent.sh"
+  },
+  {
+    "name": "Zapier",
+    "category": "automation",
+    "description": "7000+ integrations. The duct tape holding half of SaaS together",
+    "url": "https://zapier.com"
+  },
+  {
+    "name": "Make",
+    "category": "automation",
+    "description": "Zapier but with a visual builder. For people who think in flowcharts",
+    "url": "https://make.com"
+  },
+  {
+    "name": "n8n",
+    "category": "automation",
+    "description": "Open-source, self-hostable. For when you don't trust SaaS with your data",
+    "url": "https://n8n.io"
+  }
+]

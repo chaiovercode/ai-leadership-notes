@@ -1,0 +1,158 @@
+[
+  {
+    "module": "01",
+    "title": "What is AI?",
+    "url": "./01-Intro-to-AI-ML/#what-even-is-ai",
+    "content": "AI is pattern recognition at scale. Math plus data plus computing power. Pattern matching that recognizes cats, spam, faces."
+  },
+  {
+    "module": "01",
+    "title": "AI vs Machine Learning vs Deep Learning",
+    "url": "./01-Intro-to-AI-ML/#ai-vs-machine-learning-vs-deep-learning",
+    "content": "Russian doll analogy. AI is the big umbrella. Machine Learning improves from data. Deep Learning uses neural networks."
+  },
+  {
+    "module": "01",
+    "title": "How Machines Learn",
+    "url": "./01-Intro-to-AI-ML/#how-machines-actually-learn",
+    "content": "Supervised learning with labeled data. Unsupervised learning finds patterns. Reinforcement learning learns from rewards."
+  },
+  {
+    "module": "01",
+    "title": "Garbage In Garbage Out",
+    "url": "./01-Intro-to-AI-ML/#the-golden-rule-garbage-in-garbage-out",
+    "content": "Data quality is everything. Your AI is only as good as your data. Bias in data leads to bias in predictions."
+  },
+  {
+    "module": "01",
+    "title": "Deep Learning & Neural Networks",
+    "url": "./01-Intro-to-AI-ML/#deep-learning--why-things-got-so-good",
+    "content": "Neural networks with multiple layers. CNNs for images. RNNs for sequences. Transformers revolutionized NLP."
+  },
+  {
+    "module": "01",
+    "title": "Multimodal AI",
+    "url": "./01-Intro-to-AI-ML/#multimodal-ai--beyond-text",
+    "content": "AI that handles text, images, audio, video. Vision language models. GPT-4V, Gemini, Claude can see and describe images."
+  },
+  {
+    "module": "01",
+    "title": "RAG - Retrieval Augmented Generation",
+    "url": "./01-Intro-to-AI-ML/#rag--retrieval-augmented-generation",
+    "content": "Giving AI access to external knowledge. Vector databases store embeddings. Reduces hallucinations with grounded answers."
+  },
+  {
+    "module": "01",
+    "title": "Small Language Models",
+    "url": "./01-Intro-to-AI-ML/#small-language-models-slms",
+    "content": "Smaller models like Phi, Mistral, Llama. Run on device. Lower cost, faster inference, privacy benefits."
+  },
+  {
+    "module": "02",
+    "title": "What is Generative AI?",
+    "url": "./02-Generative-AI/#1-what-is-generative-ai",
+    "content": "AI that creates new content. Text, images, code, music. Prediction on steroids. The first draft costs zero."
+  },
+  {
+    "module": "02",
+    "title": "Large Language Models (LLMs)",
+    "url": "./02-Generative-AI/#2-large-language-models-llms",
+    "content": "GPT, Claude, Gemini, Llama. Trained on internet text. Predict next token. Billions of parameters."
+  },
+  {
+    "module": "02",
+    "title": "Tokens and Context Windows",
+    "url": "./02-Generative-AI/#3-tokens--context-windows",
+    "content": "Tokens are word pieces. Context window is memory limit. 128K tokens means longer conversations. Token pricing affects cost."
+  },
+  {
+    "module": "02",
+    "title": "Prompt Engineering",
+    "url": "./02-Generative-AI/#4-prompt-engineering",
+    "content": "How you ask matters. System prompts set behavior. Few-shot examples guide output. Chain of thought for reasoning."
+  },
+  {
+    "module": "02",
+    "title": "Temperature and Sampling",
+    "url": "./02-Generative-AI/#temperature",
+    "content": "Temperature controls randomness. Low temperature for facts. High temperature for creativity. Top-p nucleus sampling."
+  },
+  {
+    "module": "02",
+    "title": "Fine-tuning LLMs",
+    "url": "./02-Generative-AI/#fine-tuning",
+    "content": "Customize models for specific tasks. LoRA for efficient training. Domain adaptation. Instruction tuning."
+  },
+  {
+    "module": "03",
+    "title": "From Chatbots to Agents",
+    "url": "./03-AI-Agents-Automation/#1-from-chatbots-to-agents",
+    "content": "Chatbots talk, agents do. Goal-following vs recipe-following. Agents take actions autonomously."
+  },
+  {
+    "module": "03",
+    "title": "How Agents Work",
+    "url": "./03-AI-Agents-Automation/#2-how-agents-work",
+    "content": "The agent loop: perceive, think, act, observe. Four components: brain, tools, memory, planning."
+  },
+  {
+    "module": "03",
+    "title": "Tools - The Agent's Hands",
+    "url": "./03-AI-Agents-Automation/#3-tools--the-agents-hands",
+    "content": "Function calling. API integrations. Computer use for browser automation. MCP protocol for tool connections."
+  },
+  {
+    "module": "03",
+    "title": "Agent Memory Systems",
+    "url": "./03-AI-Agents-Automation/#4-memory--how-agents-remember",
+    "content": "Short-term memory in context. Long-term memory with vector databases. Episodic and semantic memory."
+  },
+  {
+    "module": "03",
+    "title": "Agentic Design Patterns",
+    "url": "./03-AI-Agents-Automation/#5-agentic-design-patterns",
+    "content": "Reflection for self-checking. ReAct for reasoning and acting. Multi-agent collaboration and orchestration."
+  },
+  {
+    "module": "03",
+    "title": "Multi-Agent Systems",
+    "url": "./03-AI-Agents-Automation/#3-multi-agent-collaboration",
+    "content": "Multiple agents working together. Specialized roles. Debate and consensus. CrewAI, AutoGen frameworks."
+  },
+  {
+    "module": "03",
+    "title": "Running Models Locally",
+    "url": "./03-AI-Agents-Automation/#7-running-models-locally",
+    "content": "Ollama for local inference. LM Studio GUI. Privacy and offline use. Quantization for smaller models."
+  },
+  {
+    "module": "03",
+    "title": "Agent Frameworks",
+    "url": "./03-AI-Agents-Automation/#8-frameworks-to-build-agents",
+    "content": "LangChain, LangGraph for building agents. CrewAI for multi-agent. Semantic Kernel from Microsoft."
+  },
+  {
+    "module": "01",
+    "title": "Prediction vs Judgment",
+    "url": "./01-Intro-to-AI-ML/#ai-in-business--the-reality-check",
+    "content": "AI lowers the cost of prediction. Humans still own judgment. Strategic decisions need human oversight."
+  },
+  {
+    "module": "02",
+    "title": "Comparing LLM Models",
+    "url": "./02-Generative-AI/#23-the-major-players-right-now",
+    "content": "OpenAI GPT-4, Anthropic Claude, Google Gemini, Meta Llama. Benchmarks like MMLU, HumanEval. Pricing comparison."
+  },
+  {
+    "module": "01",
+    "title": "Reasoning Models",
+    "url": "./01-Intro-to-AI-ML/#reasoning-models--test-time-compute",
+    "content": "o1, o3 models that think step by step. Test-time compute. Chain of thought reasoning. Better at math and logic."
+  },
+  {
+    "module": "03",
+    "title": "Computer Use",
+    "url": "./03-AI-Agents-Automation/#the-master-key-computer-use",
+    "content": "AI that controls mouse and keyboard. Browser automation. Vision-based interaction. OpenAI Operator, Claude computer use."
+  }
+]

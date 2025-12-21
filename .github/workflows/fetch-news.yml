@@ -1,0 +1,101 @@
+name: Fetch Trending AI & Tech News
+
+on:
+  schedule:
+    # Runs daily at 7:00 AM UTC (adjust timezone as needed)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch Hacker News top stories
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
+
+          const fetch = (url) => new Promise((resolve, reject) => {
+            https.get(url, { headers: { 'User-Agent': 'NewsBot/1.0' } }, (res) => {
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => resolve(JSON.parse(data)));
+              res.on('error', reject);
+            }).on('error', reject);
+          });
+
+          const AI_TECH_KEYWORDS = [
+            'ai', 'artificial intelligence', 'machine learning', 'ml', 'llm', 'gpt',
+            'claude', 'openai', 'anthropic', 'google', 'microsoft', 'meta', 'apple',
+            'neural', 'deep learning', 'transformer', 'chatbot', 'copilot',
+            'automation', 'robot', 'agent', 'model', 'training', 'inference',
+            'startup', 'tech', 'software', 'developer', 'programming', 'code',
+            'api', 'cloud', 'data', 'security', 'crypto', 'blockchain', 'web',
+            'python', 'javascript', 'rust', 'golang', 'open source', 'github',
+            'saas', 'funding', 'acquisition', 'launch', 'product'
+          ];
+
+          const isRelevant = (title) => {
+            const lower = title.toLowerCase();
+            return AI_TECH_KEYWORDS.some(kw => lower.includes(kw));
+          };
+
+          async function main() {
+            try {
+              // Fetch top 100 story IDs
+              const topIds = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+
+              // Fetch details for top 50 stories
+              const storyPromises = topIds.slice(0, 50).map(id =>
+                fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
+              );
+              const stories = await Promise.all(storyPromises);
+
+              // Filter for AI/tech relevant stories and format
+              const news = stories
+                .filter(s => s && s.title && (isRelevant(s.title) || s.score > 100))
+                .slice(0, 15)
+                .map(s => ({
+                  title: s.title,
+                  url: s.url || `https://news.ycombinator.com/item?id=${s.id}`,
+                  hnUrl: `https://news.ycombinator.com/item?id=${s.id}`,
+                  score: s.score,
+                  comments: s.descendants || 0
+                }));
+
+              const output = {
+                updated: new Date().toISOString(),
+                source: 'Hacker News',
+                stories: news
+              };
+
+              fs.writeFileSync('news.json', JSON.stringify(output, null, 2));
+              console.log(`Fetched ${news.length} stories`);
+            } catch (err) {
+              console.error('Error fetching news:', err);
+              process.exit(1);
+            }
+          }
+
+          main();
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add news.json
+          git diff --staged --quiet || git commit -m "Update daily news feed [skip ci]"
+          git push
