@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-21T18:47:30.503Z",
+  "updated": "2025-12-22T12:22:49.429Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "A guide to local coding models",
+      "url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+      "hnUrl": "https://news.ycombinator.com/item?id=46348329",
+      "score": 453,
+      "comments": 248
+    },
+    {
+      "title": "Programming languages used for music",
+      "url": "https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes",
+      "hnUrl": "https://news.ycombinator.com/item?id=46338437",
+      "score": 64,
+      "comments": 21
+    },
+    {
+      "title": "Deliberate Internet Shutdowns",
+      "url": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46316050",
+      "score": 204,
+      "comments": 87
+    },
+    {
+      "title": "How I protect my Forgejo instance from AI web crawlers",
+      "url": "https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46345205",
+      "score": 50,
+      "comments": 35
+    },
+    {
+      "title": "Build Android apps using Rust and Iced",
+      "url": "https://github.com/ibaryshnikov/android-iced-example",
+      "hnUrl": "https://news.ycombinator.com/item?id=46350641",
+      "score": 103,
+      "comments": 33
+    },
     {
       "title": "Show HN: Books mentioned on Hacker News in 2025",
       "url": "https://hackernews-readings-613604506318.us-west1.run.app",
       "hnUrl": "https://news.ycombinator.com/item?id=46345897",
-      "score": 125,
-      "comments": 55
+      "score": 479,
+      "comments": 173
     },
     {
-      "title": "Coarse Is Better",
-      "url": "https://borretti.me/article/coarse-is-better",
-      "hnUrl": "https://news.ycombinator.com/item?id=46344514",
-      "score": 127,
-      "comments": 67
+      "title": "I'm just having fun",
+      "url": "https://jyn.dev/i-m-just-having-fun/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46287253",
+      "score": 384,
+      "comments": 160
     },
     {
-      "title": "Show HN: Jmail – Google Suite for Epstein files",
-      "url": "https://www.jmail.world",
-      "hnUrl": "https://news.ycombinator.com/item?id=46339600",
-      "score": 1252,
-      "comments": 277
+      "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
+      "url": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46348847",
+      "score": 205,
+      "comments": 84
     },
     {
-      "title": "Backing up Spotify",
-      "url": "https://annas-archive.li/blog/backing-up-spotify.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46338339",
-      "score": 1630,
-      "comments": 542
+      "title": "Webb observes exoplanet that may have an exotic helium and carbon atmosphere",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46325475",
+      "score": 72,
+      "comments": 18
     },
     {
-      "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
-      "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46346510",
-      "score": 42,
-      "comments": 30
+      "title": "CO2 batteries that store grid energy take off globally",
+      "url": "https://spectrum.ieee.org/co2-battery-energy-storage",
+      "hnUrl": "https://news.ycombinator.com/item?id=46345506",
+      "score": 264,
+      "comments": 224
     },
     {
-      "title": "Ruby website redesigned",
-      "url": "https://www.ruby-lang.org/en/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46342859",
-      "score": 268,
-      "comments": 104
+      "title": "Rue: Higher level than Rust, lower level than Go",
+      "url": "https://rue-lang.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46348262",
+      "score": 163,
+      "comments": 134
     },
     {
-      "title": "Reasons Not to Become Famous (2020)",
-      "url": "https://tim.blog/2020/02/02/reasons-to-not-become-famous/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46345341",
-      "score": 114,
-      "comments": 78
+      "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+      "url": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
+      "hnUrl": "https://news.ycombinator.com/item?id=46350075",
+      "score": 74,
+      "comments": 15
     },
     {
-      "title": "Show HN: WalletWallet – create Apple passes from anything",
-      "url": "https://walletwallet.alen.ro/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46345745",
-      "score": 119,
-      "comments": 52
+      "title": "Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",
+      "url": "https://eulumdat.icu",
+      "hnUrl": "https://news.ycombinator.com/item?id=46348344",
+      "score": 34,
+      "comments": 0
     },
     {
-      "title": "Indoor tanning makes youthful skin much older on a genetic level",
-      "url": "https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level",
-      "hnUrl": "https://news.ycombinator.com/item?id=46342447",
-      "score": 167,
-      "comments": 122
+      "title": "I program on the subway",
+      "url": "https://www.scd31.com/posts/programming-on-the-subway",
+      "hnUrl": "https://news.ycombinator.com/item?id=46294694",
+      "score": 230,
+      "comments": 162
     },
     {
-      "title": "Mountain home near Aspen, built for monks, sold to Palantir CEO for $120M",
-      "url": "https://coloradosun.com/2025/12/19/monastery-sells-palantir-ceo/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46346536",
-      "score": 27,
-      "comments": 7
-    },
-    {
-      "title": "Show HN: RenderCV – Open-source CV/resume generator, YAML → PDF",
-      "url": "https://github.com/rendercv/rendercv",
-      "hnUrl": "https://news.ycombinator.com/item?id=46344616",
-      "score": 36,
-      "comments": 22
-    },
-    {
-      "title": "Measuring AI Ability to Complete Long Tasks",
-      "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46342166",
-      "score": 202,
-      "comments": 153
-    },
-    {
-      "title": "Go ahead, self-host Postgres",
-      "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "hnUrl": "https://news.ycombinator.com/item?id=46336947",
-      "score": 634,
-      "comments": 373
-    },
-    {
-      "title": "Claude in Chrome",
-      "url": "https://claude.com/chrome",
-      "hnUrl": "https://news.ycombinator.com/item?id=46339777",
-      "score": 277,
-      "comments": 154
-    },
-    {
-      "title": "Show HN: The Official National Train Map Sucked, So I Made My Own",
-      "url": "https://www.bdzmap.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46344270",
-      "score": 51,
-      "comments": 12
+      "title": "Lightning: Real-time editing for tiled map data",
+      "url": "https://felt.com/blog/lightning-tiles",
+      "hnUrl": "https://news.ycombinator.com/item?id=46290875",
+      "score": 12,
+      "comments": 3
     }
   ]
 }
