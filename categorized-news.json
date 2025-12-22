@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-21T18:57:49.808Z",
+  "updated": "2025-12-22T09:35:45.705Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -60,13 +60,6 @@
           "date": "2025-12-16T05:00:00.000Z",
           "description": "Presented by SAPIn an era where anyone can spin up an LLM, the real differentiator isn’t the AI technology itself, but the institutional knowledge it’s grounded in. Internal and partner consultants le...",
           "source": "VentureBeat"
-        },
-        {
-          "title": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
-          "url": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms",
-          "date": "2025-12-15T20:16:00.000Z",
-          "description": "We&#x27;ve heard (and written, here at VentureBeat) lots about the generative AI race between the U.S. and China, as those have been the countries with the groups most active in fielding new models (w...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -75,9 +68,9 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+          "title": "Waymo resumes service in San Francisco after robotaxis stall during blackout",
           "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
-          "date": "2025-12-21T15:46:29.000Z",
+          "date": "2025-12-22T03:24:49.000Z",
           "description": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
           "source": "TechCrunch"
         },
@@ -150,6 +143,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Agent autonomy without guardrails is an SRE nightmare",
+          "url": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare",
+          "date": "2025-12-21T19:00:00.000Z",
+          "description": "João Freitas is GM and VP of engineering for AI and automation at PagerDutyAs AI use continues to evolve in large organizations, leaders are increasingly seeking the next development that will yield m...",
+          "source": "VentureBeat"
+        },
         {
           "title": "5 ways AI agents will transform the way we work in 2026",
           "url": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
@@ -293,13 +293,6 @@
           "url": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
           "date": "2025-12-17T19:24:00.000Z",
           "description": "Enterprises can now harness the power of a large language model that&#x27;s near that of the state-of-the-art Google’s Gemini 3 Pro, but at a fraction of the cost and with increased speed, thanks to t...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
-          "url": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms",
-          "date": "2025-12-15T20:16:00.000Z",
-          "description": "We&#x27;ve heard (and written, here at VentureBeat) lots about the generative AI race between the U.S. and China, as those have been the countries with the groups most active in fielding new models (w...",
           "source": "VentureBeat"
         },
         {
