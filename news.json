@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-23T12:22:45.923Z",
+  "updated": "2025-12-24T12:21:43.378Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Adobe Photoshop 1.0 Source Code (1990)",
-      "url": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46313962",
-      "score": 133,
-      "comments": 27
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=46367224",
+      "score": 1137,
+      "comments": 425
     },
     {
-      "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
-      "url": "https://github.com/eyeblech/cinecli",
-      "hnUrl": "https://news.ycombinator.com/item?id=46362655",
-      "score": 169,
-      "comments": 60
+      "title": "Some Epstein file redactions are being undone with hacks",
+      "url": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
+      "hnUrl": "https://news.ycombinator.com/item?id=46368946",
+      "score": 575,
+      "comments": 439
     },
     {
-      "title": "What Is (AI) Glaze?",
-      "url": "https://glaze.cs.uchicago.edu/what-is-glaze.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46364338",
-      "score": 9,
-      "comments": 2
+      "title": "Google 2025 recap: Research breakthroughs of the year",
+      "url": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46374018",
+      "score": 26,
+      "comments": 5
     },
     {
-      "title": "Instant database clones with PostgreSQL 18",
-      "url": "https://boringsql.com/posts/instant-database-clones/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46363360",
-      "score": 64,
-      "comments": 8
+      "title": "X-ray: a Python library for finding bad redactions in PDF documents",
+      "url": "https://github.com/freelawproject/x-ray",
+      "hnUrl": "https://news.ycombinator.com/item?id=46369923",
+      "score": 476,
+      "comments": 85
     },
     {
-      "title": "Snitch – A friendlier ss/netstat",
-      "url": "https://github.com/karol-broda/snitch",
-      "hnUrl": "https://news.ycombinator.com/item?id=46361229",
-      "score": 205,
-      "comments": 51
+      "title": "Unifi Travel Router",
+      "url": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
+      "hnUrl": "https://news.ycombinator.com/item?id=46371135",
+      "score": 296,
+      "comments": 250
     },
     {
-      "title": "It's Always TCP_NODELAY",
-      "url": "https://brooker.co.za/blog/2024/05/09/nagle.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46359120",
-      "score": 340,
-      "comments": 115
+      "title": "Texas app store age verification law blocked by federal judge",
+      "url": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46370012",
+      "score": 242,
+      "comments": 152
     },
     {
-      "title": "The Illustrated Transformer",
-      "url": "https://jalammar.github.io/illustrated-transformer/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46357675",
-      "score": 401,
-      "comments": 76
+      "title": "Show HN: Tonbo – an embedded database for serverless and edge runtimes",
+      "url": "https://github.com/tonbo-io/tonbo",
+      "hnUrl": "https://news.ycombinator.com/item?id=46303638",
+      "score": 29,
+      "comments": 7
     },
     {
-      "title": "Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs",
-      "url": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota",
-      "hnUrl": "https://news.ycombinator.com/item?id=46364272",
-      "score": 32,
-      "comments": 30
+      "title": "Nabokov's guide to foreigners learning Russian",
+      "url": "https://twitter.com/haravayin_hogh/status/2003299405907247502",
+      "hnUrl": "https://news.ycombinator.com/item?id=46371423",
+      "score": 122,
+      "comments": 187
     },
     {
-      "title": "GLM-4.7: Advancing the Coding Capability",
-      "url": "https://z.ai/blog/glm-4.7",
-      "hnUrl": "https://news.ycombinator.com/item?id=46357287",
-      "score": 358,
-      "comments": 184
+      "title": "Show HN: Turn raw HTML into production-ready images for free",
+      "url": "https://html2png.dev",
+      "hnUrl": "https://news.ycombinator.com/item?id=46371743",
+      "score": 89,
+      "comments": 43
     },
     {
-      "title": "Claude Code gets native LSP support",
-      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=46355165",
-      "score": 440,
-      "comments": 247
-    },
-    {
-      "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
-      "url": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
-      "hnUrl": "https://news.ycombinator.com/item?id=46357945",
-      "score": 268,
-      "comments": 80
-    },
-    {
-      "title": "NIST was 5 μs off UTC after last week's power cut",
-      "url": "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut",
-      "hnUrl": "https://news.ycombinator.com/item?id=46355949",
-      "score": 281,
-      "comments": 125
-    },
-    {
-      "title": "Our New Sam Audio Model Transforms Audio Editing",
-      "url": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46293932",
+      "title": "Don't Become the Machine",
+      "url": "https://armeet.bearblog.dev/becoming-the-machine/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46372153",
       "score": 111,
-      "comments": 41
+      "comments": 54
     },
     {
-      "title": "The Garbage Collection Handbook",
-      "url": "https://gchandbook.org/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46357870",
-      "score": 220,
-      "comments": 27
+      "title": "Lua 5.5",
+      "url": "https://lua.org/versions.html#5.5",
+      "hnUrl": "https://news.ycombinator.com/item?id=46354674",
+      "score": 316,
+      "comments": 104
     },
     {
-      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-      "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46355548",
-      "score": 620,
-      "comments": 412
+      "title": "Perfect Software – Software for an Audience of One",
+      "url": "https://outofdesk.netlify.app/blog/perfect-software",
+      "hnUrl": "https://news.ycombinator.com/item?id=46334206",
+      "score": 152,
+      "comments": 62
+    },
+    {
+      "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+      "url": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
+      "hnUrl": "https://news.ycombinator.com/item?id=46367475",
+      "score": 449,
+      "comments": 264
+    },
+    {
+      "title": "HTTP Caching, a Refresher",
+      "url": "https://danburzo.ro/http-caching-refresher/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46368616",
+      "score": 116,
+      "comments": 18
+    },
+    {
+      "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
+      "url": "https://github.com/xyphro/UsbGpib",
+      "hnUrl": "https://news.ycombinator.com/item?id=46371429",
+      "score": 43,
+      "comments": 18
     }
   ]
 }
