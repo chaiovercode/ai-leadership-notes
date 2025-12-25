@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-24T12:21:43.378Z",
+  "updated": "2025-12-25T12:21:40.981Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "url": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "hnUrl": "https://news.ycombinator.com/item?id=46383552",
+      "score": 182,
+      "comments": 16
+    },
+    {
+      "title": "Phoenix: A modern X server written from scratch in Zig",
+      "url": "https://git.dec05eba.com/phoenix/about/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46380075",
+      "score": 482,
+      "comments": 238
+    },
+    {
+      "title": "Tell HN: Merry Christmas",
+      "url": "https://news.ycombinator.com/item?id=46380168",
+      "hnUrl": "https://news.ycombinator.com/item?id=46380168",
+      "score": 1369,
+      "comments": 321
+    },
+    {
+      "title": "Who Watches the Waymos? I do [video]",
+      "url": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
+      "hnUrl": "https://news.ycombinator.com/item?id=46380758",
+      "score": 185,
+      "comments": 52
+    },
+    {
+      "title": "Ruby 4.0.0",
+      "url": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46382011",
+      "score": 358,
+      "comments": 72
+    },
+    {
+      "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+      "url": "https://github.com/antonmedv/textarea",
+      "hnUrl": "https://news.ycombinator.com/item?id=46378554",
+      "score": 356,
+      "comments": 117
+    },
+    {
+      "title": "Fabrice Bellard: Biography (2009) [pdf]",
+      "url": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=46377862",
+      "score": 285,
+      "comments": 82
+    },
+    {
+      "title": "Asterisk AI Voice Agent",
+      "url": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
+      "hnUrl": "https://news.ycombinator.com/item?id=46380399",
+      "score": 127,
+      "comments": 51
+    },
+    {
+      "title": "CSRF protection without tokens or hidden form fields",
+      "url": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
+      "hnUrl": "https://news.ycombinator.com/item?id=46351666",
+      "score": 223,
+      "comments": 77
+    },
+    {
+      "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
+      "url": "https://github.com/VibiumDev/vibium",
+      "hnUrl": "https://news.ycombinator.com/item?id=46377597",
+      "score": 334,
+      "comments": 98
+    },
     {
       "title": "Fabrice Bellard Releases MicroQuickJS",
       "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
       "hnUrl": "https://news.ycombinator.com/item?id=46367224",
-      "score": 1137,
-      "comments": 425
+      "score": 1392,
+      "comments": 523
     },
     {
-      "title": "Some Epstein file redactions are being undone with hacks",
-      "url": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
-      "hnUrl": "https://news.ycombinator.com/item?id=46368946",
-      "score": 575,
-      "comments": 439
+      "title": "Show HN: Exploring Mathematics with Python",
+      "url": "https://coe.psu.ac.th/ad/explore/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46327191",
+      "score": 148,
+      "comments": 12
     },
     {
-      "title": "Google 2025 recap: Research breakthroughs of the year",
-      "url": "https://blog.google/technology/ai/2025-research-breakthroughs/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46374018",
-      "score": 26,
-      "comments": 5
+      "title": "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
+      "url": "https://blog.partykit.io/posts/using-vectorize-to-build-search/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46346026",
+      "score": 81,
+      "comments": 27
     },
     {
-      "title": "X-ray: a Python library for finding bad redactions in PDF documents",
-      "url": "https://github.com/freelawproject/x-ray",
-      "hnUrl": "https://news.ycombinator.com/item?id=46369923",
-      "score": 476,
-      "comments": 85
+      "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
+      "url": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46322815",
+      "score": 121,
+      "comments": 6
     },
     {
-      "title": "Unifi Travel Router",
-      "url": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
-      "hnUrl": "https://news.ycombinator.com/item?id=46371135",
-      "score": 296,
-      "comments": 250
-    },
-    {
-      "title": "Texas app store age verification law blocked by federal judge",
-      "url": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46370012",
-      "score": 242,
-      "comments": 152
-    },
-    {
-      "title": "Show HN: Tonbo – an embedded database for serverless and edge runtimes",
-      "url": "https://github.com/tonbo-io/tonbo",
-      "hnUrl": "https://news.ycombinator.com/item?id=46303638",
-      "score": 29,
-      "comments": 7
-    },
-    {
-      "title": "Nabokov's guide to foreigners learning Russian",
-      "url": "https://twitter.com/haravayin_hogh/status/2003299405907247502",
-      "hnUrl": "https://news.ycombinator.com/item?id=46371423",
-      "score": 122,
-      "comments": 187
-    },
-    {
-      "title": "Show HN: Turn raw HTML into production-ready images for free",
-      "url": "https://html2png.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=46371743",
-      "score": 89,
-      "comments": 43
-    },
-    {
-      "title": "Don't Become the Machine",
-      "url": "https://armeet.bearblog.dev/becoming-the-machine/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46372153",
-      "score": 111,
-      "comments": 54
-    },
-    {
-      "title": "Lua 5.5",
-      "url": "https://lua.org/versions.html#5.5",
-      "hnUrl": "https://news.ycombinator.com/item?id=46354674",
-      "score": 316,
-      "comments": 104
-    },
-    {
-      "title": "Perfect Software – Software for an Audience of One",
-      "url": "https://outofdesk.netlify.app/blog/perfect-software",
-      "hnUrl": "https://news.ycombinator.com/item?id=46334206",
-      "score": 152,
-      "comments": 62
-    },
-    {
-      "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
-      "url": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
-      "hnUrl": "https://news.ycombinator.com/item?id=46367475",
-      "score": 449,
-      "comments": 264
-    },
-    {
-      "title": "HTTP Caching, a Refresher",
-      "url": "https://danburzo.ro/http-caching-refresher/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46368616",
-      "score": 116,
-      "comments": 18
-    },
-    {
-      "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
-      "url": "https://github.com/xyphro/UsbGpib",
-      "hnUrl": "https://news.ycombinator.com/item?id=46371429",
-      "score": 43,
-      "comments": 18
+      "title": "Comptime – C# meta-programming with compile-time code generation and evaluation",
+      "url": "https://github.com/sebastienros/comptime",
+      "hnUrl": "https://news.ycombinator.com/item?id=46339532",
+      "score": 99,
+      "comments": 22
     }
   ]
 }
