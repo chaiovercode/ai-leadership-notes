@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-25T12:21:40.981Z",
+  "updated": "2025-12-26T12:21:30.382Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
-      "url": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
-      "hnUrl": "https://news.ycombinator.com/item?id=46383552",
-      "score": 182,
-      "comments": 16
+      "title": "The Algebra of Loans in Rust",
+      "url": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46357814",
+      "score": 57,
+      "comments": 20
     },
     {
-      "title": "Phoenix: A modern X server written from scratch in Zig",
-      "url": "https://git.dec05eba.com/phoenix/about/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46380075",
-      "score": 482,
-      "comments": 238
+      "title": "Maybe the default settings are too high",
+      "url": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46387657",
+      "score": 663,
+      "comments": 210
     },
     {
-      "title": "Tell HN: Merry Christmas",
-      "url": "https://news.ycombinator.com/item?id=46380168",
-      "hnUrl": "https://news.ycombinator.com/item?id=46380168",
-      "score": 1369,
-      "comments": 321
+      "title": "Building an AI agent inside a 7-year-old Rails monolith",
+      "url": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46390055",
+      "score": 58,
+      "comments": 17
     },
     {
-      "title": "Who Watches the Waymos? I do [video]",
-      "url": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "hnUrl": "https://news.ycombinator.com/item?id=46380758",
-      "score": 185,
-      "comments": 52
+      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
+      "url": "https://www.minimaxi.com/news/minimax-m21",
+      "hnUrl": "https://news.ycombinator.com/item?id=46388213",
+      "score": 160,
+      "comments": 54
     },
     {
-      "title": "Ruby 4.0.0",
-      "url": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46382011",
-      "score": 358,
-      "comments": 72
+      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+      "url": "https://github.com/thu-ml/TurboDiffusion",
+      "hnUrl": "https://news.ycombinator.com/item?id=46388907",
+      "score": 112,
+      "comments": 20
     },
     {
-      "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
-      "url": "https://github.com/antonmedv/textarea",
-      "hnUrl": "https://news.ycombinator.com/item?id=46378554",
-      "score": 356,
-      "comments": 117
+      "title": "Show HN: Gaming Couch – a local multiplayer party game platform for 8 players",
+      "url": "https://gamingcouch.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=46344573",
+      "score": 244,
+      "comments": 71
     },
     {
-      "title": "Fabrice Bellard: Biography (2009) [pdf]",
-      "url": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=46377862",
-      "score": 285,
-      "comments": 82
+      "title": "Tiled Art",
+      "url": "https://tiled.art/en/home/?id=SilverAndGold",
+      "hnUrl": "https://news.ycombinator.com/item?id=46324881",
+      "score": 169,
+      "comments": 10
     },
     {
-      "title": "Asterisk AI Voice Agent",
-      "url": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "hnUrl": "https://news.ycombinator.com/item?id=46380399",
-      "score": 127,
-      "comments": 51
+      "title": "Fahrplan – 39C3",
+      "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46386211",
+      "score": 292,
+      "comments": 101
     },
     {
-      "title": "CSRF protection without tokens or hidden form fields",
-      "url": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
-      "hnUrl": "https://news.ycombinator.com/item?id=46351666",
-      "score": 223,
-      "comments": 77
+      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
+      "url": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46384167",
+      "score": 374,
+      "comments": 126
     },
     {
-      "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
-      "url": "https://github.com/VibiumDev/vibium",
-      "hnUrl": "https://news.ycombinator.com/item?id=46377597",
-      "score": 334,
-      "comments": 98
+      "title": "The entire New Yorker archive is now digitized",
+      "url": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
+      "hnUrl": "https://news.ycombinator.com/item?id=46336577",
+      "score": 433,
+      "comments": 58
     },
     {
-      "title": "Fabrice Bellard Releases MicroQuickJS",
-      "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=46367224",
-      "score": 1392,
-      "comments": 523
+      "title": "Show HN: GeneGuessr – a daily biology web puzzle",
+      "url": "https://geneguessr.brinedew.bio/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46363870",
+      "score": 43,
+      "comments": 10
     },
     {
-      "title": "Show HN: Exploring Mathematics with Python",
-      "url": "https://coe.psu.ac.th/ad/explore/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46327191",
-      "score": 148,
-      "comments": 12
+      "title": "Lessons from a year of Postgres CDC in production",
+      "url": "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025",
+      "hnUrl": "https://news.ycombinator.com/item?id=46332784",
+      "score": 43,
+      "comments": 2
     },
     {
-      "title": "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
-      "url": "https://blog.partykit.io/posts/using-vectorize-to-build-search/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46346026",
-      "score": 81,
-      "comments": 27
+      "title": "Ask HN: What skills do you want to develop or improve in 2026?",
+      "url": "https://news.ycombinator.com/item?id=46385197",
+      "hnUrl": "https://news.ycombinator.com/item?id=46385197",
+      "score": 133,
+      "comments": 196
     },
     {
-      "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
-      "url": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46322815",
-      "score": 121,
-      "comments": 6
+      "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
+      "url": "https://github.com/popovicu/ultimate-linux",
+      "hnUrl": "https://news.ycombinator.com/item?id=46388700",
+      "score": 75,
+      "comments": 18
     },
     {
-      "title": "Comptime – C# meta-programming with compile-time code generation and evaluation",
-      "url": "https://github.com/sebastienros/comptime",
-      "hnUrl": "https://news.ycombinator.com/item?id=46339532",
-      "score": 99,
-      "comments": 22
+      "title": "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
+      "url": "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46388040",
+      "score": 310,
+      "comments": 94
     }
   ]
 }
