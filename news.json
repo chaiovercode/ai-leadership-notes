@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-26T12:21:30.382Z",
+  "updated": "2025-12-27T12:19:51.752Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "The Algebra of Loans in Rust",
-      "url": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46357814",
-      "score": 57,
-      "comments": 20
+      "title": "Show HN: Ez FFmpeg – Video editing in plain English",
+      "url": "http://npmjs.com/package/ezff",
+      "hnUrl": "https://news.ycombinator.com/item?id=46400251",
+      "score": 113,
+      "comments": 35
     },
     {
-      "title": "Maybe the default settings are too high",
-      "url": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46387657",
-      "score": 663,
-      "comments": 210
+      "title": "How uv got so fast",
+      "url": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46393992",
+      "score": 968,
+      "comments": 324
     },
     {
-      "title": "Building an AI agent inside a 7-year-old Rails monolith",
-      "url": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46390055",
-      "score": 58,
-      "comments": 17
-    },
-    {
-      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
-      "url": "https://www.minimaxi.com/news/minimax-m21",
-      "hnUrl": "https://news.ycombinator.com/item?id=46388213",
-      "score": 160,
-      "comments": 54
-    },
-    {
-      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
-      "url": "https://github.com/thu-ml/TurboDiffusion",
-      "hnUrl": "https://news.ycombinator.com/item?id=46388907",
-      "score": 112,
-      "comments": 20
-    },
-    {
-      "title": "Show HN: Gaming Couch – a local multiplayer party game platform for 8 players",
-      "url": "https://gamingcouch.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=46344573",
-      "score": 244,
-      "comments": 71
-    },
-    {
-      "title": "Tiled Art",
-      "url": "https://tiled.art/en/home/?id=SilverAndGold",
-      "hnUrl": "https://news.ycombinator.com/item?id=46324881",
-      "score": 169,
-      "comments": 10
-    },
-    {
-      "title": "Fahrplan – 39C3",
-      "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46386211",
-      "score": 292,
-      "comments": 101
-    },
-    {
-      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
-      "url": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46384167",
-      "score": 374,
-      "comments": 126
-    },
-    {
-      "title": "The entire New Yorker archive is now digitized",
-      "url": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
-      "hnUrl": "https://news.ycombinator.com/item?id=46336577",
-      "score": 433,
-      "comments": 58
-    },
-    {
-      "title": "Show HN: GeneGuessr – a daily biology web puzzle",
-      "url": "https://geneguessr.brinedew.bio/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46363870",
-      "score": 43,
-      "comments": 10
-    },
-    {
-      "title": "Lessons from a year of Postgres CDC in production",
-      "url": "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025",
-      "hnUrl": "https://news.ycombinator.com/item?id=46332784",
-      "score": 43,
+      "title": "Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize",
+      "url": "https://github.com/DeepMyst/Mysti",
+      "hnUrl": "https://news.ycombinator.com/item?id=46365105",
+      "score": 4,
       "comments": 2
     },
     {
-      "title": "Ask HN: What skills do you want to develop or improve in 2026?",
-      "url": "https://news.ycombinator.com/item?id=46385197",
-      "hnUrl": "https://news.ycombinator.com/item?id=46385197",
-      "score": 133,
-      "comments": 196
+      "title": "Exe.dev",
+      "url": "https://exe.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46397609",
+      "score": 266,
+      "comments": 129
     },
     {
-      "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
-      "url": "https://github.com/popovicu/ultimate-linux",
-      "hnUrl": "https://news.ycombinator.com/item?id=46388700",
-      "score": 75,
-      "comments": 18
+      "title": "AI Police Reports: Year in Review",
+      "url": "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review",
+      "hnUrl": "https://news.ycombinator.com/item?id=46367195",
+      "score": 141,
+      "comments": 95
     },
     {
-      "title": "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
-      "url": "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46388040",
-      "score": 310,
-      "comments": 94
+      "title": "Always bet on text (2014)",
+      "url": "https://graydon2.dreamwidth.org/193447.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46397379",
+      "score": 237,
+      "comments": 119
+    },
+    {
+      "title": "The best things and stuff of 2025",
+      "url": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46365726",
+      "score": 283,
+      "comments": 30
+    },
+    {
+      "title": "QNX Self-Hosted Developer Desktop",
+      "url": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46398201",
+      "score": 173,
+      "comments": 93
+    },
+    {
+      "title": "Package managers keep using Git as a database, it never works out",
+      "url": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46391514",
+      "score": 655,
+      "comments": 370
+    },
+    {
+      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+      "url": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+      "hnUrl": "https://news.ycombinator.com/item?id=46393936",
+      "score": 407,
+      "comments": 226
+    },
+    {
+      "title": "Publishing your work increases your luck",
+      "url": "https://github.com/readme/guides/publishing-your-work",
+      "hnUrl": "https://news.ycombinator.com/item?id=46397991",
+      "score": 141,
+      "comments": 46
+    },
+    {
+      "title": "One million (small web) screenshots",
+      "url": "https://nry.me/posts/2025-10-09/small-web-screenshots/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46354492",
+      "score": 112,
+      "comments": 11
+    },
+    {
+      "title": "How Lewis Carroll computed determinants (2023)",
+      "url": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46395106",
+      "score": 189,
+      "comments": 47
+    },
+    {
+      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
+      "url": "https://github.com/pranshuparmar/witr",
+      "hnUrl": "https://news.ycombinator.com/item?id=46392910",
+      "score": 346,
+      "comments": 70
+    },
+    {
+      "title": "LearnixOS",
+      "url": "https://www.learnix-os.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=46391599",
+      "score": 239,
+      "comments": 93
     }
   ]
 }
