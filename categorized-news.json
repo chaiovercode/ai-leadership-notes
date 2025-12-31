@@ -1,30 +1,43 @@
 {
-  "updated": "2025-12-29T09:37:44.302Z",
+  "updated": "2025-12-31T15:07:56.489Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": [
-        {
-          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-          "url": "https://blog.google/technology/ai/2025-research-breakthroughs/",
-          "date": "2025-12-23T17:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_header_light_2.max-600x600.format-webp.webp\"&gt;This year saw new AI models, transformative products and n...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech",
-          "url": "https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/",
-          "date": "2025-12-23T16:00:00.000Z",
-          "description": "Digital avatar generation company Lemon Slice is working to add a video layer to AI chatbots with a new diffusion model that can create digital avatars from a single image.",
-          "source": "TechCrunch"
-        }
-      ]
+      "articles": []
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "The best AI-powered dictation apps of 2025",
+          "url": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
+          "date": "2025-12-30T16:00:00.000Z",
+          "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The latest AI news we announced in December",
+          "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
+          "date": "2025-12-29T18:15:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_still.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from December 2025",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere",
+          "url": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
+          "date": "2025-12-29T18:00:00.000Z",
+          "description": "Plaud Note Pro is a $179 notetaker, which is an excellent recording device first",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+          "url": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+          "date": "2025-12-29T15:51:40.000Z",
+          "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI is looking for a new Head of Preparedness",
           "url": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
@@ -45,55 +58,6 @@
           "date": "2025-12-24T16:27:55.000Z",
           "description": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
-          "url": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
-          "date": "2025-12-23T19:02:47.000Z",
-          "description": "These authors rejected Anthropic's class action settlement, arguing that \"LLM companies should not be able to so easily extinguish thousands upon thousands of high-value claims at bargain-basement rat...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazons AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp",
-          "url": "https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/",
-          "date": "2025-12-23T16:04:57.000Z",
-          "description": "The new integrations join other services like Yelp, Uber, OpenTable and others.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
-          "url": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
-          "date": "2025-12-22T22:11:19.000Z",
-          "description": "OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an \"LLM-based automated attacker.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
-          "url": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
-          "date": "2025-12-22T21:10:54.000Z",
-          "description": "Alphabet is set to pay $4.75 billion in cash, plus debt, for the data center and clean energy developer.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "ChatGPT launches a year-end review like Spotify Wrapped",
-          "url": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
-          "date": "2025-12-22T19:01:04.000Z",
-          "description": "The experience includes awards, poems, and pictures referencing your year in chat.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "60 of our biggest AI announcements in 2025",
-          "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
-          "date": "2025-12-22T17:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025AI_Hero.max-600x600.format-webp.webp\"&gt;Look back on Google AI news in 2025 across Gemini, Search, Pixel and more prod...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Splats app uses AI to turn your photos into coloring pages for kids",
-          "url": "https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/",
-          "date": "2025-12-22T16:55:48.000Z",
-          "description": "The app turns your own photos into pages for your kids to color, via AI.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -102,17 +66,24 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "Meta just bought Manus, an AI startup everyone has been talking about",
+          "url": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+          "date": "2025-12-30T05:39:08.000Z",
+          "description": "Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "VCs predict strong enterprise AI adoption next year — again",
+          "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
+          "date": "2025-12-29T14:00:00.000Z",
+          "description": "More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets, and more for 2026.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Equitys 2026 Predictions: AI Agents, Blockbuster IPOs, and the Future of VC",
           "url": "https://techcrunch.com/podcast/equitys-2026-predictions-ai-agents-blockbuster-ipos-and-the-future-of-vc/",
           "date": "2025-12-26T18:00:00.000Z",
           "description": "TechCrunchsEquitycrew is bringing 2025 to a close and getting ahead on the year to come with our annualpredictionsepisode! Hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan were joined by Build Mo...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
-          "url": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
-          "date": "2025-12-22T22:11:19.000Z",
-          "description": "OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an \"LLM-based automated attacker.\"",
           "source": "TechCrunch"
         }
       ]
@@ -121,6 +92,27 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
+          "url": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
+          "date": "2025-12-30T15:30:24.000Z",
+          "description": "Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta just bought Manus, an AI startup everyone has been talking about",
+          "url": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+          "date": "2025-12-30T05:39:08.000Z",
+          "description": "Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "VCs predict strong enterprise AI adoption next year — again",
+          "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
+          "date": "2025-12-29T14:00:00.000Z",
+          "description": "More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets, and more for 2026.",
+          "source": "TechCrunch"
+        },
         {
           "title": "India startup funding hits $11B in 2025 as investors grow more selective",
           "url": "https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/",
@@ -134,27 +126,6 @@
           "date": "2025-12-24T18:00:00.000Z",
           "description": "Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp",
-          "url": "https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/",
-          "date": "2025-12-24T14:40:34.000Z",
-          "description": "Italy has ordered Meta to suspend its policy that bans companies from using WhatsApp's business tools to offer their own AI chatbots on the popular chat app.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Can AI fix the operating room? This startup thinks so",
-          "url": "https://techcrunch.com/video/can-ai-fix-the-operating-room-this-startup-thinks-so/",
-          "date": "2025-12-24T04:48:00.000Z",
-          "description": "Theres plenty of hype around AI and robots in healthcare, but the problem thats actually costing hospitals money right now is operating room coordination.Two to four hours of OR time is lost every sin...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerunners Kirsten Green",
-          "url": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
-          "date": "2025-12-23T16:48:45.000Z",
-          "description": "Mayer launched Dazzle after shuttering her photo and contact management startup Sunshine. Green’s investment suggests Dazzle is poised for the coming wave of new AI-infused consumer businesses.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -162,6 +133,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "The phone is dead. Long live . . . what exactly?",
+          "url": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
+          "date": "2025-12-31T05:37:03.000Z",
+          "description": "\"We're not going to be using iPhones in 10 years,\" Callaghan says flatly. \"I kind of don't think we'll be using them in five years.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "2025 was the year AI got a vibe check",
+          "url": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
+          "date": "2025-12-29T19:00:00.000Z",
+          "description": "AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and...",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI is looking for a new Head of Preparedness",
           "url": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
@@ -181,41 +166,6 @@
           "url": "https://techcrunch.com/podcast/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
           "date": "2025-12-24T16:47:41.000Z",
           "description": "Theres plenty of hype around AI and robots in healthcare, but the problem thats actually costing hospitals money right now is operating room coordination. Two to four hours of OR time is lost every si...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp",
-          "url": "https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/",
-          "date": "2025-12-24T14:40:34.000Z",
-          "description": "Italy has ordered Meta to suspend its policy that bans companies from using WhatsApp's business tools to offer their own AI chatbots on the popular chat app.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Can AI fix the operating room? This startup thinks so",
-          "url": "https://techcrunch.com/video/can-ai-fix-the-operating-room-this-startup-thinks-so/",
-          "date": "2025-12-24T04:48:00.000Z",
-          "description": "Theres plenty of hype around AI and robots in healthcare, but the problem thats actually costing hospitals money right now is operating room coordination.Two to four hours of OR time is lost every sin...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
-          "url": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
-          "date": "2025-12-23T19:02:47.000Z",
-          "description": "These authors rejected Anthropic's class action settlement, arguing that \"LLM companies should not be able to so easily extinguish thousands upon thousands of high-value claims at bargain-basement rat...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerunners Kirsten Green",
-          "url": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
-          "date": "2025-12-23T16:48:45.000Z",
-          "description": "Mayer launched Dazzle after shuttering her photo and contact management startup Sunshine. Green’s investment suggests Dazzle is poised for the coming wave of new AI-infused consumer businesses.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
-          "url": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
-          "date": "2025-12-22T22:11:19.000Z",
-          "description": "OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an \"LLM-based automated attacker.\"",
           "source": "TechCrunch"
         }
       ]
