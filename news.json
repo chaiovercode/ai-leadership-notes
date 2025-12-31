@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-30T12:22:53.321Z",
+  "updated": "2025-12-31T12:22:00.087Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Netflix: Open Content",
-      "url": "https://opencontent.netflix.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46431560",
-      "score": 113,
-      "comments": 11
+      "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+      "url": "https://exopriors.com/scry",
+      "hnUrl": "https://news.ycombinator.com/item?id=46442245",
+      "score": 93,
+      "comments": 25
     },
     {
-      "title": "Google is dead. Where do we go now?",
-      "url": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46425198",
-      "score": 862,
-      "comments": 691
+      "title": "The rise of industrial software",
+      "url": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
+      "hnUrl": "https://news.ycombinator.com/item?id=46442597",
+      "score": 108,
+      "comments": 73
     },
     {
-      "title": "HSBC blocks its app due to F-Droid-installed Bitwarden",
-      "url": "https://mastodon.neilzone.co.uk/@neil/115807834298031971",
-      "hnUrl": "https://news.ycombinator.com/item?id=46431453",
-      "score": 179,
-      "comments": 149
+      "title": "Animated AI",
+      "url": "https://animatedai.github.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46390621",
+      "score": 206,
+      "comments": 21
     },
     {
-      "title": "Go Away Python",
-      "url": "https://lorentz.app/blog-item.html?id=go-shebang",
-      "hnUrl": "https://news.ycombinator.com/item?id=46431028",
-      "score": 86,
-      "comments": 31
+      "title": "A faster heart for F-Droid",
+      "url": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46436409",
+      "score": 426,
+      "comments": 179
     },
     {
-      "title": "GOG is getting acquired by its original co-founder",
-      "url": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46422412",
-      "score": 723,
-      "comments": 423
+      "title": "Show HN: 22 GB of Hacker News in SQLite",
+      "url": "https://hackerbook.dosaygo.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=46435308",
+      "score": 569,
+      "comments": 177
     },
     {
-      "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
-      "url": "https://fontgenerator.design/symbols",
-      "hnUrl": "https://news.ycombinator.com/item?id=46384975",
-      "score": 55,
-      "comments": 29
+      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+      "url": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46436889",
+      "score": 324,
+      "comments": 78
     },
     {
-      "title": "Stranger Things creator says turn off \"garbage\" settings",
-      "url": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46427586",
-      "score": 214,
-      "comments": 392
+      "title": "Readings in Database Systems (5th Edition) (2015)",
+      "url": "http://www.redbook.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46440510",
+      "score": 110,
+      "comments": 9
     },
     {
-      "title": "Hacking Washing Machines [video]",
-      "url": "https://media.ccc.de/v/39c3-hacking-washing-machines",
-      "hnUrl": "https://news.ycombinator.com/item?id=46428496",
-      "score": 146,
-      "comments": 28
+      "title": "Honey's Dieselgate: Detecting and tricking testers",
+      "url": "https://vptdigital.com/blog/honey-detecting-testers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46438522",
+      "score": 266,
+      "comments": 91
     },
     {
-      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-      "url": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46423290",
-      "score": 479,
-      "comments": 542
+      "title": "A Vulnerability in Libsodium",
+      "url": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46435614",
+      "score": 285,
+      "comments": 37
     },
     {
-      "title": "ManusAI Joins Meta",
-      "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
-      "hnUrl": "https://news.ycombinator.com/item?id=46426534",
-      "score": 252,
-      "comments": 154
+      "title": "Loss32: Let's Build a Win32/Linux",
+      "url": "https://loss32.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46424173",
+      "score": 295,
+      "comments": 383
     },
     {
-      "title": "The future of software development is software developers",
-      "url": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46424233",
-      "score": 238,
-      "comments": 232
+      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+      "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=46438390",
+      "score": 389,
+      "comments": 545
     },
     {
-      "title": "AI is forcing us to write good code",
-      "url": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
-      "hnUrl": "https://news.ycombinator.com/item?id=46424200",
-      "score": 203,
-      "comments": 150
+      "title": "Non-Zero-Sum Games",
+      "url": "https://nonzerosum.games/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46432311",
+      "score": 389,
+      "comments": 179
     },
     {
-      "title": "Librarians Tired of Being Accused of Hiding Secret Books That Were Made Up by AI",
-      "url": "https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176",
-      "hnUrl": "https://news.ycombinator.com/item?id=46380855",
-      "score": 55,
-      "comments": 32
+      "title": "Electrolysis can solve one of our biggest contamination problems",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46436127",
+      "score": 167,
+      "comments": 49
     },
     {
-      "title": "Show HN: Stop Claude Code from forgetting everything",
-      "url": "https://github.com/mutable-state-inc/ensue-skill",
-      "hnUrl": "https://news.ycombinator.com/item?id=46426624",
-      "score": 160,
-      "comments": 186
+      "title": "No strcpy either",
+      "url": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46433029",
+      "score": 218,
+      "comments": 119
     },
     {
-      "title": "MongoDB Server Security Update, December 2025",
-      "url": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
-      "hnUrl": "https://news.ycombinator.com/item?id=46427920",
-      "score": 82,
-      "comments": 34
+      "title": "Zpdf: PDF text extraction in Zig",
+      "url": "https://github.com/Lulzx/zpdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=46437288",
+      "score": 188,
+      "comments": 75
     }
   ]
 }
