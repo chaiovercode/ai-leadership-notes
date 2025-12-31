@@ -15,4 +15,5 @@ include:
   - 08-Ethics-Future-AI
   - tools.json
   - news.json
+  - categorized-news.json
   - search-index.json
