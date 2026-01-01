@@ -1,111 +1,111 @@
 {
-  "updated": "2025-12-31T12:22:00.087Z",
+  "updated": "2026-01-01T12:22:15.780Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
-      "url": "https://exopriors.com/scry",
-      "hnUrl": "https://news.ycombinator.com/item?id=46442245",
-      "score": 93,
-      "comments": 25
+      "title": "Rust–: Rust without the borrow checker",
+      "url": "https://github.com/buyukakyuz/rustmm",
+      "hnUrl": "https://news.ycombinator.com/item?id=46453062",
+      "score": 42,
+      "comments": 31
     },
     {
-      "title": "The rise of industrial software",
-      "url": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
-      "hnUrl": "https://news.ycombinator.com/item?id=46442597",
-      "score": 108,
-      "comments": 73
+      "title": "2025: The Year in LLMs",
+      "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46449643",
+      "score": 590,
+      "comments": 320
     },
     {
-      "title": "Animated AI",
-      "url": "https://animatedai.github.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46390621",
-      "score": 206,
-      "comments": 21
+      "title": "I canceled my book deal",
+      "url": "https://austinhenley.com/blog/canceledbookdeal.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46446815",
+      "score": 497,
+      "comments": 282
     },
     {
-      "title": "A faster heart for F-Droid",
-      "url": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46436409",
-      "score": 426,
-      "comments": 179
+      "title": "Flow5 released to open source",
+      "url": "https://flow5.tech/docs/releasenotes.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46451124",
+      "score": 100,
+      "comments": 6
     },
     {
-      "title": "Show HN: 22 GB of Hacker News in SQLite",
-      "url": "https://hackerbook.dosaygo.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=46435308",
-      "score": 569,
-      "comments": 177
+      "title": "Worlds largest electric ship launched by Tasmanian boatbuilder",
+      "url": "https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched",
+      "hnUrl": "https://news.ycombinator.com/item?id=46452937",
+      "score": 28,
+      "comments": 8
     },
     {
-      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
-      "url": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46436889",
-      "score": 324,
-      "comments": 78
+      "title": "Resistance training load does not determine hypertrophy",
+      "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+      "hnUrl": "https://news.ycombinator.com/item?id=46448998",
+      "score": 162,
+      "comments": 166
     },
     {
-      "title": "Readings in Database Systems (5th Edition) (2015)",
-      "url": "http://www.redbook.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46440510",
-      "score": 110,
+      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+      "url": "https://bustermq.sh/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46449812",
+      "score": 103,
+      "comments": 44
+    },
+    {
+      "title": "Web Browsers have stopped blocking pop-ups",
+      "url": "https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46446366",
+      "score": 221,
+      "comments": 202
+    },
+    {
+      "title": "Ÿnsect, a French insect farming startup, has been been placed into liquidation",
+      "url": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46397760",
+      "score": 127,
+      "comments": 157
+    },
+    {
+      "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+      "url": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+      "hnUrl": "https://news.ycombinator.com/item?id=46448705",
+      "score": 611,
+      "comments": 444
+    },
+    {
+      "title": "Build Software. Build Users",
+      "url": "https://dima.day/blog/build-software-build-users/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46409830",
+      "score": 32,
       "comments": 9
     },
     {
-      "title": "Honey's Dieselgate: Detecting and tricking testers",
-      "url": "https://vptdigital.com/blog/honey-detecting-testers/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46438522",
-      "score": 266,
-      "comments": 91
+      "title": "Demystifying DVDs",
+      "url": "https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs",
+      "hnUrl": "https://news.ycombinator.com/item?id=46417162",
+      "score": 181,
+      "comments": 16
     },
     {
-      "title": "A Vulnerability in Libsodium",
-      "url": "https://00f.net/2025/12/30/libsodium-vulnerability/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46435614",
-      "score": 285,
-      "comments": 37
+      "title": "My role as a founder-CTO: year 8",
+      "url": "https://miguelcarranza.es/cto-year-8",
+      "hnUrl": "https://news.ycombinator.com/item?id=46395438",
+      "score": 138,
+      "comments": 113
     },
     {
-      "title": "Loss32: Let's Build a Win32/Linux",
-      "url": "https://loss32.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46424173",
-      "score": 295,
-      "comments": 383
+      "title": "Tell HN: Happy New Year",
+      "url": "https://news.ycombinator.com/item?id=46443744",
+      "hnUrl": "https://news.ycombinator.com/item?id=46443744",
+      "score": 366,
+      "comments": 188
     },
     {
-      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
-      "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-      "hnUrl": "https://news.ycombinator.com/item?id=46438390",
-      "score": 389,
-      "comments": 545
-    },
-    {
-      "title": "Non-Zero-Sum Games",
-      "url": "https://nonzerosum.games/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46432311",
-      "score": 389,
-      "comments": 179
-    },
-    {
-      "title": "Electrolysis can solve one of our biggest contamination problems",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46436127",
-      "score": 167,
-      "comments": 49
-    },
-    {
-      "title": "No strcpy either",
-      "url": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46433029",
-      "score": 218,
-      "comments": 119
-    },
-    {
-      "title": "Zpdf: PDF text extraction in Zig",
-      "url": "https://github.com/Lulzx/zpdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=46437288",
-      "score": 188,
-      "comments": 75
+      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+      "url": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+      "hnUrl": "https://news.ycombinator.com/item?id=46448894",
+      "score": 172,
+      "comments": 36
     }
   ]
 }
