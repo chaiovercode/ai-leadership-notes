@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-03T12:20:09.797Z",
+  "updated": "2026-01-04T12:20:39.208Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Tally – A tool to help agents classify your bank transactions",
-      "url": "https://tallyai.money/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46475218",
-      "score": 23,
-      "comments": 18
+      "title": "Maybe Comments _Should_ Explain 'What'",
+      "url": "https://www.hillelwayne.com/post/what-comments/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46486780",
+      "score": 41,
+      "comments": 25
     },
     {
-      "title": "Publish on your own site, syndicate elsewhere",
-      "url": "https://indieweb.org/POSSE#",
-      "hnUrl": "https://news.ycombinator.com/item?id=46468600",
-      "score": 715,
-      "comments": 175
+      "title": "Neural Networks: Zero to Hero",
+      "url": "https://karpathy.ai/zero-to-hero.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46485090",
+      "score": 376,
+      "comments": 30
     },
     {
-      "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
-      "url": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46469577",
-      "score": 525,
-      "comments": 88
+      "title": "Total monthly number of StackOverflow questions over time",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+      "hnUrl": "https://news.ycombinator.com/item?id=46482345",
+      "score": 1200,
+      "comments": 661
     },
     {
-      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
-      "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=46472667",
-      "score": 96,
-      "comments": 29
+      "title": "The suck is why we're here",
+      "url": "https://nik.art/the-suck-is-why-were-here/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46482877",
+      "score": 322,
+      "comments": 183
     },
     {
-      "title": "GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling",
-      "url": "https://github.com/tomasf/Cadova",
-      "hnUrl": "https://news.ycombinator.com/item?id=46442624",
-      "score": 20,
+      "title": "Can I start using Wayland in 2026?",
+      "url": "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46485989",
+      "score": 123,
+      "comments": 84
+    },
+    {
+      "title": "The Most Popular Blogs of Hacker News in 2025",
+      "url": "https://refactoringenglish.com/blog/2025-hn-top-5/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46478377",
+      "score": 602,
+      "comments": 115
+    },
+    {
+      "title": "JavaScript engines zoo – Compare every JavaScript engine",
+      "url": "https://zoo.js.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46486978",
+      "score": 6,
       "comments": 1
     },
     {
-      "title": "IPv6 just turned 30 and still hasn't taken over the world",
-      "url": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46465327",
-      "score": 392,
-      "comments": 770
+      "title": "Swift on Android: Full Native App Development Now Possible",
+      "url": "https://docs.swifdroid.com/app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46483023",
+      "score": 233,
+      "comments": 132
     },
     {
-      "title": "2026 will be my year of the Linux desktop",
-      "url": "https://xeiaso.net/notes/2026/year-linux-desktop/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46471199",
-      "score": 579,
-      "comments": 421
+      "title": "KDE onboarding is good now",
+      "url": "https://rabbitictranslator.com/kde-onboarding/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46483432",
+      "score": 122,
+      "comments": 74
     },
     {
-      "title": "Clicks Communicator",
-      "url": "https://www.clicksphone.com/en/communicator",
-      "hnUrl": "https://news.ycombinator.com/item?id=46467057",
-      "score": 339,
-      "comments": 213
+      "title": "MyTorch – Minimalist autograd in 450 lines of Python",
+      "url": "https://github.com/obround/mytorch",
+      "hnUrl": "https://news.ycombinator.com/item?id=46483776",
+      "score": 81,
+      "comments": 14
     },
     {
-      "title": "Ask HN: Who is hiring? (January 2026)",
-      "url": "https://news.ycombinator.com/item?id=46466074",
-      "hnUrl": "https://news.ycombinator.com/item?id=46466074",
-      "score": 296,
-      "comments": 181
+      "title": "How Thomas Mann Wrote the Magic Mountain",
+      "url": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+      "hnUrl": "https://news.ycombinator.com/item?id=46484104",
+      "score": 68,
+      "comments": 26
     },
     {
-      "title": "Linux kernel security work",
-      "url": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46469623",
-      "score": 119,
-      "comments": 54
+      "title": "Corroded: Illegal Rust",
+      "url": "https://github.com/buyukakyuz/corroded",
+      "hnUrl": "https://news.ycombinator.com/item?id=46483531",
+      "score": 124,
+      "comments": 33
     },
     {
-      "title": "Show HN: Website that plays the lottery every second",
-      "url": "https://lotteryeverysecond.lffl.me/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46471171",
-      "score": 187,
-      "comments": 105
+      "title": "Using AI generated images to get refunds",
+      "url": "https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46440637",
+      "score": 3,
+      "comments": 0
     },
     {
-      "title": "Jank Lang Hit Alpha",
-      "url": "https://github.com/jank-lang/jank",
-      "hnUrl": "https://news.ycombinator.com/item?id=46468517",
-      "score": 187,
-      "comments": 27
+      "title": "Show HN: Replacing my OS process scheduler with an LLM",
+      "url": "https://github.com/mprajyothreddy/brainkernel",
+      "hnUrl": "https://news.ycombinator.com/item?id=46435142",
+      "score": 37,
+      "comments": 26
     },
     {
-      "title": "Unix v4 (1973) – Live Terminal",
-      "url": "https://unixv4.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46468283",
-      "score": 151,
-      "comments": 71
-    },
-    {
-      "title": "Fighting Fire with Fire: Scalable Oral Exams",
-      "url": "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46467677",
-      "score": 173,
-      "comments": 218
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (January 2026)",
-      "url": "https://news.ycombinator.com/item?id=46466073",
-      "hnUrl": "https://news.ycombinator.com/item?id=46466073",
-      "score": 117,
-      "comments": 214
+      "title": "Show HN: Claude Reflect – Auto-turn Claude corrections into project config",
+      "url": "https://github.com/BayramAnnakov/claude-reflect",
+      "hnUrl": "https://news.ycombinator.com/item?id=46484933",
+      "score": 39,
+      "comments": 16
     }
   ]
 }
