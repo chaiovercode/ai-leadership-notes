@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-06T12:23:38.634Z",
+  "updated": "2026-01-07T12:23:58.112Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "enclose.horse",
-      "url": "https://enclose.horse/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46509211",
+      "title": "Firefox extension to redirect x.com to xcancel.com",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/toxcancel/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46524873",
+      "score": 121,
+      "comments": 62
+    },
+    {
+      "title": "Sergey Brin's Unretirement",
+      "url": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
+      "hnUrl": "https://news.ycombinator.com/item?id=46452641",
+      "score": 223,
+      "comments": 264
+    },
+    {
+      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+      "url": "https://github.com/rberg27/doom-coding",
+      "hnUrl": "https://news.ycombinator.com/item?id=46517458",
       "score": 456,
-      "comments": 69
+      "comments": 330
     },
     {
-      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-      "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46511153",
-      "score": 58,
-      "comments": 2
+      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+      "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46515696",
+      "score": 608,
+      "comments": 826
     },
     {
-      "title": "There were BGP anomalies during the Venezuela blackout",
-      "url": "https://loworbitsecurity.com/radar/radar16/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46504963",
-      "score": 784,
-      "comments": 342
+      "title": "Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)",
+      "url": "https://www.optery.com/careers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46525394",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "The Post-American Internet",
-      "url": "https://pluralistic.net/2026/01/01/39c3/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46509019",
-      "score": 334,
-      "comments": 185
+      "title": "Electronic nose for indoor mold detection and identification",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+      "hnUrl": "https://news.ycombinator.com/item?id=46520935",
+      "score": 139,
+      "comments": 72
     },
     {
-      "title": "GBC Boot Animation 88×31 Web Button",
-      "url": "https://zakhary.dev/blog/gbc-web-button",
-      "hnUrl": "https://news.ycombinator.com/item?id=46507963",
-      "score": 138,
-      "comments": 13
+      "title": "The creator of Claude Code's Claude setup",
+      "url": "https://twitter.com/bcherny/status/2007179832300581177",
+      "hnUrl": "https://news.ycombinator.com/item?id=46470017",
+      "score": 421,
+      "comments": 269
     },
     {
-      "title": "Try to take my position: The best promotion advice I ever got",
-      "url": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46466027",
-      "score": 457,
-      "comments": 202
+      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+      "url": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46518573",
+      "score": 265,
+      "comments": 83
     },
     {
-      "title": "Repair a ship’s hull still in the river in -50˚C (2022)",
-      "url": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46464462",
-      "score": 31,
-      "comments": 9
+      "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+      "url": "https://github.com/x011/smtp-tunnel-proxy",
+      "hnUrl": "https://news.ycombinator.com/item?id=46520926",
+      "score": 74,
+      "comments": 20
     },
     {
-      "title": "I/O is no longer the bottleneck? (2022)",
-      "url": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46506994",
-      "score": 194,
-      "comments": 99
+      "title": "Vietnam bans unskippable ads",
+      "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+      "hnUrl": "https://news.ycombinator.com/item?id=46514677",
+      "score": 1390,
+      "comments": 708
     },
     {
-      "title": "Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%",
-      "url": "https://brave.com/privacy-updates/36-adblock-memory-reduction/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46501894",
-      "score": 359,
-      "comments": 183
+      "title": "Oral microbiome sequencing after taking probiotics",
+      "url": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
+      "hnUrl": "https://news.ycombinator.com/item?id=46518804",
+      "score": 157,
+      "comments": 64
     },
     {
-      "title": "Six-decade math puzzle solved by Korean mathematician",
-      "url": "https://www.koreaherald.com/article/10648326",
-      "hnUrl": "https://news.ycombinator.com/item?id=46491129",
-      "score": 189,
-      "comments": 56
+      "title": "I wanted a camera that doesn't exist, so I built it",
+      "url": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
+      "hnUrl": "https://news.ycombinator.com/item?id=46466843",
+      "score": 391,
+      "comments": 117
     },
     {
-      "title": "Welcome to Gas Town",
-      "url": "https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04",
-      "hnUrl": "https://news.ycombinator.com/item?id=46458936",
-      "score": 290,
-      "comments": 159
+      "title": "Calling All Hackers: How money works (2024)",
+      "url": "https://phrack.org/issues/71/17",
+      "hnUrl": "https://news.ycombinator.com/item?id=46518129",
+      "score": 269,
+      "comments": 173
     },
     {
-      "title": "How Y Combinator made it smart to trust founders",
-      "url": "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other",
-      "hnUrl": "https://news.ycombinator.com/item?id=46501677",
-      "score": 145,
-      "comments": 105
+      "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
+      "url": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
+      "hnUrl": "https://news.ycombinator.com/item?id=46519326",
+      "score": 114,
+      "comments": 63
     },
     {
-      "title": "Shipping at Inference-Speed",
-      "url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
-      "hnUrl": "https://news.ycombinator.com/item?id=46441873",
-      "score": 11,
-      "comments": 1
-    },
-    {
-      "title": "Strange.website",
-      "url": "https://strange.website/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46506596",
-      "score": 147,
-      "comments": 54
-    },
-    {
-      "title": "I switched from VSCode to Zed",
-      "url": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46498735",
-      "score": 377,
-      "comments": 346
+      "title": "What *is* code? (2015)",
+      "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46458610",
+      "score": 42,
+      "comments": 16
     }
   ]
 }
