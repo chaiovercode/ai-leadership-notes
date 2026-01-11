@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-10T12:20:11.067Z",
+  "updated": "2026-01-11T12:20:42.856Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
-      "url": "https://mathstodon.xyz/@tao/115855840223258103",
-      "hnUrl": "https://news.ycombinator.com/item?id=46560445",
-      "score": 498,
-      "comments": 271
+      "title": "The Concise TypeScript Book",
+      "url": "https://github.com/gibbok/typescript-book",
+      "hnUrl": "https://news.ycombinator.com/item?id=46573001",
+      "score": 108,
+      "comments": 23
     },
     {
-      "title": "Changes to Android Open Source Project",
-      "url": "https://source.android.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46524379",
-      "score": 162,
-      "comments": 97
+      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
+      "url": "https://github.com/vojtapolasek/vojtux",
+      "hnUrl": "https://news.ycombinator.com/item?id=46525271",
+      "score": 55,
+      "comments": 17
     },
     {
-      "title": "JavaScript Demos in 140 Characters",
-      "url": "https://beta.dwitter.net",
-      "hnUrl": "https://news.ycombinator.com/item?id=46557489",
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "url": "https://github.com/OlaProeis/Ferrite",
+      "hnUrl": "https://news.ycombinator.com/item?id=46571980",
+      "score": 178,
+      "comments": 95
+    },
+    {
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "hnUrl": "https://news.ycombinator.com/item?id=46568794",
+      "score": 477,
+      "comments": 103
+    },
+    {
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "url": "https://trails.pieterma.es/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46567400",
+      "score": 379,
+      "comments": 103
+    },
+    {
+      "title": "Code and Let Live",
+      "url": "https://fly.io/blog/code-and-let-live/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46557825",
+      "score": 355,
+      "comments": 127
+    },
+    {
+      "title": "CPU Counters on Apple Silicon: article + tool",
+      "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46525236",
+      "score": 95,
+      "comments": 0
+    },
+    {
+      "title": "Open Chaos: A self-evolving open-source project",
+      "url": "https://www.openchaos.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46566812",
+      "score": 380,
+      "comments": 78
+    },
+    {
+      "title": "AI is a business model stress test",
+      "url": "https://dri.es/ai-is-a-business-model-stress-test",
+      "hnUrl": "https://news.ycombinator.com/item?id=46567392",
       "score": 267,
-      "comments": 52
+      "comments": 258
     },
     {
-      "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
-      "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46511555",
-      "score": 138,
-      "comments": 52
+      "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+      "url": "https://llmholdem.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46569061",
+      "score": 126,
+      "comments": 59
     },
     {
-      "title": "How Markdown took over the world",
-      "url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46556695",
-      "score": 290,
-      "comments": 232
+      "title": "Show HN: I built an Open Source screen timer for the m5stickc (Arduino)",
+      "url": "https://partridge.works/screenie-christmas-project-2025-26/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46512210",
+      "score": 7,
+      "comments": 0
     },
     {
-      "title": "Oh My Zsh adds bloat",
-      "url": "https://rushter.com/blog/zsh-shell/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46562790",
-      "score": 201,
-      "comments": 201
+      "title": "Overdose deaths are falling in America because of a 'supply shock': study",
+      "url": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
+      "hnUrl": "https://news.ycombinator.com/item?id=46569312",
+      "score": 150,
+      "comments": 126
     },
     {
-      "title": "Start your meetings at 5 minutes past",
-      "url": "https://philipotoole.com/start-your-meetings-at-5-minutes-past/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46560217",
-      "score": 149,
-      "comments": 139
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "url": "https://news.ycombinator.com/item?id=46571149",
+      "hnUrl": "https://news.ycombinator.com/item?id=46571149",
+      "score": 110,
+      "comments": 38
     },
     {
-      "title": "How will the miracle happen today?",
-      "url": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46489514",
-      "score": 464,
-      "comments": 236
+      "title": "A battle over Canada’s mystery brain disease",
+      "url": "https://www.bbc.com/news/articles/c623r47d67lo",
+      "hnUrl": "https://news.ycombinator.com/item?id=46572769",
+      "score": 155,
+      "comments": 101
     },
     {
-      "title": "RTX 5090 and Raspberry Pi: Can it game?",
-      "url": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46558148",
-      "score": 239,
-      "comments": 96
-    },
-    {
-      "title": "Show HN: Scroll Wikipedia like TikTok",
-      "url": "https://quack.sdan.io",
-      "hnUrl": "https://news.ycombinator.com/item?id=46557029",
-      "score": 272,
-      "comments": 64
-    },
-    {
-      "title": "Show HN: Rocket Launch and Orbit Simulator",
-      "url": "https://www.donutthejedi.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46557879",
-      "score": 131,
-      "comments": 35
-    },
-    {
-      "title": "Cloudflare CEO on the Italy fines",
-      "url": "https://twitter.com/eastdakota/status/2009654937303896492",
-      "hnUrl": "https://news.ycombinator.com/item?id=46555760",
-      "score": 555,
-      "comments": 798
-    },
-    {
-      "title": "Scientists discover oldest poison, on 60k-year-old arrows",
-      "url": "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46547962",
-      "score": 120,
-      "comments": 52
-    },
-    {
-      "title": "I got paid minimum wage to solve an impossible problem",
-      "url": "https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve",
-      "hnUrl": "https://news.ycombinator.com/item?id=46564618",
-      "score": 17,
-      "comments": 5
-    },
-    {
-      "title": "How to code Claude Code in 200 lines of code",
-      "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46545620",
-      "score": 760,
-      "comments": 231
+      "title": "Sisyphus Now Lives in Oh My Claude",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+      "hnUrl": "https://news.ycombinator.com/item?id=46572032",
+      "score": 33,
+      "comments": 24
     }
   ]
 }
