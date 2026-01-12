@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-11T12:20:42.856Z",
+  "updated": "2026-01-12T12:25:08.658Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "The Concise TypeScript Book",
-      "url": "https://github.com/gibbok/typescript-book",
-      "hnUrl": "https://news.ycombinator.com/item?id=46573001",
-      "score": 108,
-      "comments": 23
+      "title": "The struggle of resizing windows on macOS Tahoe",
+      "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46579864",
+      "score": 1908,
+      "comments": 801
     },
     {
-      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-      "url": "https://github.com/vojtapolasek/vojtux",
-      "hnUrl": "https://news.ycombinator.com/item?id=46525271",
-      "score": 55,
-      "comments": 17
+      "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
+      "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46526896",
+      "score": 142,
+      "comments": 36
     },
     {
-      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
-      "url": "https://github.com/OlaProeis/Ferrite",
-      "hnUrl": "https://news.ycombinator.com/item?id=46571980",
-      "score": 178,
-      "comments": 95
+      "title": "CLI agents make self-hosting on a home server easier and fun",
+      "url": "https://fulghum.io/self-hosting",
+      "hnUrl": "https://news.ycombinator.com/item?id=46580326",
+      "score": 593,
+      "comments": 395
     },
     {
-      "title": "Finding and fixing Ghostty's largest memory leak",
-      "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "hnUrl": "https://news.ycombinator.com/item?id=46568794",
-      "score": 477,
-      "comments": 103
+      "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+      "url": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
+      "hnUrl": "https://news.ycombinator.com/item?id=46553137",
+      "score": 145,
+      "comments": 57
     },
     {
-      "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "url": "https://trails.pieterma.es/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46567400",
-      "score": 379,
-      "comments": 103
+      "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
+      "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
+      "hnUrl": "https://news.ycombinator.com/item?id=46585947",
+      "score": 34,
+      "comments": 16
     },
     {
-      "title": "Code and Let Live",
-      "url": "https://fly.io/blog/code-and-let-live/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46557825",
-      "score": 355,
-      "comments": 127
+      "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
+      "url": "https://iczelia.net/posts/snake-polyglot/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46580864",
+      "score": 230,
+      "comments": 58
     },
     {
-      "title": "CPU Counters on Apple Silicon: article + tool",
-      "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46525236",
-      "score": 95,
-      "comments": 0
+      "title": "iCloud Photos Downloader",
+      "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "hnUrl": "https://news.ycombinator.com/item?id=46578921",
+      "score": 493,
+      "comments": 204
     },
     {
-      "title": "Open Chaos: A self-evolving open-source project",
-      "url": "https://www.openchaos.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46566812",
-      "score": 380,
-      "comments": 78
+      "title": "XMPP and Metadata",
+      "url": "https://blog.mathieui.net/xmpp-and-metadata.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46523226",
+      "score": 26,
+      "comments": 1
     },
     {
-      "title": "AI is a business model stress test",
-      "url": "https://dri.es/ai-is-a-business-model-stress-test",
-      "hnUrl": "https://news.ycombinator.com/item?id=46567392",
-      "score": 267,
-      "comments": 258
+      "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
+      "url": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+      "hnUrl": "https://news.ycombinator.com/item?id=46539478",
+      "score": 346,
+      "comments": 50
     },
     {
-      "title": "Show HN: Play poker with LLMs, or watch them play against each other",
-      "url": "https://llmholdem.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46569061",
-      "score": 126,
-      "comments": 59
+      "title": "The next two years of software engineering",
+      "url": "https://addyosmani.com/blog/next-two-years/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46580703",
+      "score": 175,
+      "comments": 163
     },
     {
-      "title": "Show HN: I built an Open Source screen timer for the m5stickc (Arduino)",
-      "url": "https://partridge.works/screenie-christmas-project-2025-26/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46512210",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "Overdose deaths are falling in America because of a 'supply shock': study",
-      "url": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
-      "hnUrl": "https://news.ycombinator.com/item?id=46569312",
-      "score": 150,
-      "comments": 126
-    },
-    {
-      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
-      "url": "https://news.ycombinator.com/item?id=46571149",
-      "hnUrl": "https://news.ycombinator.com/item?id=46571149",
-      "score": 110,
-      "comments": 38
-    },
-    {
-      "title": "A battle over Canada’s mystery brain disease",
-      "url": "https://www.bbc.com/news/articles/c623r47d67lo",
-      "hnUrl": "https://news.ycombinator.com/item?id=46572769",
+      "title": "FUSE is All You Need – Giving agents access to anything via filesystems",
+      "url": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46580136",
       "score": 155,
-      "comments": 101
+      "comments": 53
     },
     {
-      "title": "Sisyphus Now Lives in Oh My Claude",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-      "hnUrl": "https://news.ycombinator.com/item?id=46572032",
-      "score": 33,
-      "comments": 24
+      "title": "Sampling at negative temperature",
+      "url": "https://cavendishlabs.org/blog/negative-temperature/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46579374",
+      "score": 177,
+      "comments": 52
+    },
+    {
+      "title": "Perfectly Replicating Coca Cola [video]",
+      "url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+      "hnUrl": "https://news.ycombinator.com/item?id=46543509",
+      "score": 241,
+      "comments": 157
+    },
+    {
+      "title": "Insights into Claude Opus 4.5 from Pokémon",
+      "url": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
+      "hnUrl": "https://news.ycombinator.com/item?id=46515625",
+      "score": 99,
+      "comments": 18
+    },
+    {
+      "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "url": "https://www.bbc.com/news/articles/clyndv7zd20o",
+      "hnUrl": "https://news.ycombinator.com/item?id=46583464",
+      "score": 130,
+      "comments": 105
     }
   ]
 }
