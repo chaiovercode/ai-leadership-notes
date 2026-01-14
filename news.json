@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-13T12:24:00.811Z",
+  "updated": "2026-01-14T12:23:21.254Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Cowork: Claude Code for the rest of your work",
-      "url": "https://claude.com/blog/cowork-research-preview",
-      "hnUrl": "https://news.ycombinator.com/item?id=46593022",
-      "score": 1029,
-      "comments": 455
+      "title": "There's a ridiculous amount of tech in a disposable vape",
+      "url": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46591810",
+      "score": 462,
+      "comments": 380
     },
     {
-      "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
-      "url": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46598991",
-      "score": 38,
-      "comments": 21
+      "title": "1000 Blank White Cards",
+      "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
+      "hnUrl": "https://news.ycombinator.com/item?id=46611823",
+      "score": 203,
+      "comments": 35
     },
     {
-      "title": "Show HN: An iOS budget app I've been maintaining since 2011",
-      "url": "https://primoco.me/en/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46599341",
-      "score": 28,
-      "comments": 10
+      "title": "ASCII Clouds",
+      "url": "https://caidan.dev/portfolio/ascii_clouds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46611507",
+      "score": 222,
+      "comments": 39
     },
     {
-      "title": "Text-Based Web Browsers",
-      "url": "https://cssence.com/2026/text-based-web-browsers/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46597518",
-      "score": 122,
-      "comments": 49
+      "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
+      "url": "https://theorem.dev/blog/anthropic-bug-test/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46579387",
+      "score": 17,
+      "comments": 2
     },
     {
-      "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
-      "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-      "hnUrl": "https://news.ycombinator.com/item?id=46590280",
-      "score": 631,
-      "comments": 261
+      "title": "Every GitHub object has two IDs",
+      "url": "https://www.greptile.com/blog/github-ids",
+      "hnUrl": "https://news.ycombinator.com/item?id=46602591",
+      "score": 256,
+      "comments": 64
     },
     {
-      "title": "Postal Arbitrage",
-      "url": "https://walzr.com/postal-arbitrage",
-      "hnUrl": "https://news.ycombinator.com/item?id=46591708",
-      "score": 426,
-      "comments": 213
+      "title": "A 40-line fix eliminated a 400x performance gap",
+      "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46609630",
+      "score": 285,
+      "comments": 60
     },
     {
-      "title": "Floppy disks turn out to be the greatest TV remote for kids",
-      "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46587934",
-      "score": 660,
-      "comments": 372
+      "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
+      "url": "https://epstein.trynia.ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46611348",
+      "score": 110,
+      "comments": 40
     },
     {
-      "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
-      "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
-      "hnUrl": "https://news.ycombinator.com/item?id=46593395",
-      "score": 253,
-      "comments": 231
+      "title": "The Gleam Programming Language",
+      "url": "https://gleam.run/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46611667",
+      "score": 152,
+      "comments": 85
     },
     {
-      "title": "Some ecologists fear their field is losing touch with nature",
-      "url": "https://www.nature.com/articles/d41586-025-04150-w",
-      "hnUrl": "https://news.ycombinator.com/item?id=46540126",
-      "score": 129,
-      "comments": 63
+      "title": "No management needed: anti-patterns in early-stage engineering teams",
+      "url": "https://www.ablg.io/blog/no-management-needed",
+      "hnUrl": "https://news.ycombinator.com/item?id=46605854",
+      "score": 212,
+      "comments": 225
     },
     {
-      "title": "Unauthenticated remote code execution in OpenCode",
-      "url": "https://cy.md/opencode-rce/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46581095",
-      "score": 344,
-      "comments": 113
+      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+      "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+      "hnUrl": "https://news.ycombinator.com/item?id=46605332",
+      "score": 247,
+      "comments": 51
     },
     {
-      "title": "Implementing a web server in a single printf() call (2014)",
-      "url": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46549714",
-      "score": 60,
+      "title": "Show HN: Seapie – a Python debugger where breakpoints drop into a REPL",
+      "url": "https://github.com/hirsimaki-markus/seapie",
+      "hnUrl": "https://news.ycombinator.com/item?id=46588032",
+      "score": 7,
       "comments": 5
     },
     {
-      "title": "The Cray-1 Computer System (1977) [pdf]",
-      "url": "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=46557733",
-      "score": 103,
-      "comments": 53
+      "title": "I Hate GitHub Actions with Passion",
+      "url": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46614558",
+      "score": 7,
+      "comments": 0
     },
     {
-      "title": "Date is out, Temporal is in",
-      "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46589658",
-      "score": 401,
-      "comments": 164
+      "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
+      "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46602737",
+      "score": 115,
+      "comments": 35
     },
     {
-      "title": "Fabrice Bellard's TS Zip (2024)",
-      "url": "https://www.bellard.org/ts_zip/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46593802",
-      "score": 179,
-      "comments": 73
+      "title": "The $LANG Programming Language",
+      "url": "https://news.ycombinator.com/item?id=46610557",
+      "hnUrl": "https://news.ycombinator.com/item?id=46610557",
+      "score": 217,
+      "comments": 42
     },
     {
-      "title": "Apple picks Gemini to power Siri",
-      "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46589675",
-      "score": 881,
-      "comments": 544
+      "title": "Are two heads better than one?",
+      "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46603111",
+      "score": 173,
+      "comments": 55
     }
   ]
 }
