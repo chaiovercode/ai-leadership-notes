@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-14T12:23:21.254Z",
+  "updated": "2026-01-15T12:23:02.950Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "There's a ridiculous amount of tech in a disposable vape",
-      "url": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46591810",
-      "score": 462,
-      "comments": 380
+      "title": "The URL shortener that makes your links look as suspicious as possible",
+      "url": "https://creepylink.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46627652",
+      "score": 442,
+      "comments": 80
     },
     {
-      "title": "1000 Blank White Cards",
-      "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
-      "hnUrl": "https://news.ycombinator.com/item?id=46611823",
-      "score": 203,
-      "comments": 35
+      "title": "A letter to those who fired tech writers because of AI",
+      "url": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46629474",
+      "score": 90,
+      "comments": 55
     },
     {
-      "title": "ASCII Clouds",
-      "url": "https://caidan.dev/portfolio/ascii_clouds/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46611507",
-      "score": 222,
-      "comments": 39
+      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+      "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46629682",
+      "score": 113,
+      "comments": 80
     },
     {
-      "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
-      "url": "https://theorem.dev/blog/anthropic-bug-test/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46579387",
-      "score": 17,
-      "comments": 2
+      "title": "Claude Cowork exfiltrates files",
+      "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+      "hnUrl": "https://news.ycombinator.com/item?id=46622328",
+      "score": 704,
+      "comments": 311
     },
     {
-      "title": "Every GitHub object has two IDs",
-      "url": "https://www.greptile.com/blog/github-ids",
-      "hnUrl": "https://news.ycombinator.com/item?id=46602591",
-      "score": 256,
-      "comments": 64
+      "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
+      "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+      "hnUrl": "https://news.ycombinator.com/item?id=46630369",
+      "score": 112,
+      "comments": 53
     },
     {
-      "title": "A 40-line fix eliminated a 400x performance gap",
-      "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46609630",
-      "score": 285,
-      "comments": 60
+      "title": "Show HN: MailPilot – Freedom to go anywhere while your agents work",
+      "url": "https://news.ycombinator.com/item?id=46629191",
+      "hnUrl": "https://news.ycombinator.com/item?id=46629191",
+      "score": 5,
+      "comments": 3
     },
     {
-      "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
-      "url": "https://epstein.trynia.ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46611348",
-      "score": 110,
-      "comments": 40
+      "title": "Ask HN: How are you doing RAG locally?",
+      "url": "https://news.ycombinator.com/item?id=46616529",
+      "hnUrl": "https://news.ycombinator.com/item?id=46616529",
+      "score": 194,
+      "comments": 76
     },
     {
-      "title": "The Gleam Programming Language",
-      "url": "https://gleam.run/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46611667",
-      "score": 152,
+      "title": "Ask HN: Share your personal website",
+      "url": "https://news.ycombinator.com/item?id=46618714",
+      "hnUrl": "https://news.ycombinator.com/item?id=46618714",
+      "score": 653,
+      "comments": 1826
+    },
+    {
+      "title": "Handy – Free open source speech-to-text app",
+      "url": "https://github.com/cjpais/Handy",
+      "hnUrl": "https://news.ycombinator.com/item?id=46628397",
+      "score": 111,
+      "comments": 63
+    },
+    {
+      "title": "New Safari developer tools provide insight into CSS Grid Lanes",
+      "url": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46626210",
+      "score": 75,
+      "comments": 36
+    },
+    {
+      "title": "Furiosa: 3.5x efficiency over H100s",
+      "url": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+      "hnUrl": "https://news.ycombinator.com/item?id=46626410",
+      "score": 185,
+      "comments": 117
+    },
+    {
+      "title": "Scaling long-running autonomous coding",
+      "url": "https://cursor.com/blog/scaling-agents",
+      "hnUrl": "https://news.ycombinator.com/item?id=46624541",
+      "score": 214,
+      "comments": 129
+    },
+    {
+      "title": "Ask HN: What did you find out or explore today?",
+      "url": "https://news.ycombinator.com/item?id=46619464",
+      "hnUrl": "https://news.ycombinator.com/item?id=46619464",
+      "score": 116,
+      "comments": 180
+    },
+    {
+      "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+      "url": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46626836",
+      "score": 113,
       "comments": 85
     },
     {
-      "title": "No management needed: anti-patterns in early-stage engineering teams",
-      "url": "https://www.ablg.io/blog/no-management-needed",
-      "hnUrl": "https://news.ycombinator.com/item?id=46605854",
-      "score": 212,
-      "comments": 225
-    },
-    {
-      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
-      "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
-      "hnUrl": "https://news.ycombinator.com/item?id=46605332",
-      "score": 247,
-      "comments": 51
-    },
-    {
-      "title": "Show HN: Seapie – a Python debugger where breakpoints drop into a REPL",
-      "url": "https://github.com/hirsimaki-markus/seapie",
-      "hnUrl": "https://news.ycombinator.com/item?id=46588032",
-      "score": 7,
-      "comments": 5
-    },
-    {
-      "title": "I Hate GitHub Actions with Passion",
-      "url": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46614558",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
-      "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46602737",
-      "score": 115,
-      "comments": 35
-    },
-    {
-      "title": "The $LANG Programming Language",
-      "url": "https://news.ycombinator.com/item?id=46610557",
-      "hnUrl": "https://news.ycombinator.com/item?id=46610557",
-      "score": 217,
-      "comments": 42
-    },
-    {
-      "title": "Are two heads better than one?",
-      "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46603111",
-      "score": 173,
-      "comments": 55
+      "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
+      "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
+      "hnUrl": "https://news.ycombinator.com/item?id=46619614",
+      "score": 81,
+      "comments": 18
     }
   ]
 }
