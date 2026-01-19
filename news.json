@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-18T12:20:15.833Z",
+  "updated": "2026-01-19T12:25:14.721Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Iconify: Library of Open Source Icons",
-      "url": "https://icon-sets.iconify.design/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46665411",
-      "score": 272,
-      "comments": 30
+      "title": "Radboud University selects Fairphone as standard smartphone for employees",
+      "url": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
+      "hnUrl": "https://news.ycombinator.com/item?id=46676276",
+      "score": 195,
+      "comments": 99
     },
     {
-      "title": "ThinkNext Design",
-      "url": "https://thinknextdesign.com/home.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46665310",
-      "score": 113,
-      "comments": 50
+      "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
+      "url": "https://bitchat.free/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46675853",
+      "score": 247,
+      "comments": 144
     },
     {
-      "title": "Starting from scratch: Training a 30M Topological Transformer",
-      "url": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
-      "hnUrl": "https://news.ycombinator.com/item?id=46666963",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "The longest Greek word",
-      "url": "https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon",
-      "hnUrl": "https://news.ycombinator.com/item?id=46664638",
-      "score": 138,
-      "comments": 61
-    },
-    {
-      "title": "jQuery 4",
-      "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46664755",
-      "score": 360,
-      "comments": 110
-    },
-    {
-      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-      "url": "https://alexharri.com/blog/ascii-rendering",
-      "hnUrl": "https://news.ycombinator.com/item?id=46657122",
-      "score": 1034,
-      "comments": 119
-    },
-    {
-      "title": "The recurring dream of replacing developers",
-      "url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46658345",
-      "score": 481,
-      "comments": 373
-    },
-    {
-      "title": "Kip: A programming language based on grammatical cases of Turkish",
-      "url": "https://github.com/kip-dili/kip",
-      "hnUrl": "https://news.ycombinator.com/item?id=46661897",
-      "score": 193,
-      "comments": 58
-    },
-    {
-      "title": "We put Claude Code in Rollercoaster Tycoon",
-      "url": "https://labs.ramp.com/rct",
-      "hnUrl": "https://news.ycombinator.com/item?id=46588972",
-      "score": 470,
-      "comments": 263
-    },
-    {
-      "title": "Five Practical Lessons for Serving Models with Triton Inference Server",
-      "url": "https://talperry.com/en/posts/genai/triton-inference-server/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46602218",
-      "score": 10,
+      "title": "Nepal's Mountainside Teahouses Elevate the Experience for Trekkers",
+      "url": "https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46627410",
+      "score": 30,
       "comments": 1
     },
     {
-      "title": "Raising money fucked me up",
-      "url": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
-      "hnUrl": "https://news.ycombinator.com/item?id=46660543",
-      "score": 276,
-      "comments": 96
+      "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+      "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+      "hnUrl": "https://news.ycombinator.com/item?id=46670024",
+      "score": 662,
+      "comments": 214
     },
     {
-      "title": "If you put Apple icons in reverse it looks like someone getting good at design",
-      "url": "https://mastodon.social/@heliographe_studio/115890819509545391",
-      "hnUrl": "https://news.ycombinator.com/item?id=46663338",
-      "score": 562,
-      "comments": 219
+      "title": "Wikipedia: WikiProject AI Cleanup",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup",
+      "hnUrl": "https://news.ycombinator.com/item?id=46677106",
+      "score": 89,
+      "comments": 29
     },
     {
-      "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
-      "url": "https://twitter.com/neelsomani/status/2012695714187325745",
-      "hnUrl": "https://news.ycombinator.com/item?id=46664631",
-      "score": 208,
-      "comments": 174
+      "title": "Dead Internet Theory",
+      "url": "https://kudmitry.com/articles/dead-internet-theory/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46671731",
+      "score": 380,
+      "comments": 468
     },
     {
-      "title": "Xous Operating System",
-      "url": "https://xous.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46619059",
-      "score": 139,
-      "comments": 53
+      "title": "Provide agents with automated feedback",
+      "url": "https://banay.me/dont-waste-your-backpressure/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46656897",
+      "score": 143,
+      "comments": 69
     },
     {
-      "title": "Data Activation Thoughts",
-      "url": "https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46663731",
-      "score": 9,
+      "title": "Flux 2 Klein pure C inference",
+      "url": "https://github.com/antirez/flux2.c",
+      "hnUrl": "https://news.ycombinator.com/item?id=46670279",
+      "score": 359,
+      "comments": 120
+    },
+    {
+      "title": "Show HN: I quit coding years ago. AI brought me back",
+      "url": "https://calquio.com/finance/compound-interest",
+      "hnUrl": "https://news.ycombinator.com/item?id=46673809",
+      "score": 165,
+      "comments": 208
+    },
+    {
+      "title": "Gladys West's vital contributions to GPS technology",
+      "url": "https://en.wikipedia.org/wiki/Gladys_West",
+      "hnUrl": "https://news.ycombinator.com/item?id=46651691",
+      "score": 33,
       "comments": 2
+    },
+    {
+      "title": "A Social Filesystem",
+      "url": "https://overreacted.io/a-social-filesystem/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46665839",
+      "score": 432,
+      "comments": 190
+    },
+    {
+      "title": "Fil-Qt: A Qt Base build with Fil-C experience",
+      "url": "https://git.qt.io/cradam/fil-qt",
+      "hnUrl": "https://news.ycombinator.com/item?id=46646080",
+      "score": 116,
+      "comments": 69
+    },
+    {
+      "title": "The Code-Only Agent",
+      "url": "https://rijnard.com/blog/the-code-only-agent",
+      "hnUrl": "https://news.ycombinator.com/item?id=46674416",
+      "score": 93,
+      "comments": 38
+    },
+    {
+      "title": "Gas Town Decoded",
+      "url": "https://www.alilleybrinker.com/mini/gas-town-decoded/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46624883",
+      "score": 148,
+      "comments": 136
+    },
+    {
+      "title": "Show HN: Kacet – a freelancer marketplace with crypto-native payments",
+      "url": "https://kacet.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46677549",
+      "score": 14,
+      "comments": 16
     }
   ]
 }
