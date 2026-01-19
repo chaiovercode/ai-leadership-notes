@@ -1,16 +1,23 @@
 {
-  "updated": "2026-01-12T09:39:51.993Z",
+  "updated": "2026-01-19T09:42:17.664Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-          "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-          "date": "2026-01-07T20:00:00.000Z",
-          "description": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la...",
-          "source": "VentureBeat"
+          "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+          "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+          "date": "2026-01-18T15:30:00.000Z",
+          "description": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Introducing Community Benchmarks on Kaggle",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+          "date": "2026-01-14T14:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-final.max-600x600.format-webp.webp\"&gt;Community Benchmarks on Kaggle lets the community build, share and run custom e...",
+          "source": "Google AI Blog"
         }
       ]
     },
@@ -19,73 +26,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
-          "url": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
-          "date": "2026-01-12T00:10:54.000Z",
-          "description": "Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.",
+          "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+          "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+          "date": "2026-01-18T15:30:00.000Z",
+          "description": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
           "source": "TechCrunch"
         },
         {
-          "title": "Google removes AI Overviews for certain medical queries",
-          "url": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
-          "date": "2026-01-11T17:56:41.000Z",
-          "description": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.",
+          "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+          "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+          "date": "2026-01-17T08:26:08.000Z",
+          "description": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
           "source": "TechCrunch"
         },
         {
-          "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
-          "url": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
-          "date": "2026-01-11T15:07:49.000Z",
-          "description": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+          "title": "California AG sends Musks xAI a cease-and-desist order over sexual deepfakes",
+          "url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+          "date": "2026-01-16T23:21:24.000Z",
+          "description": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-          "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
-          "date": "2026-01-10T21:18:29.000Z",
-          "description": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+          "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
+          "url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+          "date": "2026-01-16T20:14:00.000Z",
+          "description": "The startup has partnered with Eli Lilly and enjoys the backing of some of Silicon Valley's most influential VCs.",
           "source": "TechCrunch"
         },
         {
-          "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
-          "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-          "date": "2026-01-09T22:36:27.000Z",
-          "description": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sun...",
+          "title": "ChatGPT users are about to get hit with targeted ads",
+          "url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+          "date": "2026-01-16T19:54:19.000Z",
+          "description": "OpenAI says that users impacted by the ads will have some control over what they see.",
           "source": "TechCrunch"
         },
         {
-          "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
-          "url": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
-          "date": "2026-01-09T19:36:04.000Z",
-          "description": "Ozlo Sleepbuds are going to have a big year, with new products, AI features, and more.",
+          "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
+          "url": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
+          "date": "2026-01-16T19:38:27.000Z",
+          "description": "In an attempt to alleviate rising electricity prices, the White House wants grid operator PJM to hold an auction for new generating capacity, and it wants tech companies to bid.",
           "source": "TechCrunch"
         },
         {
-          "title": "CES 2026 was all about physical AI and robots, robots, robots",
-          "url": "https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/",
-          "date": "2026-01-09T18:02:09.000Z",
-          "description": "After years of chatbots and image generators, AI is finally leaving the screen. At CES 2026, that shift became impossible to ignore. The annual tech showcase in Las Vegas was dominated by physical AI ...",
+          "title": "The AI healthcare gold rush is here",
+          "url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
+          "date": "2026-01-16T18:57:03.000Z",
+          "description": "AI companies are clustering around healthcare and fast. In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $2...",
           "source": "TechCrunch"
         },
         {
-          "title": "CES 2026: Follow live for the best, weirdest, most interesting tech as this robot and AI-heavy event wraps up",
-          "url": "https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-this-robot-and-ai-heavy-event-wraps/",
-          "date": "2026-01-09T17:57:00.000Z",
-          "description": "CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird,...",
+          "title": "OpenAI and Anthropic are making their play for healthcare, and were not surprised",
+          "url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
+          "date": "2026-01-16T17:35:35.000Z",
+          "description": "AI companies are clustering around healthcare, and fast.  In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for Health, and Sam Altman-backed Merge Labs closed a $25...",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta signs deals with three nuclear companies for 6-plus GW of power",
-          "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
-          "date": "2026-01-09T17:51:15.000Z",
-          "description": "Two smaller companies, Oklo and TerraPower, along with Vistra, a large energy company, just signed agreements with Meta.",
+          "title": "The rise of micro apps: non-developers are writing apps instead of buying them",
+          "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+          "date": "2026-01-16T14:15:00.000Z",
+          "description": "A new era of app creation is here. It's fun, it's fast, and it's fleeting.",
           "source": "TechCrunch"
         },
         {
-          "title": "X restricts Groks image generation to paying subscribers only after drawing the worlds ire",
-          "url": "https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/",
-          "date": "2026-01-09T13:59:24.000Z",
-          "description": "Elon Musk's AI company has restricted Grok's controversial AI image-generation feature to only paying subscribers on X, after the tool invited heated criticism from across the world for letting users ...",
+          "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+          "url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+          "date": "2026-01-16T07:28:25.000Z",
+          "description": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
           "source": "TechCrunch"
         }
       ]
@@ -95,25 +102,18 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Google announces a new protocol to facilitate commerce using AI agents",
-          "url": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
-          "date": "2026-01-11T15:00:00.000Z",
-          "description": "Google said that merchants can now offer discounts to users directly in AI mode results",
-          "source": "TechCrunch"
+          "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+          "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+          "date": "2026-01-13T13:00:00.000Z",
+          "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully...",
+          "source": "VentureBeat"
         },
         {
-          "title": "Anthropic adds Allianz to growing list of enterprise wins",
-          "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
-          "date": "2026-01-09T09:00:00.000Z",
-          "description": "Anthropic announces its first enterprise deal of 2026, which includes building agents for, and giving Claude code to, Allianz.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Snowflake announces its intent to buy observability platform Observe",
-          "url": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
-          "date": "2026-01-08T17:00:49.000Z",
-          "description": "Snowflake is bolstering its data stack to make the platform better suited to the sheer volume of data produced by AI agents.",
-          "source": "TechCrunch"
+          "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+          "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+          "date": "2026-01-12T11:30:00.000Z",
+          "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...",
+          "source": "VentureBeat"
         }
       ]
     },
@@ -122,32 +122,67 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Anthropic adds Allianz to growing list of enterprise wins",
-          "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
-          "date": "2026-01-09T09:00:00.000Z",
-          "description": "Anthropic announces its first enterprise deal of 2026, which includes building agents for, and giving Claude code to, Allianz.",
+          "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+          "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+          "date": "2026-01-17T08:26:08.000Z",
+          "description": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidias reportedly asking Chinese customers to pay upfront for its H200 AI chips",
-          "url": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
-          "date": "2026-01-08T17:29:31.000Z",
-          "description": "Nvidia is now requiring its customers in China to pay upfront in full for its H200 AI chips even as approval stateside and from Beijing remains uncertain.",
+          "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post",
+          "url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
+          "date": "2026-01-16T23:46:33.000Z",
+          "description": "Their startup journey is a wild example of how if you build it well and the timing is lucky, they will definitely come.",
           "source": "TechCrunch"
         },
         {
-          "title": "Why this VC thinks 2026 will be ‘the year of the consumer’",
-          "url": "https://techcrunch.com/2026/01/08/why-this-vc-thinks-2026-will-be-the-year-of-the-consumer/",
-          "date": "2026-01-08T14:46:16.000Z",
-          "description": "AI adoption in enterprise is stalling as companies don't know where to start. Vanessa Larco of Premise VC thinks 2026 will be the year of the consumer.",
+          "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
+          "url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+          "date": "2026-01-16T20:14:00.000Z",
+          "description": "The startup has partnered with Eli Lilly and enjoys the backing of some of Silicon Valley's most influential VCs.",
           "source": "TechCrunch"
         },
         {
-          "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-          "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-          "date": "2026-01-07T20:00:00.000Z",
-          "description": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la...",
+          "title": "The AI healthcare gold rush is here",
+          "url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
+          "date": "2026-01-16T18:57:03.000Z",
+          "description": "AI companies are clustering around healthcare and fast. In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $2...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI and Anthropic are making their play for healthcare, and were not surprised",
+          "url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
+          "date": "2026-01-16T17:35:35.000Z",
+          "description": "AI companies are clustering around healthcare, and fast.  In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for Health, and Sam Altman-backed Merge Labs closed a $25...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+          "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+          "date": "2026-01-16T14:01:00.000Z",
+          "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen...",
           "source": "VentureBeat"
+        },
+        {
+          "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdochs News Corp",
+          "url": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
+          "date": "2026-01-16T00:49:54.000Z",
+          "description": "The startup claims its AI platform can help optimize editorial processes and research.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+          "url": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+          "date": "2026-01-15T19:28:45.000Z",
+          "description": "Higgsfield says it's on a $200 million annual revenue run rate. So it opened its previous Series A round back up and sold another $80 million in shares.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
+          "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+          "date": "2026-01-15T16:31:00.000Z",
+          "description": "Merge Labs is a “research lab” dedicated to “bridging biological and artificial intelligence to maximize human ability.” OpenAI wrote the largest check in Merge Labs' $250 million seed round at an $85...",
+          "source": "TechCrunch"
         }
       ]
     },
@@ -156,24 +191,31 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-          "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
-          "date": "2026-01-10T21:18:29.000Z",
-          "description": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+          "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+          "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+          "date": "2026-01-18T15:30:00.000Z",
+          "description": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
           "source": "TechCrunch"
         },
         {
-          "title": "Governments grapple with the flood of non-consensual nudity on X",
-          "url": "https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/",
-          "date": "2026-01-08T22:08:58.000Z",
-          "description": "For the past two weeks, X has been flooded with AI-manipulated nude images, created by the Grok AI chatbot — and governments around the world are promising to take action.",
+          "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+          "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+          "date": "2026-01-17T08:26:08.000Z",
+          "description": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
           "source": "TechCrunch"
         },
         {
-          "title": "Elon Musks lawsuit against OpenAI will face a jury in March",
-          "url": "https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/",
-          "date": "2026-01-08T16:17:12.000Z",
-          "description": "District Judge Yvonne Gonzalez Rogers said there was evidence suggesting OpenAI’s leaders made assurances that its original nonprofit structure would be maintained. The case will go to trial in March.",
+          "title": "ChatGPT users are about to get hit with targeted ads",
+          "url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+          "date": "2026-01-16T19:54:19.000Z",
+          "description": "OpenAI says that users impacted by the ads will have some control over what they see.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+          "url": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+          "date": "2026-01-15T20:52:44.000Z",
+          "description": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing.",
           "source": "TechCrunch"
         }
       ]
