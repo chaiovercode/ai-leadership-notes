@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-21T12:26:06.963Z",
+  "updated": "2026-01-22T12:26:14.877Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Anthropic's original take home assignment open sourced",
-      "url": "https://github.com/anthropics/original_performance_takehome",
-      "hnUrl": "https://news.ycombinator.com/item?id=46700594",
-      "score": 385,
+      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
+      "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+      "hnUrl": "https://news.ycombinator.com/item?id=46713106",
+      "score": 354,
+      "comments": 61
+    },
+    {
+      "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
+      "url": "https://curl.se/.well-known/security.txt",
+      "hnUrl": "https://news.ycombinator.com/item?id=46717556",
+      "score": 252,
+      "comments": 153
+    },
+    {
+      "title": "In Praise of APL (1977)",
+      "url": "https://www.jsoftware.com/papers/perlis77.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=46716696",
+      "score": 39,
+      "comments": 28
+    },
+    {
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "url": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "hnUrl": "https://news.ycombinator.com/item?id=46715600",
+      "score": 133,
+      "comments": 54
+    },
+    {
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+      "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46713526",
+      "score": 190,
+      "comments": 161
+    },
+    {
+      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
+      "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46712678",
+      "score": 270,
+      "comments": 188
+    },
+    {
+      "title": "Claude's new constitution",
+      "url": "https://www.anthropic.com/news/claude-new-constitution",
+      "hnUrl": "https://news.ycombinator.com/item?id=46707572",
+      "score": 473,
+      "comments": 518
+    },
+    {
+      "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
+      "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46711574",
+      "score": 159,
+      "comments": 180
+    },
+    {
+      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
+      "url": "https://github.com/ChartGPU/ChartGPU",
+      "hnUrl": "https://news.ycombinator.com/item?id=46706528",
+      "score": 609,
+      "comments": 172
+    },
+    {
+      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+      "url": "https://blog.kagi.com/waiting-dawn-search",
+      "hnUrl": "https://news.ycombinator.com/item?id=46708678",
+      "score": 342,
+      "comments": 203
+    },
+    {
+      "title": "Skip is now free and open source",
+      "url": "https://skip.dev/blog/skip-is-free/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46706906",
+      "score": 431,
       "comments": 194
     },
     {
-      "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
-      "url": "https://elliotarledge.com/blog/batmobile",
-      "hnUrl": "https://news.ycombinator.com/item?id=46663931",
-      "score": 16,
-      "comments": 0
-    },
-    {
-      "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
-      "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46695628",
-      "score": 496,
+      "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
+      "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46713444",
+      "score": 128,
       "comments": 96
     },
     {
-      "title": "RSS.Social – the latest and best from small sites across the web",
-      "url": "https://rss.social/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46700503",
+      "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
+      "url": "https://arxiv.org/abs/2201.01174",
+      "hnUrl": "https://news.ycombinator.com/item?id=46658128",
       "score": 108,
-      "comments": 21
+      "comments": 8
     },
     {
-      "title": "cURL removes bug bounties",
-      "url": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46701733",
-      "score": 269,
-      "comments": 148
+      "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
+      "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46708601",
+      "score": 154,
+      "comments": 51
     },
     {
-      "title": "Nukeproof: Manifesto for European Data Sovereignty",
-      "url": "https://nukeproof.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46704310",
-      "score": 10,
-      "comments": 0
-    },
-    {
-      "title": "200 MB RAM FreeBSD Desktop",
-      "url": "https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46665987",
-      "score": 114,
-      "comments": 92
-    },
-    {
-      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
-      "url": "https://github.com/ef1500/libbbf",
-      "hnUrl": "https://news.ycombinator.com/item?id=46701114",
-      "score": 73,
-      "comments": 33
-    },
-    {
-      "title": "The challenges of soft delete",
-      "url": "https://atlas9.dev/blog/soft-delete.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46698061",
-      "score": 190,
-      "comments": 108
-    },
-    {
-      "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
-      "url": "https://github.com/mastra-ai/mastra",
-      "hnUrl": "https://news.ycombinator.com/item?id=46693959",
-      "score": 180,
-      "comments": 56
-    },
-    {
-      "title": "Instabridge has acquired Nova Launcher",
-      "url": "https://novalauncher.com/nova-is-here-to-stay",
-      "hnUrl": "https://news.ycombinator.com/item?id=46696357",
-      "score": 218,
-      "comments": 143
-    },
-    {
-      "title": "IPv6 is not insecure because it lacks a NAT",
-      "url": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46696303",
-      "score": 213,
-      "comments": 307
-    },
-    {
-      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
-      "url": "https://so-long-sucker.vercel.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46698370",
-      "score": 137,
-      "comments": 64
-    },
-    {
-      "title": "Unconventional PostgreSQL Optimizations",
-      "url": "https://hakibenita.com/postgresql-unconventional-optimizations",
-      "hnUrl": "https://news.ycombinator.com/item?id=46692116",
-      "score": 380,
-      "comments": 57
-    },
-    {
-      "title": "California is free of drought for the first time in 25 years",
-      "url": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
-      "hnUrl": "https://news.ycombinator.com/item?id=46698660",
-      "score": 400,
-      "comments": 200
+      "title": "JPEG XL Test Page",
+      "url": "https://tildeweb.nl/~michiel/jxl/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46708032",
+      "score": 209,
+      "comments": 137
     }
   ]
 }
