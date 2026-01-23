@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-22T12:26:14.877Z",
+  "updated": "2026-01-23T12:24:29.289Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "hnUrl": "https://news.ycombinator.com/item?id=46713106",
-      "score": 354,
-      "comments": 61
+      "title": "Ghostty's AI Policy",
+      "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=46730504",
+      "score": 136,
+      "comments": 60
     },
     {
-      "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
-      "url": "https://curl.se/.well-known/security.txt",
-      "hnUrl": "https://news.ycombinator.com/item?id=46717556",
-      "score": 252,
-      "comments": 153
+      "title": "I built a light that reacts to radio waves [video]",
+      "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
+      "hnUrl": "https://news.ycombinator.com/item?id=46728808",
+      "score": 222,
+      "comments": 52
     },
     {
-      "title": "In Praise of APL (1977)",
-      "url": "https://www.jsoftware.com/papers/perlis77.htm",
-      "hnUrl": "https://news.ycombinator.com/item?id=46716696",
-      "score": 39,
-      "comments": 28
+      "title": "Replacing Protobuf with Rust to go 5 times faster",
+      "url": "https://pgdog.dev/blog/replace-protobuf-with-rust",
+      "hnUrl": "https://news.ycombinator.com/item?id=46730214",
+      "score": 50,
+      "comments": 34
     },
     {
-      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
-      "url": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
-      "hnUrl": "https://news.ycombinator.com/item?id=46715600",
-      "score": 133,
-      "comments": 54
+      "title": "AI Is a Horse (2024)",
+      "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46686402",
+      "score": 67,
+      "comments": 41
     },
     {
-      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
-      "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46713526",
-      "score": 190,
-      "comments": 161
+      "title": "Proton Spam and the AI Consent Problem",
+      "url": "https://dbushell.com/2026/01/22/proton-spam/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46729368",
+      "score": 233,
+      "comments": 130
     },
     {
-      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46712678",
-      "score": 270,
-      "comments": 188
+      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+      "url": "https://cannoneyed.com/isometric-nyc/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46721802",
+      "score": 999,
+      "comments": 190
     },
     {
-      "title": "Claude's new constitution",
-      "url": "https://www.anthropic.com/news/claude-new-constitution",
-      "hnUrl": "https://news.ycombinator.com/item?id=46707572",
-      "score": 473,
-      "comments": 518
+      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "url": "https://gptzero.me/news/neurips/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46720395",
+      "score": 860,
+      "comments": 456
     },
     {
-      "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-      "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46711574",
-      "score": 159,
-      "comments": 180
+      "title": "Capital One to acquire Brex for $5.15B",
+      "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46725288",
+      "score": 310,
+      "comments": 245
     },
     {
-      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-      "url": "https://github.com/ChartGPU/ChartGPU",
-      "hnUrl": "https://news.ycombinator.com/item?id=46706528",
-      "score": 609,
-      "comments": 172
+      "title": "The State of Modern AI Text to Speech Systems for Screen Reader Users",
+      "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46730346",
+      "score": 13,
+      "comments": 1
     },
     {
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "url": "https://blog.kagi.com/waiting-dawn-search",
-      "hnUrl": "https://news.ycombinator.com/item?id=46708678",
-      "score": 342,
-      "comments": 203
+      "title": "Why does SSH send 100 packets per keystroke?",
+      "url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46723990",
+      "score": 511,
+      "comments": 269
     },
     {
-      "title": "Skip is now free and open source",
-      "url": "https://skip.dev/blog/skip-is-free/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46706906",
-      "score": 431,
-      "comments": 194
+      "title": "I was banned from Claude for scaffolding a Claude.md file?",
+      "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46723384",
+      "score": 573,
+      "comments": 516
     },
     {
-      "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
-      "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46713444",
-      "score": 128,
-      "comments": 96
+      "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
+      "url": "https://qwen.ai/blog?id=qwen3tts-0115",
+      "hnUrl": "https://news.ycombinator.com/item?id=46719229",
+      "score": 630,
+      "comments": 198
     },
     {
-      "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
-      "url": "https://arxiv.org/abs/2201.01174",
-      "hnUrl": "https://news.ycombinator.com/item?id=46658128",
-      "score": 108,
-      "comments": 8
+      "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
+      "url": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46719222",
+      "score": 467,
+      "comments": 468
     },
     {
-      "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
-      "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46708601",
-      "score": 154,
-      "comments": 51
+      "title": "Your app subscription is now my weekend project",
+      "url": "https://rselbach.com/your-sub-is-now-my-weekend-project",
+      "hnUrl": "https://news.ycombinator.com/item?id=46672713",
+      "score": 393,
+      "comments": 285
     },
     {
-      "title": "JPEG XL Test Page",
-      "url": "https://tildeweb.nl/~michiel/jxl/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46708032",
-      "score": 209,
-      "comments": 137
+      "title": "Bugs Apple Loves",
+      "url": "https://www.bugsappleloves.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=46727587",
+      "score": 708,
+      "comments": 314
     }
   ]
 }
