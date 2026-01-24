@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-23T12:24:29.289Z",
+  "updated": "2026-01-24T12:20:32.555Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Ghostty's AI Policy",
-      "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=46730504",
-      "score": 136,
+      "title": "Doing gigabit Ethernet over my British phone wires",
+      "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46742362",
+      "score": 112,
       "comments": 60
     },
     {
-      "title": "I built a light that reacts to radio waves [video]",
-      "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
-      "hnUrl": "https://news.ycombinator.com/item?id=46728808",
-      "score": 222,
-      "comments": 52
+      "title": "Show HN: I built a space travel calculator using Vanilla JavaScript",
+      "url": "https://cosmic-odometer.vercel.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46742285",
+      "score": 29,
+      "comments": 20
     },
     {
-      "title": "Replacing Protobuf with Rust to go 5 times faster",
-      "url": "https://pgdog.dev/blog/replace-protobuf-with-rust",
-      "hnUrl": "https://news.ycombinator.com/item?id=46730214",
-      "score": 50,
-      "comments": 34
+      "title": "Internet Archive's Storage",
+      "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46694618",
+      "score": 179,
+      "comments": 39
     },
     {
-      "title": "AI Is a Horse (2024)",
-      "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46686402",
-      "score": 67,
+      "title": "Unrolling the Codex agent loop",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46737630",
+      "score": 355,
+      "comments": 164
+    },
+    {
+      "title": "Proof of Corn",
+      "url": "https://proofofcorn.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46735511",
+      "score": 400,
+      "comments": 274
+    },
+    {
+      "title": "Traintrackr – Live LED Maps",
+      "url": "https://www.traintrackr.co.uk/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46676061",
+      "score": 58,
+      "comments": 21
+    },
+    {
+      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+      "url": "https://maggieappleton.com/gastown",
+      "hnUrl": "https://news.ycombinator.com/item?id=46734302",
+      "score": 345,
+      "comments": 351
+    },
+    {
+      "title": "Banned C++ features in Chromium",
+      "url": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=46737447",
+      "score": 187,
+      "comments": 155
+    },
+    {
+      "title": "Comma openpilot – Open source driver-assistance",
+      "url": "https://comma.ai",
+      "hnUrl": "https://news.ycombinator.com/item?id=46740029",
+      "score": 292,
+      "comments": 158
+    },
+    {
+      "title": "Some C habits I employ for the modern day",
+      "url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46676125",
+      "score": 167,
+      "comments": 99
+    },
+    {
+      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+      "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46735545",
+      "score": 883,
+      "comments": 566
+    },
+    {
+      "title": "Ask HN: What's the current best local/open speech-to-speech setup?",
+      "url": "https://news.ycombinator.com/item?id=46731068",
+      "hnUrl": "https://news.ycombinator.com/item?id=46731068",
+      "score": 175,
       "comments": 41
     },
     {
-      "title": "Proton Spam and the AI Consent Problem",
-      "url": "https://dbushell.com/2026/01/22/proton-spam/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46729368",
-      "score": 233,
-      "comments": 130
+      "title": "New YC homepage",
+      "url": "https://www.ycombinator.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46735644",
+      "score": 261,
+      "comments": 129
     },
     {
-      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "url": "https://cannoneyed.com/isometric-nyc/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46721802",
-      "score": 999,
-      "comments": 190
+      "title": "Booting from a vinyl record (2020)",
+      "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46730885",
+      "score": 322,
+      "comments": 110
     },
     {
-      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "url": "https://gptzero.me/news/neurips/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46720395",
-      "score": 860,
-      "comments": 456
-    },
-    {
-      "title": "Capital One to acquire Brex for $5.15B",
-      "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46725288",
-      "score": 310,
-      "comments": 245
-    },
-    {
-      "title": "The State of Modern AI Text to Speech Systems for Screen Reader Users",
-      "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46730346",
-      "score": 13,
-      "comments": 1
-    },
-    {
-      "title": "Why does SSH send 100 packets per keystroke?",
-      "url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46723990",
-      "score": 511,
-      "comments": 269
-    },
-    {
-      "title": "I was banned from Claude for scaffolding a Claude.md file?",
-      "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46723384",
-      "score": 573,
-      "comments": 516
-    },
-    {
-      "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
-      "url": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "hnUrl": "https://news.ycombinator.com/item?id=46719229",
-      "score": 630,
-      "comments": 198
-    },
-    {
-      "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
-      "url": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46719222",
-      "score": 467,
-      "comments": 468
-    },
-    {
-      "title": "Your app subscription is now my weekend project",
-      "url": "https://rselbach.com/your-sub-is-now-my-weekend-project",
-      "hnUrl": "https://news.ycombinator.com/item?id=46672713",
-      "score": 393,
-      "comments": 285
-    },
-    {
-      "title": "Bugs Apple Loves",
-      "url": "https://www.bugsappleloves.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=46727587",
-      "score": 708,
-      "comments": 314
+      "title": "Mental Models (2018)",
+      "url": "https://fs.blog/mental-models/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46737957",
+      "score": 104,
+      "comments": 14
     }
   ]
 }
