@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-24T12:20:32.555Z",
+  "updated": "2026-01-25T12:21:43.463Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Doing gigabit Ethernet over my British phone wires",
-      "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46742362",
-      "score": 112,
-      "comments": 60
+      "title": "Deutsche Telekom is violating Net Neutrality",
+      "url": "https://netzbremse.de/en/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46751899",
+      "score": 267,
+      "comments": 134
     },
     {
-      "title": "Show HN: I built a space travel calculator using Vanilla JavaScript",
-      "url": "https://cosmic-odometer.vercel.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46742285",
-      "score": 29,
-      "comments": 20
+      "title": "This paper has been cited more than 6k times. It's fatally flawed.",
+      "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46752151",
+      "score": 140,
+      "comments": 44
     },
     {
-      "title": "Internet Archive's Storage",
-      "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46694618",
-      "score": 179,
-      "comments": 39
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+      "hnUrl": "https://news.ycombinator.com/item?id=46746476",
+      "score": 632,
+      "comments": 385
     },
     {
-      "title": "Unrolling the Codex agent loop",
-      "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46737630",
-      "score": 355,
-      "comments": 164
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46749198",
+      "score": 420,
+      "comments": 363
     },
     {
-      "title": "Proof of Corn",
-      "url": "https://proofofcorn.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46735511",
-      "score": 400,
-      "comments": 274
+      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
+      "url": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46688804",
+      "score": 268,
+      "comments": 197
     },
     {
-      "title": "Traintrackr – Live LED Maps",
-      "url": "https://www.traintrackr.co.uk/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46676061",
-      "score": 58,
-      "comments": 21
+      "title": "A Lament for Aperture",
+      "url": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46699697",
+      "score": 107,
+      "comments": 23
     },
     {
-      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-      "url": "https://maggieappleton.com/gastown",
-      "hnUrl": "https://news.ycombinator.com/item?id=46734302",
-      "score": 345,
-      "comments": 351
+      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "url": "https://arxiv.org/abs/2601.05047",
+      "hnUrl": "https://news.ycombinator.com/item?id=46750214",
+      "score": 78,
+      "comments": 6
     },
     {
-      "title": "Banned C++ features in Chromium",
-      "url": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=46737447",
-      "score": 187,
-      "comments": 155
+      "title": "Two Weeks Until Tapeout",
+      "url": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46749671",
+      "score": 134,
+      "comments": 7
     },
     {
-      "title": "Comma openpilot – Open source driver-assistance",
-      "url": "https://comma.ai",
-      "hnUrl": "https://news.ycombinator.com/item?id=46740029",
-      "score": 292,
-      "comments": 158
+      "title": "Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators",
+      "url": "https://github.com/divyaprakash0426/autoshorts",
+      "hnUrl": "https://news.ycombinator.com/item?id=46751675",
+      "score": 32,
+      "comments": 13
     },
     {
-      "title": "Some C habits I employ for the modern day",
-      "url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46676125",
-      "score": 167,
-      "comments": 99
+      "title": "I scanned 2,500 Hugging Face models for malware/issues. Here is the data",
+      "url": "https://github.com/ArseniiBrazhnyk/Veritensor",
+      "hnUrl": "https://news.ycombinator.com/item?id=46706100",
+      "score": 15,
+      "comments": 2
     },
     {
-      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
-      "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46735545",
-      "score": 883,
-      "comments": 566
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
+      "hnUrl": "https://news.ycombinator.com/item?id=46747119",
+      "score": 182,
+      "comments": 59
     },
     {
-      "title": "Ask HN: What's the current best local/open speech-to-speech setup?",
-      "url": "https://news.ycombinator.com/item?id=46731068",
-      "hnUrl": "https://news.ycombinator.com/item?id=46731068",
-      "score": 175,
-      "comments": 41
+      "title": "Claude Code's new hidden feature: Swarms",
+      "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+      "hnUrl": "https://news.ycombinator.com/item?id=46743908",
+      "score": 429,
+      "comments": 291
     },
     {
-      "title": "New YC homepage",
-      "url": "https://www.ycombinator.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46735644",
-      "score": 261,
-      "comments": 129
+      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
+      "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46745922",
+      "score": 182,
+      "comments": 81
     },
     {
-      "title": "Booting from a vinyl record (2020)",
-      "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46730885",
-      "score": 322,
-      "comments": 110
+      "title": "Hands-On with Two Apple Network Server Prototype ROMs",
+      "url": "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46751825",
+      "score": 7,
+      "comments": 0
     },
     {
-      "title": "Mental Models (2018)",
-      "url": "https://fs.blog/mental-models/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46737957",
-      "score": 104,
-      "comments": 14
+      "title": "We X-Rayed a Suspicious FTDI USB Cable",
+      "url": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46749053",
+      "score": 152,
+      "comments": 61
     }
   ]
 }
