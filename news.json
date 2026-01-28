@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-27T12:25:16.247Z",
+  "updated": "2026-01-28T12:26:27.867Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Heathrow scraps liquid container limit",
-      "url": "https://www.bbc.com/news/articles/c1evvx89559o",
-      "hnUrl": "https://news.ycombinator.com/item?id=46736815",
-      "score": 356,
-      "comments": 473
+      "title": "There's only one Woz, but we can all learn from him",
+      "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
+      "hnUrl": "https://news.ycombinator.com/item?id=46735407",
+      "score": 140,
+      "comments": 59
     },
     {
-      "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
-      "url": "https://news.ycombinator.com/item?id=46778461",
-      "hnUrl": "https://news.ycombinator.com/item?id=46778461",
-      "score": 30,
-      "comments": 9
+      "title": "Prism",
+      "url": "https://openai.com/index/introducing-prism",
+      "hnUrl": "https://news.ycombinator.com/item?id=46783752",
+      "score": 665,
+      "comments": 409
     },
     {
-      "title": "A list of fun destinations for telnet",
-      "url": "https://telnet.org/htm/places.htm",
-      "hnUrl": "https://news.ycombinator.com/item?id=46775135",
-      "score": 152,
-      "comments": 31
+      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+      "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46791742",
+      "score": 69,
+      "comments": 13
     },
     {
-      "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
-      "url": "https://www.kimi.com/blog/kimi-k2-5.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46775961",
-      "score": 255,
-      "comments": 85
+      "title": "SVG Path Editor",
+      "url": "https://yqnn.github.io/svg-path-editor/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46726269",
+      "score": 115,
+      "comments": 11
     },
     {
-      "title": "The hidden engineering of runways",
-      "url": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
-      "hnUrl": "https://news.ycombinator.com/item?id=46694193",
-      "score": 338,
-      "comments": 77
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "url": "https://twitter.com/karpathy/status/2015883857489522876",
+      "hnUrl": "https://news.ycombinator.com/item?id=46771564",
+      "score": 678,
+      "comments": 557
     },
     {
-      "title": "Apple introduces new AirTag with longer range and improved findability",
-      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46765819",
-      "score": 476,
-      "comments": 561
+      "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
+      "url": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
+      "hnUrl": "https://news.ycombinator.com/item?id=46792370",
+      "score": 256,
+      "comments": 240
     },
     {
-      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-      "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46770221",
-      "score": 354,
-      "comments": 255
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46781530",
+      "score": 431,
+      "comments": 227
     },
     {
-      "title": "There is an AI code review bubble",
-      "url": "https://www.greptile.com/blog/ai-code-review-bubble",
-      "hnUrl": "https://news.ycombinator.com/item?id=46766961",
-      "score": 277,
-      "comments": 189
+      "title": "Rust’s Standard Library on the GPU",
+      "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46741150",
+      "score": 196,
+      "comments": 36
     },
     {
-      "title": "Windows 11's Patch Tuesday nightmare gets worse",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot",
-      "hnUrl": "https://news.ycombinator.com/item?id=46766526",
-      "score": 325,
-      "comments": 238
+      "title": "Doing the thing is doing the thing",
+      "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+      "hnUrl": "https://news.ycombinator.com/item?id=46776155",
+      "score": 419,
+      "comments": 137
     },
     {
-      "title": "JuiceSSH – Give me my pro features back",
-      "url": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46768909",
-      "score": 336,
-      "comments": 142
+      "title": "Parametric CAD in Rust",
+      "url": "https://campedersen.com/vcad",
+      "hnUrl": "https://news.ycombinator.com/item?id=46786196",
+      "score": 181,
+      "comments": 126
     },
     {
-      "title": "Dithering – Part 2: The Ordered Dithering",
-      "url": "https://visualrambling.space/dithering-part-2/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46770274",
-      "score": 210,
-      "comments": 25
+      "title": "Lennart Poettering, Christian Brauner founded a new company",
+      "url": "https://amutable.com/about",
+      "hnUrl": "https://news.ycombinator.com/item?id=46784572",
+      "score": 308,
+      "comments": 464
     },
     {
-      "title": "AI code and software craft",
-      "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46769188",
+      "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
+      "url": "https://alexxcons.github.io/blogpost_15.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46779645",
+      "score": 326,
+      "comments": 248
+    },
+    {
+      "title": "Time Station Emulator",
+      "url": "https://github.com/kangtastic/timestation",
+      "hnUrl": "https://news.ycombinator.com/item?id=46786183",
+      "score": 188,
+      "comments": 45
+    },
+    {
+      "title": "Amazon closing its Fresh and Go stores",
+      "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46781444",
+      "score": 244,
+      "comments": 455
+    },
+    {
+      "title": "AI2: Open Coding Agents",
+      "url": "https://allenai.org/blog/open-coding-agents",
+      "hnUrl": "https://news.ycombinator.com/item?id=46783017",
       "score": 197,
-      "comments": 109
-    },
-    {
-      "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
-      "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
-      "hnUrl": "https://news.ycombinator.com/item?id=46772495",
-      "score": 136,
-      "comments": 131
-    },
-    {
-      "title": "RIP Low-Code 2014-2025",
-      "url": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46767440",
-      "score": 237,
-      "comments": 121
-    },
-    {
-      "title": "Over 36,500 killed in Iran's deadliest massacre, documents reveal",
-      "url": "https://www.iranintl.com/en/202601255198",
-      "hnUrl": "https://news.ycombinator.com/item?id=46760329",
-      "score": 531,
-      "comments": 291
+      "comments": 32
     }
   ]
 }
