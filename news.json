@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-28T12:26:27.867Z",
+  "updated": "2026-01-29T12:31:06.055Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "There's only one Woz, but we can all learn from him",
-      "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
-      "hnUrl": "https://news.ycombinator.com/item?id=46735407",
-      "score": 140,
+      "title": "Europe’s next-generation weather satellite sends back first images",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+      "hnUrl": "https://news.ycombinator.com/item?id=46806773",
+      "score": 304,
+      "comments": 43
+    },
+    {
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "url": "https://blog.ncase.me/on-depression/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46808251",
+      "score": 236,
+      "comments": 153
+    },
+    {
+      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46801419",
+      "score": 521,
+      "comments": 448
+    },
+    {
+      "title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "url": "https://github.com/lukilabs/beautiful-mermaid",
+      "hnUrl": "https://news.ycombinator.com/item?id=46804828",
+      "score": 281,
+      "comments": 43
+    },
+    {
+      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+      "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+      "hnUrl": "https://news.ycombinator.com/item?id=46809069",
+      "score": 23,
+      "comments": 3
+    },
+    {
+      "title": "We can’t send mail farther than 500 miles (2002)",
+      "url": "https://web.mit.edu/jemorris/humor/500-miles",
+      "hnUrl": "https://news.ycombinator.com/item?id=46805665",
+      "score": 428,
       "comments": 59
     },
     {
-      "title": "Prism",
-      "url": "https://openai.com/index/introducing-prism",
-      "hnUrl": "https://news.ycombinator.com/item?id=46783752",
-      "score": 665,
-      "comments": 409
+      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+      "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+      "hnUrl": "https://news.ycombinator.com/item?id=46804854",
+      "score": 159,
+      "comments": 30
     },
     {
-      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
-      "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46791742",
-      "score": 69,
-      "comments": 13
+      "title": "Mecha Comet – Open Modular Linux Handheld Computer",
+      "url": "https://mecha.so/comet",
+      "hnUrl": "https://news.ycombinator.com/item?id=46758652",
+      "score": 168,
+      "comments": 51
     },
     {
-      "title": "SVG Path Editor",
-      "url": "https://yqnn.github.io/svg-path-editor/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46726269",
-      "score": 115,
-      "comments": 11
+      "title": "OpenAI’s unit economics",
+      "url": "https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview",
+      "hnUrl": "https://news.ycombinator.com/item?id=46807201",
+      "score": 34,
+      "comments": 38
     },
     {
-      "title": "A few random notes from Claude coding quite a bit last few weeks",
-      "url": "https://twitter.com/karpathy/status/2015883857489522876",
-      "hnUrl": "https://news.ycombinator.com/item?id=46771564",
-      "score": 678,
-      "comments": 557
+      "title": "Airfoil (2024)",
+      "url": "https://ciechanow.ski/airfoil/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46795908",
+      "score": 479,
+      "comments": 53
     },
     {
-      "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
-      "url": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
-      "hnUrl": "https://news.ycombinator.com/item?id=46792370",
-      "score": 256,
-      "comments": 240
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "url": "https://www.arcee.ai/blog/trinity-large",
+      "hnUrl": "https://news.ycombinator.com/item?id=46789561",
+      "score": 201,
+      "comments": 61
     },
     {
-      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-      "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46781530",
-      "score": 431,
-      "comments": 227
+      "title": "Tesla ending Models S and X production",
+      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46802867",
+      "score": 360,
+      "comments": 662
     },
     {
-      "title": "Rust’s Standard Library on the GPU",
-      "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46741150",
-      "score": 196,
-      "comments": 36
+      "title": "Android’s desktop interface leaks",
+      "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46790740",
+      "score": 253,
+      "comments": 325
     },
     {
-      "title": "Doing the thing is doing the thing",
-      "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
-      "hnUrl": "https://news.ycombinator.com/item?id=46776155",
-      "score": 419,
-      "comments": 137
+      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "url": "https://github.com/ratatui/mousefood",
+      "hnUrl": "https://news.ycombinator.com/item?id=46798402",
+      "score": 212,
+      "comments": 46
     },
     {
-      "title": "Parametric CAD in Rust",
-      "url": "https://campedersen.com/vcad",
-      "hnUrl": "https://news.ycombinator.com/item?id=46786196",
-      "score": 181,
-      "comments": 126
-    },
-    {
-      "title": "Lennart Poettering, Christian Brauner founded a new company",
-      "url": "https://amutable.com/about",
-      "hnUrl": "https://news.ycombinator.com/item?id=46784572",
-      "score": 308,
-      "comments": 464
-    },
-    {
-      "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
-      "url": "https://alexxcons.github.io/blogpost_15.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46779645",
-      "score": 326,
-      "comments": 248
-    },
-    {
-      "title": "Time Station Emulator",
-      "url": "https://github.com/kangtastic/timestation",
-      "hnUrl": "https://news.ycombinator.com/item?id=46786183",
-      "score": 188,
-      "comments": 45
-    },
-    {
-      "title": "Amazon closing its Fresh and Go stores",
-      "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46781444",
-      "score": 244,
-      "comments": 455
-    },
-    {
-      "title": "AI2: Open Coding Agents",
-      "url": "https://allenai.org/blog/open-coding-agents",
-      "hnUrl": "https://news.ycombinator.com/item?id=46783017",
-      "score": 197,
-      "comments": 32
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "url": "https://github.com/jmuncor/sherlock",
+      "hnUrl": "https://news.ycombinator.com/item?id=46799898",
+      "score": 180,
+      "comments": 88
     }
   ]
 }
