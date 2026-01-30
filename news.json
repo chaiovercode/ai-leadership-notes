@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-29T12:31:06.055Z",
+  "updated": "2026-01-30T12:29:55.331Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Europe’s next-generation weather satellite sends back first images",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-      "hnUrl": "https://news.ycombinator.com/item?id=46806773",
-      "score": 304,
-      "comments": 43
+      "title": "Moltbook",
+      "url": "https://www.moltbook.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46820360",
+      "score": 557,
+      "comments": 301
     },
     {
-      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
-      "url": "https://blog.ncase.me/on-depression/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46808251",
-      "score": 236,
-      "comments": 153
+      "title": "Software Pump and Dump",
+      "url": "http://tautvilas.lt/software-pump-and-dump/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46776848",
+      "score": 125,
+      "comments": 32
     },
     {
-      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
-      "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46801419",
-      "score": 521,
-      "comments": 448
+      "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+      "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46821134",
+      "score": 110,
+      "comments": 7
     },
     {
-      "title": "Render Mermaid diagrams as SVGs or ASCII art",
-      "url": "https://github.com/lukilabs/beautiful-mermaid",
-      "hnUrl": "https://news.ycombinator.com/item?id=46804828",
-      "score": 281,
-      "comments": 43
+      "title": "OpenClaw – Moltbot Renamed Again",
+      "url": "https://openclaw.ai/blog/introducing-openclaw",
+      "hnUrl": "https://news.ycombinator.com/item?id=46820783",
+      "score": 268,
+      "comments": 116
     },
     {
-      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
-      "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
-      "hnUrl": "https://news.ycombinator.com/item?id=46809069",
-      "score": 23,
-      "comments": 3
+      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+      "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46821774",
+      "score": 225,
+      "comments": 129
     },
     {
-      "title": "We can’t send mail farther than 500 miles (2002)",
-      "url": "https://web.mit.edu/jemorris/humor/500-miles",
-      "hnUrl": "https://news.ycombinator.com/item?id=46805665",
-      "score": 428,
-      "comments": 59
+      "title": "Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)",
+      "url": "https://docs.pangolin.net/careers/join-us",
+      "hnUrl": "https://news.ycombinator.com/item?id=46823544",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
-      "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-      "hnUrl": "https://news.ycombinator.com/item?id=46804854",
-      "score": 159,
-      "comments": 30
+      "title": "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+      "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46822632",
+      "score": 94,
+      "comments": 36
     },
     {
-      "title": "Mecha Comet – Open Modular Linux Handheld Computer",
-      "url": "https://mecha.so/comet",
-      "hnUrl": "https://news.ycombinator.com/item?id=46758652",
-      "score": 168,
-      "comments": 51
-    },
-    {
-      "title": "OpenAI’s unit economics",
-      "url": "https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview",
-      "hnUrl": "https://news.ycombinator.com/item?id=46807201",
-      "score": 34,
+      "title": "How AI assistance impacts the formation of coding skills",
+      "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+      "hnUrl": "https://news.ycombinator.com/item?id=46820924",
+      "score": 124,
       "comments": 38
     },
     {
-      "title": "Airfoil (2024)",
-      "url": "https://ciechanow.ski/airfoil/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46795908",
-      "score": 479,
-      "comments": 53
+      "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+      "url": "https://grid.space/stem/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46817813",
+      "score": 314,
+      "comments": 102
     },
     {
-      "title": "Trinity large: An open 400B sparse MoE model",
-      "url": "https://www.arcee.ai/blog/trinity-large",
-      "hnUrl": "https://news.ycombinator.com/item?id=46789561",
-      "score": 201,
-      "comments": 61
+      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+      "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46814743",
+      "score": 456,
+      "comments": 238
     },
     {
-      "title": "Tesla ending Models S and X production",
-      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46802867",
-      "score": 360,
-      "comments": 662
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46812933",
+      "score": 596,
+      "comments": 286
     },
     {
-      "title": "Android’s desktop interface leaks",
-      "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46790740",
-      "score": 253,
-      "comments": 325
+      "title": "Claude Code daily benchmarks for degradation tracking",
+      "url": "https://marginlab.ai/trackers/claude-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46810282",
+      "score": 705,
+      "comments": 323
     },
     {
-      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
-      "url": "https://github.com/ratatui/mousefood",
-      "hnUrl": "https://news.ycombinator.com/item?id=46798402",
-      "score": 212,
-      "comments": 46
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46816539",
+      "score": 221,
+      "comments": 294
     },
     {
-      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
-      "url": "https://github.com/jmuncor/sherlock",
-      "hnUrl": "https://news.ycombinator.com/item?id=46799898",
-      "score": 180,
-      "comments": 88
+      "title": "Stargaze: SpaceX's Space Situational Awareness System",
+      "url": "https://starlink.com/updates/stargaze",
+      "hnUrl": "https://news.ycombinator.com/item?id=46820113",
+      "score": 102,
+      "comments": 33
+    },
+    {
+      "title": "The WiFi only works when it's raining (2024)",
+      "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46816357",
+      "score": 220,
+      "comments": 72
     }
   ]
 }
