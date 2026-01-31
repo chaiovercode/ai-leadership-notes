@@ -1,111 +1,111 @@
 {
-  "updated": "2026-01-30T12:29:55.331Z",
+  "updated": "2026-01-31T12:23:09.730Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "Antirender: remove the glossy shine on architectural renderings",
+      "url": "https://antirender.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46829147",
+      "score": 1340,
+      "comments": 320
+    },
+    {
+      "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
+      "url": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46835336",
+      "score": 112,
+      "comments": 51
+    },
+    {
+      "title": "Automatic Programming",
+      "url": "https://antirez.com/news/159",
+      "hnUrl": "https://news.ycombinator.com/item?id=46835208",
+      "score": 109,
+      "comments": 76
+    },
+    {
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46832074",
+      "score": 266,
+      "comments": 95
+    },
+    {
+      "title": "Direct Current Data Centers",
+      "url": "https://terraformindustries.wordpress.com/2026/01/30/direct-current-data-centers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46831736",
+      "score": 36,
+      "comments": 19
+    },
+    {
+      "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
+      "url": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46809846",
+      "score": 33,
+      "comments": 4
+    },
+    {
+      "title": "Peerweb: Decentralized website hosting via WebTorrent",
+      "url": "https://peerweb.lol/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46829582",
+      "score": 274,
+      "comments": 93
+    },
     {
       "title": "Moltbook",
       "url": "https://www.moltbook.com/",
       "hnUrl": "https://news.ycombinator.com/item?id=46820360",
-      "score": 557,
-      "comments": 301
+      "score": 1494,
+      "comments": 710
     },
     {
-      "title": "Software Pump and Dump",
-      "url": "http://tautvilas.lt/software-pump-and-dump/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46776848",
-      "score": 125,
-      "comments": 32
+      "title": "HTTP Cats",
+      "url": "https://http.cat/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46824422",
+      "score": 398,
+      "comments": 68
     },
     {
-      "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
-      "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46821134",
-      "score": 110,
-      "comments": 7
-    },
-    {
-      "title": "OpenClaw – Moltbot Renamed Again",
-      "url": "https://openclaw.ai/blog/introducing-openclaw",
-      "hnUrl": "https://news.ycombinator.com/item?id=46820783",
-      "score": 268,
+      "title": "Kimi K2.5 Technical Report [pdf]",
+      "url": "https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=46826597",
+      "score": 312,
       "comments": 116
     },
     {
-      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-      "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46821774",
-      "score": 225,
-      "comments": 129
+      "title": "Disrupting the largest residential proxy network",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network",
+      "hnUrl": "https://news.ycombinator.com/item?id=46802748",
+      "score": 171,
+      "comments": 152
     },
     {
-      "title": "Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)",
-      "url": "https://docs.pangolin.net/careers/join-us",
-      "hnUrl": "https://news.ycombinator.com/item?id=46823544",
-      "score": 1,
-      "comments": 0
+      "title": "Surely the crash of the US economy has to be soon",
+      "url": "https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46822630",
+      "score": 344,
+      "comments": 461
     },
     {
-      "title": "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
-      "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46822632",
-      "score": 94,
-      "comments": 36
+      "title": "Stonebraker on CAP theorem and Databases (2010)",
+      "url": "https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46831592",
+      "score": 68,
+      "comments": 30
     },
     {
-      "title": "How AI assistance impacts the formation of coding skills",
-      "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
-      "hnUrl": "https://news.ycombinator.com/item?id=46820924",
-      "score": 124,
-      "comments": 38
+      "title": "Coding is when we're least productive",
+      "url": "https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46832625",
+      "score": 46,
+      "comments": 22
     },
     {
-      "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
-      "url": "https://grid.space/stem/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46817813",
-      "score": 314,
-      "comments": 102
-    },
-    {
-      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
-      "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46814743",
-      "score": 456,
-      "comments": 238
-    },
-    {
-      "title": "Project Genie: Experimenting with infinite, interactive worlds",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46812933",
-      "score": 596,
-      "comments": 286
-    },
-    {
-      "title": "Claude Code daily benchmarks for degradation tracking",
-      "url": "https://marginlab.ai/trackers/claude-code/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46810282",
-      "score": 705,
-      "comments": 323
-    },
-    {
-      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46816539",
-      "score": 221,
-      "comments": 294
-    },
-    {
-      "title": "Stargaze: SpaceX's Space Situational Awareness System",
-      "url": "https://starlink.com/updates/stargaze",
-      "hnUrl": "https://news.ycombinator.com/item?id=46820113",
-      "score": 102,
-      "comments": 33
-    },
-    {
-      "title": "The WiFi only works when it's raining (2024)",
-      "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46816357",
-      "score": 220,
-      "comments": 72
+      "title": "Designing a Passively Safe API",
+      "url": "https://www.danealbaugh.com/articles/passively-safe-apis",
+      "hnUrl": "https://news.ycombinator.com/item?id=46770022",
+      "score": 31,
+      "comments": 6
     }
   ]
 }
