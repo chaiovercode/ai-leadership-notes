@@ -1,22 +1,22 @@
 {
-  "updated": "2026-01-26T09:42:00.104Z",
+  "updated": "2026-02-02T09:59:44.566Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "Humans thinks coordination is the next frontier for AI, and theyre building a model to prove it",
-          "url": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-          "date": "2026-01-25T22:11:06.000Z",
-          "description": "Humans, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
+          "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+          "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+          "date": "2026-01-29T18:58:07.000Z",
+          "description": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
           "source": "TechCrunch"
         },
         {
-          "title": "Whos behind AMI Labs, Yann LeCuns ‘world model’ startup",
-          "url": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
-          "date": "2026-01-24T00:04:45.000Z",
-          "description": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+          "title": "I built marshmallow castles in Google’s new AI-world generator",
+          "url": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+          "date": "2026-01-29T17:29:11.000Z",
+          "description": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano...",
           "source": "TechCrunch"
         }
       ]
@@ -26,73 +26,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "This founder cracked firefighting  now hes creating an AI gold mine",
-          "url": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
-          "date": "2026-01-25T23:20:36.000Z",
-          "description": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
+          "title": "AI layoffs or ‘AI-washing’?",
+          "url": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+          "date": "2026-02-01T22:15:53.000Z",
+          "description": "How many of the companies with recent layoffs are just using AI as an excuse?",
           "source": "TechCrunch"
         },
         {
-          "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
-          "url": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
-          "date": "2026-01-25T22:35:53.000Z",
-          "description": "Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk’s xAI is beginning to appear in answers from ChatGPT.",
+          "title": "Why Tethers CEO is everywhere right now",
+          "url": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
+          "date": "2026-02-01T20:32:21.000Z",
+          "description": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
           "source": "TechCrunch"
         },
         {
-          "title": "Humans thinks coordination is the next frontier for AI, and theyre building a model to prove it",
-          "url": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-          "date": "2026-01-25T22:11:06.000Z",
-          "description": "Humans, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
+          "title": "Indonesia ‘conditionally’ lifts ban on Grok",
+          "url": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+          "date": "2026-02-01T17:20:00.000Z",
+          "description": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
           "source": "TechCrunch"
         },
         {
-          "title": "Science fiction writers, Comic-Con say goodbye to AI",
-          "url": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
-          "date": "2026-01-25T21:53:42.000Z",
-          "description": "Some of the major players in science fiction and pop culture are taking firmer stances against generative AI.",
+          "title": "India offers zero taxes through 2047 to lure global AI workloads",
+          "url": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
+          "date": "2026-02-01T16:30:00.000Z",
+          "description": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
-          "url": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
-          "date": "2026-01-25T16:56:31.000Z",
-          "description": "We’re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.",
+          "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
+          "url": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
+          "date": "2026-02-01T15:39:08.000Z",
+          "description": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age.",
           "source": "TechCrunch"
         },
         {
-          "title": "Tech CEOs boast and bicker about AI at Davos",
-          "url": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
-          "date": "2026-01-24T20:00:46.000Z",
-          "description": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+          "title": "Nvidia CEO pushes back against report that his companys $100B OpenAI investment has stalled",
+          "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+          "date": "2026-01-31T17:54:12.000Z",
+          "description": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
           "source": "TechCrunch"
         },
         {
-          "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
-          "url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
-          "date": "2026-01-24T18:21:21.000Z",
-          "description": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating...",
+          "title": "Anthropic brings agentic plug-ins to Cowork",
+          "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+          "date": "2026-01-30T18:00:00.000Z",
+          "description": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets m...",
           "source": "TechCrunch"
         },
         {
-          "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
-          "url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
-          "date": "2026-01-24T05:27:22.000Z",
-          "description": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the start...",
+          "title": "Last 24 hours to grab your plus-one pass at 50% off to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
+          "date": "2026-01-30T15:00:00.000Z",
+          "description": "Today is the last day to lock in a plus-one pass at 50% off to TechCrunch Disrupt 2026, happening on October 13-15 in San Francisco.",
           "source": "TechCrunch"
         },
         {
-          "title": "How did Davos turn into a tech conference?",
-          "url": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
-          "date": "2026-01-23T20:00:00.000Z",
-          "description": "The World Economic Forums annual meeting in Davosfelt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.AI dominated the conversation in a way t...",
+          "title": "Guys, I dont think Tim Cook knows how to monetize AI",
+          "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+          "date": "2026-01-29T23:51:17.000Z",
+          "description": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
           "source": "TechCrunch"
         },
         {
-          "title": "Google Photos latest feature lets you meme yourself",
-          "url": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
-          "date": "2026-01-23T17:02:22.000Z",
-          "description": "The addition is meant to just be a fun way to explore your photos and experiment with Google's Gemini AI technology, and specifically Nano Banana.",
+          "title": "Elon Musks SpaceX, Tesla, and xAI in talks to merge, according to reports",
+          "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+          "date": "2026-01-29T22:47:42.000Z",
+          "description": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
           "source": "TechCrunch"
         }
       ]
@@ -102,18 +102,11 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
-          "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-          "date": "2026-01-23T02:29:24.000Z",
-          "description": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
+          "title": "Anthropic brings agentic plug-ins to Cowork",
+          "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+          "date": "2026-01-30T18:00:00.000Z",
+          "description": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets m...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-          "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-          "date": "2026-01-19T14:00:00.000Z",
-          "description": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -122,45 +115,24 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Humans thinks coordination is the next frontier for AI, and theyre building a model to prove it",
-          "url": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-          "date": "2026-01-25T22:11:06.000Z",
-          "description": "Humans, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
+          "title": "A peek inside Physical Intelligence, the startup building Silicon Valleys buzziest robot brains",
+          "url": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
+          "date": "2026-01-31T00:09:54.000Z",
+          "description": "If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he need...",
           "source": "TechCrunch"
         },
         {
-          "title": "Whos behind AMI Labs, Yann LeCuns ‘world model’ startup",
-          "url": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
-          "date": "2026-01-24T00:04:45.000Z",
-          "description": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+          "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+          "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+          "date": "2026-01-29T22:11:09.000Z",
+          "description": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
           "source": "TechCrunch"
         },
         {
-          "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
-          "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-          "date": "2026-01-23T02:29:24.000Z",
-          "description": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
-          "url": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
-          "date": "2026-01-23T00:52:33.000Z",
-          "description": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
-          "url": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
-          "date": "2026-01-22T22:44:29.000Z",
-          "description": "The five-year-old-startup powers OpenAI’s ChatGPT voice mode and raised a $100 million round led by Index Ventures.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-          "url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-          "date": "2026-01-22T22:42:00.000Z",
-          "description": "The seed round values the newly formed startup at $800 million.",
+          "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+          "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+          "date": "2026-01-29T18:58:07.000Z",
+          "description": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
           "source": "TechCrunch"
         }
       ]
@@ -170,24 +142,31 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "A new test for AI labs: Are you even trying to make money?",
-          "url": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
-          "date": "2026-01-24T17:00:00.000Z",
-          "description": "It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.",
+          "title": "These AI notetaking devices can help you record and transcribe your meetings",
+          "url": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+          "date": "2026-02-02T08:00:00.000Z",
+          "description": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta pauses teen access to AI characters ahead of new version",
-          "url": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
-          "date": "2026-01-23T17:00:00.000Z",
-          "description": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version ...",
+          "title": "OpenClaws AI assistants are now building their own social network",
+          "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+          "date": "2026-01-30T23:36:34.000Z",
+          "description": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
           "source": "TechCrunch"
         },
         {
-          "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-          "url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-          "date": "2026-01-22T22:42:00.000Z",
-          "description": "The seed round values the newly formed startup at $800 million.",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+          "date": "2026-01-29T17:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__project-genie__hero-fi.max-600x600.format-webp_d7CisM6.webp\"&gt;Google AI Ultra subscribers in the U.S. can now tr...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Music publishers sue Anthropic for $3B over flagrant piracy of 20,000 works",
+          "url": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+          "date": "2026-01-29T16:30:29.000Z",
+          "description": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
           "source": "TechCrunch"
         }
       ]
