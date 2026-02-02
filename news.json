@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-01T12:24:51.187Z",
+  "updated": "2026-02-02T12:33:16.102Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)",
-      "url": "https://netbird.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46844870",
-      "score": 227,
-      "comments": 63
-    },
-    {
-      "title": "What I learned building an opinionated and minimal coding agent",
-      "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46844822",
-      "score": 79,
-      "comments": 24
-    },
-    {
-      "title": "Mobile carriers can get your GPS location",
-      "url": "https://an.dywa.ng/carrier-gnss.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46838597",
-      "score": 710,
-      "comments": 422
-    },
-    {
-      "title": "The history of C# and TypeScript with Anders Hejlsberg | GitHub",
-      "url": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
-      "hnUrl": "https://news.ycombinator.com/item?id=46782872",
-      "score": 85,
-      "comments": 52
-    },
-    {
-      "title": "VisualJJ – Jujutsu in Visual Studio Code",
-      "url": "https://www.visualjj.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46799435",
-      "score": 24,
+      "title": "Applications where agents are first-class citizens",
+      "url": "https://every.to/guides/agent-native",
+      "hnUrl": "https://news.ycombinator.com/item?id=46855003",
+      "score": 7,
       "comments": 1
     },
     {
-      "title": "In praise of –dry-run",
-      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46840612",
-      "score": 192,
-      "comments": 104
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "hnUrl": "https://news.ycombinator.com/item?id=46849567",
+      "score": 626,
+      "comments": 185
     },
     {
-      "title": "List animals until failure",
-      "url": "https://rose.systems/animalist/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46842603",
-      "score": 173,
-      "comments": 99
+      "title": "Microsoft is walking back Windows 11's AI overload",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+      "hnUrl": "https://news.ycombinator.com/item?id=46854951",
+      "score": 36,
+      "comments": 29
     },
     {
-      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
-      "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46840924",
-      "score": 169,
-      "comments": 66
+      "title": "My (very) fast zero-allocation webserver using OxCaml",
+      "url": "https://anil.recoil.org/notes/oxcaml-httpz",
+      "hnUrl": "https://news.ycombinator.com/item?id=46854534",
+      "score": 8,
+      "comments": 2
     },
     {
-      "title": "Coffee as a staining agent substitute in electron microscopy",
-      "url": "https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46813909",
-      "score": 22,
-      "comments": 10
+      "title": "Apple's MacBook Pro DFU port documentation is wrong",
+      "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46852096",
+      "score": 125,
+      "comments": 37
     },
     {
-      "title": "Outsourcing thinking",
-      "url": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46840865",
-      "score": 166,
-      "comments": 156
+      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
+      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46849258",
+      "score": 324,
+      "comments": 148
     },
     {
-      "title": "Scientist who helped eradicate smallpox dies at age 89",
-      "url": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46793313",
-      "score": 240,
-      "comments": 68
+      "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
+      "url": "https://github.com/rustrum/apate",
+      "hnUrl": "https://news.ycombinator.com/item?id=46845097",
+      "score": 7,
+      "comments": 2
     },
     {
-      "title": "Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out",
-      "url": "https://www.moltbook.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46802254",
-      "score": 233,
-      "comments": 835
+      "title": "Ratchets in Software Development",
+      "url": "https://qntm.org/ratchet",
+      "hnUrl": "https://news.ycombinator.com/item?id=46814340",
+      "score": 51,
+      "comments": 19
     },
     {
-      "title": "Nvidia's 10-year effort to make the Shield TV the most updated Android device",
-      "url": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46837346",
-      "score": 172,
-      "comments": 145
+      "title": "Show HN: Wikipedia as a doomscrollable social media feed",
+      "url": "https://xikipedia.org",
+      "hnUrl": "https://news.ycombinator.com/item?id=46850803",
+      "score": 261,
+      "comments": 96
     },
     {
-      "title": "Nintendo DS code editor and scriptable game engine",
-      "url": "https://crl.io/ds-game-engine/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46839215",
-      "score": 142,
-      "comments": 34
+      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+      "url": "https://github.com/gavrielc/nanoclaw",
+      "hnUrl": "https://news.ycombinator.com/item?id=46850205",
+      "score": 409,
+      "comments": 150
     },
     {
-      "title": "Finland looks to introduce Australia-style ban on social media",
-      "url": "https://yle.fi/a/74-20207494",
-      "hnUrl": "https://news.ycombinator.com/item?id=46838417",
-      "score": 646,
-      "comments": 462
+      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
+      "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=46851192",
+      "score": 97,
+      "comments": 40
+    },
+    {
+      "title": "Claude Code is suddenly everywhere inside Microsoft",
+      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+      "hnUrl": "https://news.ycombinator.com/item?id=46854999",
+      "score": 13,
+      "comments": 2
+    },
+    {
+      "title": "Apple I Advertisement (1976)",
+      "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=46847780",
+      "score": 246,
+      "comments": 133
+    },
+    {
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "url": "https://www.adventuregamestudio.co.uk/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46846252",
+      "score": 340,
+      "comments": 69
+    },
+    {
+      "title": "EU launches government satcom program in sovereignty push",
+      "url": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46853888",
+      "score": 56,
+      "comments": 26
     }
   ]
 }
