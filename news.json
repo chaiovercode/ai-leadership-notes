@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-03T12:34:02.108Z",
+  "updated": "2026-02-04T12:34:03.238Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "What's up with all those equals signs anyway?",
-      "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46868759",
-      "score": 164,
-      "comments": 57
+      "title": "I miss thinking hard",
+      "url": "https://www.jernesto.com/articles/thinking_hard",
+      "hnUrl": "https://news.ycombinator.com/item?id=46881264",
+      "score": 713,
+      "comments": 425
     },
     {
-      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
-      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46866544",
-      "score": 167,
-      "comments": 108
+      "title": "Data centers in space makes no sense",
+      "url": "https://civai.org/blog/space-data-centers",
+      "hnUrl": "https://news.ycombinator.com/item?id=46876105",
+      "score": 709,
+      "comments": 817
     },
     {
-      "title": "Rentahuman – The Meatspace Layer for AI",
-      "url": "https://rentahuman.ai",
-      "hnUrl": "https://news.ycombinator.com/item?id=46868675",
-      "score": 40,
-      "comments": 26
+      "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "hnUrl": "https://news.ycombinator.com/item?id=46882389",
+      "score": 108,
+      "comments": 30
     },
     {
-      "title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
-      "url": "https://github.com/whispem/minikv",
-      "hnUrl": "https://news.ycombinator.com/item?id=46867947",
-      "score": 12,
-      "comments": 1
+      "title": "Lessons learned shipping 500 units of my first hardware product",
+      "url": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
+      "hnUrl": "https://news.ycombinator.com/item?id=46848876",
+      "score": 650,
+      "comments": 291
     },
     {
-      "title": "The Codex App",
-      "url": "https://openai.com/index/introducing-the-codex-app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46859054",
-      "score": 698,
-      "comments": 517
-    },
-    {
-      "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
-      "url": "https://github.com/KrystianJonca/lnai",
-      "hnUrl": "https://news.ycombinator.com/item?id=46868318",
-      "score": 33,
-      "comments": 16
-    },
-    {
-      "title": "Emerge Career (YC S22) Is Hiring a Founding Product Designer",
-      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
-      "hnUrl": "https://news.ycombinator.com/item?id=46869901",
-      "score": 1,
+      "title": "Brazilian Micro-SaaS Map",
+      "url": "https://saas-map.ssr.trapiche.cloud/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46840558",
+      "score": 14,
       "comments": 0
     },
     {
-      "title": "Anki ownership transferred to AnkiHub",
-      "url": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-      "hnUrl": "https://news.ycombinator.com/item?id=46861313",
-      "score": 442,
-      "comments": 170
+      "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+      "url": "https://github.com/puemos/craftplan",
+      "hnUrl": "https://news.ycombinator.com/item?id=46847690",
+      "score": 388,
+      "comments": 96
     },
     {
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46864498",
-      "score": 201,
-      "comments": 56
+      "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+      "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46872540",
+      "score": 478,
+      "comments": 533
     },
     {
-      "title": "Todd C. Miller – Sudo maintainer for over 30 years",
-      "url": "https://www.millert.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46858577",
-      "score": 489,
-      "comments": 248
+      "title": "Deno Sandbox",
+      "url": "https://deno.com/blog/introducing-deno-sandbox",
+      "hnUrl": "https://news.ycombinator.com/item?id=46874097",
+      "score": 464,
+      "comments": 149
     },
     {
-      "title": "GitHub experience various partial-outages/degradations",
-      "url": "https://www.githubstatus.com?todayis=2026-02-02",
-      "hnUrl": "https://news.ycombinator.com/item?id=46861842",
-      "score": 225,
-      "comments": 79
+      "title": "Agent Skills",
+      "url": "https://agentskills.io/home",
+      "hnUrl": "https://news.ycombinator.com/item?id=46871173",
+      "score": 479,
+      "comments": 232
     },
     {
-      "title": "Archive.today is directing a DDoS attack against my blog?",
-      "url": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46843805",
-      "score": 196,
-      "comments": 77
+      "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46874619",
+      "score": 326,
+      "comments": 279
     },
     {
-      "title": "Ask HN: Who is hiring? (February 2026)",
-      "url": "https://news.ycombinator.com/item?id=46857488",
-      "hnUrl": "https://news.ycombinator.com/item?id=46857488",
-      "score": 282,
-      "comments": 352
+      "title": "Goblins: Distributed, Transactional Programming with Racket and Guile",
+      "url": "https://spritely.institute/goblins/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46832606",
+      "score": 58,
+      "comments": 3
     },
     {
-      "title": "xAI joins SpaceX",
-      "url": "https://www.spacex.com/updates#xai-joins-spacex",
-      "hnUrl": "https://news.ycombinator.com/item?id=46862170",
-      "score": 746,
-      "comments": 1653
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "url": "https://github.com/alibaba/AliSQL",
+      "hnUrl": "https://news.ycombinator.com/item?id=46875228",
+      "score": 230,
+      "comments": 33
     },
     {
-      "title": "Hacking Moltbook",
-      "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-      "hnUrl": "https://news.ycombinator.com/item?id=46857615",
-      "score": 346,
+      "title": "X offices raided in France as UK opens fresh investigation into Grok",
+      "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+      "hnUrl": "https://news.ycombinator.com/item?id=46868998",
+      "score": 418,
+      "comments": 831
+    },
+    {
+      "title": "221 Cannon is Not For Sale",
+      "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46873574",
+      "score": 264,
       "comments": 195
+    },
+    {
+      "title": "Exploring Different Keyboard Sensing Technologies",
+      "url": "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies",
+      "hnUrl": "https://news.ycombinator.com/item?id=46792506",
+      "score": 36,
+      "comments": 16
     }
   ]
 }
