@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-05T12:35:20.172Z",
+  "updated": "2026-02-06T12:33:47.131Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Don't rent the cloud, own instead",
-      "url": "https://blog.comma.ai/datacenter/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46896146",
-      "score": 424,
-      "comments": 176
+      "title": "A new bill in New York would require disclaimers on AI-generated news content",
+      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46910963",
+      "score": 154,
+      "comments": 61
     },
     {
-      "title": "When internal hostnames are leaked to the clown",
-      "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46895972",
-      "score": 237,
-      "comments": 124
+      "title": "Claude Opus 4.6",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "hnUrl": "https://news.ycombinator.com/item?id=46902223",
+      "score": 2046,
+      "comments": 877
     },
     {
-      "title": "Freshpaint (YC S19) Is Hiring a Senior SWE, Data",
-      "url": "https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761",
-      "hnUrl": "https://news.ycombinator.com/item?id=46898713",
-      "score": 1,
+      "title": "Things Unix can do atomically (2010)",
+      "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46909468",
+      "score": 143,
+      "comments": 49
+    },
+    {
+      "title": "GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46902638",
+      "score": 1356,
+      "comments": 517
+    },
+    {
+      "title": "Systems Thinking",
+      "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46909439",
+      "score": 133,
+      "comments": 59
+    },
+    {
+      "title": "I Now Assume That All Ads on Apple News Are Scams",
+      "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46911901",
+      "score": 4,
       "comments": 0
     },
     {
-      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
-      "url": "https://sqldef.github.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46845239",
-      "score": 191,
-      "comments": 38
+      "title": "My AI Adoption Journey",
+      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "hnUrl": "https://news.ycombinator.com/item?id=46903558",
+      "score": 649,
+      "comments": 242
     },
     {
-      "title": "Claude Code: connect to a local model when your quota runs out",
-      "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46845845",
-      "score": 303,
-      "comments": 156
+      "title": "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
+      "url": "https://wiz.jock.pl/experiments/agent-arena/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46911873",
+      "score": 5,
+      "comments": 0
     },
     {
-      "title": "Data breach: DOGE 'accidentally' leaked the whole Social Security database [pdf]",
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=46897732",
-      "score": 73,
-      "comments": 13
+      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+      "url": "https://www.anthropic.com/engineering/building-c-compiler",
+      "hnUrl": "https://news.ycombinator.com/item?id=46903616",
+      "score": 566,
+      "comments": 555
     },
     {
-      "title": "AI is killing B2B SaaS",
-      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "hnUrl": "https://news.ycombinator.com/item?id=46888441",
-      "score": 373,
-      "comments": 578
+      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+      "url": "https://github.com/artifact-keeper",
+      "hnUrl": "https://news.ycombinator.com/item?id=46909037",
+      "score": 85,
+      "comments": 29
     },
     {
-      "title": "A case study in PDF forensics: The Epstein PDFs",
-      "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46886440",
-      "score": 322,
-      "comments": 187
+      "title": "DNS Explained – How Domain Names Get Resolved",
+      "url": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46868803",
+      "score": 20,
+      "comments": 6
     },
     {
-      "title": "Microsoft's Copilot chatbot is running into problems",
-      "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-      "hnUrl": "https://news.ycombinator.com/item?id=46887564",
-      "score": 228,
-      "comments": 267
+      "title": "Recreating Epstein PDFs from raw encoded attachments",
+      "url": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46890335",
+      "score": 391,
+      "comments": 135
     },
     {
-      "title": "Claude Code for Infrastructure",
-      "url": "https://www.fluid.sh/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46889703",
-      "score": 231,
-      "comments": 156
+      "title": "Animated Knots",
+      "url": "https://www.animatedknots.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46855697",
+      "score": 225,
+      "comments": 32
     },
     {
-      "title": "OpenClaw is what Apple intelligence should have been",
-      "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "hnUrl": "https://news.ycombinator.com/item?id=46893970",
-      "score": 364,
-      "comments": 296
+      "title": "The RCE that AMD won't fix",
+      "url": "https://mrbruh.com/amd/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46906947",
+      "score": 252,
+      "comments": 103
     },
     {
-      "title": "Remarkable Pro Colors",
-      "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46845642",
-      "score": 111,
-      "comments": 44
-    },
-    {
-      "title": "Voxtral Transcribe 2",
-      "url": "https://mistral.ai/news/voxtral-transcribe-2",
-      "hnUrl": "https://news.ycombinator.com/item?id=46886735",
-      "score": 918,
-      "comments": 224
-    },
-    {
-      "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-      "hnUrl": "https://news.ycombinator.com/item?id=46888795",
-      "score": 163,
-      "comments": 45
-    },
-    {
-      "title": "Postgres Postmaster does not scale",
-      "url": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
-      "hnUrl": "https://news.ycombinator.com/item?id=46887893",
-      "score": 103,
-      "comments": 50
+      "title": "Coding Agents and Use Cases",
+      "url": "https://justsitandgrin.im/posts/coding-agents-use-cases/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46868275",
+      "score": 3,
+      "comments": 0
     }
   ]
 }
