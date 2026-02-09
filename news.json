@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-08T12:25:06.364Z",
+  "updated": "2026-02-09T12:47:30.700Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "DoNotNotify is now Open Source",
-      "url": "https://donotnotify.com/opensource.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46932192",
-      "score": 208,
-      "comments": 35
+      "title": "Art of Roads in Games",
+      "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46938511",
+      "score": 403,
+      "comments": 131
     },
     {
-      "title": "Matchlock: Linux-based sandboxing for AI agents",
-      "url": "https://github.com/jingkaihe/matchlock",
-      "hnUrl": "https://news.ycombinator.com/item?id=46932343",
-      "score": 42,
-      "comments": 8
+      "title": "Vouch",
+      "url": "https://github.com/mitchellh/vouch",
+      "hnUrl": "https://news.ycombinator.com/item?id=46930961",
+      "score": 908,
+      "comments": 402
     },
     {
-      "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
-      "url": "https://github.com/joshuanwalker/Raiders2600",
-      "hnUrl": "https://news.ycombinator.com/item?id=46932678",
-      "score": 16,
-      "comments": 1
+      "title": "Matrix messaging gaining ground in government IT",
+      "url": "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46944245",
+      "score": 22,
+      "comments": 10
     },
     {
-      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
-      "url": "https://github.com/localgpt-app/localgpt",
-      "hnUrl": "https://news.ycombinator.com/item?id=46930391",
-      "score": 247,
-      "comments": 122
+      "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
+      "url": "https://github.com/naver/lispe",
+      "hnUrl": "https://news.ycombinator.com/item?id=46889710",
+      "score": 65,
+      "comments": 13
     },
     {
-      "title": "Why E cores make Apple Silicon fast",
-      "url": "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46933365",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "title": "Haskell for all: Beyond agentic coding",
-      "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "hnUrl": "https://news.ycombinator.com/item?id=46930565",
-      "score": 146,
-      "comments": 43
-    },
-    {
-      "title": "(AI) Slop Terrifies Me",
-      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46933067",
-      "score": 33,
+      "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
+      "url": "https://bobbiec.github.io/cistercian-font.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46939312",
+      "score": 115,
       "comments": 22
     },
     {
-      "title": "SectorC: A C Compiler in 512 bytes (2023)",
-      "url": "https://xorvoid.com/sectorc.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46925741",
-      "score": 324,
-      "comments": 66
+      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
+      "url": "https://underhillgame.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46936237",
+      "score": 241,
+      "comments": 77
     },
     {
-      "title": "LLMs as the new high level language",
-      "url": "https://federicopereiro.com/llm-high/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46868928",
-      "score": 138,
-      "comments": 255
+      "title": "Every book recommended on the Odd Lots Discord",
+      "url": "https://odd-lots-books.netlify.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46939685",
+      "score": 115,
+      "comments": 50
     },
     {
-      "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
-      "url": "https://aosabook.org/en/v1/bdb.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46861158",
-      "score": 46,
-      "comments": 8
+      "title": "Ask HN: What are you working on? (February 2026)",
+      "url": "https://news.ycombinator.com/item?id=46937696",
+      "hnUrl": "https://news.ycombinator.com/item?id=46937696",
+      "score": 170,
+      "comments": 577
     },
     {
-      "title": "Software factories and the agentic moment",
-      "url": "https://factory.strongdm.ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46924426",
-      "score": 242,
-      "comments": 403
+      "title": "Apple XNU: Clutch Scheduler",
+      "url": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=46938280",
+      "score": 152,
+      "comments": 28
     },
     {
-      "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
-      "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46867997",
-      "score": 11,
-      "comments": 0
-    },
-    {
-      "title": "Speed up responses with fast mode",
-      "url": "https://code.claude.com/docs/en/fast-mode",
-      "hnUrl": "https://news.ycombinator.com/item?id=46926043",
-      "score": 195,
-      "comments": 201
-    },
-    {
-      "title": "Hoot: Scheme on WebAssembly",
-      "url": "https://www.spritely.institute/hoot/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46923254",
-      "score": 198,
-      "comments": 36
-    },
-    {
-      "title": "Stories from 25 Years of Software Development",
-      "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46924264",
+      "title": "More Mac malware from Google search",
+      "url": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46938398",
       "score": 215,
-      "comments": 26
+      "comments": 151
+    },
+    {
+      "title": "Experts Have World Models. LLMs Have Word Models",
+      "url": "https://www.latent.space/p/adversarial-reasoning",
+      "hnUrl": "https://news.ycombinator.com/item?id=46936920",
+      "score": 117,
+      "comments": 133
+    },
+    {
+      "title": "The Little Bool of Doom (2025)",
+      "url": "https://blog.svgames.pl/article/the-little-bool-of-doom",
+      "hnUrl": "https://news.ycombinator.com/item?id=46936828",
+      "score": 118,
+      "comments": 42
+    },
+    {
+      "title": "GitHub Agentic Workflows",
+      "url": "https://github.github.io/gh-aw/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46934107",
+      "score": 272,
+      "comments": 127
+    },
+    {
+      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
+      "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46937012",
+      "score": 152,
+      "comments": 59
+    },
+    {
+      "title": "AI makes the easy part easier and the hard part harder",
+      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "hnUrl": "https://news.ycombinator.com/item?id=46939593",
+      "score": 386,
+      "comments": 280
     }
   ]
 }
