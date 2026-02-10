@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-09T12:47:30.700Z",
+  "updated": "2026-02-10T12:45:36.917Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Art of Roads in Games",
-      "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46938511",
-      "score": 403,
-      "comments": 131
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+      "url": "https://arxiv.org/abs/2512.20798",
+      "hnUrl": "https://news.ycombinator.com/item?id=46954920",
+      "score": 347,
+      "comments": 233
     },
     {
-      "title": "Vouch",
-      "url": "https://github.com/mitchellh/vouch",
-      "hnUrl": "https://news.ycombinator.com/item?id=46930961",
-      "score": 908,
-      "comments": 402
+      "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "hnUrl": "https://news.ycombinator.com/item?id=46958597",
+      "score": 9,
+      "comments": 2
     },
     {
-      "title": "Matrix messaging gaining ground in government IT",
-      "url": "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46944245",
-      "score": 22,
-      "comments": 10
+      "title": "Discord will require a face scan or ID for full access next month",
+      "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "hnUrl": "https://news.ycombinator.com/item?id=46945663",
+      "score": 1772,
+      "comments": 1715
     },
     {
-      "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
-      "url": "https://github.com/naver/lispe",
-      "hnUrl": "https://news.ycombinator.com/item?id=46889710",
-      "score": 65,
-      "comments": 13
+      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+      "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+      "hnUrl": "https://news.ycombinator.com/item?id=46954136",
+      "score": 287,
+      "comments": 31
     },
     {
-      "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
-      "url": "https://bobbiec.github.io/cistercian-font.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46939312",
-      "score": 115,
-      "comments": 22
+      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+      "url": "https://github.com/antirez/voxtral.c",
+      "hnUrl": "https://news.ycombinator.com/item?id=46954049",
+      "score": 196,
+      "comments": 18
     },
     {
-      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
-      "url": "https://underhillgame.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46936237",
-      "score": 241,
-      "comments": 77
+      "title": "Discord Alternatives, Ranked",
+      "url": "https://taggart-tech.com/discord-alternatives/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46949564",
+      "score": 354,
+      "comments": 201
     },
     {
-      "title": "Every book recommended on the Odd Lots Discord",
-      "url": "https://odd-lots-books.netlify.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46939685",
-      "score": 115,
-      "comments": 50
+      "title": "Why is the sky blue?",
+      "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46946401",
+      "score": 643,
+      "comments": 226
     },
     {
-      "title": "Ask HN: What are you working on? (February 2026)",
-      "url": "https://news.ycombinator.com/item?id=46937696",
-      "hnUrl": "https://news.ycombinator.com/item?id=46937696",
-      "score": 170,
-      "comments": 577
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "hnUrl": "https://news.ycombinator.com/item?id=46947096",
+      "score": 535,
+      "comments": 165
     },
     {
-      "title": "Apple XNU: Clutch Scheduler",
-      "url": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=46938280",
-      "score": 152,
-      "comments": 28
+      "title": "Hard-braking events as indicators of road segment crash risk",
+      "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46947777",
+      "score": 313,
+      "comments": 438
     },
     {
-      "title": "More Mac malware from Google search",
-      "url": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46938398",
-      "score": 215,
-      "comments": 151
+      "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
+      "url": "https://elysiajs.com/internal/jit-compiler",
+      "hnUrl": "https://news.ycombinator.com/item?id=46933022",
+      "score": 18,
+      "comments": 1
     },
     {
-      "title": "Experts Have World Models. LLMs Have Word Models",
-      "url": "https://www.latent.space/p/adversarial-reasoning",
-      "hnUrl": "https://news.ycombinator.com/item?id=46936920",
-      "score": 117,
-      "comments": 133
+      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+      "url": "https://www.chainlift.io/liftkit",
+      "hnUrl": "https://news.ycombinator.com/item?id=46952118",
+      "score": 214,
+      "comments": 105
     },
     {
-      "title": "The Little Bool of Doom (2025)",
-      "url": "https://blog.svgames.pl/article/the-little-bool-of-doom",
-      "hnUrl": "https://news.ycombinator.com/item?id=46936828",
-      "score": 118,
-      "comments": 42
+      "title": "Zulip.com Values",
+      "url": "https://zulip.com/values/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46953815",
+      "score": 113,
+      "comments": 23
     },
     {
-      "title": "GitHub Agentic Workflows",
-      "url": "https://github.github.io/gh-aw/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46934107",
-      "score": 272,
-      "comments": 127
+      "title": "Luce: First Electric Ferrari",
+      "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
+      "hnUrl": "https://news.ycombinator.com/item?id=46949642",
+      "score": 212,
+      "comments": 230
     },
     {
-      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
-      "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46937012",
-      "score": 152,
-      "comments": 59
+      "title": "Is particle physics dead, dying, or just hard?",
+      "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46953136",
+      "score": 146,
+      "comments": 232
     },
     {
-      "title": "AI makes the easy part easier and the hard part harder",
-      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "hnUrl": "https://news.ycombinator.com/item?id=46939593",
-      "score": 386,
-      "comments": 280
+      "title": "Sandboxels",
+      "url": "https://neal.fun/sandboxels/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46946308",
+      "score": 321,
+      "comments": 41
     }
   ]
 }
