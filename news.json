@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-10T12:45:36.917Z",
+  "updated": "2026-02-12T12:37:55.028Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "url": "https://arxiv.org/abs/2512.20798",
-      "hnUrl": "https://news.ycombinator.com/item?id=46954920",
-      "score": 347,
-      "comments": 233
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "url": "https://github.com/tonyyont/peon-ping",
+      "hnUrl": "https://news.ycombinator.com/item?id=46985151",
+      "score": 504,
+      "comments": 163
     },
     {
-      "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
-      "url": "https://github.com/luckyPipewrench/pipelock",
-      "hnUrl": "https://news.ycombinator.com/item?id=46958597",
-      "score": 9,
-      "comments": 2
+      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+      "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+      "hnUrl": "https://news.ycombinator.com/item?id=46987559",
+      "score": 184,
+      "comments": 136
     },
     {
-      "title": "Discord will require a face scan or ID for full access next month",
-      "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "hnUrl": "https://news.ycombinator.com/item?id=46945663",
-      "score": 1772,
-      "comments": 1715
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "url": "https://age-verifier.kibty.town/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46982421",
+      "score": 801,
+      "comments": 357
     },
     {
-      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
-      "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-      "hnUrl": "https://news.ycombinator.com/item?id=46954136",
-      "score": 287,
-      "comments": 31
+      "title": "“Nothing” is the secret to structuring your work",
+      "url": "https://www.vangemert.dev/blog/nothing",
+      "hnUrl": "https://news.ycombinator.com/item?id=46933529",
+      "score": 317,
+      "comments": 115
     },
     {
-      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-      "url": "https://github.com/antirez/voxtral.c",
-      "hnUrl": "https://news.ycombinator.com/item?id=46954049",
-      "score": 196,
-      "comments": 18
+      "title": "Using an engineering notebook",
+      "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46949814",
+      "score": 213,
+      "comments": 80
     },
     {
-      "title": "Discord Alternatives, Ranked",
-      "url": "https://taggart-tech.com/discord-alternatives/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46949564",
-      "score": 354,
-      "comments": 201
+      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+      "url": "https://z.ai/blog/glm-5",
+      "hnUrl": "https://news.ycombinator.com/item?id=46974853",
+      "score": 405,
+      "comments": 482
     },
     {
-      "title": "Why is the sky blue?",
-      "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46946401",
-      "score": 643,
-      "comments": 226
+      "title": "How to make a living as an artist",
+      "url": "https://essays.fnnch.com/make-a-living",
+      "hnUrl": "https://news.ycombinator.com/item?id=46984735",
+      "score": 128,
+      "comments": 62
     },
     {
-      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-      "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "hnUrl": "https://news.ycombinator.com/item?id=46947096",
-      "score": 535,
-      "comments": 165
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "url": "https://fluorite.game/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46976911",
+      "score": 488,
+      "comments": 275
     },
     {
-      "title": "Hard-braking events as indicators of road segment crash risk",
-      "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46947777",
-      "score": 313,
-      "comments": 438
+      "title": "Ireland rolls out basic income scheme for artists",
+      "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46977175",
+      "score": 355,
+      "comments": 407
     },
     {
-      "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
-      "url": "https://elysiajs.com/internal/jit-compiler",
-      "hnUrl": "https://news.ycombinator.com/item?id=46933022",
-      "score": 18,
-      "comments": 1
+      "title": "Text classification with Python 3.14's ZSTD module",
+      "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46942864",
+      "score": 220,
+      "comments": 46
     },
     {
-      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
-      "url": "https://www.chainlift.io/liftkit",
-      "hnUrl": "https://news.ycombinator.com/item?id=46952118",
-      "score": 214,
-      "comments": 105
+      "title": "Hologram v0.7.0: Milestone release for Elixir-to-JavaScript porting initiative",
+      "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+      "hnUrl": "https://news.ycombinator.com/item?id=46982943",
+      "score": 57,
+      "comments": 10
     },
     {
-      "title": "Zulip.com Values",
-      "url": "https://zulip.com/values/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46953815",
-      "score": 113,
-      "comments": 23
+      "title": "NetNewsWire Turns 23",
+      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46978490",
+      "score": 302,
+      "comments": 79
     },
     {
-      "title": "Luce: First Electric Ferrari",
-      "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
-      "hnUrl": "https://news.ycombinator.com/item?id=46949642",
-      "score": 212,
-      "comments": 230
+      "title": "Kanchipuram Saris and Thinking Machines",
+      "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+      "hnUrl": "https://news.ycombinator.com/item?id=46921757",
+      "score": 173,
+      "comments": 34
     },
     {
-      "title": "Is particle physics dead, dying, or just hard?",
-      "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46953136",
-      "score": 146,
-      "comments": 232
+      "title": "Reports of Telnet's death have been greatly exaggerated",
+      "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+      "hnUrl": "https://news.ycombinator.com/item?id=46980355",
+      "score": 124,
+      "comments": 49
     },
     {
-      "title": "Sandboxels",
-      "url": "https://neal.fun/sandboxels/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46946308",
-      "score": 321,
-      "comments": 41
+      "title": "WiFi could become an invisible mass surveillance system",
+      "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46920315",
+      "score": 392,
+      "comments": 171
     }
   ]
 }
