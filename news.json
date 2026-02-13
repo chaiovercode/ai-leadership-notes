@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-12T12:37:55.028Z",
+  "updated": "2026-02-13T12:33:03.319Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Warcraft III Peon Voice Notifications for Claude Code",
-      "url": "https://github.com/tonyyont/peon-ping",
-      "hnUrl": "https://news.ycombinator.com/item?id=46985151",
-      "score": 504,
-      "comments": 163
+      "title": "MinIO repository is no longer maintained",
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "hnUrl": "https://news.ycombinator.com/item?id=47000041",
+      "score": 239,
+      "comments": 140
     },
     {
-      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-      "url": "https://github.com/matplotlib/matplotlib/pull/31132",
-      "hnUrl": "https://news.ycombinator.com/item?id=46987559",
-      "score": 184,
-      "comments": 136
+      "title": "Resizing windows on macOS Tahoe – the saga continues",
+      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46997008",
+      "score": 618,
+      "comments": 274
     },
     {
-      "title": "Discord/Twitch/Snapchat age verification bypass",
-      "url": "https://age-verifier.kibty.town/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46982421",
-      "score": 801,
-      "comments": 357
+      "title": "MMAcevedo aka Lena by qntm",
+      "url": "https://qntm.org/mmacevedo",
+      "hnUrl": "https://news.ycombinator.com/item?id=46999224",
+      "score": 119,
+      "comments": 59
     },
     {
-      "title": "“Nothing” is the secret to structuring your work",
-      "url": "https://www.vangemert.dev/blog/nothing",
-      "hnUrl": "https://news.ycombinator.com/item?id=46933529",
-      "score": 317,
-      "comments": 115
+      "title": "GPT‑5.3‑Codex‑Spark",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46992553",
+      "score": 765,
+      "comments": 324
     },
     {
-      "title": "Using an engineering notebook",
-      "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46949814",
-      "score": 213,
-      "comments": 80
+      "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
+      "url": "http://qualify.gauntletAI.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=47001968",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-      "url": "https://z.ai/blog/glm-5",
-      "hnUrl": "https://news.ycombinator.com/item?id=46974853",
-      "score": 405,
-      "comments": 482
+      "title": "Gemini 3 Deep Think",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46991240",
+      "score": 898,
+      "comments": 582
     },
     {
-      "title": "How to make a living as an artist",
-      "url": "https://essays.fnnch.com/make-a-living",
-      "hnUrl": "https://news.ycombinator.com/item?id=46984735",
-      "score": 128,
-      "comments": 62
+      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+      "url": "https://news.ycombinator.com/item?id=46996490",
+      "hnUrl": "https://news.ycombinator.com/item?id=46996490",
+      "score": 291,
+      "comments": 14
     },
     {
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "url": "https://fluorite.game/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46976911",
-      "score": 488,
-      "comments": 275
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46990729",
+      "score": 1911,
+      "comments": 761
     },
     {
-      "title": "Ireland rolls out basic income scheme for artists",
-      "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46977175",
-      "score": 355,
-      "comments": 407
+      "title": "We interfaced single-threaded C++ with multi-threaded Rust",
+      "url": "https://antithesis.com/blog/2026/rust_cpp/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46923825",
+      "score": 43,
+      "comments": 2
     },
     {
-      "title": "Text classification with Python 3.14's ZSTD module",
-      "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46942864",
-      "score": 220,
-      "comments": 46
+      "title": "AWS Adds support for nested virtualization",
+      "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "hnUrl": "https://news.ycombinator.com/item?id=46997133",
+      "score": 215,
+      "comments": 77
     },
     {
-      "title": "Hologram v0.7.0: Milestone release for Elixir-to-JavaScript porting initiative",
-      "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
-      "hnUrl": "https://news.ycombinator.com/item?id=46982943",
-      "score": 57,
-      "comments": 10
+      "title": "Polis: Open-source platform for large-scale civic deliberation",
+      "url": "https://pol.is/home2",
+      "hnUrl": "https://news.ycombinator.com/item?id=46992815",
+      "score": 272,
+      "comments": 103
     },
     {
-      "title": "NetNewsWire Turns 23",
-      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46978490",
-      "score": 302,
-      "comments": 79
+      "title": "Ring owners are returning their cameras",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+      "hnUrl": "https://news.ycombinator.com/item?id=46999545",
+      "score": 198,
+      "comments": 135
     },
     {
-      "title": "Kanchipuram Saris and Thinking Machines",
-      "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
-      "hnUrl": "https://news.ycombinator.com/item?id=46921757",
-      "score": 173,
-      "comments": 34
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46988596",
+      "score": 704,
+      "comments": 260
     },
     {
-      "title": "Reports of Telnet's death have been greatly exaggerated",
-      "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-      "hnUrl": "https://news.ycombinator.com/item?id=46980355",
-      "score": 124,
-      "comments": 49
+      "title": "Advanced Aerial Robotics Made Simple",
+      "url": "https://www.drehmflight.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=46934860",
+      "score": 13,
+      "comments": 0
     },
     {
-      "title": "WiFi could become an invisible mass surveillance system",
-      "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46920315",
-      "score": 392,
-      "comments": 171
+      "title": "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
+      "url": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46934513",
+      "score": 147,
+      "comments": 44
     }
   ]
 }
