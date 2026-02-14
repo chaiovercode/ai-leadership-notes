@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-13T12:33:03.319Z",
+  "updated": "2026-02-14T12:23:46.220Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "MinIO repository is no longer maintained",
-      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-      "hnUrl": "https://news.ycombinator.com/item?id=47000041",
-      "score": 239,
-      "comments": 140
+      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+      "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+      "hnUrl": "https://news.ycombinator.com/item?id=47012717",
+      "score": 141,
+      "comments": 78
     },
     {
-      "title": "Resizing windows on macOS Tahoe – the saga continues",
-      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46997008",
-      "score": 618,
-      "comments": 274
+      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+      "url": "https://www.wallstreetraider.com/story.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46954696",
+      "score": 366,
+      "comments": 136
     },
     {
-      "title": "MMAcevedo aka Lena by qntm",
-      "url": "https://qntm.org/mmacevedo",
-      "hnUrl": "https://news.ycombinator.com/item?id=46999224",
-      "score": 119,
-      "comments": 59
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "url": "https://github.com/mickamy/sql-tap",
+      "hnUrl": "https://news.ycombinator.com/item?id=47011567",
+      "score": 124,
+      "comments": 22
     },
     {
-      "title": "GPT‑5.3‑Codex‑Spark",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46992553",
-      "score": 765,
-      "comments": 324
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47000505",
+      "score": 277,
+      "comments": 137
     },
     {
-      "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
-      "url": "http://qualify.gauntletAI.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=47001968",
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=47008163",
+      "score": 178,
+      "comments": 20
+    },
+    {
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "hnUrl": "https://news.ycombinator.com/item?id=47013059",
+      "score": 58,
+      "comments": 13
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47006594",
+      "score": 502,
+      "comments": 336
+    },
+    {
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "url": "http://www.lisp-screenshots.org",
+      "hnUrl": "https://news.ycombinator.com/item?id=46983873",
+      "score": 122,
+      "comments": 39
+    },
+    {
+      "title": "Cogram (YC W22) – Hiring former technical founders",
+      "url": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47012312",
       "score": 1,
       "comments": 0
     },
     {
-      "title": "Gemini 3 Deep Think",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46991240",
-      "score": 898,
-      "comments": 582
-    },
-    {
-      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-      "url": "https://news.ycombinator.com/item?id=46996490",
-      "hnUrl": "https://news.ycombinator.com/item?id=46996490",
-      "score": 291,
-      "comments": 14
-    },
-    {
-      "title": "An AI agent published a hit piece on me",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46990729",
-      "score": 1911,
-      "comments": 761
-    },
-    {
-      "title": "We interfaced single-threaded C++ with multi-threaded Rust",
-      "url": "https://antithesis.com/blog/2026/rust_cpp/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46923825",
-      "score": 43,
-      "comments": 2
-    },
-    {
-      "title": "AWS Adds support for nested virtualization",
-      "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
-      "hnUrl": "https://news.ycombinator.com/item?id=46997133",
-      "score": 215,
-      "comments": 77
-    },
-    {
-      "title": "Polis: Open-source platform for large-scale civic deliberation",
-      "url": "https://pol.is/home2",
-      "hnUrl": "https://news.ycombinator.com/item?id=46992815",
-      "score": 272,
-      "comments": 103
-    },
-    {
-      "title": "Ring owners are returning their cameras",
-      "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
-      "hnUrl": "https://news.ycombinator.com/item?id=46999545",
-      "score": 198,
-      "comments": 135
-    },
-    {
-      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46988596",
-      "score": 704,
-      "comments": 260
-    },
-    {
-      "title": "Advanced Aerial Robotics Made Simple",
-      "url": "https://www.drehmflight.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=46934860",
-      "score": 13,
-      "comments": 0
-    },
-    {
-      "title": "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
-      "url": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46934513",
-      "score": 147,
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "url": "https://npmx.dev",
+      "hnUrl": "https://news.ycombinator.com/item?id=47010823",
+      "score": 110,
       "comments": 44
+    },
+    {
+      "title": "Building a TUI is easy now",
+      "url": "https://hatchet.run/blog/tuis-are-easy-now",
+      "hnUrl": "https://news.ycombinator.com/item?id=47005509",
+      "score": 239,
+      "comments": 182
+    },
+    {
+      "title": "Font Rendering from First Principles",
+      "url": "https://mccloskeybr.com/articles/font_rendering.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=46930181",
+      "score": 165,
+      "comments": 28
+    },
+    {
+      "title": "The EU moves to kill infinite scrolling",
+      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47007656",
+      "score": 628,
+      "comments": 657
+    },
+    {
+      "title": "Gradient.horse",
+      "url": "https://gradient.horse",
+      "hnUrl": "https://news.ycombinator.com/item?id=46955311",
+      "score": 276,
+      "comments": 55
+    },
+    {
+      "title": "Monosketch",
+      "url": "https://monosketch.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47001871",
+      "score": 790,
+      "comments": 133
     }
   ]
 }
