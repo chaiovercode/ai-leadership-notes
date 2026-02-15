@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-14T12:23:46.220Z",
+  "updated": "2026-02-15T12:25:45.573Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-      "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "hnUrl": "https://news.ycombinator.com/item?id=47012717",
-      "score": 141,
-      "comments": 78
+      "title": "I love the work of the ArchWiki maintainers",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47020191",
+      "score": 522,
+      "comments": 93
     },
     {
-      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-      "url": "https://www.wallstreetraider.com/story.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46954696",
-      "score": 366,
-      "comments": 136
+      "title": "Flashpoint Archive – Over 200k web games and animations preserved",
+      "url": "https://flashpointarchive.org",
+      "hnUrl": "https://news.ycombinator.com/item?id=47021354",
+      "score": 142,
+      "comments": 34
     },
     {
-      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "url": "https://github.com/mickamy/sql-tap",
-      "hnUrl": "https://news.ycombinator.com/item?id=47011567",
-      "score": 124,
-      "comments": 22
+      "title": "Two different tricks for fast LLM inference",
+      "url": "https://www.seangoedecke.com/fast-llm-inference/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47022329",
+      "score": 46,
+      "comments": 25
     },
     {
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47000505",
-      "score": 277,
-      "comments": 137
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47015294",
+      "score": 481,
+      "comments": 214
     },
     {
-      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=47008163",
-      "score": 178,
-      "comments": 20
+      "title": "Zvec: A lightweight, fast, in-process vector database",
+      "url": "https://github.com/alibaba/zvec",
+      "hnUrl": "https://news.ycombinator.com/item?id=47000535",
+      "score": 161,
+      "comments": 26
     },
     {
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "hnUrl": "https://news.ycombinator.com/item?id=47013059",
-      "score": 58,
-      "comments": 13
-    },
-    {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47006594",
-      "score": 502,
-      "comments": 336
-    },
-    {
-      "title": "Common Lisp Screenshots: today's CL applications in action",
-      "url": "http://www.lisp-screenshots.org",
-      "hnUrl": "https://news.ycombinator.com/item?id=46983873",
-      "score": 122,
-      "comments": 39
-    },
-    {
-      "title": "Cogram (YC W22) – Hiring former technical founders",
-      "url": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47012312",
-      "score": 1,
+      "title": "Show HN: Copy-and-patch compiler for hard real-time Python",
+      "url": "https://github.com/Nonannet/copapy",
+      "hnUrl": "https://news.ycombinator.com/item?id=46972392",
+      "score": 6,
       "comments": 0
     },
     {
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "url": "https://npmx.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=47010823",
-      "score": 110,
-      "comments": 44
+      "title": "Instagram's URL Blackhole",
+      "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
+      "hnUrl": "https://news.ycombinator.com/item?id=47004689",
+      "score": 218,
+      "comments": 35
     },
     {
-      "title": "Building a TUI is easy now",
-      "url": "https://hatchet.run/blog/tuis-are-easy-now",
-      "hnUrl": "https://news.ycombinator.com/item?id=47005509",
-      "score": 239,
-      "comments": 182
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47016443",
+      "score": 941,
+      "comments": 278
     },
     {
-      "title": "Font Rendering from First Principles",
-      "url": "https://mccloskeybr.com/articles/font_rendering.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=46930181",
-      "score": 165,
-      "comments": 28
+      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47020791",
+      "score": 55,
+      "comments": 8
     },
     {
-      "title": "The EU moves to kill infinite scrolling",
-      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47007656",
-      "score": 628,
-      "comments": 657
+      "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
+      "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
+      "hnUrl": "https://news.ycombinator.com/item?id=46970733",
+      "score": 129,
+      "comments": 40
     },
     {
-      "title": "Gradient.horse",
-      "url": "https://gradient.horse",
-      "hnUrl": "https://news.ycombinator.com/item?id=46955311",
-      "score": 276,
-      "comments": 55
+      "title": "How often do full-body MRIs find cancer?",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47008607",
+      "score": 119,
+      "comments": 162
     },
     {
-      "title": "Monosketch",
-      "url": "https://monosketch.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47001871",
-      "score": 790,
-      "comments": 133
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47017138",
+      "score": 514,
+      "comments": 310
+    },
+    {
+      "title": "Amsterdam Compiler Kit",
+      "url": "https://github.com/davidgiven/ack",
+      "hnUrl": "https://news.ycombinator.com/item?id=47016008",
+      "score": 136,
+      "comments": 47
+    },
+    {
+      "title": "OpenAI should build Slack",
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "hnUrl": "https://news.ycombinator.com/item?id=47012553",
+      "score": 179,
+      "comments": 207
+    },
+    {
+      "title": "Breaking the spell of vibe coding",
+      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47006615",
+      "score": 278,
+      "comments": 213
     }
   ]
 }
