@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-16T12:36:35.705Z",
+  "updated": "2026-02-17T12:36:32.636Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "MessageFormat: Unicode standard for localizable message strings",
-      "url": "https://github.com/unicode-org/message-format-wg",
-      "hnUrl": "https://news.ycombinator.com/item?id=47033328",
-      "score": 54,
-      "comments": 24
+      "title": "GrapheneOS – Break Free from Google and Apple",
+      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47045612",
+      "score": 227,
+      "comments": 152
     },
     {
-      "title": "I’m joining OpenAI",
-      "url": "https://steipete.me/posts/2026/openclaw",
-      "hnUrl": "https://news.ycombinator.com/item?id=47028013",
-      "score": 1132,
-      "comments": 833
-    },
-    {
-      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "url": "https://mastodon.world/@knowmadd/116072773118828295",
-      "hnUrl": "https://news.ycombinator.com/item?id=47031580",
-      "score": 663,
-      "comments": 452
-    },
-    {
-      "title": "Qwen3.5: Towards Native Multimodal Agents",
-      "url": "https://qwen.ai/blog?id=qwen3.5",
-      "hnUrl": "https://news.ycombinator.com/item?id=47032876",
-      "score": 33,
-      "comments": 9
-    },
-    {
-      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47028227",
-      "score": 308,
-      "comments": 201
-    },
-    {
-      "title": "picol: A Tcl interpreter in 500 lines of code",
-      "url": "https://github.com/antirez/picol",
-      "hnUrl": "https://news.ycombinator.com/item?id=47032235",
-      "score": 44,
+      "title": "Four Column ASCII (2017)",
+      "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47022270",
+      "score": 195,
       "comments": 33
     },
     {
-      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47033622",
-      "score": 34,
-      "comments": 4
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47038546",
+      "score": 738,
+      "comments": 153
     },
     {
-      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-      "url": "https://modern-css.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=47025851",
-      "score": 513,
-      "comments": 207
+      "title": "Rise of the Triforce",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47040524",
+      "score": 309,
+      "comments": 40
     },
     {
-      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
-      "url": "https://blog.exe.dev/expensively-quadratic",
-      "hnUrl": "https://news.ycombinator.com/item?id=47000034",
-      "score": 53,
-      "comments": 30
+      "title": "A deep dive into Apple's .car file format",
+      "url": "https://dbg.re/posts/car-file-format/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47014002",
+      "score": 112,
+      "comments": 27
     },
     {
-      "title": "Rolling your own serverless OCR in 40 lines of code",
-      "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
-      "hnUrl": "https://news.ycombinator.com/item?id=46988538",
-      "score": 7,
-      "comments": 0
+      "title": "Poor Deming never stood a chance",
+      "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47042895",
+      "score": 109,
+      "comments": 44
     },
     {
-      "title": "1,300-year-old world chronicle unearthed in Sinai",
-      "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
-      "hnUrl": "https://news.ycombinator.com/item?id=46984768",
-      "score": 60,
-      "comments": 9
+      "title": "What your Bluetooth devices reveal",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47035560",
+      "score": 451,
+      "comments": 165
     },
     {
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "url": "https://github.com/TechPaula/LT6502",
-      "hnUrl": "https://news.ycombinator.com/item?id=47025399",
-      "score": 364,
-      "comments": 178
+      "title": "Visual introduction to PyTorch",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47002231",
+      "score": 291,
+      "comments": 21
     },
     {
-      "title": "Audio is the one area small labs are winning",
-      "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
-      "hnUrl": "https://news.ycombinator.com/item?id=46999285",
-      "score": 225,
-      "comments": 58
+      "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+      "url": "https://arxiv.org/abs/2602.11988",
+      "hnUrl": "https://news.ycombinator.com/item?id=47034087",
+      "score": 155,
+      "comments": 102
     },
     {
-      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
-      "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47029339",
-      "score": 106,
-      "comments": 119
+      "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+      "url": "https://github.com/zachlatta/freeflow",
+      "hnUrl": "https://news.ycombinator.com/item?id=47040375",
+      "score": 205,
+      "comments": 98
     },
     {
-      "title": "I gave Claude access to my pen plotter",
-      "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
-      "hnUrl": "https://news.ycombinator.com/item?id=47004384",
-      "score": 212,
+      "title": "\"Token anxiety\", a slot machine by any other name",
+      "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47038318",
+      "score": 156,
       "comments": 135
+    },
+    {
+      "title": "Ghidra by NSA",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "hnUrl": "https://news.ycombinator.com/item?id=47011548",
+      "score": 385,
+      "comments": 198
+    },
+    {
+      "title": "Running NanoClaw in a Docker Shell Sandbox",
+      "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47041456",
+      "score": 120,
+      "comments": 61
+    },
+    {
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "hnUrl": "https://news.ycombinator.com/item?id=47042396",
+      "score": 465,
+      "comments": 246
+    },
+    {
+      "title": "Building for an audience of one: starting and finishing side projects with AI",
+      "url": "https://codemade.net/blog/building-for-one/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47041973",
+      "score": 77,
+      "comments": 42
     }
   ]
 }
