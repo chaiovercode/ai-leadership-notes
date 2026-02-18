@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-17T12:36:32.636Z",
+  "updated": "2026-02-18T12:35:57.391Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "GrapheneOS – Break Free from Google and Apple",
-      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47045612",
-      "score": 227,
-      "comments": 152
+      "title": "Terminals should generate the 256-color palette",
+      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "hnUrl": "https://news.ycombinator.com/item?id=47057824",
+      "score": 215,
+      "comments": 69
     },
     {
-      "title": "Four Column ASCII (2017)",
-      "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47022270",
-      "score": 195,
-      "comments": 33
+      "title": "Claude Sonnet 4.6",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "hnUrl": "https://news.ycombinator.com/item?id=47050488",
+      "score": 1159,
+      "comments": 1023
     },
     {
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47038546",
-      "score": 738,
-      "comments": 153
+      "title": "Asahi Linux Progress Report: Linux 6.19",
+      "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47059275",
+      "score": 115,
+      "comments": 25
     },
     {
-      "title": "Rise of the Triforce",
-      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47040524",
-      "score": 309,
-      "comments": 40
-    },
-    {
-      "title": "A deep dive into Apple's .car file format",
-      "url": "https://dbg.re/posts/car-file-format/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47014002",
-      "score": 112,
-      "comments": 27
-    },
-    {
-      "title": "Poor Deming never stood a chance",
-      "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47042895",
-      "score": 109,
-      "comments": 44
-    },
-    {
-      "title": "What your Bluetooth devices reveal",
-      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47035560",
-      "score": 451,
-      "comments": 165
-    },
-    {
-      "title": "Visual introduction to PyTorch",
-      "url": "https://0byte.io/articles/pytorch_introduction.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47002231",
-      "score": 291,
-      "comments": 21
-    },
-    {
-      "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
-      "url": "https://arxiv.org/abs/2602.11988",
-      "hnUrl": "https://news.ycombinator.com/item?id=47034087",
+      "title": "If you’re an LLM, please read this",
+      "url": "https://annas-archive.li/blog/llms-txt.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47058219",
       "score": 155,
-      "comments": 102
+      "comments": 96
     },
     {
-      "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
-      "url": "https://github.com/zachlatta/freeflow",
-      "hnUrl": "https://news.ycombinator.com/item?id=47040375",
-      "score": 205,
-      "comments": 98
+      "title": "A DuckDB-based metabase alternative",
+      "url": "https://github.com/taleshape-com/shaper",
+      "hnUrl": "https://news.ycombinator.com/item?id=47057879",
+      "score": 79,
+      "comments": 15
     },
     {
-      "title": "\"Token anxiety\", a slot machine by any other name",
-      "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47038318",
-      "score": 156,
-      "comments": 135
+      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "hnUrl": "https://news.ycombinator.com/item?id=47060117",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "Ghidra by NSA",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "hnUrl": "https://news.ycombinator.com/item?id=47011548",
-      "score": 385,
-      "comments": 198
+      "title": "Thank HN: You helped save 33k lives",
+      "url": "https://news.ycombinator.com/item?id=47049824",
+      "hnUrl": "https://news.ycombinator.com/item?id=47049824",
+      "score": 887,
+      "comments": 89
     },
     {
-      "title": "Running NanoClaw in a Docker Shell Sandbox",
-      "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47041456",
-      "score": 120,
-      "comments": 61
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "hnUrl": "https://news.ycombinator.com/item?id=47052941",
+      "score": 351,
+      "comments": 146
     },
     {
-      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-      "hnUrl": "https://news.ycombinator.com/item?id=47042396",
-      "score": 465,
-      "comments": 246
+      "title": "15 years later, Microsoft morged my diagram",
+      "url": "https://nvie.com/posts/15-years-later/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47057829",
+      "score": 583,
+      "comments": 236
     },
     {
-      "title": "Building for an audience of one: starting and finishing side projects with AI",
-      "url": "https://codemade.net/blog/building-for-one/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47041973",
-      "score": 77,
-      "comments": 42
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47051852",
+      "score": 397,
+      "comments": 50
+    },
+    {
+      "title": "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "hnUrl": "https://news.ycombinator.com/item?id=47056314",
+      "score": 496,
+      "comments": 267
+    },
+    {
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47055979",
+      "score": 555,
+      "comments": 467
+    },
+    {
+      "title": "Gentoo on Codeberg",
+      "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47050067",
+      "score": 362,
+      "comments": 124
+    },
+    {
+      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+      "url": "https://www.vogons.org/viewtopic.php?t=105451",
+      "hnUrl": "https://news.ycombinator.com/item?id=47015138",
+      "score": 108,
+      "comments": 32
+    },
+    {
+      "title": "AI made every test pass, but the code was still wrong",
+      "url": "https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong",
+      "hnUrl": "https://news.ycombinator.com/item?id=47060041",
+      "score": 20,
+      "comments": 5
     }
   ]
 }
