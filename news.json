@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-20T12:32:42.239Z",
+  "updated": "2026-02-21T12:23:51.110Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47086181",
-      "score": 152,
-      "comments": 110
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47091419",
+      "score": 1602,
+      "comments": 583
     },
     {
-      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47085425",
-      "score": 37,
-      "comments": 5
+      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47098245",
+      "score": 128,
+      "comments": 29
     },
     {
-      "title": "Minions – Stripe's Coding Agents Part 2",
-      "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
-      "hnUrl": "https://news.ycombinator.com/item?id=47086557",
-      "score": 19,
-      "comments": 11
+      "title": "Turn Dependabot off",
+      "url": "https://words.filippo.io/dependabot/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47094192",
+      "score": 493,
+      "comments": 141
     },
     {
-      "title": "Gemini 3.1 Pro",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47074735",
-      "score": 815,
-      "comments": 833
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47092578",
+      "score": 641,
+      "comments": 297
     },
     {
-      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "hnUrl": "https://news.ycombinator.com/item?id=47083648",
-      "score": 142,
-      "comments": 48
+      "title": "Facebook is cooked",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "hnUrl": "https://news.ycombinator.com/item?id=47091748",
+      "score": 1154,
+      "comments": 634
     },
     {
-      "title": "Web Components: The Framework-Free Renaissance",
-      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47085370",
-      "score": 27,
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "hnUrl": "https://news.ycombinator.com/item?id=47088037",
+      "score": 750,
+      "comments": 192
+    },
+    {
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47092006",
+      "score": 466,
+      "comments": 279
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "url": "https://worldwideweb.cern.ch",
+      "hnUrl": "https://news.ycombinator.com/item?id=47095429",
+      "score": 189,
+      "comments": 66
+    },
+    {
+      "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
+      "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+      "hnUrl": "https://news.ycombinator.com/item?id=47047027",
+      "score": 45,
       "comments": 22
     },
     {
-      "title": "Defer available in gcc and clang",
-      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47031197",
-      "score": 194,
-      "comments": 143
+      "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
+      "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47098828",
+      "score": 69,
+      "comments": 37
     },
     {
-      "title": "I tried building my startup entirely on European infrastructure",
-      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47085483",
-      "score": 374,
-      "comments": 197
+      "title": "What Is OAuth?",
+      "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "hnUrl": "https://news.ycombinator.com/item?id=47096520",
+      "score": 133,
+      "comments": 46
     },
     {
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "hnUrl": "https://news.ycombinator.com/item?id=47078324",
-      "score": 301,
-      "comments": 358
+      "title": "What Happened to Software Is Happening to Finance and Accounting",
+      "url": "https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47099473",
+      "score": 4,
+      "comments": 0
     },
     {
-      "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47084000",
-      "score": 75,
-      "comments": 41
+      "title": "Every company building your AI assistant is now an ad company",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "hnUrl": "https://news.ycombinator.com/item?id=47092203",
+      "score": 205,
+      "comments": 104
     },
     {
-      "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
-      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47043345",
-      "score": 296,
-      "comments": 133
+      "title": "EU mandates replaceable batteries by 2027 (2023)",
+      "url": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
+      "hnUrl": "https://news.ycombinator.com/item?id=47098687",
+      "score": 152,
+      "comments": 100
     },
     {
-      "title": "FreeCAD",
-      "url": "https://www.freecad.org/index.php",
-      "hnUrl": "https://news.ycombinator.com/item?id=47047010",
-      "score": 215,
-      "comments": 73
-    },
-    {
-      "title": "Show HN: Micasa – track your house from the terminal",
-      "url": "https://micasa.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=47075124",
-      "score": 573,
-      "comments": 184
-    },
-    {
-      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47067270",
-      "score": 360,
-      "comments": 635
-    },
-    {
-      "title": "Pi for Excel: AI sidebar add-in for Excel",
-      "url": "https://github.com/tmustier/pi-for-excel",
-      "hnUrl": "https://news.ycombinator.com/item?id=47082854",
-      "score": 82,
-      "comments": 25
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "url": "https://www.june.kim/cord",
+      "hnUrl": "https://news.ycombinator.com/item?id=47096466",
+      "score": 104,
+      "comments": 47
     }
   ]
 }
