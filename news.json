@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-23T12:37:17.907Z",
+  "updated": "2026-02-24T12:38:01.137Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Ladybird Browser adopts Rust",
-      "url": "https://ladybird.org/posts/adopting-rust/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47120899",
-      "score": 197,
-      "comments": 69
+      "title": "Diode – Build, program, and simulate hardware",
+      "url": "https://www.withdiode.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47094768",
+      "score": 139,
+      "comments": 32
     },
     {
-      "title": "Elsevier shuts down its finance journal citation cartel",
-      "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-      "hnUrl": "https://news.ycombinator.com/item?id=47119530",
-      "score": 196,
-      "comments": 35
+      "title": "Terence Tao, at 8 years old (1984) [pdf]",
+      "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=47123689",
+      "score": 318,
+      "comments": 171
     },
     {
-      "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
-      "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
-      "hnUrl": "https://news.ycombinator.com/item?id=47075455",
-      "score": 156,
-      "comments": 177
+      "title": "ΛProlog: Logic programming in higher-order logic",
+      "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47095266",
+      "score": 34,
+      "comments": 1
     },
     {
-      "title": "I built Timeframe, our family e-paper dashboard",
-      "url": "https://hawksley.org/2026/02/17/timeframe.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47113728",
-      "score": 1215,
-      "comments": 300
+      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+      "url": "https://github.com/GreatScott/enveil",
+      "hnUrl": "https://news.ycombinator.com/item?id=47133055",
+      "score": 110,
+      "comments": 63
     },
     {
-      "title": "0 A.D. Release 28: Boiorix",
-      "url": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47078112",
-      "score": 172,
-      "comments": 51
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47130860",
+      "score": 219,
+      "comments": 40
     },
     {
-      "title": "SETI@home: Data Acquisition and Front-End Processing (2025)",
-      "url": "https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7",
-      "hnUrl": "https://news.ycombinator.com/item?id=47120201",
-      "score": 21,
-      "comments": 0
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47133313",
+      "score": 311,
+      "comments": 253
     },
     {
-      "title": "Loops is a federated, open-source TikTok",
-      "url": "https://joinloops.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47113618",
-      "score": 464,
-      "comments": 310
+      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+      "url": "https://lyra.horse/x86css/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47132102",
+      "score": 163,
+      "comments": 59
     },
     {
-      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
-      "url": "https://cia-factbook-archive.fly.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47114530",
-      "score": 365,
-      "comments": 80
+      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47132388",
+      "score": 297,
+      "comments": 112
     },
     {
-      "title": "Pope tells priests to use their brains, not AI, to write homilies",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-      "hnUrl": "https://news.ycombinator.com/item?id=47119210",
-      "score": 272,
-      "comments": 243
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
+      "hnUrl": "https://news.ycombinator.com/item?id=47122715",
+      "score": 1498,
+      "comments": 1157
     },
     {
-      "title": "My journey to the microwave alternate timeline",
-      "url": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
-      "hnUrl": "https://news.ycombinator.com/item?id=47067031",
-      "score": 269,
-      "comments": 115
-    },
-    {
-      "title": "The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47117459",
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47131225",
       "score": 199,
-      "comments": 96
+      "comments": 54
     },
     {
-      "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
-      "url": "https://bitmovin.com/careers/8023403002/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47118990",
-      "score": 1,
-      "comments": 0
+      "title": "Making Wolfram tech available as a foundation tool for LLM systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47129727",
+      "score": 200,
+      "comments": 110
     },
     {
-      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-      "hnUrl": "https://news.ycombinator.com/item?id=47115805",
-      "score": 670,
-      "comments": 553
+      "title": "Unsung heroes: Flickr's URLs scheme",
+      "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47100714",
+      "score": 108,
+      "comments": 39
     },
     {
-      "title": "Man accidentally gains control of 7k robot vacuums",
-      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47111400",
-      "score": 315,
-      "comments": 173
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
+      "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334",
+      "hnUrl": "https://news.ycombinator.com/item?id=47127986",
+      "score": 186,
+      "comments": 56
     },
     {
-      "title": "Six Math Essentials",
-      "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47113796",
-      "score": 239,
-      "comments": 53
+      "title": "“Car Wash” test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
+      "hnUrl": "https://news.ycombinator.com/item?id=47128138",
+      "score": 259,
+      "comments": 326
+    },
+    {
+      "title": "A simple web we own",
+      "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47124149",
+      "score": 261,
+      "comments": 176
     }
   ]
 }
