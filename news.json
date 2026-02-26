@@ -1,111 +1,111 @@
 {
-  "updated": "2026-02-25T12:37:26.342Z",
+  "updated": "2026-02-26T12:37:49.713Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Danish government agency to ditch Microsoft software (2025)",
-      "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
-      "hnUrl": "https://news.ycombinator.com/item?id=47149701",
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "hnUrl": "https://news.ycombinator.com/item?id=47156925",
+      "score": 794,
+      "comments": 163
+    },
+    {
+      "title": "Jimi Hendrix was a systems engineer",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47157224",
+      "score": 531,
+      "comments": 164
+    },
+    {
+      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "url": "https://news.ycombinator.com/item?id=47163885",
+      "hnUrl": "https://news.ycombinator.com/item?id=47163885",
+      "score": 106,
+      "comments": 34
+    },
+    {
+      "title": "You Want to Visit the UK? You Better Have a Google Play or App Store Account",
+      "url": "https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47164605",
+      "score": 104,
+      "comments": 130
+    },
+    {
+      "title": "How will OpenAI compete?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "hnUrl": "https://news.ycombinator.com/item?id=47158975",
+      "score": 290,
+      "comments": 390
+    },
+    {
+      "title": "Banned in California",
+      "url": "https://www.bannedincalifornia.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47159430",
       "score": 204,
-      "comments": 96
+      "comments": 227
     },
     {
-      "title": "Show HN: A real-time strategy game that AI agents can play",
-      "url": "https://llmskirmish.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47149586",
-      "score": 70,
-      "comments": 23
-    },
-    {
-      "title": "I'm helping my dog vibe code games",
-      "url": "https://www.calebleak.com/posts/dog-game/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47139675",
-      "score": 963,
-      "comments": 304
-    },
-    {
-      "title": "LLM=True",
-      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47149151",
-      "score": 120,
-      "comments": 83
-    },
-    {
-      "title": "Pi – A minimal terminal coding harness",
-      "url": "https://pi.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=47143754",
-      "score": 430,
-      "comments": 203
-    },
-    {
-      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "hnUrl": "https://news.ycombinator.com/item?id=47144464",
-      "score": 252,
-      "comments": 104
-    },
-    {
-      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "hnUrl": "https://news.ycombinator.com/item?id=47143755",
-      "score": 268,
-      "comments": 61
-    },
-    {
-      "title": "Claude Code Remote Control",
-      "url": "https://code.claude.com/docs/en/remote-control",
-      "hnUrl": "https://news.ycombinator.com/item?id=47148454",
-      "score": 76,
-      "comments": 49
-    },
-    {
-      "title": "Mac mini will be made at a new facility in Houston",
-      "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47143152",
-      "score": 536,
-      "comments": 528
-    },
-    {
-      "title": "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
-      "url": "https://github.com/ufo5260987423/scheme-langserver",
-      "hnUrl": "https://news.ycombinator.com/item?id=47133716",
+      "title": "Technical Excellence Is Not Enough",
+      "url": "https://raccoon.land/posts/technical-excellence-is-not-enough/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47163985",
       "score": 10,
       "comments": 0
     },
     {
-      "title": "Hacking an old Kindle to display bus arrival times",
-      "url": "https://www.mariannefeng.com/portfolio/kindle/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47141797",
-      "score": 285,
-      "comments": 75
+      "title": "First Website (1992)",
+      "url": "https://info.cern.ch",
+      "hnUrl": "https://news.ycombinator.com/item?id=47159302",
+      "score": 240,
+      "comments": 68
     },
     {
-      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-      "url": "https://wordglyph.xyz/one-piece-at-a-time",
-      "hnUrl": "https://news.ycombinator.com/item?id=47136604",
-      "score": 478,
-      "comments": 174
+      "title": "Windows 11 Notepad to support Markdown",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47154399",
+      "score": 303,
+      "comments": 455
     },
     {
-      "title": "Nearby Glasses",
-      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
-      "hnUrl": "https://news.ycombinator.com/item?id=47140042",
-      "score": 362,
-      "comments": 148
+      "title": "Making MCP cheaper via CLI",
+      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47157398",
+      "score": 243,
+      "comments": 98
     },
     {
-      "title": "Show HN: Emdash – Open-source agentic development environment",
-      "url": "https://github.com/generalaction/emdash",
-      "hnUrl": "https://news.ycombinator.com/item?id=47140322",
-      "score": 172,
-      "comments": 60
+      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+      "url": "https://simonbergerart.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=47112299",
+      "score": 191,
+      "comments": 83
     },
     {
-      "title": "Steel Bank Common Lisp",
-      "url": "https://www.sbcl.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47140657",
-      "score": 229,
-      "comments": 95
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47153798",
+      "score": 374,
+      "comments": 542
+    },
+    {
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "hnUrl": "https://news.ycombinator.com/item?id=47139716",
+      "score": 287,
+      "comments": 206
+    },
+    {
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47161160",
+      "score": 295,
+      "comments": 226
+    },
+    {
+      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+      "url": "https://respectify.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47151842",
+      "score": 182,
+      "comments": 167
     }
   ]
 }
