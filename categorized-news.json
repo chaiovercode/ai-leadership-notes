@@ -1,83 +1,112 @@
 {
-  "updated": "2026-02-23T10:02:45.041Z",
+  "updated": "2026-03-02T09:59:00.075Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": []
+      "articles": [
+        {
+          "title": "Perplexitys new Computer is another bet that users need many AI models",
+          "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+          "date": "2026-02-27T17:00:55.000Z",
+          "description": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+          "date": "2026-02-26T18:55:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\"&gt;Google is partnering with the Massachusetts AI Hub to provide every Bay...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Build with Nano Banana 2, our best image generation and editing model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+          "date": "2026-02-26T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWith_Hero.max-600x600.format-webp.webp\"&gt;Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and ...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "date": "2026-02-26T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_Hero.max-600x600.format-webp.webp\"&gt;Our latest image generation model offers advanced world knowledge, production-rea...",
+          "source": "Google AI Blog"
+        }
+      ]
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
         {
-          "title": "All the important news from the ongoing India AI Impact Summit",
-          "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-          "date": "2026-02-22T17:00:00.000Z",
-          "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ...",
+          "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+          "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+          "date": "2026-03-01T17:30:00.000Z",
+          "description": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
           "source": "TechCrunch"
         },
         {
-          "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
-          "url": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
-          "date": "2026-02-22T15:00:00.000Z",
-          "description": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
+          "title": "OpenAI reveals more details about its agreement with the Pentagon",
+          "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+          "date": "2026-03-01T16:30:10.000Z",
+          "description": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
           "source": "TechCrunch"
         },
         {
-          "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
-          "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-          "date": "2026-02-21T21:38:01.000Z",
-          "description": "\"It also takes a lot of energy to train a human.\"",
+          "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+          "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+          "date": "2026-03-01T14:48:58.000Z",
+          "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
           "source": "TechCrunch"
         },
         {
-          "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
-          "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
-          "date": "2026-02-21T17:41:27.000Z",
-          "description": "Is Microsoft's gaming division doubling down on AI?",
+          "title": "The trap Anthropic built for itself",
+          "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+          "date": "2026-03-01T00:08:58.000Z",
+          "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
           "source": "TechCrunch"
         },
         {
-          "title": "Google VP warns that two types of AI startups may not survive",
-          "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-          "date": "2026-02-21T16:00:00.000Z",
-          "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+          "title": "The billion-dollar infrastructure deals powering the AI boom",
+          "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+          "date": "2026-02-28T20:41:55.000Z",
+          "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI debated calling police about suspected Canadian shooters chats",
-          "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
-          "date": "2026-02-21T15:25:44.000Z",
-          "description": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+          "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+          "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+          "date": "2026-02-28T16:17:36.000Z",
+          "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
           "source": "TechCrunch"
         },
         {
-          "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
-          "date": "2026-02-21T15:00:00.000Z",
-          "description": "Lowest ticket prices to TechCrunch Disrupt 2026 end February 27. Up to $680 off individual passes and up to 30% off group passes. Register before they go up to join 10,000 founders, tech operators, an...",
+          "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+          "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+          "date": "2026-02-27T21:53:14.000Z",
+          "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
           "source": "TechCrunch"
         },
         {
-          "title": "Indias Sarvam launches Indus AI chat app as competition heats up",
-          "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
-          "date": "2026-02-21T01:00:00.000Z",
-          "description": "Sarvam's Indus chat app is currently available in beta.",
+          "title": "Musk bashes OpenAI in deposition, saying nobody committed suicide because of Grok",
+          "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+          "date": "2026-02-27T19:42:00.000Z",
+          "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-          "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-          "date": "2026-02-20T20:52:48.000Z",
-          "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system ...",
+          "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+          "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+          "date": "2026-02-27T19:11:04.000Z",
+          "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar...",
           "source": "TechCrunch"
         },
         {
-          "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
-          "url": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
-          "date": "2026-02-20T18:26:54.000Z",
-          "description": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
+          "title": "ChatGPT reaches 900M weekly active users",
+          "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+          "date": "2026-02-27T18:25:51.000Z",
+          "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
           "source": "TechCrunch"
         }
       ]
@@ -85,53 +114,61 @@
     {
       "id": "agents",
       "name": "AI Agents & Automation",
-      "articles": []
+      "articles": [
+        {
+          "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+          "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+          "date": "2026-02-27T19:11:04.000Z",
+          "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Employees at Google and OpenAI support Anthropics Pentagon stand in open letter",
+          "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+          "date": "2026-02-27T16:23:58.000Z",
+          "description": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "business",
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Google VP warns that two types of AI startups may not survive",
-          "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-          "date": "2026-02-21T16:00:00.000Z",
-          "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+          "title": "SaaS in, SaaS out: Heres whats driving the SaaSpocalypse",
+          "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+          "date": "2026-03-01T14:00:00.000Z",
+          "description": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
           "source": "TechCrunch"
         },
         {
-          "title": "The creator economys ad revenue problem and Indias AI ambitions",
-          "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-          "date": "2026-02-20T23:00:00.000Z",
-          "description": "Thecreatoreconomy is evolving fast, and ad revenue aloneisntcutting it anymore.YouTubers are launching product lines,acquiringstartups, and building actual business empires.In fact,MrBeasts companybou...",
+          "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+          "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+          "date": "2026-02-27T21:53:14.000Z",
+          "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
           "source": "TechCrunch"
         },
         {
-          "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
-          "url": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
-          "date": "2026-02-20T22:24:37.000Z",
-          "description": "The creator economy is evolving fast, and ad revenue alone isnt cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeasts c...",
+          "title": "ChatGPT reaches 900M weekly active users",
+          "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+          "date": "2026-02-27T18:25:51.000Z",
+          "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
           "source": "TechCrunch"
         },
         {
-          "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-          "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-          "date": "2026-02-20T19:24:57.000Z",
-          "description": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
+          "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+          "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+          "date": "2026-02-27T17:22:02.000Z",
+          "description": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
           "source": "TechCrunch"
         },
         {
-          "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
-          "url": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
-          "date": "2026-02-20T18:26:54.000Z",
-          "description": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
+          "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
+          "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+          "date": "2026-02-27T14:13:01.000Z",
+          "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-          "date": "2026-02-18T10:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-Hero.max-600x600.format-webp.webp\"&gt;An overview of Google’s new global partnerships and funding announcements a...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -140,67 +177,46 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "All the important news from the ongoing India AI Impact Summit",
-          "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-          "date": "2026-02-22T17:00:00.000Z",
-          "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ...",
+          "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+          "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+          "date": "2026-02-28T16:17:36.000Z",
+          "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
           "source": "TechCrunch"
         },
         {
-          "title": "The creator economys ad revenue problem and Indias AI ambitions",
-          "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-          "date": "2026-02-20T23:00:00.000Z",
-          "description": "Thecreatoreconomy is evolving fast, and ad revenue aloneisntcutting it anymore.YouTubers are launching product lines,acquiringstartups, and building actual business empires.In fact,MrBeasts companybou...",
+          "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+          "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+          "date": "2026-02-27T21:53:14.000Z",
+          "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
           "source": "TechCrunch"
         },
         {
-          "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
-          "url": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
-          "date": "2026-02-20T22:24:37.000Z",
-          "description": "The creator economy is evolving fast, and ad revenue alone isnt cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeasts c...",
+          "title": "Musk bashes OpenAI in deposition, saying nobody committed suicide because of Grok",
+          "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+          "date": "2026-02-27T19:42:00.000Z",
+          "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-          "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-          "date": "2026-02-20T20:52:48.000Z",
-          "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system ...",
+          "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+          "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+          "date": "2026-02-27T19:11:04.000Z",
+          "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar...",
           "source": "TechCrunch"
         },
         {
-          "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
-          "url": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-          "date": "2026-02-20T15:30:00.000Z",
-          "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated conte...",
+          "title": "ChatGPT reaches 900M weekly active users",
+          "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+          "date": "2026-02-27T18:25:51.000Z",
+          "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
           "source": "TechCrunch"
         },
         {
-          "title": "“No technology has me dreaming bigger than AI”",
-          "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
-          "date": "2026-02-19T04:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Google_2.max-600x600.format-webp.webp\"&gt;CEO Sundar Pichai’s remarks at the opening ceremony of the AI Impact Summit 20...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "AI Impact Summit 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-          "date": "2026-02-19T04:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\"&gt;A look at the partnerships and investments Google announced at the AI Im...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-          "date": "2026-02-18T10:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-Hero.max-600x600.format-webp.webp\"&gt;An overview of Google’s new global partnerships and funding announcements a...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Our 2026 Responsible AI Progress Report",
-          "url": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
-          "date": "2026-02-17T22:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Stocksy_7137793.max-600x600.format-webp.webp\"&gt;A look at our 2026 Responsible AI Progress Report.",
-          "source": "Google AI Blog"
+          "title": "Whos really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+          "url": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
+          "date": "2026-02-27T17:35:50.000Z",
+          "description": "ThePentagon isplaying chicken with Anthropicoverwho gets to controlhow themilitary uses AIwhile communities across the country areblocking data center construction. As the AI debate has been flattened...",
+          "source": "TechCrunch"
         }
       ]
     }
