@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-02T12:33:07.872Z",
+  "updated": "2026-03-03T12:32:28.481Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Motorola announces a partnership with GrapheneOS Foundation",
-      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47214645",
-      "score": 819,
-      "comments": 307
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "hnUrl": "https://news.ycombinator.com/item?id=47225130",
+      "score": 1175,
+      "comments": 669
     },
     {
-      "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
-      "url": "https://e.foundation/e-os/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47215489",
-      "score": 227,
-      "comments": 133
+      "title": "Arm's Cortex X925: Reaching Desktop Performance",
+      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+      "hnUrl": "https://news.ycombinator.com/item?id=47229344",
+      "score": 130,
+      "comments": 58
     },
     {
-      "title": "Claude Code LSP",
-      "url": "https://karanbansal.in/blog/claude-code-lsp/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47216765",
-      "score": 18,
-      "comments": 0
+      "title": "British Columbia is permanently adopting daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "hnUrl": "https://news.ycombinator.com/item?id=47223620",
+      "score": 890,
+      "comments": 437
     },
     {
-      "title": "Making Video Games in 2025 (without an engine)",
-      "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47176576",
-      "score": 197,
-      "comments": 80
+      "title": "The Xkcd thing, now interactive",
+      "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "hnUrl": "https://news.ycombinator.com/item?id=47230704",
+      "score": 104,
+      "comments": 11
     },
     {
-      "title": "How to talk to anyone and why you should",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-      "hnUrl": "https://news.ycombinator.com/item?id=47214864",
-      "score": 138,
-      "comments": 324
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "hnUrl": "https://news.ycombinator.com/item?id=47226608",
+      "score": 348,
+      "comments": 210
     },
     {
-      "title": "Jolla phone – a full-stack European alternative",
-      "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
-      "hnUrl": "https://news.ycombinator.com/item?id=47216037",
-      "score": 140,
-      "comments": 66
+      "title": "Simple screw counter",
+      "url": "https://mitxela.com/projects/screwcounter",
+      "hnUrl": "https://news.ycombinator.com/item?id=47201132",
+      "score": 171,
+      "comments": 43
     },
     {
-      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47216047",
-      "score": 131,
-      "comments": 41
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "url": "https://www.ntik.me/posts/voice-agent",
+      "hnUrl": "https://news.ycombinator.com/item?id=47224295",
+      "score": 451,
+      "comments": 131
     },
     {
-      "title": "If AI writes code, should the session be part of the commit?",
-      "url": "https://github.com/mandel-macaque/memento",
-      "hnUrl": "https://news.ycombinator.com/item?id=47212355",
-      "score": 309,
-      "comments": 284
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "hnUrl": "https://news.ycombinator.com/item?id=47218743",
+      "score": 315,
+      "comments": 59
     },
     {
-      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
-      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47181656",
-      "score": 70,
-      "comments": 8
+      "title": "Physicists developing a quantum computer that’s entirely open source",
+      "url": "https://physics.aps.org/articles/v19/24",
+      "hnUrl": "https://news.ycombinator.com/item?id=47225726",
+      "score": 135,
+      "comments": 26
     },
     {
-      "title": "Neocaml – Rubocop Creator's New OCaml Mode for Emacs",
-      "url": "https://github.com/bbatsov/neocaml",
-      "hnUrl": "https://news.ycombinator.com/item?id=47185911",
-      "score": 37,
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47218175",
+      "score": 413,
+      "comments": 643
+    },
+    {
+      "title": "Guido van Rossum Interviews Thomas Wouters (Python Core Dev)",
+      "url": "https://gvanrossum.github.io/interviews/Thomas.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47210162",
+      "score": 60,
       "comments": 3
     },
     {
-      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
-      "url": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47213866",
-      "score": 117,
-      "comments": 16
+      "title": "Motorola announces a partnership with GrapheneOS",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47214645",
+      "score": 2224,
+      "comments": 813
     },
     {
-      "title": "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
-      "url": "https://webaudio.studio/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47216773",
-      "score": 5,
-      "comments": 0
+      "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+      "url": "https://news.ycombinator.com/item?id=47220320",
+      "hnUrl": "https://news.ycombinator.com/item?id=47220320",
+      "score": 102,
+      "comments": 35
     },
     {
-      "title": "WebMCP is available for early preview",
-      "url": "https://developer.chrome.com/blog/webmcp-epp",
-      "hnUrl": "https://news.ycombinator.com/item?id=47211249",
-      "score": 315,
-      "comments": 177
+      "title": "iPhone 17e",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47218084",
+      "score": 296,
+      "comments": 431
     },
     {
-      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "hnUrl": "https://news.ycombinator.com/item?id=47211830",
-      "score": 178,
-      "comments": 39
-    },
-    {
-      "title": "An interactive intro to Elliptic Curve Cryptography",
-      "url": "https://growingswe.com/blog/elliptic-curve-cryptography",
-      "hnUrl": "https://news.ycombinator.com/item?id=47214367",
-      "score": 52,
-      "comments": 11
+      "title": "China's 450kmph bullet train is the fastest ever built",
+      "url": "https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train",
+      "hnUrl": "https://news.ycombinator.com/item?id=47230539",
+      "score": 24,
+      "comments": 14
     }
   ]
 }
