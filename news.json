@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-04T12:31:31.933Z",
+  "updated": "2026-03-05T12:34:54.842Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "hnUrl": "https://news.ycombinator.com/item?id=47241551",
-      "score": 847,
-      "comments": 294
+      "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+      "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+      "hnUrl": "https://news.ycombinator.com/item?id=47258801",
+      "score": 157,
+      "comments": 54
     },
     {
-      "title": "Bet on German Train Delays",
-      "url": "https://bahn.bet",
-      "hnUrl": "https://news.ycombinator.com/item?id=47245211",
-      "score": 77,
-      "comments": 49
+      "title": "Google Workspace CLI",
+      "url": "https://github.com/googleworkspace/cli",
+      "hnUrl": "https://news.ycombinator.com/item?id=47255881",
+      "score": 658,
+      "comments": 219
     },
     {
-      "title": "RFC 9849. TLS Encrypted Client Hello",
-      "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47244291",
-      "score": 121,
-      "comments": 60
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47257803",
+      "score": 178,
+      "comments": 159
     },
     {
-      "title": "Agentic Engineering Patterns",
-      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47243272",
-      "score": 213,
-      "comments": 95
+      "title": "The L in \"LLM\" Stands for Lying",
+      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47257394",
+      "score": 278,
+      "comments": 152
     },
     {
-      "title": "A CPU that runs entirely on GPU",
-      "url": "https://github.com/robertcprice/nCPU",
-      "hnUrl": "https://news.ycombinator.com/item?id=47243069",
-      "score": 128,
-      "comments": 60
+      "title": "Building a new Flash",
+      "url": "https://bill.newgrounds.com/news/post/1607118",
+      "hnUrl": "https://news.ycombinator.com/item?id=47253177",
+      "score": 571,
+      "comments": 175
     },
     {
-      "title": "MacBook Pro with M5 Pro and M5 Max",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47232453",
-      "score": 802,
-      "comments": 868
+      "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47216825",
+      "score": 107,
+      "comments": 91
     },
     {
-      "title": "Graphics Programming Resources",
-      "url": "https://develop--gpvm-website.netlify.app/resources/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47242193",
-      "score": 117,
+      "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+      "hnUrl": "https://news.ycombinator.com/item?id=47208341",
+      "score": 26,
+      "comments": 9
+    },
+    {
+      "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
+      "url": "https://netbsd-jails.petermann-digital.de/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47258641",
+      "score": 40,
       "comments": 12
     },
     {
-      "title": "Claude's Cycles [pdf]",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=47230710",
-      "score": 657,
-      "comments": 284
+      "title": "No right to relicense this project",
+      "url": "https://github.com/chardet/chardet/issues/327",
+      "hnUrl": "https://news.ycombinator.com/item?id=47259177",
+      "score": 236,
+      "comments": 151
     },
     {
-      "title": "Users fume over Outlook.com email 'carnage'",
-      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47246044",
-      "score": 32,
-      "comments": 23
+      "title": "Something is afoot in the land of Qwen",
+      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47249343",
+      "score": 695,
+      "comments": 304
     },
     {
-      "title": "On the Design of Programming Languages (1974) [pdf]",
-      "url": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
-      "hnUrl": "https://news.ycombinator.com/item?id=47205031",
-      "score": 53,
-      "comments": 10
+      "title": "MacBook Neo",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47247645",
+      "score": 1811,
+      "comments": 2118
     },
     {
-      "title": "Voxile: A ray-traced game made in its own engine and programming language",
-      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-      "hnUrl": "https://news.ycombinator.com/item?id=47239042",
-      "score": 213,
-      "comments": 61
+      "title": "Show HN: Poppy – A simple app to stay intentional with relationships",
+      "url": "https://poppy-connection-keeper.netlify.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47257352",
+      "score": 118,
+      "comments": 46
     },
     {
-      "title": "Textadept",
-      "url": "https://orbitalquark.github.io/textadept/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47204027",
-      "score": 151,
-      "comments": 28
+      "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+      "hnUrl": "https://news.ycombinator.com/item?id=47253892",
+      "score": 155,
+      "comments": 149
     },
     {
-      "title": "Elevator Saga: The elevator programming game (2015)",
-      "url": "https://play.elevatorsaga.com/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47204504",
-      "score": 11,
-      "comments": 0
+      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47255662",
+      "score": 633,
+      "comments": 336
     },
     {
-      "title": "My spicy take on vibe coding for PMs",
-      "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47240736",
-      "score": 125,
-      "comments": 120
-    },
-    {
-      "title": "Weave – A language aware merge algorithm based on entities",
-      "url": "https://github.com/Ataraxy-Labs/weave",
-      "hnUrl": "https://news.ycombinator.com/item?id=47241976",
-      "score": 136,
-      "comments": 88
+      "title": "Relax NG is a schema language for XML (2014)",
+      "url": "https://relaxng.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47258076",
+      "score": 31,
+      "comments": 19
     }
   ]
 }
