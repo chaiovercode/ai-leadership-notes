@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-06T12:30:45.971Z",
+  "updated": "2026-03-07T12:23:26.372Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "System76 on Age Verification Laws",
-      "url": "https://blog.system76.com/post/system76-on-age-verification/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47270784",
+      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+      "url": "https://plasma-bigscreen.org",
+      "hnUrl": "https://news.ycombinator.com/item?id=47282736",
       "score": 482,
-      "comments": 298
+      "comments": 141
     },
     {
-      "title": "GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47265045",
-      "score": 874,
-      "comments": 689
+      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+      "url": "https://news.ycombinator.com/item?id=47282777",
+      "hnUrl": "https://news.ycombinator.com/item?id=47282777",
+      "score": 548,
+      "comments": 413
     },
     {
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47273854",
-      "score": 22,
-      "comments": 6
+      "title": "UUID package coming to Go standard library",
+      "url": "https://github.com/golang/go/issues/62026",
+      "hnUrl": "https://news.ycombinator.com/item?id=47283665",
+      "score": 228,
+      "comments": 134
     },
     {
-      "title": "10% of Firefox crashes are caused by bitflips",
-      "url": "https://mas.to/@gabrielesvelto/116171750653898304",
-      "hnUrl": "https://news.ycombinator.com/item?id=47252971",
-      "score": 700,
-      "comments": 346
+      "title": "this css proves me human",
+      "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47281593",
+      "score": 282,
+      "comments": 93
     },
     {
-      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-      "url": "https://dev.moment.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47270807",
-      "score": 107,
-      "comments": 30
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47285960",
+      "score": 77,
+      "comments": 38
     },
     {
-      "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-      "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-      "hnUrl": "https://news.ycombinator.com/item?id=47263595",
-      "score": 488,
-      "comments": 143
-    },
-    {
-      "title": "The Brand Age",
-      "url": "https://paulgraham.com/brandage.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47264756",
-      "score": 382,
-      "comments": 297
-    },
-    {
-      "title": "Labor market impacts of AI: A new measure and early evidence",
-      "url": "https://www.anthropic.com/research/labor-market-impacts",
-      "hnUrl": "https://news.ycombinator.com/item?id=47268391",
-      "score": 230,
-      "comments": 331
-    },
-    {
-      "title": "If AI has a bright future, why does AI think it doesn't?",
-      "url": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
-      "hnUrl": "https://news.ycombinator.com/item?id=47272797",
-      "score": 10,
-      "comments": 8
-    },
-    {
-      "title": "Good software knows when to stop",
-      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-      "hnUrl": "https://news.ycombinator.com/item?id=47261561",
-      "score": 463,
-      "comments": 233
-    },
-    {
-      "title": "Where things stand with the Department of War",
-      "url": "https://www.anthropic.com/news/where-stand-department-war",
-      "hnUrl": "https://news.ycombinator.com/item?id=47269263",
-      "score": 494,
-      "comments": 522
-    },
-    {
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "url": "https://406.fail/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47267947",
-      "score": 213,
+      "title": "Helix: A post-modern text editor",
+      "url": "https://helix-editor.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47282701",
+      "score": 180,
       "comments": 73
     },
     {
-      "title": "Wikipedia was in read-only mode following mass admin account compromise",
-      "url": "https://www.wikimediastatus.net",
-      "hnUrl": "https://news.ycombinator.com/item?id=47263323",
-      "score": 987,
-      "comments": 353
+      "title": "Galileo's handwritten notes found in ancient astronomy text",
+      "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+      "hnUrl": "https://news.ycombinator.com/item?id=47263938",
+      "score": 151,
+      "comments": 28
     },
     {
-      "title": "Elite Overproduction",
-      "url": "https://en.wikipedia.org/wiki/Elite_overproduction",
-      "hnUrl": "https://news.ycombinator.com/item?id=47274010",
-      "score": 5,
-      "comments": 0
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "hnUrl": "https://news.ycombinator.com/item?id=47283337",
+      "score": 254,
+      "comments": 192
     },
     {
-      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
-      "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47249387",
-      "score": 476,
-      "comments": 189
+      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+      "url": "https://github.com/moongate-community/moongatev2",
+      "hnUrl": "https://news.ycombinator.com/item?id=47275236",
+      "score": 260,
+      "comments": 144
+    },
+    {
+      "title": "Sarvam 105B, the first competitive Indian open source LLM",
+      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+      "hnUrl": "https://news.ycombinator.com/item?id=47285422",
+      "score": 77,
+      "comments": 16
+    },
+    {
+      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+      "hnUrl": "https://news.ycombinator.com/item?id=47278426",
+      "score": 922,
+      "comments": 607
+    },
+    {
+      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+      "url": "https://github.com/c0m4r/kula",
+      "hnUrl": "https://news.ycombinator.com/item?id=47282807",
+      "score": 63,
+      "comments": 39
+    },
+    {
+      "title": "My application programmer instincts failed when debugging assembler",
+      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47264742",
+      "score": 17,
+      "comments": 11
+    },
+    {
+      "title": "CT Scans of Health Wearables",
+      "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+      "hnUrl": "https://news.ycombinator.com/item?id=47275152",
+      "score": 221,
+      "comments": 47
+    },
+    {
+      "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+      "url": "https://news.ycombinator.com/item?id=47278980",
+      "hnUrl": "https://news.ycombinator.com/item?id=47278980",
+      "score": 54,
+      "comments": 78
     }
   ]
 }
