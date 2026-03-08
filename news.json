@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-07T12:23:26.372Z",
+  "updated": "2026-03-08T12:25:08.428Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
-      "url": "https://plasma-bigscreen.org",
-      "hnUrl": "https://news.ycombinator.com/item?id=47282736",
-      "score": 482,
-      "comments": 141
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+      "url": "https://arxiv.org/abs/2603.03823",
+      "hnUrl": "https://news.ycombinator.com/item?id=47295537",
+      "score": 64,
+      "comments": 10
     },
     {
-      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
-      "url": "https://news.ycombinator.com/item?id=47282777",
-      "hnUrl": "https://news.ycombinator.com/item?id=47282777",
-      "score": 548,
-      "comments": 413
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "hnUrl": "https://news.ycombinator.com/item?id=47249139",
+      "score": 48,
+      "comments": 9
     },
     {
-      "title": "UUID package coming to Go standard library",
-      "url": "https://github.com/golang/go/issues/62026",
-      "hnUrl": "https://news.ycombinator.com/item?id=47283665",
-      "score": 228,
-      "comments": 134
+      "title": "Cloud VM benchmarks 2026",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47293119",
+      "score": 264,
+      "comments": 120
     },
     {
-      "title": "this css proves me human",
-      "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47281593",
-      "score": 282,
-      "comments": 93
+      "title": "How to run Qwen 3.5 locally",
+      "url": "https://unsloth.ai/docs/models/qwen3.5",
+      "hnUrl": "https://news.ycombinator.com/item?id=47292522",
+      "score": 222,
+      "comments": 62
     },
     {
-      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
-      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47285960",
-      "score": 77,
-      "comments": 38
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47296302",
+      "score": 44,
+      "comments": 9
     },
     {
-      "title": "Helix: A post-modern text editor",
-      "url": "https://helix-editor.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47282701",
-      "score": 180,
-      "comments": 73
+      "title": "Warn about PyPy being unmaintained",
+      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "hnUrl": "https://news.ycombinator.com/item?id=47293415",
+      "score": 222,
+      "comments": 95
     },
     {
-      "title": "Galileo's handwritten notes found in ancient astronomy text",
-      "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-      "hnUrl": "https://news.ycombinator.com/item?id=47263938",
-      "score": 151,
-      "comments": 28
+      "title": "The Lobster Programming Language",
+      "url": "https://strlen.com/lobster/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47239955",
+      "score": 26,
+      "comments": 3
     },
     {
-      "title": "LLMs work best when the user defines their acceptance criteria first",
-      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "hnUrl": "https://news.ycombinator.com/item?id=47283337",
-      "score": 254,
-      "comments": 192
+      "title": "CasNum",
+      "url": "https://github.com/0x0mer/CasNum",
+      "hnUrl": "https://news.ycombinator.com/item?id=47291292",
+      "score": 299,
+      "comments": 36
     },
     {
-      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-      "url": "https://github.com/moongate-community/moongatev2",
-      "hnUrl": "https://news.ycombinator.com/item?id=47275236",
-      "score": 260,
-      "comments": 144
+      "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+      "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47296355",
+      "score": 4,
+      "comments": 0
     },
     {
-      "title": "Sarvam 105B, the first competitive Indian open source LLM",
-      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
-      "hnUrl": "https://news.ycombinator.com/item?id=47285422",
-      "score": 77,
-      "comments": 16
+      "title": "A decade of Docker containers",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47289311",
+      "score": 318,
+      "comments": 213
     },
     {
-      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "hnUrl": "https://news.ycombinator.com/item?id=47278426",
-      "score": 922,
-      "comments": 607
+      "title": "Yoghurt delivery women combatting loneliness in Japan",
+      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+      "hnUrl": "https://news.ycombinator.com/item?id=47287344",
+      "score": 311,
+      "comments": 166
     },
     {
-      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
-      "url": "https://github.com/c0m4r/kula",
-      "hnUrl": "https://news.ycombinator.com/item?id=47282807",
-      "score": 63,
-      "comments": 39
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47271988",
+      "score": 214,
+      "comments": 13
     },
     {
-      "title": "My application programmer instincts failed when debugging assembler",
-      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47264742",
-      "score": 17,
-      "comments": 11
+      "title": "The surprising whimsy of the Time Zone Database",
+      "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47290198",
+      "score": 137,
+      "comments": 45
     },
     {
-      "title": "CT Scans of Health Wearables",
-      "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-      "hnUrl": "https://news.ycombinator.com/item?id=47275152",
-      "score": 221,
-      "comments": 47
+      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "url": "https://github.com/karpathy/autoresearch",
+      "hnUrl": "https://news.ycombinator.com/item?id=47291123",
+      "score": 130,
+      "comments": 33
     },
     {
-      "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
-      "url": "https://news.ycombinator.com/item?id=47278980",
-      "hnUrl": "https://news.ycombinator.com/item?id=47278980",
-      "score": 54,
-      "comments": 78
+      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47247644",
+      "score": 120,
+      "comments": 17
     }
   ]
 }
