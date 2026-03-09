@@ -1,36 +1,29 @@
 {
-  "updated": "2026-03-02T09:59:00.075Z",
+  "updated": "2026-03-09T10:00:28.654Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "Perplexitys new Computer is another bet that users need many AI models",
-          "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
-          "date": "2026-02-27T17:00:55.000Z",
-          "description": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+          "title": "Anthropics Pentagon deal is a cautionary tale for startups chasing federal contracts",
+          "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+          "date": "2026-03-06T18:09:11.000Z",
+          "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap...",
           "source": "TechCrunch"
         },
         {
-          "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
-          "date": "2026-02-26T18:55:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\"&gt;Google is partnering with the Massachusetts AI Hub to provide every Bay...",
-          "source": "Google AI Blog"
+          "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+          "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+          "date": "2026-03-06T18:01:38.000Z",
+          "description": "The Pentagon has officiallydesignatedAnthropica supply-chain riskafter the two failed to agree on how much control the military should have over its AI models,includingitsuse inautonomous weapons and ...",
+          "source": "TechCrunch"
         },
         {
-          "title": "Build with Nano Banana 2, our best image generation and editing model",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
-          "date": "2026-02-26T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWith_Hero.max-600x600.format-webp.webp\"&gt;Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and ...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-          "date": "2026-02-26T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_Hero.max-600x600.format-webp.webp\"&gt;Our latest image generation model offers advanced world knowledge, production-rea...",
+          "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "date": "2026-03-06T18:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/specieshero_v2.max-600x600.format-webp.webp\"&gt;An overview of SpeciesNet, our open-source AI model that is helping people ...",
           "source": "Google AI Blog"
         }
       ]
@@ -40,73 +33,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
-          "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-          "date": "2026-03-01T17:30:00.000Z",
-          "description": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+          "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+          "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+          "date": "2026-03-08T20:14:42.000Z",
+          "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI reveals more details about its agreement with the Pentagon",
-          "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-          "date": "2026-03-01T16:30:10.000Z",
-          "description": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+          "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+          "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+          "date": "2026-03-08T16:30:00.000Z",
+          "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
-          "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-          "date": "2026-03-01T14:48:58.000Z",
-          "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+          "title": "A roadmap for AI, if anyone will listen",
+          "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+          "date": "2026-03-08T06:05:26.000Z",
+          "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
           "source": "TechCrunch"
         },
         {
-          "title": "The trap Anthropic built for itself",
-          "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-          "date": "2026-03-01T00:08:58.000Z",
-          "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+          "title": "Google just gave Sundar Pichai a $692M pay package",
+          "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+          "date": "2026-03-08T00:20:10.000Z",
+          "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
           "source": "TechCrunch"
         },
         {
-          "title": "The billion-dollar infrastructure deals powering the AI boom",
-          "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-          "date": "2026-02-28T20:41:55.000Z",
-          "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+          "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
+          "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+          "date": "2026-03-07T20:44:25.000Z",
+          "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t...",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-          "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-          "date": "2026-02-28T16:17:36.000Z",
-          "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+          "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+          "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+          "date": "2026-03-07T17:28:41.000Z",
+          "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
           "source": "TechCrunch"
         },
         {
-          "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-          "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-          "date": "2026-02-27T21:53:14.000Z",
-          "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+          "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+          "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+          "date": "2026-03-06T19:50:10.000Z",
+          "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
           "source": "TechCrunch"
         },
         {
-          "title": "Musk bashes OpenAI in deposition, saying nobody committed suicide because of Grok",
-          "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-          "date": "2026-02-27T19:42:00.000Z",
-          "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+          "title": "Anthropics Claude found 22 vulnerabilities in Firefox over two weeks",
+          "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+          "date": "2026-03-06T19:00:22.000Z",
+          "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
-          "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-          "date": "2026-02-27T19:11:04.000Z",
-          "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar...",
+          "title": "Anthropics Pentagon deal is a cautionary tale for startups chasing federal contracts",
+          "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+          "date": "2026-03-06T18:09:11.000Z",
+          "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap...",
           "source": "TechCrunch"
         },
         {
-          "title": "ChatGPT reaches 900M weekly active users",
-          "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-          "date": "2026-02-27T18:25:51.000Z",
-          "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+          "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+          "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+          "date": "2026-03-06T18:01:38.000Z",
+          "description": "The Pentagon has officiallydesignatedAnthropica supply-chain riskafter the two failed to agree on how much control the military should have over its AI models,includingitsuse inautonomous weapons and ...",
           "source": "TechCrunch"
         }
       ]
@@ -116,17 +109,31 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
-          "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-          "date": "2026-02-27T19:11:04.000Z",
-          "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar...",
+          "title": "Anthropics Pentagon deal is a cautionary tale for startups chasing federal contracts",
+          "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+          "date": "2026-03-06T18:09:11.000Z",
+          "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap...",
           "source": "TechCrunch"
         },
         {
-          "title": "Employees at Google and OpenAI support Anthropics Pentagon stand in open letter",
-          "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
-          "date": "2026-02-27T16:23:58.000Z",
-          "description": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+          "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+          "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+          "date": "2026-03-06T18:01:38.000Z",
+          "description": "The Pentagon has officiallydesignatedAnthropica supply-chain riskafter the two failed to agree on how much control the military should have over its AI models,includingitsuse inautonomous weapons and ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DiligenceSquared uses AI, voice agents to make MA research affordable",
+          "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+          "date": "2026-03-05T23:14:04.000Z",
+          "description": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AWS launches a new AI agent platform specifically for healthcare",
+          "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+          "date": "2026-03-05T21:54:37.000Z",
+          "description": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
           "source": "TechCrunch"
         }
       ]
@@ -136,38 +143,45 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "SaaS in, SaaS out: Heres whats driving the SaaSpocalypse",
-          "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
-          "date": "2026-03-01T14:00:00.000Z",
-          "description": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+          "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+          "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+          "date": "2026-03-08T20:14:42.000Z",
+          "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
           "source": "TechCrunch"
         },
         {
-          "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-          "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-          "date": "2026-02-27T21:53:14.000Z",
-          "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+          "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+          "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+          "date": "2026-03-06T19:50:10.000Z",
+          "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
           "source": "TechCrunch"
         },
         {
-          "title": "ChatGPT reaches 900M weekly active users",
-          "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-          "date": "2026-02-27T18:25:51.000Z",
-          "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+          "title": "Anthropics Pentagon deal is a cautionary tale for startups chasing federal contracts",
+          "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+          "date": "2026-03-06T18:09:11.000Z",
+          "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap...",
           "source": "TechCrunch"
         },
         {
-          "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
-          "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
-          "date": "2026-02-27T17:22:02.000Z",
-          "description": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
+          "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+          "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+          "date": "2026-03-06T18:01:38.000Z",
+          "description": "The Pentagon has officiallydesignatedAnthropica supply-chain riskafter the two failed to agree on how much control the military should have over its AI models,includingitsuse inautonomous weapons and ...",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
-          "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-          "date": "2026-02-27T14:13:01.000Z",
-          "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+          "title": "Anthropic to challenge DODs supply-chain label in court",
+          "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+          "date": "2026-03-06T01:28:54.000Z",
+          "description": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DiligenceSquared uses AI, voice agents to make MA research affordable",
+          "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+          "date": "2026-03-05T23:14:04.000Z",
+          "description": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
           "source": "TechCrunch"
         }
       ]
@@ -177,45 +191,59 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-          "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-          "date": "2026-02-28T16:17:36.000Z",
-          "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+          "title": "Rings Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
+          "url": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
+          "date": "2026-03-09T04:35:06.000Z",
+          "description": "The facial recognition question is where things get more tangled.",
           "source": "TechCrunch"
         },
         {
-          "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-          "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-          "date": "2026-02-27T21:53:14.000Z",
-          "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+          "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+          "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+          "date": "2026-03-07T22:56:31.000Z",
+          "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
           "source": "TechCrunch"
         },
         {
-          "title": "Musk bashes OpenAI in deposition, saying nobody committed suicide because of Grok",
-          "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-          "date": "2026-02-27T19:42:00.000Z",
-          "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+          "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+          "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+          "date": "2026-03-06T19:50:10.000Z",
+          "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
-          "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-          "date": "2026-02-27T19:11:04.000Z",
-          "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar...",
+          "title": "Anthropics Pentagon deal is a cautionary tale for startups chasing federal contracts",
+          "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+          "date": "2026-03-06T18:09:11.000Z",
+          "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap...",
           "source": "TechCrunch"
         },
         {
-          "title": "ChatGPT reaches 900M weekly active users",
-          "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-          "date": "2026-02-27T18:25:51.000Z",
-          "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+          "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+          "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+          "date": "2026-03-06T18:01:38.000Z",
+          "description": "The Pentagon has officiallydesignatedAnthropica supply-chain riskafter the two failed to agree on how much control the military should have over its AI models,includingitsuse inautonomous weapons and ...",
           "source": "TechCrunch"
         },
         {
-          "title": "Whos really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
-          "url": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
-          "date": "2026-02-27T17:35:50.000Z",
-          "description": "ThePentagon isplaying chicken with Anthropicoverwho gets to controlhow themilitary uses AIwhile communities across the country areblocking data center construction. As the AI debate has been flattened...",
+          "title": "Claudes consumer growth surge continues after Pentagon deal debacle",
+          "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+          "date": "2026-03-06T17:56:07.000Z",
+          "description": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic to challenge DODs supply-chain label in court",
+          "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+          "date": "2026-03-06T01:28:54.000Z",
+          "description": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+          "url": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+          "date": "2026-03-05T20:24:25.000Z",
+          "description": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran...",
           "source": "TechCrunch"
         }
       ]
