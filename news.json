@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-09T12:35:18.563Z",
+  "updated": "2026-03-10T12:34:29.296Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
-      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=47305461",
-      "score": 255,
-      "comments": 163
+      "title": "I put my whole life into a single database",
+      "url": "https://howisfelix.today/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47321233",
+      "score": 103,
+      "comments": 26
     },
     {
-      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-      "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47307055",
-      "score": 167,
-      "comments": 44
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=47320661",
+      "score": 201,
+      "comments": 167
     },
     {
-      "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
-      "url": "https://arxiv.org/abs/2603.04782",
-      "hnUrl": "https://news.ycombinator.com/item?id=47272531",
-      "score": 38,
-      "comments": 18
+      "title": "The Gervais Principle, or the Office According to \"The Office\"",
+      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47286657",
+      "score": 90,
+      "comments": 22
     },
     {
-      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-      "url": "https://agent-safehouse.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47301085",
-      "score": 636,
-      "comments": 151
+      "title": "Two Years of Emacs Solo",
+      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "hnUrl": "https://news.ycombinator.com/item?id=47317616",
+      "score": 281,
+      "comments": 89
     },
     {
-      "title": "Microscopes can see video on a laserdisc",
-      "url": "https://www.youtube.com/watch?v=qZuR-772cks",
-      "hnUrl": "https://news.ycombinator.com/item?id=47291876",
-      "score": 488,
-      "comments": 65
+      "title": "Lotus 1-2-3 on the PC with DOS",
+      "url": "https://stonetools.ghost.io/lotus123-dos/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47279633",
+      "score": 121,
+      "comments": 40
     },
     {
-      "title": "PCB devboard the size of a USB-C plug",
-      "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
-      "hnUrl": "https://news.ycombinator.com/item?id=47294582",
-      "score": 196,
-      "comments": 42
+      "title": "TCXO Failure Analysis",
+      "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47284587",
+      "score": 35,
+      "comments": 8
     },
     {
-      "title": "Ask HN: What Are You Working On? (March 2026)",
-      "url": "https://news.ycombinator.com/item?id=47303111",
-      "hnUrl": "https://news.ycombinator.com/item?id=47303111",
-      "score": 180,
-      "comments": 663
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "url": "https://felixturner.github.io/hex-map-wfc/article/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47311815",
+      "score": 524,
+      "comments": 72
     },
     {
-      "title": "Every single board computer I tested in 2025",
-      "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47260812",
-      "score": 181,
-      "comments": 59
+      "title": "Practical Guide to Bare Metal C++",
+      "url": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+      "hnUrl": "https://news.ycombinator.com/item?id=47284461",
+      "score": 15,
+      "comments": 1
     },
     {
-      "title": "FrameBook",
-      "url": "https://fb.edoo.gg",
-      "hnUrl": "https://news.ycombinator.com/item?id=47298044",
-      "score": 454,
-      "comments": 77
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47310160",
+      "score": 495,
+      "comments": 511
     },
     {
-      "title": "I love email (2023)",
-      "url": "https://blog.xoria.org/email/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47264662",
-      "score": 46,
-      "comments": 18
+      "title": "JSLinux Now Supports x86_64",
+      "url": "https://bellard.org/jslinux/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47311484",
+      "score": 340,
+      "comments": 105
     },
     {
-      "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
-      "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47307169",
-      "score": 5,
-      "comments": 0
+      "title": "Show HN: Remotely use my guitar tuner",
+      "url": "https://realtuner.online/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47280654",
+      "score": 219,
+      "comments": 48
     },
     {
-      "title": "My Homelab Setup",
-      "url": "https://bryananthonio.com/blog/my-homelab-setup/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47298743",
-      "score": 260,
-      "comments": 170
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47317132",
+      "score": 277,
+      "comments": 200
     },
     {
-      "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
-      "url": "https://github.com/Rabrg/artificial-life",
-      "hnUrl": "https://news.ycombinator.com/item?id=47301233",
-      "score": 125,
-      "comments": 15
+      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+      "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+      "hnUrl": "https://news.ycombinator.com/item?id=47321533",
+      "score": 88,
+      "comments": 71
     },
     {
-      "title": "We should revisit literate programming in the agent era",
-      "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47300747",
-      "score": 255,
-      "comments": 175
+      "title": "macOS Tahoe windows have different corner radiuses",
+      "url": "https://lapcatsoftware.com/articles/2026/3/1.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47279761",
+      "score": 205,
+      "comments": 150
     },
     {
-      "title": "I made a programming language with M&Ms",
-      "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47299606",
-      "score": 93,
-      "comments": 36
+      "title": "Darkrealms BBS",
+      "url": "http://www.darkrealms.ca/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47276343",
+      "score": 112,
+      "comments": 30
     }
   ]
 }
