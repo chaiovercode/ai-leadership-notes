@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-10T12:34:29.296Z",
+  "updated": "2026-03-11T12:34:43.993Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "I put my whole life into a single database",
-      "url": "https://howisfelix.today/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47321233",
-      "score": 103,
-      "comments": 26
+      "title": "Zig – Type Resolution Redesign and Language Changes",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "hnUrl": "https://news.ycombinator.com/item?id=47330836",
+      "score": 286,
+      "comments": 113
     },
     {
-      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=47320661",
-      "score": 201,
-      "comments": 167
+      "title": "Create value for others and don’t worry about the returns",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47332074",
+      "score": 432,
+      "comments": 263
     },
     {
-      "title": "The Gervais Principle, or the Office According to \"The Office\"",
-      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47286657",
-      "score": 90,
-      "comments": 22
+      "title": "U+237C ⍼ Is Azimuth",
+      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47329605",
+      "score": 336,
+      "comments": 51
     },
     {
-      "title": "Two Years of Emacs Solo",
-      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "hnUrl": "https://news.ycombinator.com/item?id=47317616",
-      "score": 281,
-      "comments": 89
+      "title": "Cloudflare crawl endpoint",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47329557",
+      "score": 342,
+      "comments": 133
     },
     {
-      "title": "Lotus 1-2-3 on the PC with DOS",
-      "url": "https://stonetools.ghost.io/lotus123-dos/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47279633",
-      "score": 121,
-      "comments": 40
+      "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+      "url": "https://github.com/gcv/julia-snail",
+      "hnUrl": "https://news.ycombinator.com/item?id=47295855",
+      "score": 94,
+      "comments": 15
     },
     {
-      "title": "TCXO Failure Analysis",
-      "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47284587",
-      "score": 35,
-      "comments": 8
+      "title": "Tony Hoare has died",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47324054",
+      "score": 1844,
+      "comments": 239
     },
     {
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47311815",
-      "score": 524,
-      "comments": 72
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47320600",
+      "score": 503,
+      "comments": 404
     },
     {
-      "title": "Practical Guide to Bare Metal C++",
-      "url": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
-      "hnUrl": "https://news.ycombinator.com/item?id=47284461",
-      "score": 15,
-      "comments": 1
+      "title": "Agents that run while I sleep",
+      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "hnUrl": "https://news.ycombinator.com/item?id=47327559",
+      "score": 353,
+      "comments": 400
     },
     {
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47310160",
-      "score": 495,
-      "comments": 511
+      "title": "SSH Secret Menu",
+      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+      "hnUrl": "https://news.ycombinator.com/item?id=47318797",
+      "score": 247,
+      "comments": 98
     },
     {
-      "title": "JSLinux Now Supports x86_64",
-      "url": "https://bellard.org/jslinux/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47311484",
-      "score": 340,
-      "comments": 105
+      "title": "RISC-V Is Sloooow",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47328214",
+      "score": 264,
+      "comments": 271
     },
     {
-      "title": "Show HN: Remotely use my guitar tuner",
-      "url": "https://realtuner.online/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47280654",
-      "score": 219,
-      "comments": 48
+      "title": "When the chain becomes the product: Seven years inside a token-funded venture",
+      "url": "https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47295647",
+      "score": 18,
+      "comments": 7
     },
     {
-      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47317132",
-      "score": 277,
-      "comments": 200
+      "title": "Writing my own text editor, and daily-driving it",
+      "url": "https://blog.jsbarretto.com/post/text-editor",
+      "hnUrl": "https://news.ycombinator.com/item?id=47331034",
+      "score": 126,
+      "comments": 46
     },
     {
-      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-      "hnUrl": "https://news.ycombinator.com/item?id=47321533",
-      "score": 88,
-      "comments": 71
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47324087",
+      "score": 343,
+      "comments": 260
     },
     {
-      "title": "macOS Tahoe windows have different corner radiuses",
-      "url": "https://lapcatsoftware.com/articles/2026/3/1.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47279761",
-      "score": 205,
-      "comments": 150
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli",
+      "hnUrl": "https://news.ycombinator.com/item?id=47326101",
+      "score": 221,
+      "comments": 132
     },
     {
-      "title": "Darkrealms BBS",
-      "url": "http://www.darkrealms.ca/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47276343",
-      "score": 112,
-      "comments": 30
+      "title": "Levels of Agentic Engineering",
+      "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+      "hnUrl": "https://news.ycombinator.com/item?id=47320614",
+      "score": 214,
+      "comments": 96
     }
   ]
 }
