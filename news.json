@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-13T12:32:57.284Z",
+  "updated": "2026-03-14T12:26:23.023Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Bucketsquatting is (finally) dead",
-      "url": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
-      "hnUrl": "https://news.ycombinator.com/item?id=47361913",
-      "score": 141,
-      "comments": 61
+      "title": "Claude Code's binary reveals silent A/B tests on core features",
+      "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47375682",
+      "score": 67,
+      "comments": 44
     },
     {
-      "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
-      "url": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47362528",
-      "score": 242,
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
+      "hnUrl": "https://news.ycombinator.com/item?id=47367129",
+      "score": 807,
+      "comments": 318
+    },
+    {
+      "title": "XML Is a Cheap DSL",
+      "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47375764",
+      "score": 4,
+      "comments": 0
+    },
+    {
+      "title": "A Survival Guide to a PhD (2016)",
+      "url": "http://karpathy.github.io/2016/09/07/phd/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47318386",
+      "score": 120,
       "comments": 64
     },
     {
-      "title": "Willingness to look stupid",
-      "url": "https://sharif.io/looking-stupid",
-      "hnUrl": "https://news.ycombinator.com/item?id=47307124",
-      "score": 426,
-      "comments": 150
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "hnUrl": "https://news.ycombinator.com/item?id=47363584",
+      "score": 616,
+      "comments": 522
     },
     {
-      "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
-      "url": "https://prompt-caching.ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47363074",
-      "score": 19,
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "url": "https://channelsurfer.tv",
+      "hnUrl": "https://news.ycombinator.com/item?id=47336100",
+      "score": 529,
+      "comments": 156
+    },
+    {
+      "title": "Wired headphone sales are exploding",
+      "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
+      "hnUrl": "https://news.ycombinator.com/item?id=47340203",
+      "score": 180,
+      "comments": 288
+    },
+    {
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "url": "https://github.com/TomBadash/MouseControl",
+      "hnUrl": "https://news.ycombinator.com/item?id=47368033",
+      "score": 331,
+      "comments": 97
+    },
+    {
+      "title": "Hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "hnUrl": "https://news.ycombinator.com/item?id=47367932",
+      "score": 296,
+      "comments": 107
+    },
+    {
+      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "hnUrl": "https://news.ycombinator.com/item?id=47371064",
+      "score": 135,
+      "comments": 34
+    },
+    {
+      "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+      "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47364729",
+      "score": 276,
+      "comments": 384
+    },
+    {
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47363754",
+      "score": 1252,
+      "comments": 309
+    },
+    {
+      "title": "Atari 2600 BASIC Programming (2015)",
+      "url": "https://huguesjohnson.com/programming/atari-2600-basic/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47339403",
+      "score": 34,
+      "comments": 8
+    },
+    {
+      "title": "Digg is gone again",
+      "url": "https://digg.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47368135",
+      "score": 221,
+      "comments": 193
+    },
+    {
+      "title": "AEP (API Design Standard and Tooling Ecosystem)",
+      "url": "https://aep.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47327155",
+      "score": 21,
       "comments": 7
-    },
-    {
-      "title": "Source code of Swedish e-government services has been leaked",
-      "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47362350",
-      "score": 96,
-      "comments": 62
-    },
-    {
-      "title": "Executing programs inside transformers with exponentially faster inference",
-      "url": "https://www.percepta.ai/blog/can-llms-be-computers",
-      "hnUrl": "https://news.ycombinator.com/item?id=47348275",
-      "score": 155,
-      "comments": 37
-    },
-    {
-      "title": "Malus – Clean Room as a Service",
-      "url": "https://malus.sh",
-      "hnUrl": "https://news.ycombinator.com/item?id=47350424",
-      "score": 1318,
-      "comments": 477
-    },
-    {
-      "title": "Okmain: How to pick an OK main colour of an image",
-      "url": "https://dgroshev.com/blog/okmain/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47309397",
-      "score": 42,
-      "comments": 3
-    },
-    {
-      "title": "Ceno, browse the web without internet access",
-      "url": "https://ceno.app/en/index.html?",
-      "hnUrl": "https://news.ycombinator.com/item?id=47361313",
-      "score": 54,
-      "comments": 15
-    },
-    {
-      "title": "“This is not the computer for you”",
-      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47359744",
-      "score": 568,
-      "comments": 232
-    },
-    {
-      "title": "Vite 8.0 Is Out",
-      "url": "https://vite.dev/blog/announcing-vite8",
-      "hnUrl": "https://news.ycombinator.com/item?id=47360730",
-      "score": 360,
-      "comments": 106
-    },
-    {
-      "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
-      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "hnUrl": "https://news.ycombinator.com/item?id=47351371",
-      "score": 444,
-      "comments": 458
-    },
-    {
-      "title": "Bubble Sorted Amen Break",
-      "url": "https://parametricavocado.itch.io/amen-sorting",
-      "hnUrl": "https://news.ycombinator.com/item?id=47354098",
-      "score": 353,
-      "comments": 104
-    },
-    {
-      "title": "IMG_0416 (2024)",
-      "url": "https://ben-mini.com/2024/img-0416",
-      "hnUrl": "https://news.ycombinator.com/item?id=47308547",
-      "score": 116,
-      "comments": 23
-    },
-    {
-      "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47353533",
-      "score": 325,
-      "comments": 142
     }
   ]
 }
