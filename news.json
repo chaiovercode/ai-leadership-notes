@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-14T12:26:23.023Z",
+  "updated": "2026-03-15T12:28:12.303Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Claude Code's binary reveals silent A/B tests on core features",
-      "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47375682",
-      "score": 67,
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "hnUrl": "https://news.ycombinator.com/item?id=47385935",
+      "score": 104,
+      "comments": 41
+    },
+    {
+      "title": "A Visual Introduction to Machine Learning",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47386116",
+      "score": 64,
+      "comments": 4
+    },
+    {
+      "title": "Rack-mount hydroponics",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47384352",
+      "score": 203,
       "comments": 44
     },
     {
-      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-      "url": "https://claude.com/blog/1m-context-ga",
-      "hnUrl": "https://news.ycombinator.com/item?id=47367129",
-      "score": 807,
-      "comments": 318
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47385272",
+      "score": 183,
+      "comments": 161
     },
     {
-      "title": "XML Is a Cheap DSL",
-      "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47375764",
-      "score": 4,
-      "comments": 0
+      "title": "A most elegant TCP hole punching algorithm",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47384032",
+      "score": 114,
+      "comments": 41
     },
     {
-      "title": "A Survival Guide to a PhD (2016)",
-      "url": "http://karpathy.github.io/2016/09/07/phd/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47318386",
-      "score": 120,
-      "comments": 64
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "hnUrl": "https://news.ycombinator.com/item?id=47383804",
+      "score": 114,
+      "comments": 138
     },
     {
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "hnUrl": "https://news.ycombinator.com/item?id=47363584",
-      "score": 616,
-      "comments": 522
+      "title": "How kernel anti-cheats work",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47382791",
+      "score": 222,
+      "comments": 190
     },
     {
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "url": "https://channelsurfer.tv",
-      "hnUrl": "https://news.ycombinator.com/item?id=47336100",
-      "score": 529,
-      "comments": 156
+      "title": "Allow me to get to know you, mistakes and all",
+      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47381736",
+      "score": 184,
+      "comments": 78
     },
     {
-      "title": "Wired headphone sales are exploding",
-      "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
-      "hnUrl": "https://news.ycombinator.com/item?id=47340203",
-      "score": 180,
-      "comments": 288
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han",
+      "hnUrl": "https://news.ycombinator.com/item?id=47381382",
+      "score": 183,
+      "comments": 100
     },
     {
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "hnUrl": "https://news.ycombinator.com/item?id=47368033",
-      "score": 331,
-      "comments": 97
+      "title": "SBCL Fibers – Lightweight Cooperative Threads",
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47382398",
+      "score": 114,
+      "comments": 18
     },
     {
-      "title": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "hnUrl": "https://news.ycombinator.com/item?id=47367932",
-      "score": 296,
-      "comments": 107
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "url": "https://agelesslinux.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47381791",
+      "score": 680,
+      "comments": 448
     },
     {
-      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
-      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "hnUrl": "https://news.ycombinator.com/item?id=47371064",
-      "score": 135,
-      "comments": 34
+      "title": "Bumblebee queens breathe underwater to survive drowning",
+      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47381011",
+      "score": 147,
+      "comments": 28
     },
     {
-      "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
-      "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47364729",
-      "score": 276,
-      "comments": 384
+      "title": "MCP is dead; long live MCP",
+      "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47380270",
+      "score": 171,
+      "comments": 152
     },
     {
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47363754",
-      "score": 1252,
-      "comments": 309
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47383059",
+      "score": 66,
+      "comments": 5
     },
     {
-      "title": "Atari 2600 BASIC Programming (2015)",
-      "url": "https://huguesjohnson.com/programming/atari-2600-basic/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47339403",
-      "score": 34,
-      "comments": 8
-    },
-    {
-      "title": "Digg is gone again",
-      "url": "https://digg.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47368135",
-      "score": 221,
-      "comments": 193
-    },
-    {
-      "title": "AEP (API Design Standard and Tooling Ecosystem)",
-      "url": "https://aep.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47327155",
-      "score": 21,
-      "comments": 7
+      "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+      "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47337087",
+      "score": 51,
+      "comments": 4
     }
   ]
 }
