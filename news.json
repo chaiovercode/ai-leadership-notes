@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-17T12:42:42.915Z",
+  "updated": "2026-03-18T12:42:58.261Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Kagi Small Web",
-      "url": "https://kagi.com/smallweb/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47410542",
-      "score": 246,
-      "comments": 50
+      "title": "Rob Pike's 5 Rules of Programming",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47423647",
+      "score": 204,
+      "comments": 96
     },
     {
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "hnUrl": "https://news.ycombinator.com/item?id=47408703",
-      "score": 798,
-      "comments": 197
-    },
-    {
-      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-      "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "hnUrl": "https://news.ycombinator.com/item?id=47410870",
-      "score": 245,
+      "title": "JPEG Compression",
+      "url": "https://www.sophielwang.com/blog/jpeg",
+      "hnUrl": "https://news.ycombinator.com/item?id=47372367",
+      "score": 265,
       "comments": 61
     },
     {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "hnUrl": "https://news.ycombinator.com/item?id=47404796",
-      "score": 609,
-      "comments": 129
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "url": "https://nightingale.cafe/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47422942",
+      "score": 118,
+      "comments": 15
     },
     {
-      "title": "The unlikely story of Teardown Multiplayer",
-      "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47366435",
-      "score": 134,
-      "comments": 26
+      "title": "Pandas Exercises for Data Analysis (Interactive)",
+      "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47367601",
+      "score": 11,
+      "comments": 1
     },
     {
-      "title": "Font Smuggler – copy hidden brand fonts into Google Docs",
-      "url": "https://brianmoore.com/fontsmuggler/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47366616",
-      "score": 21,
-      "comments": 6
-    },
-    {
-      "title": "Reverse-engineering Viktor and making it Open Source",
-      "url": "https://matijacniacki.com/blog/openviktor",
-      "hnUrl": "https://news.ycombinator.com/item?id=47409885",
-      "score": 50,
+      "title": "Write up of my homebrew CPU build",
+      "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47389696",
+      "score": 105,
       "comments": 16
     },
     {
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47402640",
-      "score": 459,
-      "comments": 200
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "hnUrl": "https://news.ycombinator.com/item?id=47418295",
+      "score": 553,
+      "comments": 128
     },
     {
-      "title": "The American Healthcare Conundrum",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "hnUrl": "https://news.ycombinator.com/item?id=47401809",
-      "score": 391,
-      "comments": 357
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47416736",
+      "score": 648,
+      "comments": 63
     },
     {
-      "title": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47401879",
-      "score": 458,
-      "comments": 194
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "hnUrl": "https://news.ycombinator.com/item?id=47413876",
+      "score": 712,
+      "comments": 261
     },
     {
-      "title": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
-      "url": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
-      "hnUrl": "https://news.ycombinator.com/item?id=47363133",
-      "score": 139,
-      "comments": 32
+      "title": "Python 3.15's JIT is now back on track",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47416486",
+      "score": 407,
+      "comments": 226
     },
     {
-      "title": "Every layer of review makes you 10x slower",
-      "url": "https://apenwarr.ca/log/20260316",
-      "hnUrl": "https://news.ycombinator.com/item?id=47408205",
-      "score": 318,
-      "comments": 181
+      "title": "More than 135 open hardware devices flashable with your own firmware",
+      "url": "https://openhardware.directory",
+      "hnUrl": "https://news.ycombinator.com/item?id=47369883",
+      "score": 258,
+      "comments": 30
     },
     {
-      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47411480",
-      "score": 17,
-      "comments": 7
+      "title": "The pleasures of poor product design",
+      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+      "hnUrl": "https://news.ycombinator.com/item?id=47420432",
+      "score": 149,
+      "comments": 52
     },
     {
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47406779",
-      "score": 613,
-      "comments": 339
+      "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "hnUrl": "https://news.ycombinator.com/item?id=47417804",
+      "score": 362,
+      "comments": 183
     },
     {
-      "title": "Pyodide: a Python distribution based on WebAssembly",
-      "url": "https://github.com/pyodide/pyodide",
-      "hnUrl": "https://news.ycombinator.com/item?id=47367298",
-      "score": 109,
-      "comments": 25
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "url": "https://github.com/adammiribyan/zeroboot",
+      "hnUrl": "https://news.ycombinator.com/item?id=47412569",
+      "score": 198,
+      "comments": 49
+    },
+    {
+      "title": "Have a fucking website",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47421442",
+      "score": 534,
+      "comments": 285
+    },
+    {
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "hnUrl": "https://news.ycombinator.com/item?id=47418722",
+      "score": 140,
+      "comments": 76
     }
   ]
 }
