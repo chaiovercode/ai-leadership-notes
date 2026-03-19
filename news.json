@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-18T12:42:58.261Z",
+  "updated": "2026-03-19T12:37:00.743Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Rob Pike's 5 Rules of Programming",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47423647",
-      "score": 204,
-      "comments": 96
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "hnUrl": "https://news.ycombinator.com/item?id=47434732",
+      "score": 191,
+      "comments": 43
     },
     {
-      "title": "JPEG Compression",
-      "url": "https://www.sophielwang.com/blog/jpeg",
-      "hnUrl": "https://news.ycombinator.com/item?id=47372367",
-      "score": 265,
-      "comments": 61
+      "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47436950",
+      "score": 134,
+      "comments": 13
     },
     {
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "url": "https://nightingale.cafe/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47422942",
-      "score": 118,
-      "comments": 15
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47437101",
+      "score": 103,
+      "comments": 79
     },
     {
-      "title": "Pandas Exercises for Data Analysis (Interactive)",
-      "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47367601",
-      "score": 11,
-      "comments": 1
+      "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
+      "url": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
+      "hnUrl": "https://news.ycombinator.com/item?id=47437782",
+      "score": 182,
+      "comments": 149
     },
     {
-      "title": "Write up of my homebrew CPU build",
-      "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47389696",
-      "score": 105,
-      "comments": 16
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+      "hnUrl": "https://news.ycombinator.com/item?id=47388658",
+      "score": 376,
+      "comments": 92
     },
     {
-      "title": "Mistral AI Releases Forge",
-      "url": "https://mistral.ai/news/forge",
-      "hnUrl": "https://news.ycombinator.com/item?id=47418295",
-      "score": 553,
-      "comments": 128
+      "title": "Warranty Void If Regenerated",
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "hnUrl": "https://news.ycombinator.com/item?id=47431237",
+      "score": 398,
+      "comments": 237
     },
     {
-      "title": "A Decade of Slug",
-      "url": "https://terathon.com/blog/decade-slug.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47416736",
-      "score": 648,
-      "comments": 63
+      "title": "OpenRocket",
+      "url": "https://openrocket.info/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47386703",
+      "score": 603,
+      "comments": 105
     },
     {
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "hnUrl": "https://news.ycombinator.com/item?id=47413876",
-      "score": 712,
-      "comments": 261
+      "title": "Pretraining Language Models via Neural Cellular Automata",
+      "url": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47388293",
+      "score": 7,
+      "comments": 0
     },
     {
-      "title": "Python 3.15's JIT is now back on track",
-      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47416486",
-      "score": 407,
-      "comments": 226
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "hnUrl": "https://news.ycombinator.com/item?id=47433058",
+      "score": 607,
+      "comments": 708
     },
     {
-      "title": "More than 135 open hardware devices flashable with your own firmware",
-      "url": "https://openhardware.directory",
-      "hnUrl": "https://news.ycombinator.com/item?id=47369883",
-      "score": 258,
-      "comments": 30
+      "title": "LotusNotes",
+      "url": "https://computer.rip/2026-03-14-lotusnotes.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47385439",
+      "score": 111,
+      "comments": 56
     },
     {
-      "title": "The pleasures of poor product design",
-      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "hnUrl": "https://news.ycombinator.com/item?id=47420432",
-      "score": 149,
-      "comments": 52
+      "title": "A sufficiently detailed spec is code",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "hnUrl": "https://news.ycombinator.com/item?id=47434047",
+      "score": 432,
+      "comments": 227
     },
     {
-      "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "hnUrl": "https://news.ycombinator.com/item?id=47417804",
-      "score": 362,
-      "comments": 183
+      "title": "The strait of Hormuz blockade will strangle US defense industry",
+      "url": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs",
+      "hnUrl": "https://news.ycombinator.com/item?id=47438182",
+      "score": 6,
+      "comments": 2
     },
     {
-      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-      "url": "https://github.com/adammiribyan/zeroboot",
-      "hnUrl": "https://news.ycombinator.com/item?id=47412569",
-      "score": 198,
-      "comments": 49
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "url": "https://github.com/alainnothere/llm-circuit-finder",
+      "hnUrl": "https://news.ycombinator.com/item?id=47431671",
+      "score": 152,
+      "comments": 47
     },
     {
-      "title": "Have a fucking website",
-      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47421442",
-      "score": 534,
-      "comments": 285
+      "title": "Wander – A tiny, decentralised tool to explore the small web",
+      "url": "https://susam.net/wander/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47422759",
+      "score": 301,
+      "comments": 74
     },
     {
-      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "url": "https://arxiv.org/abs/2603.15381",
-      "hnUrl": "https://news.ycombinator.com/item?id=47418722",
+      "title": "Autoresearch for SAT Solvers",
+      "url": "https://github.com/iliazintchenko/agent-sat",
+      "hnUrl": "https://news.ycombinator.com/item?id=47433265",
       "score": 140,
-      "comments": 76
+      "comments": 27
     }
   ]
 }
