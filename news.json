@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-19T12:37:00.743Z",
+  "updated": "2026-03-20T12:33:34.325Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Conway's Game of Life, in real life",
-      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
-      "hnUrl": "https://news.ycombinator.com/item?id=47434732",
-      "score": 191,
-      "comments": 43
+      "title": "ArXiv Declares Independence from Cornell",
+      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "hnUrl": "https://news.ycombinator.com/item?id=47450478",
+      "score": 394,
+      "comments": 120
     },
     {
-      "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
-      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47436950",
-      "score": 134,
-      "comments": 13
+      "title": "3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs",
+      "url": "https://thecoolingreport.com/intel.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47452828",
+      "score": 34,
+      "comments": 20
     },
     {
-      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47437101",
-      "score": 103,
-      "comments": 79
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47442690",
+      "score": 922,
+      "comments": 990
     },
     {
-      "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
-      "url": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
-      "hnUrl": "https://news.ycombinator.com/item?id=47437782",
-      "score": 182,
-      "comments": 149
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "hnUrl": "https://news.ycombinator.com/item?id=47448994",
+      "score": 180,
+      "comments": 48
     },
     {
-      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "hnUrl": "https://news.ycombinator.com/item?id=47388658",
-      "score": 376,
-      "comments": 92
+      "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+      "hnUrl": "https://news.ycombinator.com/item?id=47448566",
+      "score": 173,
+      "comments": 59
     },
     {
-      "title": "Warranty Void If Regenerated",
-      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "hnUrl": "https://news.ycombinator.com/item?id=47431237",
-      "score": 398,
-      "comments": 237
+      "title": "Push events into a running session with channels",
+      "url": "https://code.claude.com/docs/en/channels",
+      "hnUrl": "https://news.ycombinator.com/item?id=47448524",
+      "score": 352,
+      "comments": 208
     },
     {
-      "title": "OpenRocket",
-      "url": "https://openrocket.info/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47386703",
-      "score": 603,
-      "comments": 105
+      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+      "hnUrl": "https://news.ycombinator.com/item?id=47406160",
+      "score": 404,
+      "comments": 52
     },
     {
-      "title": "Pretraining Language Models via Neural Cellular Automata",
-      "url": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47388293",
-      "score": 7,
-      "comments": 0
+      "title": "How the Turner twins are mythbusting modern technical apparel",
+      "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47416972",
+      "score": 263,
+      "comments": 137
     },
     {
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "hnUrl": "https://news.ycombinator.com/item?id=47433058",
-      "score": 607,
-      "comments": 708
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "hnUrl": "https://news.ycombinator.com/item?id=47441546",
+      "score": 465,
+      "comments": 163
     },
     {
-      "title": "LotusNotes",
-      "url": "https://computer.rip/2026-03-14-lotusnotes.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47385439",
-      "score": 111,
-      "comments": 56
-    },
-    {
-      "title": "A sufficiently detailed spec is code",
-      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "hnUrl": "https://news.ycombinator.com/item?id=47434047",
-      "score": 432,
-      "comments": 227
-    },
-    {
-      "title": "The strait of Hormuz blockade will strangle US defense industry",
-      "url": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs",
-      "hnUrl": "https://news.ycombinator.com/item?id=47438182",
-      "score": 6,
-      "comments": 2
-    },
-    {
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
-      "hnUrl": "https://news.ycombinator.com/item?id=47431671",
-      "score": 152,
-      "comments": 47
-    },
-    {
-      "title": "Wander – A tiny, decentralised tool to explore the small web",
-      "url": "https://susam.net/wander/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47422759",
-      "score": 301,
-      "comments": 74
-    },
-    {
-      "title": "Autoresearch for SAT Solvers",
-      "url": "https://github.com/iliazintchenko/agent-sat",
-      "hnUrl": "https://news.ycombinator.com/item?id=47433265",
+      "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "hnUrl": "https://news.ycombinator.com/item?id=47403905",
       "score": 140,
-      "comments": 27
+      "comments": 68
+    },
+    {
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
+      "hnUrl": "https://news.ycombinator.com/item?id=47445599",
+      "score": 279,
+      "comments": 159
+    },
+    {
+      "title": "Cursor Composer 2 is just Kimi K2.5 with RL",
+      "url": "https://twitter.com/fynnso/status/2034706304875602030",
+      "hnUrl": "https://news.ycombinator.com/item?id=47452404",
+      "score": 123,
+      "comments": 58
+    },
+    {
+      "title": "4Chan mocks £520k fine for UK online safety breaches",
+      "url": "https://www.bbc.com/news/articles/c624330lg1ko",
+      "hnUrl": "https://news.ycombinator.com/item?id=47440430",
+      "score": 400,
+      "comments": 714
+    },
+    {
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "hnUrl": "https://news.ycombinator.com/item?id=47438723",
+      "score": 1396,
+      "comments": 851
+    },
+    {
+      "title": "Noq: n0's new QUIC implementation in Rust",
+      "url": "https://www.iroh.computer/blog/noq-announcement",
+      "hnUrl": "https://news.ycombinator.com/item?id=47443588",
+      "score": 219,
+      "comments": 33
     }
   ]
 }
