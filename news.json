@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-21T12:24:42.231Z",
+  "updated": "2026-03-22T12:26:42.272Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "OpenCode – Open source AI coding agent",
-      "url": "https://opencode.ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47460525",
-      "score": 887,
-      "comments": 412
+      "title": "Hormuz Minesweeper – Are you tired of winning?",
+      "url": "https://hormuz.pythonic.ninja/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47475686",
+      "score": 276,
+      "comments": 105
     },
     {
-      "title": "Mamba-3",
-      "url": "https://www.together.ai/blog/mamba-3",
-      "hnUrl": "https://news.ycombinator.com/item?id=47419391",
-      "score": 156,
-      "comments": 23
-    },
-    {
-      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "url": "https://blog.atuin.sh/atuin-v18-13/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47465824",
-      "score": 32,
+      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "url": "https://github.com/danveloper/flash-moe",
+      "hnUrl": "https://news.ycombinator.com/item?id=47476422",
+      "score": 35,
       "comments": 6
     },
     {
-      "title": "FFmpeg 101 (2024)",
-      "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47463547",
-      "score": 111,
-      "comments": 1
+      "title": "The three pillars of JavaScript bloat",
+      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "hnUrl": "https://news.ycombinator.com/item?id=47473718",
+      "score": 353,
+      "comments": 188
     },
     {
-      "title": "A Japanese glossary of chopsticks faux pas (2022)",
-      "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47460452",
-      "score": 302,
-      "comments": 238
+      "title": "My first patch to the Linux kernel",
+      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47444909",
+      "score": 133,
+      "comments": 18
     },
     {
-      "title": "Molly Guard",
-      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47455138",
-      "score": 123,
-      "comments": 50
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "hnUrl": "https://news.ycombinator.com/item?id=47470773",
+      "score": 516,
+      "comments": 293
     },
     {
-      "title": "Fujifilm X RAW STUDIO webapp clone",
-      "url": "https://github.com/eggricesoy/filmkit",
-      "hnUrl": "https://news.ycombinator.com/item?id=47435081",
-      "score": 76,
-      "comments": 30
+      "title": "Some things just take time",
+      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47467537",
+      "score": 742,
+      "comments": 235
     },
     {
-      "title": "Ghostling",
-      "url": "https://github.com/ghostty-org/ghostling",
-      "hnUrl": "https://news.ycombinator.com/item?id=47461378",
-      "score": 238,
-      "comments": 42
+      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+      "url": "https://zenodo.org/records/18976656",
+      "hnUrl": "https://news.ycombinator.com/item?id=47475155",
+      "score": 33,
+      "comments": 20
     },
     {
-      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "hnUrl": "https://news.ycombinator.com/item?id=47461094",
-      "score": 234,
-      "comments": 143
+      "title": "Chest Fridge (2009)",
+      "url": "https://mtbest.net/chest-fridge/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47473279",
+      "score": 130,
+      "comments": 74
     },
     {
-      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "hnUrl": "https://news.ycombinator.com/item?id=47462483",
-      "score": 113,
-      "comments": 12
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "url": "https://tooscut.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47471601",
+      "score": 292,
+      "comments": 102
     },
     {
-      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "hnUrl": "https://news.ycombinator.com/item?id=47464818",
-      "score": 84,
-      "comments": 13
+      "title": "Floci – A free, open-source local AWS emulator",
+      "url": "https://github.com/hectorvent/floci",
+      "hnUrl": "https://news.ycombinator.com/item?id=47471801",
+      "score": 216,
+      "comments": 62
     },
     {
-      "title": "The Los Angeles Aqueduct Is Wild",
-      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "hnUrl": "https://news.ycombinator.com/item?id=47416543",
-      "score": 370,
-      "comments": 180
+      "title": "Boomloom: Think with your hands",
+      "url": "https://www.theboomloom.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=47457570",
+      "score": 137,
+      "comments": 14
     },
     {
-      "title": "Attention Residuals",
-      "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "hnUrl": "https://news.ycombinator.com/item?id=47458595",
-      "score": 186,
-      "comments": 25
+      "title": "Electronics for Kids, 2nd Edition",
+      "url": "https://nostarch.com/electronics-for-kids-2e",
+      "hnUrl": "https://news.ycombinator.com/item?id=47434986",
+      "score": 207,
+      "comments": 45
     },
     {
-      "title": "The worst volume control UI in the world (2017)",
-      "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-      "hnUrl": "https://news.ycombinator.com/item?id=47423762",
-      "score": 152,
-      "comments": 75
+      "title": "Bayesian statistics for confused data scientists",
+      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47428953",
+      "score": 136,
+      "comments": 36
     },
     {
-      "title": "Meta's Omnilingual MT for 1,600 Languages",
-      "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-      "hnUrl": "https://news.ycombinator.com/item?id=47421749",
-      "score": 6,
-      "comments": 0
+      "title": "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
+      "url": "https://www.royalbhati.com/hoptab",
+      "hnUrl": "https://news.ycombinator.com/item?id=47474967",
+      "score": 41,
+      "comments": 18
+    },
+    {
+      "title": "Sashiko: An agentic Linux kernel code review system",
+      "url": "https://sashiko.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47474323",
+      "score": 34,
+      "comments": 3
     }
   ]
 }
