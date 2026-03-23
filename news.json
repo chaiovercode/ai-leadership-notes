@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-22T12:26:42.272Z",
+  "updated": "2026-03-23T12:39:45.772Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Hormuz Minesweeper – Are you tired of winning?",
-      "url": "https://hormuz.pythonic.ninja/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47475686",
-      "score": 276,
-      "comments": 105
+      "title": "Migrating to the EU",
+      "url": "https://rz01.org/eu-migration/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47487436",
+      "score": 256,
+      "comments": 167
     },
     {
-      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+      "url": "https://indieweb.org/POSSE",
+      "hnUrl": "https://news.ycombinator.com/item?id=47486726",
+      "score": 189,
+      "comments": 47
+    },
+    {
+      "title": "GitHub appears to be struggling with measly three nines availability",
+      "url": "https://www.theregister.com/2026/02/10/github_outages/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47487584",
+      "score": 87,
+      "comments": 31
+    },
+    {
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47480507",
+      "score": 665,
+      "comments": 313
+    },
+    {
+      "title": "Walmart: ChatGPT checkout converted 3x worse than website",
+      "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+      "hnUrl": "https://news.ycombinator.com/item?id=47444812",
+      "score": 144,
+      "comments": 99
+    },
+    {
+      "title": "Bombadil: Property-based testing for web UIs by Antithesis",
+      "url": "https://github.com/antithesishq/bombadil",
+      "hnUrl": "https://news.ycombinator.com/item?id=47436592",
+      "score": 7,
+      "comments": 0
+    },
+    {
+      "title": "Tin Can, a 'landline' for kids",
+      "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
+      "hnUrl": "https://news.ycombinator.com/item?id=47454647",
+      "score": 181,
+      "comments": 130
+    },
+    {
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47480886",
+      "score": 420,
+      "comments": 120
+    },
+    {
+      "title": "The future of version control",
+      "url": "https://bramcohen.com/p/manyana",
+      "hnUrl": "https://news.ycombinator.com/item?id=47478401",
+      "score": 555,
+      "comments": 307
+    },
+    {
+      "title": "Reports of code's death are greatly exaggerated",
+      "url": "https://stevekrouse.com/precision",
+      "hnUrl": "https://news.ycombinator.com/item?id=47476315",
+      "score": 437,
+      "comments": 330
+    },
+    {
+      "title": "Why I love NixOS",
+      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47479751",
+      "score": 341,
+      "comments": 244
+    },
+    {
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "url": "https://www.projectnomad.us",
+      "hnUrl": "https://news.ycombinator.com/item?id=47476821",
+      "score": 487,
+      "comments": 169
+    },
+    {
+      "title": "Dataframe 1.0.0.0",
+      "url": "https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834",
+      "hnUrl": "https://news.ycombinator.com/item?id=47486915",
+      "score": 45,
+      "comments": 4
+    },
+    {
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
       "hnUrl": "https://news.ycombinator.com/item?id=47476422",
-      "score": 35,
-      "comments": 6
+      "score": 364,
+      "comments": 116
     },
     {
-      "title": "The three pillars of JavaScript bloat",
-      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "hnUrl": "https://news.ycombinator.com/item?id=47473718",
-      "score": 353,
-      "comments": 188
-    },
-    {
-      "title": "My first patch to the Linux kernel",
-      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47444909",
-      "score": 133,
-      "comments": 18
-    },
-    {
-      "title": "Tinybox – A powerful computer for deep learning",
-      "url": "https://tinygrad.org/#tinybox",
-      "hnUrl": "https://news.ycombinator.com/item?id=47470773",
-      "score": 516,
-      "comments": 293
-    },
-    {
-      "title": "Some things just take time",
-      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47467537",
-      "score": 742,
-      "comments": 235
-    },
-    {
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "url": "https://zenodo.org/records/18976656",
-      "hnUrl": "https://news.ycombinator.com/item?id=47475155",
-      "score": 33,
-      "comments": 20
-    },
-    {
-      "title": "Chest Fridge (2009)",
-      "url": "https://mtbest.net/chest-fridge/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47473279",
-      "score": 130,
-      "comments": 74
-    },
-    {
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "url": "https://tooscut.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47471601",
-      "score": 292,
-      "comments": 102
-    },
-    {
-      "title": "Floci – A free, open-source local AWS emulator",
-      "url": "https://github.com/hectorvent/floci",
-      "hnUrl": "https://news.ycombinator.com/item?id=47471801",
-      "score": 216,
-      "comments": 62
-    },
-    {
-      "title": "Boomloom: Think with your hands",
-      "url": "https://www.theboomloom.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=47457570",
-      "score": 137,
-      "comments": 14
-    },
-    {
-      "title": "Electronics for Kids, 2nd Edition",
-      "url": "https://nostarch.com/electronics-for-kids-2e",
-      "hnUrl": "https://news.ycombinator.com/item?id=47434986",
-      "score": 207,
-      "comments": 45
-    },
-    {
-      "title": "Bayesian statistics for confused data scientists",
-      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47428953",
-      "score": 136,
-      "comments": 36
-    },
-    {
-      "title": "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
-      "url": "https://www.royalbhati.com/hoptab",
-      "hnUrl": "https://news.ycombinator.com/item?id=47474967",
-      "score": 41,
-      "comments": 18
-    },
-    {
-      "title": "Sashiko: An agentic Linux kernel code review system",
-      "url": "https://sashiko.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47474323",
-      "score": 34,
-      "comments": 3
+      "title": "You are not your job",
+      "url": "https://jry.io/writing/you-are-not-your-job/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47478548",
+      "score": 228,
+      "comments": 259
     }
   ]
 }
