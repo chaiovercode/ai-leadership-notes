@@ -1,76 +1,91 @@
 {
-  "updated": "2026-03-16T10:10:30.079Z",
+  "updated": "2026-03-23T10:08:48.242Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": []
+      "articles": [
+        {
+          "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+          "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+          "date": "2026-03-22T18:41:09.000Z",
+          "description": "Building on top of a Chinese model feels particularly fraught right now.",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
         {
-          "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-          "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-          "date": "2026-03-14T13:00:00.000Z",
-          "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+          "title": "Do you want to build a robot snowman?",
+          "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+          "date": "2026-03-22T19:45:07.000Z",
+          "description": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
           "source": "TechCrunch"
         },
         {
-          "title": "Not built right the first time  Musks xAI is starting over again, again",
-          "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-          "date": "2026-03-14T00:12:22.000Z",
-          "description": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+          "title": "An exclusive tour of Amazons Trainium lab, the chip thats won over Anthropic, OpenAI, even Apple",
+          "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+          "date": "2026-03-22T12:00:00.000Z",
+          "description": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
           "source": "TechCrunch"
         },
         {
-          "title": "Steven Spielberg says hes never used AI in any of his films",
-          "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-          "date": "2026-03-13T19:47:58.000Z",
-          "description": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+          "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+          "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+          "date": "2026-03-22T06:20:43.000Z",
+          "description": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
           "source": "TechCrunch"
         },
         {
-          "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-          "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
-          "date": "2026-03-13T14:00:00.000Z",
-          "description": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
+          "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+          "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+          "date": "2026-03-21T19:30:27.000Z",
+          "description": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
           "source": "TechCrunch"
         },
         {
-          "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
-          "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
-          "date": "2026-03-13T04:30:00.000Z",
-          "description": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call ...",
+          "title": "Why Wall Street wasnt won over by Nvidias big conference",
+          "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+          "date": "2026-03-21T16:28:00.000Z",
+          "description": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
           "source": "TechCrunch"
         },
         {
-          "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-          "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-          "date": "2026-03-12T23:25:39.000Z",
-          "description": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its ...",
+          "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+          "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+          "date": "2026-03-21T01:40:28.000Z",
+          "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec...",
           "source": "TechCrunch"
         },
         {
-          "title": "Facebook Marketplace now lets Meta AI respond to buyers messages",
-          "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-          "date": "2026-03-12T18:20:33.000Z",
-          "description": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, a...",
+          "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+          "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+          "date": "2026-03-20T20:53:09.000Z",
+          "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
           "source": "TechCrunch"
         },
         {
-          "title": "How AI is helping improve heart health in rural Australia",
-          "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-          "date": "2026-03-12T15:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIHealth_v2_2096x1182_02.max-600x600.format-webp.webp\"&gt;A new Google AI initiative aims to improve heart health outcomes ...",
-          "source": "Google AI Blog"
+          "title": "The best AI investment might be in energy tech",
+          "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+          "date": "2026-03-20T12:00:00.000Z",
+          "description": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+          "source": "TechCrunch"
         },
         {
-          "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-          "date": "2026-03-10T13:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\"&gt;Today we announced new beta features for Gemini in Sheets ...",
+          "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+          "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+          "date": "2026-03-19T17:24:13.000Z",
+          "description": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Bringing the power of Personal Intelligence to more people",
+          "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+          "date": "2026-03-17T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_gl7r1il.max-600x600.format-webp.webp\"&gt;We're expanding Personal Intelligence across AI Mode in Search, the Gemini ...",
           "source": "Google AI Blog"
         }
       ]
@@ -80,17 +95,17 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-          "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-          "date": "2026-03-13T21:37:01.000Z",
-          "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+          "title": "WordPress.com now lets AI agents write and publish posts, and more",
+          "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+          "date": "2026-03-20T16:43:09.000Z",
+          "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
           "source": "TechCrunch"
         },
         {
-          "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-          "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-          "date": "2026-03-12T22:25:50.000Z",
-          "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+          "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+          "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+          "date": "2026-03-19T19:09:02.000Z",
+          "description": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
           "source": "TechCrunch"
         }
       ]
@@ -100,66 +115,17 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Google, Accel India accelerator chooses 5 startups and none are AI wrappers",
-          "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-          "date": "2026-03-16T00:30:00.000Z",
-          "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+          "title": "Delve accused of misleading customers with ‘fake compliance’",
+          "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+          "date": "2026-03-22T14:43:51.000Z",
+          "description": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
           "source": "TechCrunch"
         },
         {
-          "title": "Wiz investor unpacks Google’s $32B acquisition",
-          "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
-          "date": "2026-03-15T15:30:33.000Z",
-          "description": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "US Army announces contract with Anduril worth up to $20B",
-          "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-          "date": "2026-03-14T20:47:47.000Z",
-          "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-          "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-          "date": "2026-03-14T16:28:42.000Z",
-          "description": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-          "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-          "date": "2026-03-13T21:37:01.000Z",
-          "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The biggest AI stories of the year (so far)",
-          "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-          "date": "2026-03-13T19:38:11.000Z",
-          "description": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The $32B acquisition that one VC is calling the Deal of the Decade",
-          "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
-          "date": "2026-03-13T16:20:23.000Z",
-          "description": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-          "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-          "date": "2026-03-13T05:00:00.000Z",
-          "description": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrive...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-          "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-          "date": "2026-03-12T22:25:50.000Z",
-          "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+          "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+          "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+          "date": "2026-03-22T06:20:43.000Z",
+          "description": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
           "source": "TechCrunch"
         }
       ]
@@ -169,45 +135,66 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
-          "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
-          "date": "2026-03-15T21:01:51.000Z",
-          "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+          "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+          "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+          "date": "2026-03-22T16:20:00.000Z",
+          "description": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
           "source": "TechCrunch"
         },
         {
-          "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-          "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-          "date": "2026-03-15T18:49:32.000Z",
-          "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+          "title": "Delve accused of misleading customers with ‘fake compliance’",
+          "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+          "date": "2026-03-22T14:43:51.000Z",
+          "description": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
           "source": "TechCrunch"
         },
         {
-          "title": "US Army announces contract with Anduril worth up to $20B",
-          "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-          "date": "2026-03-14T20:47:47.000Z",
-          "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+          "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+          "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+          "date": "2026-03-21T01:40:28.000Z",
+          "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec...",
           "source": "TechCrunch"
         },
         {
-          "title": "The biggest AI stories of the year (so far)",
-          "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-          "date": "2026-03-13T19:38:11.000Z",
-          "description": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+          "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+          "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+          "date": "2026-03-20T20:02:35.000Z",
+          "description": "CEOJensen Huang took the stage atNvidias GTC conferencethis week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting$1 trillionin AI chip sales through 2027, declaring...",
           "source": "TechCrunch"
         },
         {
-          "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
-          "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
-          "date": "2026-03-13T17:09:59.000Z",
-          "description": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+          "title": "Nvidia has an OpenClaw strategy. Do you?",
+          "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+          "date": "2026-03-20T19:48:38.000Z",
+          "description": "CEOJensen Huang took the stage atNvidias GTC conferencethis week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting$1 trillionin AI chip sales through 2027, declaring...",
           "source": "TechCrunch"
         },
         {
-          "title": "Spotify will let you edit your Taste Profile to control your recommendations",
-          "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
-          "date": "2026-03-13T17:04:12.000Z",
-          "description": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
+          "title": "Trumps AI framework targets state laws, shifts child safety burden to parents",
+          "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+          "date": "2026-03-20T16:14:04.000Z",
+          "description": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "These AI notetaking devices can help you record and transcribe your meetings",
+          "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+          "date": "2026-03-20T11:31:38.000Z",
+          "description": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+          "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+          "date": "2026-03-19T22:09:24.000Z",
+          "description": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DoorDash launches a new Tasks app that pays couriers to submit videos to train AI",
+          "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+          "date": "2026-03-19T16:14:00.000Z",
+          "description": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
           "source": "TechCrunch"
         }
       ]
