@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-25T12:40:23.735Z",
+  "updated": "2026-03-26T12:48:18.602Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Meta told to pay $375M for misleading users over child safety",
-      "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
-      "hnUrl": "https://news.ycombinator.com/item?id=47514916",
-      "score": 146,
-      "comments": 60
-    },
-    {
-      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47513475",
-      "score": 233,
-      "comments": 51
-    },
-    {
-      "title": "Goodbye to Sora",
-      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "hnUrl": "https://news.ycombinator.com/item?id=47508246",
-      "score": 800,
-      "comments": 584
-    },
-    {
-      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
-      "url": "https://v-os.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=47512816",
-      "score": 187,
-      "comments": 116
-    },
-    {
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
-      "hnUrl": "https://news.ycombinator.com/item?id=47511589",
-      "score": 360,
-      "comments": 121
-    },
-    {
-      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "hnUrl": "https://news.ycombinator.com/item?id=47506713",
-      "score": 459,
-      "comments": 92
-    },
-    {
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "hnUrl": "https://news.ycombinator.com/item?id=47501426",
-      "score": 739,
-      "comments": 439
-    },
-    {
-      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
-      "url": "https://spectrum.ieee.org/data-center-dc",
-      "hnUrl": "https://news.ycombinator.com/item?id=47511703",
-      "score": 173,
-      "comments": 202
-    },
-    {
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47504112",
-      "score": 658,
-      "comments": 370
-    },
-    {
-      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-      "hnUrl": "https://news.ycombinator.com/item?id=47515502",
-      "score": 72,
-      "comments": 69
-    },
-    {
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "hnUrl": "https://news.ycombinator.com/item?id=47509571",
-      "score": 326,
-      "comments": 133
-    },
-    {
-      "title": "Why I forked httpx",
-      "url": "https://tildeweb.nl/~michiel/httpxyz.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47514603",
-      "score": 138,
-      "comments": 92
-    },
-    {
-      "title": "Arm AGI CPU",
-      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "hnUrl": "https://news.ycombinator.com/item?id=47506251",
+      "title": "Personal Encyclopedias",
+      "url": "https://whoami.wiki/blog/personal-encyclopedias",
+      "hnUrl": "https://news.ycombinator.com/item?id=47522173",
       "score": 362,
-      "comments": 271
+      "comments": 74
     },
     {
-      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-      "url": "https://www.emailmd.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47505144",
-      "score": 318,
-      "comments": 82
+      "title": "Swift 6.3",
+      "url": "https://www.swift.org/blog/swift-6.3-released/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47527590",
+      "score": 134,
+      "comments": 61
     },
     {
-      "title": "Algorithm Visualizer",
-      "url": "https://algorithm-visualizer.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47463548",
-      "score": 128,
-      "comments": 7
+      "title": "From zero to a RAG system: successes and failures",
+      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47499356",
+      "score": 69,
+      "comments": 11
+    },
+    {
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47523330",
+      "score": 685,
+      "comments": 221
+    },
+    {
+      "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+      "url": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47525243",
+      "score": 192,
+      "comments": 79
+    },
+    {
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3",
+      "hnUrl": "https://news.ycombinator.com/item?id=47521150",
+      "score": 425,
+      "comments": 270
+    },
+    {
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47517606",
+      "score": 173,
+      "comments": 91
+    },
+    {
+      "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
+      "url": "https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47473673",
+      "score": 165,
+      "comments": 119
+    },
+    {
+      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
+      "hnUrl": "https://news.ycombinator.com/item?id=47527399",
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "title": "More precise elevation data for GraphHopper routing engine",
+      "url": "https://www.graphhopper.com/blog/2026/03/23/more-precise-elevation-data-for-graphhopper/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47491848",
+      "score": 62,
+      "comments": 4
+    },
+    {
+      "title": "My DIY FPGA board can run Quake II",
+      "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47483286",
+      "score": 178,
+      "comments": 52
+    },
+    {
+      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
+      "hnUrl": "https://news.ycombinator.com/item?id=47521157",
+      "score": 320,
+      "comments": 199
+    },
+    {
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "hnUrl": "https://news.ycombinator.com/item?id=47522709",
+      "score": 1279,
+      "comments": 342
+    },
+    {
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47518281",
+      "score": 365,
+      "comments": 281
+    },
+    {
+      "title": "When it comes to data-ink ratio, optimize rather than maximize",
+      "url": "https://scienceux.org/articles/data-ink-ideal-vs-minimal",
+      "hnUrl": "https://news.ycombinator.com/item?id=47467271",
+      "score": 3,
+      "comments": 0
     }
   ]
 }
