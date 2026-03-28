@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-27T12:38:10.996Z",
+  "updated": "2026-03-28T12:30:25.900Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47540833",
-      "score": 186,
-      "comments": 139
+      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "url": "https://github.com/J-x-Z/cocoa-way",
+      "hnUrl": "https://news.ycombinator.com/item?id=47553185",
+      "score": 89,
+      "comments": 23
     },
     {
-      "title": "A Faster Alternative to Jq",
-      "url": "https://micahkepe.com/blog/jsongrep/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47539825",
-      "score": 184,
-      "comments": 96
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "hnUrl": "https://news.ycombinator.com/item?id=47552562",
+      "score": 132,
+      "comments": 66
     },
     {
-      "title": "Schedule tasks on the web",
-      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "hnUrl": "https://news.ycombinator.com/item?id=47539188",
-      "score": 176,
-      "comments": 135
+      "title": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47550282",
+      "score": 407,
+      "comments": 234
     },
     {
-      "title": "Apple discontinues the Mac Pro",
-      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47535708",
-      "score": 443,
-      "comments": 356
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47550878",
+      "score": 198,
+      "comments": 101
     },
     {
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "hnUrl": "https://news.ycombinator.com/item?id=47518960",
-      "score": 867,
-      "comments": 173
+      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+      "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47553796",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "Everything old is new again: memory optimization",
-      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47493246",
-      "score": 66,
-      "comments": 27
+      "title": "Make macOS consistently bad unironically",
+      "url": "https://lr0.org/blog/p/macos/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47547009",
+      "score": 434,
+      "comments": 314
     },
     {
-      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47536761",
-      "score": 275,
-      "comments": 77
+      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+      "url": "https://github.com/dbrll/ATTN-11",
+      "hnUrl": "https://news.ycombinator.com/item?id=47518568",
+      "score": 19,
+      "comments": 0
     },
     {
-      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
-      "url": "https://github.com/itigges22/ATLAS",
-      "hnUrl": "https://news.ycombinator.com/item?id=47533297",
-      "score": 324,
-      "comments": 183
+      "title": "Britain today generating 90%+ of electricity from renewables",
+      "url": "https://grid.iamkate.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47553484",
+      "score": 5,
+      "comments": 3
     },
     {
-      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-      "hnUrl": "https://news.ycombinator.com/item?id=47536712",
-      "score": 190,
-      "comments": 181
+      "title": "The bee that everyone wants to save",
+      "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47520599",
+      "score": 134,
+      "comments": 43
     },
     {
-      "title": "DOOM Over DNS",
-      "url": "https://github.com/resumex/doom-over-dns",
-      "hnUrl": "https://news.ycombinator.com/item?id=47490705",
-      "score": 305,
-      "comments": 84
+      "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
+      "url": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47495245",
+      "score": 264,
+      "comments": 123
     },
     {
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47531967",
-      "score": 388,
-      "comments": 147
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "hnUrl": "https://news.ycombinator.com/item?id=47543139",
+      "score": 511,
+      "comments": 229
     },
     {
-      "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
-      "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47495190",
-      "score": 109,
-      "comments": 12
+      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+      "url": "https://twitchroulette.net/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47549160",
+      "score": 137,
+      "comments": 72
     },
     {
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47523330",
-      "score": 903,
-      "comments": 313
+      "title": "Nashville library launches Memory Lab for digitizing home movies",
+      "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
+      "hnUrl": "https://news.ycombinator.com/item?id=47498571",
+      "score": 154,
+      "comments": 39
     },
     {
-      "title": "Show HN: Minimalist library to generate SVG views of scientific data",
-      "url": "https://github.com/alefore/mini_svg/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47492871",
-      "score": 36,
-      "comments": 2
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "url": "https://github.com/davidmonterocrespo24/velxio",
+      "hnUrl": "https://news.ycombinator.com/item?id=47548013",
+      "score": 162,
+      "comments": 46
     },
     {
-      "title": "HyperAgents: Self-referential self-improving agents",
-      "url": "https://github.com/facebookresearch/hyperagents",
-      "hnUrl": "https://news.ycombinator.com/item?id=47505670",
-      "score": 199,
-      "comments": 70
+      "title": "Arm releases first in-house chip, with Meta as debut customer",
+      "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47511112",
+      "score": 28,
+      "comments": 8
     }
   ]
 }
