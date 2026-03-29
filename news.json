@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-28T12:30:25.900Z",
+  "updated": "2026-03-29T12:30:52.466Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "url": "https://github.com/J-x-Z/cocoa-way",
-      "hnUrl": "https://news.ycombinator.com/item?id=47553185",
-      "score": 89,
-      "comments": 23
+      "title": "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
+      "url": "https://sheetninja.io",
+      "hnUrl": "https://news.ycombinator.com/item?id=47562288",
+      "score": 25,
+      "comments": 31
     },
     {
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "hnUrl": "https://news.ycombinator.com/item?id=47552562",
-      "score": 132,
-      "comments": 66
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "hnUrl": "https://news.ycombinator.com/item?id=47561819",
+      "score": 30,
+      "comments": 10
     },
     {
-      "title": "Go hard on agents, not on your filesystem",
-      "url": "https://jai.scs.stanford.edu/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47550282",
-      "score": 407,
-      "comments": 234
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47556729",
+      "score": 1135,
+      "comments": 221
     },
     {
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47550878",
-      "score": 198,
-      "comments": 101
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47524778",
+      "score": 98,
+      "comments": 47
     },
     {
-      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
-      "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47553796",
-      "score": 1,
-      "comments": 0
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "hnUrl": "https://news.ycombinator.com/item?id=47554773",
+      "score": 673,
+      "comments": 527
     },
     {
-      "title": "Make macOS consistently bad unironically",
-      "url": "https://lr0.org/blog/p/macos/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47547009",
-      "score": 434,
-      "comments": 314
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47557960",
+      "score": 383,
+      "comments": 89
     },
     {
-      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-      "url": "https://github.com/dbrll/ATTN-11",
-      "hnUrl": "https://news.ycombinator.com/item?id=47518568",
+      "title": "Siclair Microvision (1977)",
+      "url": "https://r-type.org/articles/art-452.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47533324",
+      "score": 18,
+      "comments": 6
+    },
+    {
+      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
+      "url": "https://github.com/1st1/lat.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=47561496",
+      "score": 30,
+      "comments": 7
+    },
+    {
+      "title": "Show HN: Public transit systems as data – lines, stations, railcars, and history",
+      "url": "https://publictransit.systems",
+      "hnUrl": "https://news.ycombinator.com/item?id=47561132",
       "score": 19,
-      "comments": 0
+      "comments": 7
     },
     {
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "url": "https://grid.iamkate.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47553484",
-      "score": 5,
-      "comments": 3
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "hnUrl": "https://news.ycombinator.com/item?id=47559481",
+      "score": 148,
+      "comments": 100
     },
     {
-      "title": "The bee that everyone wants to save",
-      "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47520599",
-      "score": 134,
-      "comments": 43
+      "title": "OpenBSD on Motorola 88000 Processors",
+      "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47543186",
+      "score": 105,
+      "comments": 14
     },
     {
-      "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
-      "url": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47495245",
-      "score": 264,
-      "comments": 123
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "hnUrl": "https://news.ycombinator.com/item?id=47557166",
+      "score": 223,
+      "comments": 151
     },
     {
-      "title": "Anatomy of the .claude/ folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "hnUrl": "https://news.ycombinator.com/item?id=47543139",
-      "score": 511,
-      "comments": 229
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "hnUrl": "https://news.ycombinator.com/item?id=47555556",
+      "score": 542,
+      "comments": 198
     },
     {
-      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-      "url": "https://twitchroulette.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47549160",
-      "score": 137,
-      "comments": 72
+      "title": "What if AI doesn't need more RAM but better math?",
+      "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+      "hnUrl": "https://news.ycombinator.com/item?id=47561297",
+      "score": 58,
+      "comments": 24
     },
     {
-      "title": "Nashville library launches Memory Lab for digitizing home movies",
-      "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-      "hnUrl": "https://news.ycombinator.com/item?id=47498571",
-      "score": 154,
-      "comments": 39
-    },
-    {
-      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-      "url": "https://github.com/davidmonterocrespo24/velxio",
-      "hnUrl": "https://news.ycombinator.com/item?id=47548013",
-      "score": 162,
-      "comments": 46
-    },
-    {
-      "title": "Arm releases first in-house chip, with Meta as debut customer",
-      "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47511112",
-      "score": 28,
-      "comments": 8
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "hnUrl": "https://news.ycombinator.com/item?id=47553717",
+      "score": 408,
+      "comments": 68
     }
   ]
 }
