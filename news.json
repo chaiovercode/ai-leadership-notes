@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-30T12:51:54.620Z",
+  "updated": "2026-03-31T12:51:24.979Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "How the AI Bubble Bursts",
-      "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47573420",
-      "score": 18,
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "hnUrl": "https://news.ycombinator.com/item?id=47582220",
+      "score": 1087,
+      "comments": 393
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "hnUrl": "https://news.ycombinator.com/item?id=47582482",
+      "score": 371,
+      "comments": 183
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47582043",
+      "score": 456,
+      "comments": 282
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "hnUrl": "https://news.ycombinator.com/item?id=47584540",
+      "score": 488,
+      "comments": 264
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "hnUrl": "https://news.ycombinator.com/item?id=47581701",
+      "score": 351,
+      "comments": 129
+    },
+    {
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47583045",
+      "score": 168,
+      "comments": 74
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47577761",
+      "score": 588,
+      "comments": 219
+    },
+    {
+      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=47585008",
+      "score": 34,
+      "comments": 6
+    },
+    {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47573519",
+      "score": 608,
+      "comments": 201
+    },
+    {
+      "title": "30 Years Ago, Robots Learned to Walk Without Falling",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "hnUrl": "https://news.ycombinator.com/item?id=47561470",
+      "score": 15,
+      "comments": 1
+    },
+    {
+      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47582984",
+      "score": 339,
+      "comments": 200
+    },
+    {
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "hnUrl": "https://news.ycombinator.com/item?id=47532891",
+      "score": 240,
+      "comments": 28
+    },
+    {
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47583712",
+      "score": 1,
       "comments": 0
     },
     {
-      "title": "Mathematical methods and human thought in the age of AI",
-      "url": "https://arxiv.org/abs/2603.26524",
-      "hnUrl": "https://news.ycombinator.com/item?id=47572771",
-      "score": 34,
-      "comments": 2
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47580297",
+      "score": 285,
+      "comments": 283
     },
     {
-      "title": "The curious case of retro demo scene graphics",
-      "url": "https://www.datagubbe.se/aipixels/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47570666",
-      "score": 233,
-      "comments": 51
-    },
-    {
-      "title": "I use excalidraw to manage my diagrams for my blog",
-      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47571376",
-      "score": 122,
-      "comments": 53
-    },
-    {
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47566865",
-      "score": 749,
-      "comments": 481
-    },
-    {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47571495",
-      "score": 71,
-      "comments": 18
-    },
-    {
-      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47564421",
-      "score": 583,
-      "comments": 218
-    },
-    {
-      "title": "Copilot edited an ad into my PR",
-      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47570269",
-      "score": 810,
-      "comments": 244
-    },
-    {
-      "title": "15 Years of Forking",
-      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47545607",
-      "score": 217,
-      "comments": 38
-    },
-    {
-      "title": "C++26 is done: ISO C++ standards meeting Trip Report",
-      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47565365",
-      "score": 260,
-      "comments": 245
-    },
-    {
-      "title": "Ask HN: Where have you found the coding limits of current models?",
-      "url": "https://news.ycombinator.com/item?id=47573224",
-      "hnUrl": "https://news.ycombinator.com/item?id=47573224",
-      "score": 14,
-      "comments": 15
-    },
-    {
-      "title": "My MacBook keyboard is broken and it's insanely expensive to fix",
-      "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47566143",
-      "score": 256,
-      "comments": 310
-    },
-    {
-      "title": "Philly courts will ban all smart eyeglasses starting next week",
-      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47569471",
-      "score": 297,
-      "comments": 120
-    },
-    {
-      "title": "Douglas Lenat's Automated Mathematician Source Code",
-      "url": "https://github.com/white-flame/am",
-      "hnUrl": "https://news.ycombinator.com/item?id=47519622",
-      "score": 37,
-      "comments": 4
-    },
-    {
-      "title": "Coding agents could make free software matter again",
-      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47568028",
-      "score": 217,
-      "comments": 205
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47574034",
+      "score": 702,
+      "comments": 248
     }
   ]
 }
