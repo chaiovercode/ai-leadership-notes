@@ -1,111 +1,111 @@
 {
-  "updated": "2026-03-31T12:51:24.979Z",
+  "updated": "2026-04-01T12:52:40.226Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "hnUrl": "https://news.ycombinator.com/item?id=47582220",
-      "score": 1087,
-      "comments": 393
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47597085",
+      "score": 612,
+      "comments": 189
     },
     {
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "url": "https://ollama.com/blog/mlx",
-      "hnUrl": "https://news.ycombinator.com/item?id=47582482",
-      "score": 371,
-      "comments": 183
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "hnUrl": "https://news.ycombinator.com/item?id=47597935",
+      "score": 196,
+      "comments": 47
     },
     {
-      "title": "Artemis II is not safe to fly",
-      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "hnUrl": "https://news.ycombinator.com/item?id=47582043",
-      "score": 456,
-      "comments": 282
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "hnUrl": "https://news.ycombinator.com/item?id=47571183",
+      "score": 121,
+      "comments": 45
     },
     {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "hnUrl": "https://news.ycombinator.com/item?id=47584540",
-      "score": 488,
-      "comments": 264
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=47597119",
+      "score": 92,
+      "comments": 30
     },
     {
-      "title": "Universal Claude.md – cut Claude output tokens",
-      "url": "https://github.com/drona23/claude-token-efficient",
-      "hnUrl": "https://news.ycombinator.com/item?id=47581701",
-      "score": 351,
-      "comments": 129
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "hnUrl": "https://news.ycombinator.com/item?id=47593556",
+      "score": 385,
+      "comments": 109
     },
     {
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "url": "https://github.com/google-research/timesfm",
-      "hnUrl": "https://news.ycombinator.com/item?id=47583045",
-      "score": 168,
-      "comments": 74
-    },
-    {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47577761",
-      "score": 588,
-      "comments": 219
-    },
-    {
-      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-      "hnUrl": "https://news.ycombinator.com/item?id=47585008",
-      "score": 34,
-      "comments": 6
-    },
-    {
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47573519",
-      "score": 608,
-      "comments": 201
-    },
-    {
-      "title": "30 Years Ago, Robots Learned to Walk Without Falling",
-      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
-      "hnUrl": "https://news.ycombinator.com/item?id=47561470",
-      "score": 15,
-      "comments": 1
-    },
-    {
-      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47582984",
-      "score": 339,
-      "comments": 200
-    },
-    {
-      "title": "Clojure: The Documentary, official trailer [video]",
-      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-      "hnUrl": "https://news.ycombinator.com/item?id=47532891",
-      "score": 240,
-      "comments": 28
-    },
-    {
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47583712",
+      "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
+      "url": "https://www.workatastartup.com/companies/wasmer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47599673",
       "score": 1,
       "comments": 0
     },
     {
-      "title": "Android Developer Verification",
-      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47580297",
-      "score": 285,
-      "comments": 283
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47593422",
+      "score": 306,
+      "comments": 123
     },
     {
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47574034",
-      "score": 702,
-      "comments": 248
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "hnUrl": "https://news.ycombinator.com/item?id=47541733",
+      "score": 193,
+      "comments": 25
+    },
+    {
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47557171",
+      "score": 147,
+      "comments": 16
+    },
+    {
+      "title": "MiniStack (replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47593285",
+      "score": 252,
+      "comments": 47
+    },
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47586778",
+      "score": 1236,
+      "comments": 502
+    },
+    {
+      "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47584795",
+      "score": 385,
+      "comments": 1040
+    },
+    {
+      "title": "Slop is not necessarily the future",
+      "url": "https://www.greptile.com/blog/ai-slopware-future",
+      "hnUrl": "https://news.ycombinator.com/item?id=47587953",
+      "score": 260,
+      "comments": 418
+    },
+    {
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "hnUrl": "https://news.ycombinator.com/item?id=47595572",
+      "score": 170,
+      "comments": 131
+    },
+    {
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47592755",
+      "score": 470,
+      "comments": 416
     }
   ]
 }
