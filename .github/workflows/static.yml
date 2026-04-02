@@ -6,6 +6,11 @@ on:
   push:
     branches: ["main"]
 
+  # Re-deploy when news workflows finish updating content
+  workflow_run:
+    workflows: ["Fetch Trending AI & Tech News", "Update AI News"]
+    types: [completed]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
