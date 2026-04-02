@@ -1,37 +1,37 @@
 {
-  "updated": "2026-03-30T10:23:07.629Z",
+  "updated": "2026-04-02T16:05:13.797Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "ByteDances new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-          "date": "2026-03-26T15:25:13.000Z",
-          "description": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+          "title": "Yupp shuts down after raising $33M from a16z cryptos Chris Dixon",
+          "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+          "date": "2026-03-31T20:01:07.000Z",
+          "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
           "source": "TechCrunch"
         },
         {
-          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-          "date": "2026-03-26T13:41:00.000Z",
-          "description": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Cohere launches an open source voice model specifically for transcription",
-          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-          "date": "2026-03-26T13:30:00.000Z",
-          "description": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Build with Lyria 3, our newest music generation model",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
-          "date": "2026-03-25T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp\"&gt;Lyria 3 is now available in paid preview through the Gemini API and...",
+          "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+          "date": "2026-03-31T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp\"&gt;Veo 3.1 Lite  is now available in paid preview through the Gemini API and for te...",
           "source": "Google AI Blog"
+        },
+        {
+          "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+          "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+          "date": "2026-03-31T15:00:00.000Z",
+          "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+          "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+          "date": "2026-03-31T14:00:00.000Z",
+          "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+          "source": "TechCrunch"
         }
       ]
     },
@@ -40,73 +40,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Why OpenAI really shut down Sora",
-          "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-          "date": "2026-03-30T03:09:38.000Z",
-          "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own...",
+          "title": "Create, edit and share videos at no cost in Google Vids",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+          "date": "2026-04-02T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp\"&gt;New AI capabilities are coming to Google Vids, powered by ...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+          "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+          "date": "2026-04-01T22:12:13.000Z",
+          "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
           "source": "TechCrunch"
         },
         {
-          "title": "Sora’s shutdown could be a reality check moment for AI video",
-          "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-          "date": "2026-03-29T16:30:00.000Z",
-          "description": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+          "title": "Meta’s natural gas binge could power South Dakota",
+          "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+          "date": "2026-04-01T18:35:36.000Z",
+          "description": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
           "source": "TechCrunch"
         },
         {
-          "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-          "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-          "date": "2026-03-28T23:00:00.000Z",
-          "description": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+          "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+          "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+          "date": "2026-04-01T16:00:00.000Z",
+          "description": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
           "source": "TechCrunch"
         },
         {
-          "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-          "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-          "date": "2026-03-28T20:45:54.000Z",
-          "description": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+          "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+          "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+          "date": "2026-04-01T14:00:00.000Z",
+          "description": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
           "source": "TechCrunch"
         },
         {
-          "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-          "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-          "date": "2026-03-28T16:11:16.000Z",
-          "description": "All but two of Musk's 11 xAI co-founders departed before this week.",
+          "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+          "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+          "date": "2026-04-01T13:30:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\"&gt;Google partnered with the Brazilian government on ...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "The latest AI news we announced in March 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+          "date": "2026-04-01T13:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from March 2026",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+          "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+          "date": "2026-04-01T01:42:59.000Z",
+          "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropics Claude popularity with paying consumers is skyrocketing",
-          "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-          "date": "2026-03-28T14:15:00.000Z",
-          "description": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch ...",
+          "title": "Anthropic is having a month",
+          "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+          "date": "2026-03-31T23:58:26.000Z",
+          "description": "A human really borks things at Anthropic for the second time this week.",
           "source": "TechCrunch"
         },
         {
-          "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-          "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-          "date": "2026-03-27T21:44:45.000Z",
-          "description": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Memory chip giant SK hynix could help end RAMmageddon with blockbuster US IPO",
-          "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-          "date": "2026-03-27T19:11:28.000Z",
-          "description": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "VCs are betting billions on AIs next wave, so why is OpenAI killing Sora?",
-          "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-          "date": "2026-03-27T15:40:19.000Z",
-          "description": "When an 82-year-old Kentucky woman wasoffered $26 millionfrom an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone2,000 acresnearby anyw...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-          "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-          "date": "2026-03-27T13:30:00.000Z",
-          "description": "When an 82-year-old Kentucky woman wasoffered $26 millionfrom an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone2,000 acresnearby anyw...",
+          "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+          "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+          "date": "2026-03-31T22:46:25.000Z",
+          "description": "Slack just got a whole lot more useful.",
           "source": "TechCrunch"
         }
       ]
@@ -114,17 +114,67 @@
     {
       "id": "agents",
       "name": "AI Agents & Automation",
-      "articles": []
+      "articles": [
+        {
+          "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+          "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+          "date": "2026-03-31T15:00:00.000Z",
+          "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "business",
       "name": "Business Applications",
       "articles": [
         {
-          "title": "OpenAI abandons yet another side quest: ChatGPTs erotic mode",
-          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-          "date": "2026-03-26T18:34:02.000Z",
-          "description": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+          "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+          "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+          "date": "2026-04-01T01:42:59.000Z",
+          "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          "date": "2026-03-31T21:25:04.000Z",
+          "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Yupp shuts down after raising $33M from a16z cryptos Chris Dixon",
+          "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+          "date": "2026-03-31T20:01:07.000Z",
+          "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+          "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+          "date": "2026-03-31T14:00:00.000Z",
+          "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "With its new app store, Ring bets on AI to go beyond home security",
+          "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+          "date": "2026-03-31T13:00:00.000Z",
+          "description": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+          "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+          "date": "2026-03-30T23:08:12.000Z",
+          "description": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+          "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+          "date": "2026-03-30T13:00:00.000Z",
+          "description": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
           "source": "TechCrunch"
         }
       ]
@@ -132,7 +182,29 @@
     {
       "id": "ethics",
       "name": "Ethics & Safety",
-      "articles": []
+      "articles": [
+        {
+          "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+          "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+          "date": "2026-04-01T22:12:13.000Z",
+          "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+          "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+          "date": "2026-03-31T14:00:00.000Z",
+          "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+          "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+          "date": "2026-03-30T20:24:53.000Z",
+          "description": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll...",
+          "source": "TechCrunch"
+        }
+      ]
     }
   ]
 }
