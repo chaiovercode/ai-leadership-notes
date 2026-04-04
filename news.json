@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-03T12:37:21.214Z",
+  "updated": "2026-04-04T12:30:15.832Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Show HN: Apfel – The free AI already on your Mac",
-      "url": "https://apfel.franzai.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=47624645",
-      "score": 183,
-      "comments": 25
+      "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "hnUrl": "https://news.ycombinator.com/item?id=47637757",
+      "score": 106,
+      "comments": 27
     },
     {
-      "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
-      "url": "https://only-eu.eu/en/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47624741",
-      "score": 307,
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "hnUrl": "https://news.ycombinator.com/item?id=47633396",
+      "score": 797,
+      "comments": 617
+    },
+    {
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "hnUrl": "https://news.ycombinator.com/item?id=47631118",
+      "score": 822,
+      "comments": 287
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+      "hnUrl": "https://news.ycombinator.com/item?id=47638270",
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47629433",
+      "score": 451,
+      "comments": 109
+    },
+    {
+      "title": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "hnUrl": "https://news.ycombinator.com/item?id=47628608",
+      "score": 414,
+      "comments": 206
+    },
+    {
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47585469",
+      "score": 141,
+      "comments": 18
+    },
+    {
+      "title": "Delve removed from Y Combinator",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "hnUrl": "https://news.ycombinator.com/item?id=47634690",
+      "score": 361,
+      "comments": 221
+    },
+    {
+      "title": "Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid",
+      "hnUrl": "https://news.ycombinator.com/item?id=47633131",
+      "score": 150,
+      "comments": 55
+    },
+    {
+      "title": "Improving my focus by giving up my big monitor",
+      "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47597159",
+      "score": 110,
+      "comments": 134
+    },
+    {
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "hnUrl": "https://news.ycombinator.com/item?id=47618223",
+      "score": 331,
       "comments": 123
     },
     {
-      "title": "Google releases Gemma 4 open models",
-      "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47616361",
-      "score": 1558,
-      "comments": 423
+      "title": "What changes when you turn a Linux box into a router",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47586885",
+      "score": 184,
+      "comments": 45
     },
     {
-      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "hnUrl": "https://news.ycombinator.com/item?id=47616242",
-      "score": 886,
-      "comments": 384
+      "title": "The Technocracy Movement of the 1930s",
+      "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
+      "hnUrl": "https://news.ycombinator.com/item?id=47622616",
+      "score": 120,
+      "comments": 94
     },
     {
-      "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-      "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
-      "hnUrl": "https://news.ycombinator.com/item?id=47624736",
-      "score": 118,
-      "comments": 29
+      "title": "Go on Embedded Systems and WebAssembly",
+      "url": "https://tinygo.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47629116",
+      "score": 169,
+      "comments": 23
     },
     {
-      "title": "What Category Theory Teaches Us About DataFrames",
-      "url": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47561426",
-      "score": 49,
-      "comments": 4
-    },
-    {
-      "title": "Lower Price for ChatGPT Business",
-      "url": "https://help.openai.com/en/articles/8792828-what-is-chatgpt-business",
-      "hnUrl": "https://news.ycombinator.com/item?id=47625665",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "The True Shape of Io's Steeple Mountain",
-      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "hnUrl": "https://news.ycombinator.com/item?id=47562455",
-      "score": 70,
-      "comments": 1
-    },
-    {
-      "title": "Tailscale's new macOS home",
-      "url": "https://tailscale.com/blog/macos-notch-escape",
-      "hnUrl": "https://news.ycombinator.com/item?id=47618189",
-      "score": 488,
-      "comments": 239
-    },
-    {
-      "title": "Cursor 3",
-      "url": "https://cursor.com/blog/cursor-3",
-      "hnUrl": "https://news.ycombinator.com/item?id=47618084",
-      "score": 449,
-      "comments": 340
-    },
-    {
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47609356",
-      "score": 269,
-      "comments": 116
-    },
-    {
-      "title": "Intel Assured Supply Chain Product Brief",
-      "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47573728",
-      "score": 10,
-      "comments": 1
-    },
-    {
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "hnUrl": "https://news.ycombinator.com/item?id=47615002",
-      "score": 549,
-      "comments": 188
-    },
-    {
-      "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
-      "url": "https://github.com/oven-sh/bun/pull/28801",
-      "hnUrl": "https://news.ycombinator.com/item?id=47625311",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "hnUrl": "https://news.ycombinator.com/item?id=47598413",
-      "score": 147,
-      "comments": 47
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47633855",
+      "score": 76,
+      "comments": 51
     }
   ]
 }
