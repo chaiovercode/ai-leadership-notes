@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-07T12:54:37.108Z",
+  "updated": "2026-04-08T12:54:39.441Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Are We Idiocracy Yet?",
-      "url": "https://idiocracy.wtf/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47672818",
-      "score": 472,
-      "comments": 286
+      "title": "Git commands I run before reading any code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47687273",
+      "score": 448,
+      "comments": 106
     },
     {
-      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47673005",
-      "score": 98,
-      "comments": 45
+      "title": "Veracrypt project update",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47686549",
+      "score": 492,
+      "comments": 148
     },
     {
-      "title": "LLM may be standardizing human expression – and subtly influencing how we think",
-      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47673541",
-      "score": 70,
-      "comments": 54
+      "title": "I've sold out",
+      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47687533",
+      "score": 155,
+      "comments": 87
     },
     {
-      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
-      "url": "https://locker.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=47673394",
-      "score": 56,
-      "comments": 46
+      "title": "Revision Demoparty 2026: Razor1911 [video]",
+      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+      "hnUrl": "https://news.ycombinator.com/item?id=47685739",
+      "score": 231,
+      "comments": 81
     },
     {
-      "title": "Blackholing My Email",
-      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47672318",
-      "score": 58,
-      "comments": 2
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "hnUrl": "https://news.ycombinator.com/item?id=47679121",
+      "score": 1351,
+      "comments": 683
     },
     {
-      "title": "Every GPU That Mattered",
-      "url": "https://sheets.works/data-viz/every-gpu",
-      "hnUrl": "https://news.ycombinator.com/item?id=47672295",
-      "score": 145,
-      "comments": 73
-    },
-    {
-      "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
-      "url": "https://github.com/pion/handoff",
-      "hnUrl": "https://news.ycombinator.com/item?id=47673880",
-      "score": 8,
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "url": "https://arxiv.org/abs/2604.05091",
+      "hnUrl": "https://news.ycombinator.com/item?id=47689174",
+      "score": 9,
       "comments": 1
     },
     {
-      "title": "Breaking the console: a brief history of video game security",
-      "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47672778",
-      "score": 38,
-      "comments": 5
+      "title": "Lunar Flyby",
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47676509",
+      "score": 793,
+      "comments": 191
     },
     {
-      "title": "Running Out of Disk Space in Production",
-      "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47627217",
-      "score": 39,
-      "comments": 12
+      "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
+      "url": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47657204",
+      "score": 50,
+      "comments": 9
     },
     {
-      "title": "My Experience as a Rice Farmer",
-      "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47614528",
-      "score": 216,
-      "comments": 97
+      "title": "Your File System Is Already A Graph Database",
+      "url": "https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47656518",
+      "score": 52,
+      "comments": 16
     },
     {
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "hnUrl": "https://news.ycombinator.com/item?id=47666024",
-      "score": 412,
-      "comments": 185
+      "title": "Protect your shed",
+      "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47684514",
+      "score": 199,
+      "comments": 58
     },
     {
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "hnUrl": "https://news.ycombinator.com/item?id=47659135",
-      "score": 1562,
-      "comments": 634
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=47679258",
+      "score": 743,
+      "comments": 544
     },
     {
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "hnUrl": "https://news.ycombinator.com/item?id=47660925",
-      "score": 1185,
-      "comments": 638
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://z.ai/blog/glm-5.1",
+      "hnUrl": "https://news.ycombinator.com/item?id=47677853",
+      "score": 559,
+      "comments": 229
     },
     {
-      "title": "Solod – A subset of Go that translates to C",
-      "url": "https://github.com/solod-dev/solod",
-      "hnUrl": "https://news.ycombinator.com/item?id=47669337",
-      "score": 148,
-      "comments": 36
+      "title": "How to get better at guitar",
+      "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650887",
+      "score": 379,
+      "comments": 183
     },
     {
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47663147",
-      "score": 291,
-      "comments": 149
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "hnUrl": "https://news.ycombinator.com/item?id=47678573",
+      "score": 425,
+      "comments": 101
+    },
+    {
+      "title": "S3 Files",
+      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47680404",
+      "score": 326,
+      "comments": 93
     }
   ]
 }
