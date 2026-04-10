@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-09T12:56:58.350Z",
+  "updated": "2026-04-10T12:43:22.923Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "LittleSnitch for Linux",
-      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47697870",
-      "score": 912,
-      "comments": 322
+      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47716043",
+      "score": 570,
+      "comments": 232
     },
     {
-      "title": "Show HN: CSS Studio. Design by hand, code by agent",
-      "url": "https://cssstudio.ai",
-      "hnUrl": "https://news.ycombinator.com/item?id=47702196",
+      "title": "Microsoft suspends dev accounts for high-profile open source projects",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47716412",
+      "score": 162,
+      "comments": 40
+    },
+    {
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47704804",
+      "score": 450,
+      "comments": 176
+    },
+    {
+      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47713495",
+      "score": 145,
+      "comments": 31
+    },
+    {
+      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47716490",
+      "score": 73,
+      "comments": 25
+    },
+    {
+      "title": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47712718",
+      "score": 260,
+      "comments": 218
+    },
+    {
+      "title": "Model-Based Testing for Dungeons & Dragons",
+      "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47674894",
+      "score": 49,
+      "comments": 8
+    },
+    {
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47708818",
+      "score": 556,
+      "comments": 259
+    },
+    {
+      "title": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "hnUrl": "https://news.ycombinator.com/item?id=47712656",
+      "score": 185,
+      "comments": 408
+    },
+    {
+      "title": "Generative art over the years",
+      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47675906",
+      "score": 173,
+      "comments": 45
+    },
+    {
+      "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
+      "url": "https://github.com/marimo-team/marimo-pair",
+      "hnUrl": "https://news.ycombinator.com/item?id=47678844",
       "score": 31,
-      "comments": 28
+      "comments": 1
     },
     {
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47691730",
-      "score": 1682,
-      "comments": 290
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "url": "https://charcuterie.elastiq.ch/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47709158",
+      "score": 259,
+      "comments": 54
     },
     {
-      "title": "Help Keep Thunderbird Alive",
-      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47700388",
-      "score": 204,
-      "comments": 137
+      "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+      "hnUrl": "https://news.ycombinator.com/item?id=47680005",
+      "score": 283,
+      "comments": 95
     },
     {
-      "title": "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
-      "url": "https://www.relvy.ai",
-      "hnUrl": "https://news.ycombinator.com/item?id=47702647",
-      "score": 6,
-      "comments": 6
-    },
-    {
-      "title": "Introduction to Nintendo DS Programming",
-      "url": "https://www.patater.com/files/projects/manual/manual.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47685644",
-      "score": 33,
-      "comments": 2
-    },
-    {
-      "title": "Open Source Security at Astral",
-      "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "hnUrl": "https://news.ycombinator.com/item?id=47699181",
-      "score": 236,
-      "comments": 52
-    },
-    {
-      "title": "Haunted Paper Toys",
-      "url": "http://ravensblight.com/papertoys.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47658950",
-      "score": 138,
-      "comments": 14
-    },
-    {
-      "title": "Dr. Dobb's Developer Library DVD 6",
-      "url": "https://archive.org/details/DDJDVD6",
-      "hnUrl": "https://news.ycombinator.com/item?id=47645010",
-      "score": 82,
-      "comments": 26
-    },
-    {
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47695012",
-      "score": 332,
-      "comments": 39
-    },
-    {
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
-      "hnUrl": "https://news.ycombinator.com/item?id=47693153",
-      "score": 374,
+      "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "url": "https://www.unfolder.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47706140",
+      "score": 255,
       "comments": 46
     },
     {
-      "title": "Claude mixes up who said what and that's not OK",
-      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47701233",
-      "score": 172,
-      "comments": 164
-    },
-    {
-      "title": "They're made out of meat (1991)",
-      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47688678",
-      "score": 582,
-      "comments": 153
-    },
-    {
-      "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
-      "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47685320",
-      "score": 541,
-      "comments": 669
-    },
-    {
-      "title": "The Importance of Being Idle",
-      "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47666639",
-      "score": 225,
-      "comments": 130
+      "title": "Old laptops in a colo as low cost servers",
+      "url": "https://colaptop.pages.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47707477",
+      "score": 313,
+      "comments": 183
     }
   ]
 }
