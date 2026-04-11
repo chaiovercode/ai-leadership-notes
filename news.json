@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-10T12:43:22.923Z",
+  "updated": "2026-04-11T12:32:59.179Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47716043",
-      "score": 570,
-      "comments": 232
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47724352",
+      "score": 952,
+      "comments": 457
     },
     {
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47716412",
-      "score": 162,
-      "comments": 40
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "url": "https://playstarfling.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=47698455",
+      "score": 254,
+      "comments": 73
     },
     {
-      "title": "How NASA built Artemis II’s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47704804",
-      "score": 450,
-      "comments": 176
+      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+      "url": "https://news.ycombinator.com/item?id=47727960",
+      "hnUrl": "https://news.ycombinator.com/item?id=47727960",
+      "score": 57,
+      "comments": 13
     },
     {
-      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47713495",
-      "score": 145,
-      "comments": 31
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47719740",
+      "score": 856,
+      "comments": 149
     },
     {
-      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47716490",
-      "score": 73,
-      "comments": 25
+      "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
+      "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
+      "hnUrl": "https://news.ycombinator.com/item?id=47687443",
+      "score": 126,
+      "comments": 11
     },
     {
-      "title": "I still prefer MCP over skills",
-      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47712718",
-      "score": 260,
-      "comments": 218
+      "title": "Installing every* Firefox extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
+      "hnUrl": "https://news.ycombinator.com/item?id=47724118",
+      "score": 447,
+      "comments": 62
     },
     {
-      "title": "Model-Based Testing for Dungeons & Dragons",
-      "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47674894",
-      "score": 49,
-      "comments": 8
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "hnUrl": "https://news.ycombinator.com/item?id=47722333",
+      "score": 352,
+      "comments": 207
     },
     {
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47708818",
-      "score": 556,
-      "comments": 259
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47725583",
+      "score": 988,
+      "comments": 303
     },
     {
-      "title": "We've raised $17M to build what comes after Git",
-      "url": "https://blog.gitbutler.com/series-a",
-      "hnUrl": "https://news.ycombinator.com/item?id=47712656",
-      "score": 185,
-      "comments": 408
+      "title": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "hnUrl": "https://news.ycombinator.com/item?id=47721953",
+      "score": 362,
+      "comments": 264
     },
     {
-      "title": "Generative art over the years",
-      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47675906",
-      "score": 173,
-      "comments": 45
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47719942",
+      "score": 496,
+      "comments": 145
     },
     {
-      "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
-      "url": "https://github.com/marimo-team/marimo-pair",
-      "hnUrl": "https://news.ycombinator.com/item?id=47678844",
-      "score": 31,
-      "comments": 1
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "hnUrl": "https://news.ycombinator.com/item?id=47720419",
+      "score": 392,
+      "comments": 122
     },
     {
-      "title": "Charcuterie – Visual similarity Unicode explorer",
-      "url": "https://charcuterie.elastiq.ch/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47709158",
-      "score": 259,
-      "comments": 54
+      "title": "Productive Procrastination",
+      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47727659",
+      "score": 47,
+      "comments": 18
     },
     {
-      "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
-      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
-      "hnUrl": "https://news.ycombinator.com/item?id=47680005",
-      "score": 283,
-      "comments": 95
+      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47728653",
+      "score": 76,
+      "comments": 37
     },
     {
-      "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
-      "url": "https://www.unfolder.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47706140",
-      "score": 255,
-      "comments": 46
+      "title": "CPU-Z and HWMonitor compromised",
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47717847",
+      "score": 348,
+      "comments": 92
     },
     {
-      "title": "Old laptops in a colo as low cost servers",
-      "url": "https://colaptop.pages.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47707477",
-      "score": 313,
-      "comments": 183
+      "title": "Helium is hard to replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "hnUrl": "https://news.ycombinator.com/item?id=47719274",
+      "score": 327,
+      "comments": 230
     }
   ]
 }
