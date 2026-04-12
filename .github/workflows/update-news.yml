@@ -2,8 +2,8 @@ name: Update AI News
 
 on:
   schedule:
-    # Runs every Monday at 9:00 AM UTC
-    - cron: '0 9 * * 1'
+    # Runs daily at 01:00 UTC (before chaiovercode summariser at 02:00 UTC)
+    - cron: '0 1 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
