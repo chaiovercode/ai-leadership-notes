@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-12T12:35:48.419Z",
+  "updated": "2026-04-13T12:58:53.045Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Apple update looks like Czech mate for locked-out iPhone user",
-      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47737383",
-      "score": 221,
-      "comments": 112
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "hnUrl": "https://news.ycombinator.com/item?id=47746610",
+      "score": 557,
+      "comments": 144
     },
     {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "hnUrl": "https://news.ycombinator.com/item?id=47736555",
-      "score": 344,
-      "comments": 228
-    },
-    {
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47733217",
-      "score": 409,
-      "comments": 103
-    },
-    {
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "hnUrl": "https://news.ycombinator.com/item?id=47732020",
-      "score": 1137,
-      "comments": 304
-    },
-    {
-      "title": "How Complex is my Code?",
-      "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47673171",
-      "score": 136,
-      "comments": 34
-    },
-    {
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "hnUrl": "https://news.ycombinator.com/item?id=47733561",
-      "score": 229,
-      "comments": 123
-    },
-    {
-      "title": "Dark Castle",
-      "url": "https://darkcastle.co.uk/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47733521",
-      "score": 198,
-      "comments": 25
-    },
-    {
-      "title": "Pijul a FOSS distributed version control system",
-      "url": "https://pijul.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47672941",
-      "score": 168,
-      "comments": 25
-    },
-    {
-      "title": "The End of Eleventy",
-      "url": "https://brennan.day/the-end-of-eleventy/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47735535",
-      "score": 180,
-      "comments": 140
-    },
-    {
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47733971",
-      "score": 206,
-      "comments": 145
-    },
-    {
-      "title": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47730194",
-      "score": 270,
-      "comments": 131
-    },
-    {
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47731506",
-      "score": 251,
-      "comments": 62
-    },
-    {
-      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-      "url": "https://news.ycombinator.com/item?id=47727960",
-      "hnUrl": "https://news.ycombinator.com/item?id=47727960",
-      "score": 442,
-      "comments": 246
-    },
-    {
-      "title": "No one owes you supply-chain security",
-      "url": "https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47738595",
-      "score": 5,
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47751032",
+      "score": 8,
       "comments": 0
     },
     {
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "hnUrl": "https://news.ycombinator.com/item?id=47693559",
-      "score": 223,
-      "comments": 72
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47748064",
+      "score": 226,
+      "comments": 112
+    },
+    {
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47745284",
+      "score": 203,
+      "comments": 159
+    },
+    {
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47741701",
+      "score": 533,
+      "comments": 164
+    },
+    {
+      "title": "Point Cloud Allemansrätten",
+      "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47750259",
+      "score": 8,
+      "comments": 0
+    },
+    {
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "hnUrl": "https://news.ycombinator.com/item?id=47738827",
+      "score": 587,
+      "comments": 336
+    },
+    {
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47742200",
+      "score": 412,
+      "comments": 224
+    },
+    {
+      "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+      "url": "https://github.com/brightbeanxyz/brightbean-studio",
+      "hnUrl": "https://news.ycombinator.com/item?id=47749674",
+      "score": 83,
+      "comments": 63
+    },
+    {
+      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47750821",
+      "score": 8,
+      "comments": 2
+    },
+    {
+      "title": "A perfectable programming language",
+      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47744540",
+      "score": 157,
+      "comments": 61
+    },
+    {
+      "title": "Most people can't juggle one ball",
+      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "hnUrl": "https://news.ycombinator.com/item?id=47702887",
+      "score": 404,
+      "comments": 136
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "hnUrl": "https://news.ycombinator.com/item?id=47741527",
+      "score": 254,
+      "comments": 814
+    },
+    {
+      "title": "I gave every train in New York an instrument",
+      "url": "https://www.trainjazz.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47719490",
+      "score": 315,
+      "comments": 63
+    },
+    {
+      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "hnUrl": "https://news.ycombinator.com/item?id=47738883",
+      "score": 990,
+      "comments": 367
     }
   ]
 }
