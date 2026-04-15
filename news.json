@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-14T12:58:38.779Z",
+  "updated": "2026-04-15T12:57:39.539Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "DaVinci Resolve – Photo",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "hnUrl": "https://news.ycombinator.com/item?id=47760529",
-      "score": 718,
-      "comments": 188
+      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+      "url": "https://prog21.dadgum.com/30.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47776796",
+      "score": 169,
+      "comments": 50
     },
     {
-      "title": "A new spam policy for “back button hijacking”",
-      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "hnUrl": "https://news.ycombinator.com/item?id=47760764",
-      "score": 488,
-      "comments": 293
+      "title": "Good Sleep, Good Learning (2012)",
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47776557",
+      "score": 115,
+      "comments": 48
     },
     {
-      "title": "Backblaze has stopped backing up your data",
-      "url": "https://rareese.com/posts/backblaze/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47762864",
-      "score": 328,
-      "comments": 211
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47774789",
+      "score": 187,
+      "comments": 68
     },
     {
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47755629",
-      "score": 1027,
-      "comments": 293
+      "title": "Claude Code Routines",
+      "url": "https://code.claude.com/docs/en/routines",
+      "hnUrl": "https://news.ycombinator.com/item?id=47768133",
+      "score": 657,
+      "comments": 371
     },
     {
-      "title": "Introspective Diffusion Language Models",
-      "url": "https://introspective-diffusion.github.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47762641",
-      "score": 96,
-      "comments": 26
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47774971",
+      "score": 92,
+      "comments": 66
     },
     {
-      "title": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47757495",
-      "score": 765,
-      "comments": 416
+      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+      "url": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
+      "hnUrl": "https://news.ycombinator.com/item?id=47776667",
+      "score": 91,
+      "comments": 44
     },
     {
-      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
-      "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47722629",
-      "score": 48,
-      "comments": 22
+      "title": "Wacli – WhatsApp CLI: sync, search, send",
+      "url": "https://github.com/steipete/wacli",
+      "hnUrl": "https://news.ycombinator.com/item?id=47775628",
+      "score": 139,
+      "comments": 106
     },
     {
-      "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
-      "url": "https://news.ycombinator.com/item?id=47764215",
-      "hnUrl": "https://news.ycombinator.com/item?id=47764215",
-      "score": 67,
-      "comments": 38
+      "title": "A communist Apple II and fourteen years of not knowing what you're testing",
+      "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47724571",
+      "score": 197,
+      "comments": 85
     },
     {
-      "title": "The M×N problem of tool calling and open-source models",
-      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-      "hnUrl": "https://news.ycombinator.com/item?id=47704729",
-      "score": 27,
-      "comments": 7
+      "title": "Picasso’s Guernica (Gigapixel)",
+      "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
+      "hnUrl": "https://news.ycombinator.com/item?id=47728662",
+      "score": 165,
+      "comments": 57
     },
     {
-      "title": "Lean proved this program correct; then I found a bug",
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47759709",
-      "score": 293,
-      "comments": 138
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=47772012",
+      "score": 781,
+      "comments": 202
     },
     {
-      "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
-      "url": "https://publicdomainreview.org/essay/the-great-majority/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47724408",
-      "score": 8,
-      "comments": 1
+      "title": "5NF and Database Design",
+      "url": "https://kb.databasedesignbook.com/posts/5nf/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47767676",
+      "score": 179,
+      "comments": 67
     },
     {
-      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "url": "https://github.com/fabienmillet/WiiFin",
-      "hnUrl": "https://news.ycombinator.com/item?id=47759341",
-      "score": 184,
-      "comments": 82
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47768339",
+      "score": 177,
+      "comments": 93
     },
     {
-      "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
-      "url": "https://github.com/lasect/pg_6502",
-      "hnUrl": "https://news.ycombinator.com/item?id=47761723",
-      "score": 42,
-      "comments": 3
+      "title": "My adventure in designing API keys",
+      "url": "https://vjay15.github.io/blog/apikeys/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47739278",
+      "score": 81,
+      "comments": 63
     },
     {
-      "title": "A soft robot has no problem moving with no motor and no gears",
-      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
-      "hnUrl": "https://news.ycombinator.com/item?id=47711148",
-      "score": 45,
-      "comments": 10
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47765604",
+      "score": 667,
+      "comments": 195
     },
     {
-      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
-      "url": "https://kirancodes.me/posts/log-distributed-llms.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47761625",
-      "score": 55,
-      "comments": 21
+      "title": "Dependency cooldowns turn you into a free-rider",
+      "url": "https://calpaterson.com/deps.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47773812",
+      "score": 135,
+      "comments": 94
     }
   ]
 }
