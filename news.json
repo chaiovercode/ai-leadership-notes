@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-16T13:02:25.430Z",
+  "updated": "2026-04-17T12:53:34.482Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "hnUrl": "https://news.ycombinator.com/item?id=47791871",
-      "score": 117,
+      "title": "Ada, Its Design, and the Language That Built the Languages",
+      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47803844",
+      "score": 130,
+      "comments": 71
+    },
+    {
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "hnUrl": "https://news.ycombinator.com/item?id=47793411",
+      "score": 1821,
+      "comments": 1314
+    },
+    {
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47796469",
+      "score": 915,
+      "comments": 483
+    },
+    {
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47772725",
+      "score": 169,
+      "comments": 46
+    },
+    {
+      "title": "A Python Interpreter Written in Python",
+      "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47755261",
+      "score": 87,
+      "comments": 23
+    },
+    {
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47801255",
+      "score": 95,
+      "comments": 19
+    },
+    {
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "url": "https://clojure.org/about/documentary",
+      "hnUrl": "https://news.ycombinator.com/item?id=47798345",
+      "score": 254,
       "comments": 65
     },
     {
-      "title": "IPv6 traffic crosses the 50% mark",
-      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "hnUrl": "https://news.ycombinator.com/item?id=47777894",
-      "score": 450,
-      "comments": 277
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47797665",
+      "score": 261,
+      "comments": 102
     },
     {
-      "title": "Show HN: 48 absurd web projects – one every month",
-      "url": "https://news.ycombinator.com/item?id=47792026",
-      "hnUrl": "https://news.ycombinator.com/item?id=47792026",
-      "score": 9,
-      "comments": 4
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
+      "hnUrl": "https://news.ycombinator.com/item?id=47800033",
+      "score": 202,
+      "comments": 40
     },
     {
-      "title": "Darkbloom – Private inference on idle Macs",
-      "url": "https://darkbloom.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=47788542",
-      "score": 315,
-      "comments": 162
+      "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+      "url": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+      "hnUrl": "https://news.ycombinator.com/item?id=47803745",
+      "score": 82,
+      "comments": 23
     },
     {
-      "title": "Apple accelerates eco progress with highest-ever recycled materials",
-      "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47791855",
-      "score": 11,
-      "comments": 2
+      "title": "Playdate’s handheld changed how Duke University teaches game design",
+      "url": "https://news.play.date/news/duke-playdate-education/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47798176",
+      "score": 182,
+      "comments": 87
     },
     {
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "url": "https://daedal.io/@thomzane/116410863009847575",
-      "hnUrl": "https://news.ycombinator.com/item?id=47788424",
-      "score": 217,
-      "comments": 124
+      "title": "ReBot-DevArm: open-source Robotic Arm",
+      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47750600",
+      "score": 73,
+      "comments": 18
     },
     {
-      "title": "Codex Hacked a Samsung TV",
-      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-      "hnUrl": "https://news.ycombinator.com/item?id=47791212",
-      "score": 72,
-      "comments": 52
-    },
-    {
-      "title": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47769089",
-      "score": 474,
-      "comments": 175
-    },
-    {
-      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "url": "https://github.com/Nightmare-Eclipse/RedSun",
-      "hnUrl": "https://news.ycombinator.com/item?id=47788473",
-      "score": 120,
-      "comments": 25
-    },
-    {
-      "title": "The paper computer",
-      "url": "https://jsomers.net/blog/the-paper-computer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47747770",
-      "score": 180,
-      "comments": 45
-    },
-    {
-      "title": "Too much discussion of the XOR swap trick",
-      "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47750486",
-      "score": 102,
-      "comments": 57
-    },
-    {
-      "title": "AI cybersecurity is not proof of work",
-      "url": "https://antirez.com/news/163",
-      "hnUrl": "https://news.ycombinator.com/item?id=47791236",
-      "score": 12,
-      "comments": 0
-    },
-    {
-      "title": "ChatGPT for Excel",
-      "url": "https://chatgpt.com/apps/spreadsheets/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47785397",
-      "score": 245,
-      "comments": 154
-    },
-    {
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-      "hnUrl": "https://news.ycombinator.com/item?id=47789607",
+      "title": "Substrate AI Is Hiring Harness Engineers",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47802016",
       "score": 1,
       "comments": 0
     },
     {
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "hnUrl": "https://news.ycombinator.com/item?id=47780456",
-      "score": 337,
-      "comments": 268
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47799573",
+      "score": 137,
+      "comments": 24
+    },
+    {
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "hnUrl": "https://news.ycombinator.com/item?id=47792764",
+      "score": 1152,
+      "comments": 484
     }
   ]
 }
