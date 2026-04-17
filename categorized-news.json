@@ -1,15 +1,22 @@
 {
-  "updated": "2026-04-16T04:13:57.576Z",
+  "updated": "2026-04-17T04:11:00.643Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "This startup is betting tokenmaxxing will create the next compute giant",
-          "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-          "date": "2026-04-15T13:00:00.000Z",
-          "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
+          "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+          "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+          "date": "2026-04-16T20:26:44.000Z",
+          "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+          "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+          "date": "2026-04-16T16:15:00.000Z",
+          "description": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now th...",
           "source": "TechCrunch"
         }
       ]
@@ -19,73 +26,73 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+          "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+          "date": "2026-04-16T21:58:08.000Z",
+          "description": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+          "date": "2026-04-16T19:18:41.000Z",
+          "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic CPO leaves Figmas board after reports he will offer a competing product",
+          "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+          "date": "2026-04-16T18:28:42.000Z",
+          "description": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google now lets you explore the web side-by-side with AI Mode",
+          "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+          "date": "2026-04-16T17:00:00.000Z",
+          "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "New ways to create personalized images in the Gemini app",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+          "date": "2026-04-16T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp\"&gt;Nano Banana 2 now uses your personal context and Google Photos to create ...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+          "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+          "date": "2026-04-16T14:14:29.000Z",
+          "description": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+          "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+          "date": "2026-04-16T13:49:32.000Z",
+          "description": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Canvas AI assistant can now call various tools to make designs for you",
+          "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+          "date": "2026-04-16T13:00:00.000Z",
+          "description": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DeepL, known for text translation, now wants to translate your voice",
+          "url": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+          "date": "2026-04-16T08:00:00.000Z",
+          "description": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
           "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
           "date": "2026-04-15T19:28:36.000Z",
           "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "LinkedIn data shows AI isnt to blame for hiring decline yet",
-          "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-          "date": "2026-04-15T18:51:54.000Z",
-          "description": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google rolls out a native Gemini app for Mac",
-          "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-          "date": "2026-04-15T18:22:13.000Z",
-          "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The musician-turned-biotech-founder waiting to fundraise",
-          "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
-          "date": "2026-04-15T17:58:28.000Z",
-          "description": "When Grammy-nominated singer-songwriterAloe Blaccgot COVID despite being vaccinated and boosted, he tried to fund research for a better solution.Whathequicklyfoundout? Youcantjust write a check in bio...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-          "date": "2026-04-15T15:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp\"&gt;Gemini 3.1 Flash TTS is now available across Google produc...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Reid Hoffman weighs in on the tokenmaxxing debate",
-          "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-          "date": "2026-04-15T13:06:54.000Z",
-          "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Adobes new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-          "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-          "date": "2026-04-15T13:01:00.000Z",
-          "description": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "This startup is betting tokenmaxxing will create the next compute giant",
-          "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-          "date": "2026-04-15T13:00:00.000Z",
-          "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics rise is giving some OpenAI investors second thoughts",
-          "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-          "date": "2026-04-15T02:31:04.000Z",
-          "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-          "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-          "date": "2026-04-14T18:09:12.000Z",
-          "description": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
           "source": "TechCrunch"
         }
       ]
@@ -95,6 +102,27 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+          "date": "2026-04-16T19:18:41.000Z",
+          "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+          "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+          "date": "2026-04-16T16:15:00.000Z",
+          "description": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now th...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+          "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+          "date": "2026-04-16T16:00:00.000Z",
+          "description": "The new tools are designed to help creators throughout the entire development process.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
           "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
           "date": "2026-04-15T19:28:36.000Z",
@@ -106,27 +134,6 @@
           "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
           "date": "2026-04-15T18:55:12.000Z",
           "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Indias vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-          "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-          "date": "2026-04-15T17:24:18.000Z",
-          "description": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-          "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-          "date": "2026-04-15T13:00:00.000Z",
-          "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-          "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-          "date": "2026-04-14T17:00:00.000Z",
-          "description": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
           "source": "TechCrunch"
         }
       ]
@@ -136,6 +143,48 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+          "date": "2026-04-16T22:55:30.000Z",
+          "description": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Upscale AI in talks to raise at $2B valuation, says report",
+          "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+          "date": "2026-04-16T20:41:13.000Z",
+          "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+          "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+          "date": "2026-04-16T20:26:44.000Z",
+          "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic CPO leaves Figmas board after reports he will offer a competing product",
+          "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+          "date": "2026-04-16T18:28:42.000Z",
+          "description": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI traffic to US retailers rose 393% in Q1, and its boosting their revenue too",
+          "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+          "date": "2026-04-16T16:14:03.000Z",
+          "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "This simulation startup wants to be the Cursor for physical AI",
+          "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+          "date": "2026-04-16T12:30:00.000Z",
+          "description": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
           "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
           "date": "2026-04-15T19:28:36.000Z",
@@ -148,62 +197,6 @@
           "date": "2026-04-15T18:55:12.000Z",
           "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-          "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-          "date": "2026-04-15T18:38:10.000Z",
-          "description": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-          "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-          "date": "2026-04-15T18:33:20.000Z",
-          "description": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Indias vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-          "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-          "date": "2026-04-15T17:24:18.000Z",
-          "description": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "After sale of its shoe business, Allbirds pivots to AI",
-          "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-          "date": "2026-04-15T14:24:31.000Z",
-          "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Reid Hoffman weighs in on the tokenmaxxing debate",
-          "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-          "date": "2026-04-15T13:06:54.000Z",
-          "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-          "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-          "date": "2026-04-15T13:00:00.000Z",
-          "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "This startup is betting tokenmaxxing will create the next compute giant",
-          "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-          "date": "2026-04-15T13:00:00.000Z",
-          "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics rise is giving some OpenAI investors second thoughts",
-          "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-          "date": "2026-04-15T02:31:04.000Z",
-          "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -212,31 +205,24 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-          "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-          "date": "2026-04-15T18:38:10.000Z",
-          "description": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+          "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+          "date": "2026-04-16T22:55:30.000Z",
+          "description": "The three-year-old startup raised $150 million led by Khosla Ventures.",
           "source": "TechCrunch"
         },
         {
-          "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-          "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-          "date": "2026-04-15T18:33:20.000Z",
-          "description": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-          "source": "TechCrunch"
+          "title": "A new way to explore the web with AI Mode in Chrome",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+          "date": "2026-04-16T17:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png\"&gt;Today’s upgrades for AI Mode in Chrome transform how you interact with the...",
+          "source": "Google AI Blog"
         },
         {
-          "title": "Indias vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-          "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-          "date": "2026-04-15T17:24:18.000Z",
-          "description": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "This startup is betting tokenmaxxing will create the next compute giant",
-          "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-          "date": "2026-04-15T13:00:00.000Z",
-          "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
+          "title": "Google is now targeting bad ads over bad actors",
+          "url": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+          "date": "2026-04-16T15:00:00.000Z",
+          "description": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
           "source": "TechCrunch"
         }
       ]
