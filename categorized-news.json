@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T04:11:00.643Z",
+  "updated": "2026-04-18T03:47:15.607Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -26,6 +26,55 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Sam Altmans project World looks to scale its human verification empire. First stop: Tinder.",
+          "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+          "date": "2026-04-17T22:34:02.000Z",
+          "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed side quests",
+          "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+          "date": "2026-04-17T20:38:17.000Z",
+          "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Tokenmaxxing is making developers less productive than they think",
+          "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+          "date": "2026-04-17T18:42:45.000Z",
+          "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Tokenmaxxing, OpenAIs shopping spree, and the AI Anxiety Gap",
+          "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+          "date": "2026-04-17T15:57:40.000Z",
+          "description": "The gap between AI insiders and everyone elseis widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything fromfinance appstotalk...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+          "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+          "date": "2026-04-17T15:00:00.000Z",
+          "description": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "7 ways to travel smarter this summer, with help from Google",
+          "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+          "date": "2026-04-17T14:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp\"&gt;The latest tools from Google can help you plan trips, find a ...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Are we tokenmaxxing our way to nowhere?",
+          "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+          "date": "2026-04-17T13:00:00.000Z",
+          "description": "The gap between AI insiders and everyone elseis widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything fromfinance appstotalk...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
           "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
           "date": "2026-04-16T21:58:08.000Z",
@@ -44,55 +93,6 @@
           "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
           "date": "2026-04-16T18:28:42.000Z",
           "description": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google now lets you explore the web side-by-side with AI Mode",
-          "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-          "date": "2026-04-16T17:00:00.000Z",
-          "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "New ways to create personalized images in the Gemini app",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-          "date": "2026-04-16T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp\"&gt;Nano Banana 2 now uses your personal context and Google Photos to create ...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
-          "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
-          "date": "2026-04-16T14:14:29.000Z",
-          "description": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
-          "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
-          "date": "2026-04-16T13:49:32.000Z",
-          "description": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Canvas AI assistant can now call various tools to make designs for you",
-          "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-          "date": "2026-04-16T13:00:00.000Z",
-          "description": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "DeepL, known for text translation, now wants to translate your voice",
-          "url": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-          "date": "2026-04-16T08:00:00.000Z",
-          "description": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-          "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-          "date": "2026-04-15T19:28:36.000Z",
-          "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
           "source": "TechCrunch"
         }
       ]
@@ -121,20 +121,6 @@
           "date": "2026-04-16T16:00:00.000Z",
           "description": "The new tools are designed to help creators throughout the entire development process.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-          "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-          "date": "2026-04-15T19:28:36.000Z",
-          "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-          "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-          "date": "2026-04-15T18:55:12.000Z",
-          "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -142,6 +128,20 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed side quests",
+          "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+          "date": "2026-04-17T20:38:17.000Z",
+          "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+          "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+          "date": "2026-04-17T19:17:26.000Z",
+          "description": "Returning backers a16z and Thrive are expected to lead the round.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
           "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
@@ -175,27 +175,6 @@
           "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
           "date": "2026-04-16T16:14:03.000Z",
           "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "This simulation startup wants to be the Cursor for physical AI",
-          "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
-          "date": "2026-04-16T12:30:00.000Z",
-          "description": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-          "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-          "date": "2026-04-15T19:28:36.000Z",
-          "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-          "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-          "date": "2026-04-15T18:55:12.000Z",
-          "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
           "source": "TechCrunch"
         }
       ]
