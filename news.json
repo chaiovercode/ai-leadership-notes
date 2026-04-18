@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-17T12:53:34.482Z",
+  "updated": "2026-04-18T12:36:32.078Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Ada, Its Design, and the Language That Built the Languages",
-      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47803844",
-      "score": 130,
-      "comments": 71
+      "title": "Category Theory Illustrated – Orders",
+      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47813668",
+      "score": 126,
+      "comments": 34
     },
     {
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "hnUrl": "https://news.ycombinator.com/item?id=47793411",
-      "score": 1821,
-      "comments": 1314
+      "title": "Michael Rabin Has Died",
+      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+      "hnUrl": "https://news.ycombinator.com/item?id=47782925",
+      "score": 153,
+      "comments": 14
     },
     {
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47796469",
-      "score": 915,
-      "comments": 483
+      "title": "Amiga Graphics",
+      "url": "https://amiga.lychesis.net/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47813566",
+      "score": 134,
+      "comments": 20
     },
     {
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "url": "https://cadquery.github.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47772725",
-      "score": 169,
-      "comments": 46
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "hnUrl": "https://news.ycombinator.com/item?id=47806725",
+      "score": 1082,
+      "comments": 713
     },
     {
-      "title": "A Python Interpreter Written in Python",
-      "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47755261",
-      "score": 87,
-      "comments": 23
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "url": "https://victorpoughon.github.io/interval-calculator/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47812341",
+      "score": 192,
+      "comments": 38
     },
     {
-      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47801255",
-      "score": 95,
-      "comments": 19
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "hnUrl": "https://news.ycombinator.com/item?id=47807006",
+      "score": 625,
+      "comments": 445
     },
     {
-      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "url": "https://clojure.org/about/documentary",
-      "hnUrl": "https://news.ycombinator.com/item?id=47798345",
-      "score": 254,
-      "comments": 65
-    },
-    {
-      "title": "Android CLI: Build Android apps 3x faster using any agent",
-      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47797665",
-      "score": 261,
-      "comments": 102
-    },
-    {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "url": "https://github.com/gainsec/autoprober",
-      "hnUrl": "https://news.ycombinator.com/item?id=47800033",
-      "score": 202,
-      "comments": 40
-    },
-    {
-      "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
-      "url": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
-      "hnUrl": "https://news.ycombinator.com/item?id=47803745",
-      "score": 82,
-      "comments": 23
-    },
-    {
-      "title": "Playdate’s handheld changed how Duke University teaches game design",
-      "url": "https://news.play.date/news/duke-playdate-education/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47798176",
-      "score": 182,
-      "comments": 87
-    },
-    {
-      "title": "ReBot-DevArm: open-source Robotic Arm",
-      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-      "hnUrl": "https://news.ycombinator.com/item?id=47750600",
-      "score": 73,
+      "title": "Towards trust in Emacs",
+      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47778938",
+      "score": 134,
       "comments": 18
     },
     {
-      "title": "Substrate AI Is Hiring Harness Engineers",
-      "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
-      "hnUrl": "https://news.ycombinator.com/item?id=47802016",
-      "score": 1,
-      "comments": 0
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "hnUrl": "https://news.ycombinator.com/item?id=47808913",
+      "score": 357,
+      "comments": 210
     },
     {
-      "title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47799573",
-      "score": 137,
-      "comments": 24
+      "title": "Spending 3 months coding by hand",
+      "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "hnUrl": "https://news.ycombinator.com/item?id=47807583",
+      "score": 234,
+      "comments": 247
     },
     {
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "hnUrl": "https://news.ycombinator.com/item?id=47792764",
-      "score": 1152,
-      "comments": 484
+      "title": "Brunost: The Nynorsk Programming Language",
+      "url": "https://lindbakk.com/blog/introducing-brunost",
+      "hnUrl": "https://news.ycombinator.com/item?id=47756320",
+      "score": 89,
+      "comments": 35
+    },
+    {
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "hnUrl": "https://news.ycombinator.com/item?id=47778922",
+      "score": 230,
+      "comments": 73
+    },
+    {
+      "title": "A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "hnUrl": "https://news.ycombinator.com/item?id=47810872",
+      "score": 180,
+      "comments": 99
+    },
+    {
+      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "url": "https://github.com/smol-machines/smolvm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47808268",
+      "score": 355,
+      "comments": 117
+    },
+    {
+      "title": "Claude Code Opus 4.7 keeps checking on malware",
+      "url": "https://news.ycombinator.com/item?id=47814832",
+      "hnUrl": "https://news.ycombinator.com/item?id=47814832",
+      "score": 34,
+      "comments": 28
+    },
+    {
+      "title": "\"cat readme.txt\" is not safe if you use iTerm2",
+      "url": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
+      "hnUrl": "https://news.ycombinator.com/item?id=47809190",
+      "score": 211,
+      "comments": 125
     }
   ]
 }
