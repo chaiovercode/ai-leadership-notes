@@ -1,22 +1,22 @@
 {
-  "updated": "2026-04-20T04:18:49.588Z",
+  "updated": "2026-04-21T04:11:08.514Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+          "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+          "date": "2026-04-20T16:06:21.000Z",
+          "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "The 12-month window",
           "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
           "date": "2026-04-19T19:30:00.000Z",
           "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-          "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-          "date": "2026-04-16T20:26:44.000Z",
-          "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
           "source": "TechCrunch"
         }
       ]
@@ -25,6 +25,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+          "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+          "date": "2026-04-20T23:10:27.000Z",
+          "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google rolls out Gemini in Chrome in 7 new countries",
+          "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+          "date": "2026-04-20T22:00:00.000Z",
+          "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of t...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Its not just one thing — its another thing",
+          "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+          "date": "2026-04-20T19:37:07.000Z",
+          "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+          "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+          "date": "2026-04-20T16:06:21.000Z",
+          "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI’s existential questions",
           "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
@@ -66,54 +94,25 @@
           "date": "2026-04-18T13:00:00.000Z",
           "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Sam Altmans project World looks to scale its human verification empire. First stop: Tinder.",
-          "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-          "date": "2026-04-17T22:34:02.000Z",
-          "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed side quests",
-          "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-          "date": "2026-04-17T20:38:17.000Z",
-          "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Tokenmaxxing is making developers less productive than they think",
-          "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-          "date": "2026-04-17T18:42:45.000Z",
-          "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Tokenmaxxing, OpenAIs shopping spree, and the AI Anxiety Gap",
-          "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-          "date": "2026-04-17T15:57:40.000Z",
-          "description": "The gap between AI insiders and everyone elseis widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything fromfinance appstotalk...",
-          "source": "TechCrunch"
         }
       ]
     },
     {
       "id": "agents",
       "name": "AI Agents & Automation",
-      "articles": [
-        {
-          "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-          "date": "2026-04-16T19:18:41.000Z",
-          "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-          "source": "TechCrunch"
-        }
-      ]
+      "articles": []
     },
     {
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+          "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+          "date": "2026-04-20T15:30:19.000Z",
+          "description": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI’s existential questions",
           "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
@@ -148,27 +147,6 @@
           "date": "2026-04-17T19:17:26.000Z",
           "description": "Returning backers a16z and Thrive are expected to lead the round.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-          "date": "2026-04-16T22:55:30.000Z",
-          "description": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Upscale AI in talks to raise at $2B valuation, says report",
-          "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-          "date": "2026-04-16T20:41:13.000Z",
-          "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-          "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-          "date": "2026-04-16T20:26:44.000Z",
-          "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -188,13 +166,6 @@
           "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
           "date": "2026-04-18T14:56:48.000Z",
           "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-          "date": "2026-04-16T22:55:30.000Z",
-          "description": "The three-year-old startup raised $150 million led by Khosla Ventures.",
           "source": "TechCrunch"
         },
         {
