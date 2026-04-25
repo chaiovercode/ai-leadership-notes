@@ -1,10 +1,31 @@
 {
-  "updated": "2026-04-24T04:16:29.378Z",
+  "updated": "2026-04-25T03:50:55.898Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Google to invest up to $40B in Anthropic in cash and compute",
+          "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+          "date": "2026-04-24T18:00:03.000Z",
+          "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+          "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+          "date": "2026-04-24T16:42:19.000Z",
+          "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DeepSeek previews new AI model that closes the gap with frontier models",
+          "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+          "date": "2026-04-24T13:30:59.000Z",
+          "description": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on...",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI super app",
           "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
@@ -25,6 +46,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Metas loss is Thinking Machines gain",
+          "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+          "date": "2026-04-24T20:52:07.000Z",
+          "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "8 Gemini tips for organizing your space (and life)",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+          "date": "2026-04-24T19:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\"&gt;Organize your home and digital space with Gemini. Use AI-power...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Google to invest up to $40B in Anthropic in cash and compute",
+          "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+          "date": "2026-04-24T18:00:03.000Z",
+          "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apples new CEO, and why Elon Musk wants to buy Cursor for $60B",
+          "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+          "date": "2026-04-24T17:45:57.000Z",
+          "description": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable busine...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+          "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+          "date": "2026-04-24T14:00:00.000Z",
+          "description": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nothing introduces an AI-powered dictation tool",
+          "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+          "date": "2026-04-24T13:41:42.000Z",
+          "description": "Nothing's new on-device dictation tool supports over 100 languages.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
           "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
@@ -52,48 +115,6 @@
           "date": "2026-04-23T12:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\"&gt;Learn how Google’s TPUs power increasingly demanding AI workloads wit...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-          "date": "2026-04-23T09:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp\"&gt;Google has been a proud part of Austria’s landscape for yea...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Indias app market is booming — but global platforms are capturing most of the gains",
-          "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-          "date": "2026-04-23T04:38:45.000Z",
-          "description": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Tesla just increased its spending plan to $25B — heres where the money is going",
-          "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-          "date": "2026-04-22T23:56:52.000Z",
-          "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google updates Workspace to make AI your new office intern",
-          "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-          "date": "2026-04-22T22:44:26.000Z",
-          "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hands on with Xs new AI-powered custom feeds",
-          "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-          "date": "2026-04-22T22:25:53.000Z",
-          "description": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-          "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-          "date": "2026-04-22T18:39:27.000Z",
-          "description": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -101,6 +122,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+          "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+          "date": "2026-04-24T12:00:00.000Z",
+          "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Bret Taylors Sierra buys YC-backed AI startup Fragment",
           "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
@@ -113,20 +141,6 @@
           "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
           "date": "2026-04-23T14:00:00.000Z",
           "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-          "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-          "date": "2026-04-22T16:58:27.000Z",
-          "description": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-          "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-          "date": "2026-04-22T14:22:10.000Z",
-          "description": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, ...",
           "source": "TechCrunch"
         },
         {
@@ -150,6 +164,20 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+          "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "date": "2026-04-24T19:49:35.000Z",
+          "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Tim Cook is stepping down. What happens to Apple now?",
+          "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+          "date": "2026-04-24T14:00:00.000Z",
+          "description": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, buthe’salso stepping...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Bret Taylors Sierra buys YC-backed AI startup Fragment",
           "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
           "date": "2026-04-23T21:00:00.000Z",
@@ -169,34 +197,6 @@
           "date": "2026-04-23T12:00:00.000Z",
           "description": "The announcement is a clear sign the company is trying to become an all-in-one hub for creators, reducing the hassle of juggling various tools and services to run their businesses.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-          "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-          "date": "2026-04-22T19:51:51.000Z",
-          "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google turns Chrome into an AI co-worker for the workplace",
-          "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-          "date": "2026-04-22T17:30:00.000Z",
-          "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-          "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-          "date": "2026-04-22T16:58:27.000Z",
-          "description": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-          "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-          "date": "2026-04-22T14:22:10.000Z",
-          "description": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, ...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -204,6 +204,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+          "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+          "date": "2026-04-24T16:42:19.000Z",
+          "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Era raises $11M to build a software platform for AI gadgets",
           "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
