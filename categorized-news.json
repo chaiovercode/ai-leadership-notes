@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T03:50:55.898Z",
+  "updated": "2026-04-26T04:21:47.726Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -32,13 +32,6 @@
           "date": "2026-04-23T18:29:29.000Z",
           "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Another customer of troubled startup Delve suffered a big security incident",
-          "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-          "date": "2026-04-23T14:00:00.000Z",
-          "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -46,6 +39,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+          "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+          "date": "2026-04-25T21:43:37.000Z",
+          "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Maines governor vetoes data center moratorium",
+          "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+          "date": "2026-04-25T20:57:08.000Z",
+          "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+          "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+          "date": "2026-04-25T17:17:56.000Z",
+          "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+          "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+          "date": "2026-04-25T15:00:00.000Z",
+          "description": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Metas loss is Thinking Machines gain",
           "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
@@ -87,34 +108,6 @@
           "date": "2026-04-24T13:41:42.000Z",
           "description": "Nothing's new on-device dictation tool supports over 100 languages.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-          "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-          "date": "2026-04-23T19:38:25.000Z",
-          "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI super app",
-          "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-          "date": "2026-04-23T18:29:29.000Z",
-          "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-          "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
-          "date": "2026-04-23T14:00:00.000Z",
-          "description": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-          "date": "2026-04-23T12:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\"&gt;Learn how Google’s TPUs power increasingly demanding AI workloads wit...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -122,6 +115,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+          "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+          "date": "2026-04-25T21:43:37.000Z",
+          "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+          "source": "TechCrunch"
+        },
         {
           "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
           "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
@@ -134,13 +134,6 @@
           "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
           "date": "2026-04-23T21:00:00.000Z",
           "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Another customer of troubled startup Delve suffered a big security incident",
-          "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-          "date": "2026-04-23T14:00:00.000Z",
-          "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
           "source": "TechCrunch"
         },
         {
@@ -164,6 +157,20 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Why Cohere is merging with Aleph Alpha",
+          "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+          "date": "2026-04-25T16:00:00.000Z",
+          "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Why Tokyo is the most important tech destination of 2026",
+          "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+          "date": "2026-04-25T15:03:00.000Z",
+          "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
           "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
           "date": "2026-04-24T19:49:35.000Z",
@@ -183,20 +190,6 @@
           "date": "2026-04-23T21:00:00.000Z",
           "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Another customer of troubled startup Delve suffered a big security incident",
-          "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-          "date": "2026-04-23T14:00:00.000Z",
-          "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
-          "url": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
-          "date": "2026-04-23T12:00:00.000Z",
-          "description": "The announcement is a clear sign the company is trying to become an all-in-one hub for creators, reducing the hassle of juggling various tools and services to run their businesses.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -205,24 +198,24 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+          "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+          "date": "2026-04-25T17:17:56.000Z",
+          "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Why Tokyo is the most important tech destination of 2026",
+          "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+          "date": "2026-04-25T15:03:00.000Z",
+          "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
           "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
           "date": "2026-04-24T16:42:19.000Z",
           "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Era raises $11M to build a software platform for AI gadgets",
-          "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-          "date": "2026-04-23T16:00:00.000Z",
-          "description": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI galaxy hunters are adding to the global GPU crunch",
-          "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-          "date": "2026-04-23T13:00:00.000Z",
-          "description": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
           "source": "TechCrunch"
         },
         {
