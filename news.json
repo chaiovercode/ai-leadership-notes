@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-25T12:37:40.612Z",
+  "updated": "2026-04-26T12:39:04.649Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47899053",
-      "score": 269,
+      "title": "Statecharts: hierarchical state machines",
+      "url": "https://statecharts.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47908833",
+      "score": 76,
+      "comments": 13
+    },
+    {
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47903126",
+      "score": 458,
+      "comments": 296
+    },
+    {
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47905984",
+      "score": 276,
+      "comments": 162
+    },
+    {
+      "title": "The West forgot how to make things, now it’s forgetting how to code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "hnUrl": "https://news.ycombinator.com/item?id=47907879",
+      "score": 568,
+      "comments": 329
+    },
+    {
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "url": "https://news.ycombinator.com/item?id=47906253",
+      "hnUrl": "https://news.ycombinator.com/item?id=47906253",
+      "score": 330,
       "comments": 125
     },
     {
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "hnUrl": "https://news.ycombinator.com/item?id=47892074",
-      "score": 636,
-      "comments": 624
+      "title": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47904876",
+      "score": 365,
+      "comments": 66
     },
     {
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "url": "https://github.com/nex-crm/wuphf",
-      "hnUrl": "https://news.ycombinator.com/item?id=47899844",
-      "score": 103,
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47907018",
+      "score": 91,
+      "comments": 33
+    },
+    {
+      "title": "Mahjong: A Visual Guide",
+      "url": "https://themahjong.guide/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47885239",
+      "score": 121,
+      "comments": 34
+    },
+    {
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47870901",
+      "score": 229,
       "comments": 46
     },
     {
-      "title": "A web-based RDP client built with Go WebAssembly and grdp",
-      "url": "https://github.com/nakagami/grdpwasm",
-      "hnUrl": "https://news.ycombinator.com/item?id=47900440",
-      "score": 9,
-      "comments": 3
+      "title": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47860198",
+      "score": 329,
+      "comments": 71
     },
     {
-      "title": "Humpback whales are forming super-groups",
-      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "hnUrl": "https://news.ycombinator.com/item?id=47858294",
-      "score": 136,
-      "comments": 68
+      "title": "Flickr: The first and last great photo platform",
+      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47867473",
+      "score": 194,
+      "comments": 90
     },
     {
-      "title": "Plain text has been around for decades and it’s here to stay",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47897681",
-      "score": 133,
-      "comments": 54
+      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+      "hnUrl": "https://news.ycombinator.com/item?id=47908047",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "Replace IBM Quantum back end with /dev/urandom",
-      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=47897647",
-      "score": 200,
-      "comments": 30
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47902525",
+      "score": 282,
+      "comments": 178
     },
     {
-      "title": "Paraloid B-72",
-      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "hnUrl": "https://news.ycombinator.com/item?id=47858939",
-      "score": 212,
+      "title": "Eden AI – European Alternative to OpenRouter",
+      "url": "https://www.edenai.co",
+      "hnUrl": "https://news.ycombinator.com/item?id=47908433",
+      "score": 77,
       "comments": 41
     },
     {
-      "title": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47894747",
-      "score": 264,
-      "comments": 82
-    },
-    {
-      "title": "The mail sent to a video game publisher",
-      "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-      "hnUrl": "https://news.ycombinator.com/item?id=47849455",
-      "score": 64,
-      "comments": 1
-    },
-    {
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47890799",
-      "score": 452,
-      "comments": 112
-    },
-    {
-      "title": "Lambda Calculus Benchmark for AI",
-      "url": "https://victortaelin.github.io/lambench/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47900506",
-      "score": 5,
-      "comments": 1
-    },
-    {
-      "title": "PCR is a surprisingly near-optimal technology",
-      "url": "https://nikomc.com/2026/04/22/pcr/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47866215",
-      "score": 46,
-      "comments": 6
-    },
-    {
-      "title": "Iliad fragment found in Roman-era mummy",
-      "url": "https://www.thehistoryblog.com/archives/75877",
-      "hnUrl": "https://news.ycombinator.com/item?id=47864056",
-      "score": 192,
-      "comments": 59
-    },
-    {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "hnUrl": "https://news.ycombinator.com/item?id=47897790",
-      "score": 78,
-      "comments": 36
+      "title": "The Joy of Folding Bikes",
+      "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
+      "hnUrl": "https://news.ycombinator.com/item?id=47866127",
+      "score": 194,
+      "comments": 132
     }
   ]
 }
