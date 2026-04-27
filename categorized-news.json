@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T04:21:47.726Z",
+  "updated": "2026-04-27T04:29:56.894Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -39,6 +39,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+          "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+          "date": "2026-04-26T15:30:00.000Z",
+          "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropic created a test marketplace for agent-on-agent commerce",
           "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
@@ -100,13 +107,6 @@
           "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
           "date": "2026-04-24T14:00:00.000Z",
           "description": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nothing introduces an AI-powered dictation tool",
-          "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-          "date": "2026-04-24T13:41:42.000Z",
-          "description": "Nothing's new on-device dictation tool supports over 100 languages.",
           "source": "TechCrunch"
         }
       ]
