@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-27T13:15:03.281Z",
+  "updated": "2026-04-28T13:25:41.211Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "hnUrl": "https://news.ycombinator.com/item?id=47919997",
-      "score": 172,
-      "comments": 71
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "hnUrl": "https://news.ycombinator.com/item?id=47933208",
+      "score": 143,
+      "comments": 54
     },
     {
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "url": "https://github.com/dirac-run/dirac",
-      "hnUrl": "https://news.ycombinator.com/item?id=47920787",
-      "score": 28,
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "hnUrl": "https://news.ycombinator.com/item?id=47933236",
+      "score": 58,
+      "comments": 24
+    },
+    {
+      "title": "The World's Most Complex Machine",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47901064",
+      "score": 152,
+      "comments": 69
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "hnUrl": "https://news.ycombinator.com/item?id=47927903",
+      "score": 455,
+      "comments": 172
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "hnUrl": "https://news.ycombinator.com/item?id=47921248",
+      "score": 920,
+      "comments": 785
+    },
+    {
+      "title": "The predictable failure of the QDay Prize",
+      "url": "https://algassert.com/post/2601",
+      "hnUrl": "https://news.ycombinator.com/item?id=47911675",
+      "score": 16,
+      "comments": 0
+    },
+    {
+      "title": "Is my blue your blue? (2024)",
+      "url": "https://ismy.blue/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47926861",
+      "score": 617,
+      "comments": 408
+    },
+    {
+      "title": "GTFOBins",
+      "url": "https://gtfobins.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47931035",
+      "score": 272,
+      "comments": 67
+    },
+    {
+      "title": "Period tracking app has been yapping about your flow to Meta",
+      "url": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+      "hnUrl": "https://news.ycombinator.com/item?id=47932990",
+      "score": 63,
+      "comments": 59
+    },
+    {
+      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47932028",
+      "score": 14,
+      "comments": 2
+    },
+    {
+      "title": "Mo RAM, Mo Problems (2025)",
+      "url": "https://fabiensanglard.net/curse/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47902269",
+      "score": 165,
+      "comments": 28
+    },
+    {
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "url": "https://github.com/pgcentralfoundation/pgrx",
+      "hnUrl": "https://news.ycombinator.com/item?id=47899669",
+      "score": 125,
       "comments": 7
     },
     {
-      "title": "Flipdiscs",
-      "url": "https://flipdisc.io",
-      "hnUrl": "https://news.ycombinator.com/item?id=47875795",
-      "score": 371,
-      "comments": 64
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=47919630",
+      "score": 567,
+      "comments": 213
     },
     {
-      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "hnUrl": "https://news.ycombinator.com/item?id=47914165",
-      "score": 914,
-      "comments": 462
+      "title": "Men who stare at walls",
+      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47920074",
+      "score": 638,
+      "comments": 291
     },
     {
-      "title": "AI should elevate your thinking, not replace it",
-      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47913650",
-      "score": 618,
-      "comments": 450
-    },
-    {
-      "title": "TurboQuant: A first-principles walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47916890",
-      "score": 212,
-      "comments": 45
-    },
-    {
-      "title": "Self-updating screenshots",
-      "url": "https://interblah.net/self-updating-screenshots",
-      "hnUrl": "https://news.ycombinator.com/item?id=47908051",
-      "score": 364,
-      "comments": 60
-    },
-    {
-      "title": "The Prompt API",
-      "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "hnUrl": "https://news.ycombinator.com/item?id=47917026",
-      "score": 184,
-      "comments": 94
-    },
-    {
-      "title": "It's OK to abandon your side-project (2024)",
-      "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47918961",
-      "score": 124,
-      "comments": 58
-    },
-    {
-      "title": "Getting my daily news from a dot matrix printer 2024",
-      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47900649",
-      "score": 16,
-      "comments": 1
-    },
-    {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47913855",
-      "score": 288,
-      "comments": 61
-    },
-    {
-      "title": "Rust Memory Management: Ownership vs. Reference Counting",
-      "url": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47899989",
-      "score": 42,
-      "comments": 22
-    },
-    {
-      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
-      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47919725",
-      "score": 77,
-      "comments": 38
-    },
-    {
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47903541",
-      "score": 254,
-      "comments": 43
-    },
-    {
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47910388",
-      "score": 327,
-      "comments": 171
+      "title": "High Performance Git",
+      "url": "https://gitperf.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47929035",
+      "score": 180,
+      "comments": 56
     }
   ]
 }
