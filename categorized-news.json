@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T04:29:56.894Z",
+  "updated": "2026-04-28T04:33:09.294Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -18,20 +18,6 @@
           "date": "2026-04-24T16:42:19.000Z",
           "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "DeepSeek previews new AI model that closes the gap with frontier models",
-          "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-          "date": "2026-04-24T13:30:59.000Z",
-          "description": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI super app",
-          "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-          "date": "2026-04-23T18:29:29.000Z",
-          "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -40,10 +26,24 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+          "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+          "date": "2026-04-27T17:40:38.000Z",
+          "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI could be making a phone with AI agents replacing apps",
+          "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+          "date": "2026-04-27T13:08:59.000Z",
+          "description": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "To buy this Bay Area home, you’ll need Anthropic equity",
           "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
           "date": "2026-04-26T15:30:00.000Z",
-          "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+          "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
           "source": "TechCrunch"
         },
         {
@@ -94,20 +94,6 @@
           "date": "2026-04-24T18:00:03.000Z",
           "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Apples new CEO, and why Elon Musk wants to buy Cursor for $60B",
-          "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-          "date": "2026-04-24T17:45:57.000Z",
-          "description": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable busine...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-          "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-          "date": "2026-04-24T14:00:00.000Z",
-          "description": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -116,24 +102,31 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+          "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+          "date": "2026-04-27T13:16:55.000Z",
+          "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI could be making a phone with AI agents replacing apps",
+          "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+          "date": "2026-04-27T13:08:59.000Z",
+          "description": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "date": "2026-04-27T13:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\"&gt;Google is bringing back its 5-Day AI Agents Intensive Course...",
+          "source": "Google AI Blog"
+        },
+        {
           "title": "Anthropic created a test marketplace for agent-on-agent commerce",
           "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
           "date": "2026-04-25T21:43:37.000Z",
           "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-          "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-          "date": "2026-04-24T12:00:00.000Z",
-          "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Bret Taylors Sierra buys YC-backed AI startup Fragment",
-          "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-          "date": "2026-04-23T21:00:00.000Z",
-          "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
           "source": "TechCrunch"
         },
         {
@@ -157,10 +150,31 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+          "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+          "date": "2026-04-27T17:40:38.000Z",
+          "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DeepMinds David Silver just raised $1.1B to build an AI that learns without human data",
+          "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+          "date": "2026-04-27T17:24:21.000Z",
+          "description": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+          "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+          "date": "2026-04-27T13:16:55.000Z",
+          "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Why Cohere is merging with Aleph Alpha",
           "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
           "date": "2026-04-25T16:00:00.000Z",
-          "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt...",
+          "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en...",
           "source": "TechCrunch"
         },
         {
@@ -183,13 +197,6 @@
           "date": "2026-04-24T14:00:00.000Z",
           "description": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, buthe’salso stepping...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Bret Taylors Sierra buys YC-backed AI startup Fragment",
-          "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-          "date": "2026-04-23T21:00:00.000Z",
-          "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -197,6 +204,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+          "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+          "date": "2026-04-27T16:13:02.000Z",
+          "description": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta inks deal for solar power at night, beamed from space",
+          "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+          "date": "2026-04-27T10:00:00.000Z",
+          "description": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI CEO apologizes to Tumbler Ridge community",
           "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
