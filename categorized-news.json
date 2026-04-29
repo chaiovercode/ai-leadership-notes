@@ -1,22 +1,15 @@
 {
-  "updated": "2026-04-28T04:33:09.294Z",
+  "updated": "2026-04-29T04:28:19.608Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "Google to invest up to $40B in Anthropic in cash and compute",
-          "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-          "date": "2026-04-24T18:00:03.000Z",
-          "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-          "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-          "date": "2026-04-24T16:42:19.000Z",
-          "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+          "title": "Amazon is already offering new OpenAI products on AWS",
+          "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+          "date": "2026-04-28T19:48:02.000Z",
+          "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
           "source": "TechCrunch"
         }
       ]
@@ -25,6 +18,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "At his OpenAI trial, Musk relitigates an old friendship",
+          "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+          "date": "2026-04-29T00:40:16.000Z",
+          "description": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon is already offering new OpenAI products on AWS",
+          "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+          "date": "2026-04-28T19:48:02.000Z",
+          "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon launches an AI-powered audio QA experience on product pages",
+          "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+          "date": "2026-04-28T18:49:54.000Z",
+          "description": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google expands Pentagons access to its AI after Anthropics refusal",
+          "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+          "date": "2026-04-28T18:15:00.000Z",
+          "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Lovable launches its vibe-coding app on iOS and Android",
+          "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+          "date": "2026-04-28T16:09:30.000Z",
+          "description": "The app allows developers to vibe code web apps and websites on the go.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+          "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+          "date": "2026-04-28T13:54:06.000Z",
+          "description": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
           "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
@@ -52,48 +87,6 @@
           "date": "2026-04-25T21:43:37.000Z",
           "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Maines governor vetoes data center moratorium",
-          "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-          "date": "2026-04-25T20:57:08.000Z",
-          "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-          "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-          "date": "2026-04-25T17:17:56.000Z",
-          "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-          "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-          "date": "2026-04-25T15:00:00.000Z",
-          "description": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Metas loss is Thinking Machines gain",
-          "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-          "date": "2026-04-24T20:52:07.000Z",
-          "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "8 Gemini tips for organizing your space (and life)",
-          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-          "date": "2026-04-24T19:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\"&gt;Organize your home and digital space with Gemini. Use AI-power...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Google to invest up to $40B in Anthropic in cash and compute",
-          "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-          "date": "2026-04-24T18:00:03.000Z",
-          "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -101,6 +94,27 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Amazon is already offering new OpenAI products on AWS",
+          "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+          "date": "2026-04-28T19:48:02.000Z",
+          "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google expands Pentagons access to its AI after Anthropics refusal",
+          "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+          "date": "2026-04-28T18:15:00.000Z",
+          "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Red Hats OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+          "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+          "date": "2026-04-28T13:00:00.000Z",
+          "description": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+          "source": "TechCrunch"
+        },
         {
           "title": "China blocks Meta’s $2B Manus deal after months-long probe",
           "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
@@ -135,13 +149,6 @@
           "date": "2026-04-22T12:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\"&gt;The eighth generation of Google’s TPU includes two speciali...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-          "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-          "date": "2026-04-21T14:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp\"&gt;Three new agentic safety and policy features integrated into Ads...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -149,6 +156,27 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "BCI startup Neurable looks to license its mind-reading tech for consumer wearables",
+          "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+          "date": "2026-04-28T13:19:34.000Z",
+          "description": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Red Hats OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+          "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+          "date": "2026-04-28T13:00:00.000Z",
+          "description": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Otters new feature lets users search across their enterprise tools",
+          "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+          "date": "2026-04-28T12:00:00.000Z",
+          "description": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow conn...",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
           "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
@@ -176,27 +204,6 @@
           "date": "2026-04-25T16:00:00.000Z",
           "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Why Tokyo is the most important tech destination of 2026",
-          "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-          "date": "2026-04-25T15:03:00.000Z",
-          "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-          "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-          "date": "2026-04-24T19:49:35.000Z",
-          "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Tim Cook is stepping down. What happens to Apple now?",
-          "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-          "date": "2026-04-24T14:00:00.000Z",
-          "description": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, buthe’salso stepping...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -204,6 +211,27 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Google expands Pentagons access to its AI after Anthropics refusal",
+          "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+          "date": "2026-04-28T18:15:00.000Z",
+          "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "date": "2026-04-28T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\"&gt;Google’s sharing 20 fun facts to celebrate Google Translat...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Red Hats OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+          "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+          "date": "2026-04-28T13:00:00.000Z",
+          "description": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
           "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
@@ -224,27 +252,6 @@
           "date": "2026-04-25T17:17:56.000Z",
           "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Why Tokyo is the most important tech destination of 2026",
-          "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-          "date": "2026-04-25T15:03:00.000Z",
-          "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-          "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-          "date": "2026-04-24T16:42:19.000Z",
-          "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-          "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-          "date": "2026-04-21T14:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp\"&gt;Three new agentic safety and policy features integrated into Ads...",
-          "source": "Google AI Blog"
         }
       ]
     }
