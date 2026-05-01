@@ -1,111 +1,111 @@
 {
-  "updated": "2026-04-30T13:17:37.454Z",
+  "updated": "2026-05-01T12:52:40.123Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47960507",
-      "score": 146,
-      "comments": 82
+      "title": "Your Website Is Not for You",
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47973376",
+      "score": 64,
+      "comments": 33
     },
     {
-      "title": "Mozilla's Opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "hnUrl": "https://news.ycombinator.com/item?id=47959463",
-      "score": 248,
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "hnUrl": "https://news.ycombinator.com/item?id=47973378",
+      "score": 64,
+      "comments": 29
+    },
+    {
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47965060",
+      "score": 632,
+      "comments": 213
+    },
+    {
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "hnUrl": "https://news.ycombinator.com/item?id=47972511",
+      "score": 175,
+      "comments": 62
+    },
+    {
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "hnUrl": "https://news.ycombinator.com/item?id=47972447",
+      "score": 155,
+      "comments": 210
+    },
+    {
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "hnUrl": "https://news.ycombinator.com/item?id=47965108",
+      "score": 531,
+      "comments": 428
+    },
+    {
+      "title": "OpenWarp",
+      "url": "https://openwarp.zerx.dev",
+      "hnUrl": "https://news.ycombinator.com/item?id=47970622",
+      "score": 117,
       "comments": 97
     },
     {
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47957688",
-      "score": 788,
-      "comments": 468
+      "title": "If I could make my own GitHub",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47962269",
+      "score": 32,
+      "comments": 70
     },
     {
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "hnUrl": "https://news.ycombinator.com/item?id=47927627",
-      "score": 347,
-      "comments": 79
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47964617",
+      "score": 409,
+      "comments": 150
     },
     {
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "hnUrl": "https://news.ycombinator.com/item?id=47949027",
-      "score": 1953,
-      "comments": 620
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "hnUrl": "https://news.ycombinator.com/item?id=47951295",
+      "score": 379,
+      "comments": 199
     },
     {
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47957294",
-      "score": 402,
-      "comments": 208
+      "title": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47942863",
+      "score": 128,
+      "comments": 103
     },
     {
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47952181",
-      "score": 1135,
-      "comments": 406
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47973108",
+      "score": 74,
+      "comments": 51
     },
     {
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "hnUrl": "https://news.ycombinator.com/item?id=47957101",
-      "score": 264,
-      "comments": 56
+      "title": "How an oil refinery works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "hnUrl": "https://news.ycombinator.com/item?id=47962548",
+      "score": 449,
+      "comments": 139
     },
     {
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47949939",
-      "score": 1036,
-      "comments": 167
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "hnUrl": "https://news.ycombinator.com/item?id=47963204",
+      "score": 1208,
+      "comments": 664
     },
     {
-      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "url": "https://datacenter.fm/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47959513",
-      "score": 54,
-      "comments": 13
-    },
-    {
-      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-      "url": "https://burrito.bio/essays/biology-is-a-burrito",
-      "hnUrl": "https://news.ycombinator.com/item?id=47957714",
-      "score": 139,
-      "comments": 20
-    },
-    {
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "hnUrl": "https://news.ycombinator.com/item?id=47957627",
-      "score": 164,
-      "comments": 131
-    },
-    {
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47953541",
-      "score": 304,
-      "comments": 85
-    },
-    {
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "hnUrl": "https://news.ycombinator.com/item?id=47950510",
-      "score": 366,
-      "comments": 88
-    },
-    {
-      "title": "Mike: open-source legal AI",
-      "url": "https://mikeoss.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47956739",
-      "score": 133,
-      "comments": 56
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47969288",
+      "score": 123,
+      "comments": 48
     }
   ]
 }
