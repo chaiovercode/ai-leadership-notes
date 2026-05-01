@@ -1,29 +1,15 @@
 {
-  "updated": "2026-04-30T04:31:22.507Z",
+  "updated": "2026-05-01T04:49:08.781Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "Is AI video just a prequel? Runways CEO thinks world models are next",
-          "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
-          "date": "2026-04-29T18:59:44.000Z",
-          "description": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Colby Adcocks Scout AI raises $100M to train its models for war: We visited its bootcamp",
-          "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-          "date": "2026-04-29T09:45:00.000Z",
-          "description": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon is already offering new OpenAI products on AWS",
-          "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-          "date": "2026-04-28T19:48:02.000Z",
-          "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+          "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+          "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+          "date": "2026-04-30T18:03:57.000Z",
+          "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
           "source": "TechCrunch"
         }
       ]
@@ -33,73 +19,73 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+          "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+          "date": "2026-05-01T02:00:00.000Z",
+          "description": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+          "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+          "date": "2026-04-30T23:07:56.000Z",
+          "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple was surprised by AI-driven demand for Macs",
+          "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+          "date": "2026-04-30T22:12:52.000Z",
+          "description": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+          "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+          "date": "2026-04-30T19:27:41.000Z",
+          "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+          "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+          "date": "2026-04-30T18:20:03.000Z",
+          "description": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+          "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+          "date": "2026-04-30T18:03:57.000Z",
+          "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+          "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+          "date": "2026-04-30T17:53:53.000Z",
+          "description": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+          "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+          "date": "2026-04-30T17:46:54.000Z",
+          "description": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
           "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
           "date": "2026-04-30T03:58:22.000Z",
-          "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+          "description": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
           "source": "TechCrunch"
         },
         {
           "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
           "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
           "date": "2026-04-30T00:07:15.000Z",
-          "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "On the stand, Elon Musk cant escape his own tweets",
-          "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-          "date": "2026-04-29T23:58:36.000Z",
-          "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta is still burning money on AR/VR",
-          "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-          "date": "2026-04-29T23:58:26.000Z",
-          "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Satya Nadella says hes ready to exploit the new OpenAI deal",
-          "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-          "date": "2026-04-29T23:55:23.000Z",
-          "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-          "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-          "date": "2026-04-29T23:02:23.000Z",
-          "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-          "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-          "date": "2026-04-29T20:59:00.000Z",
-          "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google Photos uses AI to make the iconic closet from Clueless a reality",
-          "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-          "date": "2026-04-29T16:42:33.000Z",
-          "description": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "More Gemini features are coming to Google TV",
-          "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-          "date": "2026-04-29T16:40:49.000Z",
-          "description": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "At his OpenAI trial, Musk relitigates an old friendship",
-          "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-          "date": "2026-04-29T00:40:16.000Z",
-          "description": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+          "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
           "source": "TechCrunch"
         }
       ]
@@ -109,31 +95,10 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-          "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-          "date": "2026-04-29T18:33:05.000Z",
-          "description": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Colby Adcocks Scout AI raises $100M to train its models for war: We visited its bootcamp",
-          "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-          "date": "2026-04-29T09:45:00.000Z",
-          "description": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon is already offering new OpenAI products on AWS",
-          "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-          "date": "2026-04-28T19:48:02.000Z",
-          "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google expands Pentagons access to its AI after Anthropics refusal",
-          "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-          "date": "2026-04-28T18:15:00.000Z",
-          "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+          "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+          "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+          "date": "2026-04-30T17:15:19.000Z",
+          "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
           "source": "TechCrunch"
         },
         {
@@ -150,6 +115,41 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+          "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+          "date": "2026-04-30T23:07:56.000Z",
+          "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+          "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+          "date": "2026-04-30T20:14:47.000Z",
+          "description": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+          "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+          "date": "2026-04-30T16:06:49.000Z",
+          "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "X announces a rebuilt ad platform powered by AI",
+          "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+          "date": "2026-04-30T15:14:55.000Z",
+          "description": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta says its business AI now facilitates 10 million conversations a week",
+          "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+          "date": "2026-04-30T12:08:45.000Z",
+          "description": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Amazons cloud business is surging — and so is its capital spending",
           "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
           "date": "2026-04-30T00:14:23.000Z",
@@ -160,35 +160,7 @@
           "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
           "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
           "date": "2026-04-30T00:07:15.000Z",
-          "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Satya Nadella says hes ready to exploit the new OpenAI deal",
-          "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-          "date": "2026-04-29T23:55:23.000Z",
-          "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-          "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-          "date": "2026-04-29T22:20:48.000Z",
-          "description": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-          "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-          "date": "2026-04-29T18:33:05.000Z",
-          "description": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Firestorm Labs raises $82M to take drone factories into the field",
-          "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-          "date": "2026-04-29T13:10:57.000Z",
-          "description": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+          "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
           "source": "TechCrunch"
         }
       ]
@@ -197,27 +169,6 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
-        {
-          "title": "Firestorm Labs raises $82M to take drone factories into the field",
-          "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-          "date": "2026-04-29T13:10:57.000Z",
-          "description": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-          "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-          "date": "2026-04-29T13:00:00.000Z",
-          "description": "Think Discord chats, but with AI characters in addition to humans.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google expands Pentagons access to its AI after Anthropics refusal",
-          "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-          "date": "2026-04-28T18:15:00.000Z",
-          "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-          "source": "TechCrunch"
-        },
         {
           "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
           "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
