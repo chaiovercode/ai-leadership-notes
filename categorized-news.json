@@ -1,10 +1,24 @@
 {
-  "updated": "2026-05-01T04:49:08.781Z",
+  "updated": "2026-05-02T04:17:37.191Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+          "date": "2026-05-01T22:13:27.000Z",
+          "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+          "date": "2026-05-01T16:02:36.000Z",
+          "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
           "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
@@ -18,6 +32,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Replits Amjad Masad on the Cursor deal, fighting Apple, and why hed rather not sell",
+          "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+          "date": "2026-05-01T23:06:50.000Z",
+          "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Did you know you cant steal a charity? Dont worry. Elon Musk will remind you.",
+          "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+          "date": "2026-05-01T17:44:29.000Z",
+          "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and its already getting messy. Emails, texts, and his own tweets are surfacing in court, and...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+          "date": "2026-05-01T16:02:36.000Z",
+          "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Musk v. Altman is just getting started",
+          "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+          "date": "2026-05-01T14:00:00.000Z",
+          "description": "Elon Musk spent the better part of three dayson the witness standthis weekin his lawsuit against OpenAI, anditsalready getting messy. Emails, texts, andhis own tweetsare surfacing in court, and there ...",
+          "source": "TechCrunch"
+        },
         {
           "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
           "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
@@ -59,34 +101,6 @@
           "date": "2026-04-30T18:03:57.000Z",
           "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-          "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-          "date": "2026-04-30T17:53:53.000Z",
-          "description": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-          "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-          "date": "2026-04-30T17:46:54.000Z",
-          "description": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-          "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-          "date": "2026-04-30T03:58:22.000Z",
-          "description": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-          "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-          "date": "2026-04-30T00:07:15.000Z",
-          "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -95,7 +109,7 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+          "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
           "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
           "date": "2026-04-30T17:15:19.000Z",
           "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
@@ -114,6 +128,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+          "date": "2026-05-01T22:13:27.000Z",
+          "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
           "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
@@ -148,20 +169,6 @@
           "date": "2026-04-30T12:08:45.000Z",
           "description": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Amazons cloud business is surging — and so is its capital spending",
-          "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-          "date": "2026-04-30T00:14:23.000Z",
-          "description": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-          "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-          "date": "2026-04-30T00:07:15.000Z",
-          "description": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -169,6 +176,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Did you know you cant steal a charity? Dont worry. Elon Musk will remind you.",
+          "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+          "date": "2026-05-01T17:44:29.000Z",
+          "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and its already getting messy. Emails, texts, and his own tweets are surfacing in court, and...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Musk v. Altman is just getting started",
+          "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+          "date": "2026-05-01T14:00:00.000Z",
+          "description": "Elon Musk spent the better part of three dayson the witness standthis weekin his lawsuit against OpenAI, anditsalready getting messy. Emails, texts, andhis own tweetsare surfacing in court, and there ...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
           "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
