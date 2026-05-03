@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T04:17:37.191Z",
+  "updated": "2026-05-03T04:39:37.761Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -32,6 +32,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "The best AI dictation apps, tested and ranked",
+          "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+          "date": "2026-05-02T16:00:00.000Z",
+          "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+          "source": "TechCrunch"
+        },
         {
           "title": "Replits Amjad Masad on the Cursor deal, fighting Apple, and why hed rather not sell",
           "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
@@ -94,13 +101,6 @@
           "date": "2026-04-30T18:20:03.000Z",
           "description": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-          "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-          "date": "2026-04-30T18:03:57.000Z",
-          "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -155,20 +155,6 @@
           "date": "2026-04-30T16:06:49.000Z",
           "description": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "X announces a rebuilt ad platform powered by AI",
-          "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-          "date": "2026-04-30T15:14:55.000Z",
-          "description": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta says its business AI now facilitates 10 million conversations a week",
-          "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-          "date": "2026-04-30T12:08:45.000Z",
-          "description": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -176,6 +162,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+          "date": "2026-05-02T21:54:58.000Z",
+          "description": "Bad news for Tilly Norwood.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Did you know you cant steal a charity? Dont worry. Elon Musk will remind you.",
           "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
