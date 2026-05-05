@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-04T13:19:44.284Z",
+  "updated": "2026-05-05T13:07:58.367Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "hnUrl": "https://news.ycombinator.com/item?id=48006402",
-      "score": 267,
-      "comments": 215
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48021561",
+      "score": 45,
+      "comments": 27
     },
     {
-      "title": "Talking to 35 Strangers at the Gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48007438",
-      "score": 119,
-      "comments": 43
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "hnUrl": "https://news.ycombinator.com/item?id=48019163",
+      "score": 259,
+      "comments": 134
     },
     {
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48006445",
-      "score": 299,
-      "comments": 118
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47962032",
+      "score": 123,
+      "comments": 103
     },
     {
-      "title": "Using “underdrawings” for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47977990",
-      "score": 295,
-      "comments": 95
+      "title": "AI Product Graveyard",
+      "url": "https://tooldirectory.ai/ai-graveyard",
+      "hnUrl": "https://news.ycombinator.com/item?id=48021968",
+      "score": 6,
+      "comments": 0
     },
     {
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47983333",
-      "score": 98,
-      "comments": 4
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "hnUrl": "https://news.ycombinator.com/item?id=48016880",
+      "score": 593,
+      "comments": 422
     },
     {
-      "title": "ASML's Best Selling Product Isn't What You Think It Is",
-      "url": "https://www.siliconimist.com/p/asmls-best-selling-product",
-      "hnUrl": "https://news.ycombinator.com/item?id=48007145",
-      "score": 87,
-      "comments": 35
+      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+      "url": "https://walzr.com/empty-screenings",
+      "hnUrl": "https://news.ycombinator.com/item?id=48018066",
+      "score": 197,
+      "comments": 163
     },
     {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "hnUrl": "https://news.ycombinator.com/item?id=47999636",
-      "score": 409,
-      "comments": 132
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48019025",
+      "score": 115,
+      "comments": 98
     },
     {
-      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
-      "url": "https://reiner.org/neural-net-ciphers",
-      "hnUrl": "https://news.ycombinator.com/item?id=47983467",
-      "score": 34,
-      "comments": 5
+      "title": "Hand Drawn QR Codes (2025)",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "hnUrl": "https://news.ycombinator.com/item?id=48017907",
+      "score": 147,
+      "comments": 27
     },
     {
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "hnUrl": "https://news.ycombinator.com/item?id=48002136",
-      "score": 534,
-      "comments": 220
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48019219",
+      "score": 440,
+      "comments": 416
     },
     {
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47968187",
-      "score": 122,
-      "comments": 5
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48013919",
+      "score": 429,
+      "comments": 133
     },
     {
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47998946",
-      "score": 278,
-      "comments": 83
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48020063",
+      "score": 86,
+      "comments": 56
     },
     {
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48002777",
-      "score": 420,
-      "comments": 388
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48017813",
+      "score": 131,
+      "comments": 68
     },
     {
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=47974682",
-      "score": 173,
-      "comments": 67
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "hnUrl": "https://news.ycombinator.com/item?id=48017948",
+      "score": 308,
+      "comments": 36
     },
     {
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "hnUrl": "https://news.ycombinator.com/item?id=48002607",
-      "score": 192,
-      "comments": 91
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48015397",
+      "score": 293,
+      "comments": 147
     },
     {
-      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "hnUrl": "https://news.ycombinator.com/item?id=47991981",
-      "score": 430,
-      "comments": 377
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "hnUrl": "https://news.ycombinator.com/item?id=48009983",
+      "score": 312,
+      "comments": 304
     }
   ]
 }
