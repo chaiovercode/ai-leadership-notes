@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-05T13:07:58.367Z",
+  "updated": "2026-05-06T13:26:45.116Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48021561",
-      "score": 45,
-      "comments": 27
+      "title": "Show HN: Red Squares – GitHub outages as contributions",
+      "url": "https://red-squares.cian.lol/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48034587",
+      "score": 384,
+      "comments": 80
     },
     {
-      "title": "Async Rust never left the MVP state",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "hnUrl": "https://news.ycombinator.com/item?id=48019163",
-      "score": 259,
-      "comments": 134
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "hnUrl": "https://news.ycombinator.com/item?id=48006967",
+      "score": 112,
+      "comments": 57
     },
     {
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "hnUrl": "https://news.ycombinator.com/item?id=47962032",
-      "score": 123,
-      "comments": 103
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48031684",
+      "score": 438,
+      "comments": 235
     },
     {
-      "title": "AI Product Graveyard",
-      "url": "https://tooldirectory.ai/ai-graveyard",
-      "hnUrl": "https://news.ycombinator.com/item?id=48021968",
-      "score": 6,
+      "title": "StarFighter 16-Inch",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "hnUrl": "https://news.ycombinator.com/item?id=48031261",
+      "score": 460,
+      "comments": 229
+    },
+    {
+      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "hnUrl": "https://news.ycombinator.com/item?id=48005432",
+      "score": 258,
+      "comments": 30
+    },
+    {
+      "title": "Knitting bullshit",
+      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48032461",
+      "score": 190,
+      "comments": 88
+    },
+    {
+      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "hnUrl": "https://news.ycombinator.com/item?id=48035223",
+      "score": 1,
       "comments": 0
     },
     {
-      "title": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "hnUrl": "https://news.ycombinator.com/item?id=48016880",
-      "score": 593,
-      "comments": 422
+      "title": "Reverse-engineering the 1998 Ultima Online demo server",
+      "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48032976",
+      "score": 107,
+      "comments": 23
     },
     {
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "url": "https://walzr.com/empty-screenings",
-      "hnUrl": "https://news.ycombinator.com/item?id=48018066",
-      "score": 197,
-      "comments": 163
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "hnUrl": "https://news.ycombinator.com/item?id=48027897",
+      "score": 698,
+      "comments": 364
     },
     {
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48019025",
-      "score": 115,
-      "comments": 98
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "hnUrl": "https://news.ycombinator.com/item?id=48031867",
+      "score": 138,
+      "comments": 84
     },
     {
-      "title": "Hand Drawn QR Codes (2025)",
-      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "hnUrl": "https://news.ycombinator.com/item?id=48017907",
-      "score": 147,
-      "comments": 27
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48024540",
+      "score": 608,
+      "comments": 293
     },
     {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48019219",
-      "score": 440,
-      "comments": 416
+      "title": "YouTube, your RSS feeds are broken",
+      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "hnUrl": "https://news.ycombinator.com/item?id=48030964",
+      "score": 198,
+      "comments": 74
     },
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48013919",
-      "score": 429,
-      "comments": 133
-    },
-    {
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48020063",
-      "score": 86,
-      "comments": 56
-    },
-    {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48017813",
+      "title": "Multi-stroke text effect in CSS",
+      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "hnUrl": "https://news.ycombinator.com/item?id=48032265",
       "score": 131,
-      "comments": 68
+      "comments": 16
     },
     {
-      "title": "Train Your Own LLM from Scratch",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "hnUrl": "https://news.ycombinator.com/item?id=48017948",
-      "score": 308,
-      "comments": 36
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=48028842",
+      "score": 300,
+      "comments": 208
     },
     {
-      "title": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48015397",
-      "score": 293,
-      "comments": 147
-    },
-    {
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "url": "https://www.nber.org/papers/w35117",
-      "hnUrl": "https://news.ycombinator.com/item?id=48009983",
-      "score": 312,
-      "comments": 304
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48024859",
+      "score": 423,
+      "comments": 244
     }
   ]
 }
