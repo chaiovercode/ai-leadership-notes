@@ -1,36 +1,36 @@
 {
-  "updated": "2026-05-05T04:15:30.685Z",
+  "updated": "2026-05-06T04:32:49.993Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+          "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+          "date": "2026-05-05T20:56:41.000Z",
+          "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+          "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+          "date": "2026-05-05T17:00:00.000Z",
+          "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Indias first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+          "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+          "date": "2026-05-05T13:18:50.000Z",
+          "description": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Image AI models now drive app growth, beating chatbot upgrades",
           "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
           "date": "2026-05-04T19:12:49.000Z",
           "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-          "date": "2026-05-03T18:00:09.000Z",
-          "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-          "date": "2026-05-01T22:13:27.000Z",
-          "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-          "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-          "date": "2026-05-01T16:02:36.000Z",
-          "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
           "source": "TechCrunch"
         }
       ]
@@ -39,6 +39,55 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Altara secures $7M to bridge the data gap thats slowing down physical sciences",
+          "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+          "date": "2026-05-05T22:57:41.000Z",
+          "description": "Altara’s AI aims to diagnose failures and help speed up RD by unifying  data siloed across spreadsheets and legacy systems.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ASML CEO Christophe Fouquet on his companys monopoly: no one is coming for us",
+          "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+          "date": "2026-05-05T20:06:40.000Z",
+          "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+          "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+          "date": "2026-05-05T17:00:00.000Z",
+          "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "date": "2026-05-05T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\"&gt;Google is partnering with XPRIZE and Range Media Partners on the...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+          "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+          "date": "2026-05-05T15:31:37.000Z",
+          "description": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+          "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+          "date": "2026-05-05T14:27:00.000Z",
+          "description": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+          "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+          "date": "2026-05-05T14:00:00.000Z",
+          "description": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and ...",
+          "source": "TechCrunch"
+        },
         {
           "title": "As workers worry about AI, Nvidias Jensen Huang says AI is creating an enormous number of jobs",
           "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
@@ -59,67 +108,61 @@
           "date": "2026-05-04T17:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from April 2026",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Elon Musks only AI expert witness at the OpenAI trial fears an AGI arms race",
-          "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-          "date": "2026-05-04T16:57:47.000Z",
-          "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-          "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-          "date": "2026-05-04T16:36:03.000Z",
-          "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-          "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-          "date": "2026-05-04T15:59:24.000Z",
-          "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-          "date": "2026-05-04T15:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\"&gt;Event-Driven Webhooks are a push-based notification system that eli...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-          "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-          "date": "2026-05-04T14:00:00.000Z",
-          "description": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-          "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-          "date": "2026-05-04T13:00:00.000Z",
-          "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-          "date": "2026-05-03T18:00:09.000Z",
-          "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-          "source": "TechCrunch"
         }
       ]
     },
     {
       "id": "agents",
       "name": "AI Agents & Automation",
-      "articles": []
+      "articles": [
+        {
+          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+          "date": "2026-05-05T23:50:10.000Z",
+          "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "PayPal says its becoming a technology company again — that means AI",
+          "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+          "date": "2026-05-05T15:49:55.000Z",
+          "description": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+          "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+          "date": "2026-05-05T14:07:47.000Z",
+          "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+          "date": "2026-05-05T23:50:10.000Z",
+          "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+          "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+          "date": "2026-05-05T14:20:50.000Z",
+          "description": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+          "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+          "date": "2026-05-05T14:07:47.000Z",
+          "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Image AI models now drive app growth, beating chatbot upgrades",
           "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
@@ -140,27 +183,6 @@
           "date": "2026-05-04T15:59:24.000Z",
           "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "‘This is fine’ creator says AI startup stole his art",
-          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-          "date": "2026-05-03T20:16:51.000Z",
-          "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-          "date": "2026-05-01T22:13:27.000Z",
-          "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-          "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-          "date": "2026-04-30T23:07:56.000Z",
-          "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -169,32 +191,25 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "AI-generated actors and scripts are now ineligible for Oscars",
-          "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-          "date": "2026-05-02T21:54:58.000Z",
-          "description": "The Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy ...",
+          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+          "date": "2026-05-05T23:50:10.000Z",
+          "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
           "source": "TechCrunch"
         },
         {
-          "title": "Did you know you cant steal a charity? Dont worry. Elon Musk will remind you.",
-          "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-          "date": "2026-05-01T17:44:29.000Z",
-          "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and its already getting messy. Emails, texts, and his own tweets are surfacing in court, and...",
+          "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+          "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+          "date": "2026-05-05T17:46:10.000Z",
+          "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
           "source": "TechCrunch"
         },
         {
-          "title": "Musk v. Altman is just getting started",
-          "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-          "date": "2026-05-01T14:00:00.000Z",
-          "description": "Elon Musk spent the better part of three dayson the witness standthis weekin his lawsuit against OpenAI, anditsalready getting messy. Emails, texts, andhis own tweetsare surfacing in court, and there ...",
+          "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+          "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+          "date": "2026-05-05T17:00:00.000Z",
+          "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-          "date": "2026-04-28T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\"&gt;Google’s sharing 20 fun facts to celebrate Google Translat...",
-          "source": "Google AI Blog"
         }
       ]
     }
