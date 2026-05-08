@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T04:33:13.913Z",
+  "updated": "2026-05-08T04:15:16.757Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -11,27 +11,6 @@
           "date": "2026-05-06T21:32:55.000Z",
           "description": "xAI's real business may be more about building data centers than training AI models.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "DeepSeek could hit $45B valuation from its first investment round",
-          "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-          "date": "2026-05-06T17:20:34.000Z",
-          "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-          "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-          "date": "2026-05-06T15:46:38.000Z",
-          "description": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-          "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-          "date": "2026-05-05T20:56:41.000Z",
-          "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -40,73 +19,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Barry Diller trusts Sam Altman. But trust is irrelevant as AGI nears, he says.",
-          "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-          "date": "2026-05-06T21:57:56.000Z",
-          "description": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+          "title": "OpenAI launches new voice intelligence features in its API",
+          "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+          "date": "2026-05-07T22:24:50.000Z",
+          "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
           "source": "TechCrunch"
         },
         {
-          "title": "Snap says its $400M deal with Perplexity amicably ended",
-          "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-          "date": "2026-05-06T21:43:24.000Z",
-          "description": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+          "title": "OpenAI introduces new Trusted Contact safeguard for cases of possible self-harm",
+          "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+          "date": "2026-05-07T20:20:20.000Z",
+          "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
           "source": "TechCrunch"
         },
         {
-          "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-          "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-          "date": "2026-05-06T18:23:54.000Z",
-          "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+          "title": "Elon Musks lawsuit is putting OpenAIs safety record under the microscope",
+          "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+          "date": "2026-05-07T19:21:21.000Z",
+          "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial...",
           "source": "TechCrunch"
         },
         {
-          "title": "DeepSeek could hit $45B valuation from its first investment round",
-          "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-          "date": "2026-05-06T17:20:34.000Z",
-          "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho...",
+          "title": "Bumble is getting rid of the swipe, CEO says",
+          "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+          "date": "2026-05-07T19:06:17.000Z",
+          "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m...",
           "source": "TechCrunch"
         },
         {
-          "title": "5 gardening tips you can try right in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-          "date": "2026-05-06T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\"&gt;We’ve rounded up the top ways you can use Google’s AI Mode, Sea...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Google updates AI search to include quotes from Reddit and other sources",
-          "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-          "date": "2026-05-06T15:49:39.000Z",
-          "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+          "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+          "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+          "date": "2026-05-07T16:05:48.000Z",
+          "description": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
           "source": "TechCrunch"
         },
         {
-          "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-          "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-          "date": "2026-05-06T15:27:36.000Z",
-          "description": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+          "title": "Auroras Chris Urmson on why self-driving trucks are finally ready to scale",
+          "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+          "date": "2026-05-07T14:24:54.000Z",
+          "description": "Self-driving has been almost here for over a decade. But somewhere between DARPAchallengesand a handful of driverless trucks hauling freight between Dallas and Houston, Auroraco-founder andCEOChris Ur...",
           "source": "TechCrunch"
         },
         {
-          "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-          "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-          "date": "2026-05-06T15:00:00.000Z",
-          "description": "Ethos says it is onboarding 35,000 experts per week.",
+          "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+          "date": "2026-05-07T14:00:00.000Z",
+          "description": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
           "source": "TechCrunch"
         },
         {
-          "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-          "date": "2026-05-06T14:00:00.000Z",
-          "description": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends Ma...",
+          "title": "Spotify wants to become the home for AI-generated personal audio",
+          "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+          "date": "2026-05-07T13:00:00.000Z",
+          "description": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
           "source": "TechCrunch"
         },
         {
-          "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
-          "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-          "date": "2026-05-06T06:34:32.000Z",
-          "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+          "title": "Spotifys AI DJ now supports French, German, Italian, and Brazilian Portuguese",
+          "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+          "date": "2026-05-07T12:20:04.000Z",
+          "description": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Five architects of the AI economy explain where the wheels are coming off",
+          "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+          "date": "2026-05-07T05:25:10.000Z",
+          "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from...",
           "source": "TechCrunch"
         }
       ]
@@ -116,10 +95,10 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-          "date": "2026-05-05T23:50:10.000Z",
-          "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+          "title": "Perplexitys Personal Computer is now available to everyone on Mac",
+          "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+          "date": "2026-05-07T19:57:59.000Z",
+          "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
           "source": "TechCrunch"
         }
       ]
@@ -128,6 +107,41 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "OpenAI launches new voice intelligence features in its API",
+          "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+          "date": "2026-05-07T22:24:50.000Z",
+          "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Voi founders new AI startup Pit has become the latest rising star out of Stockholm",
+          "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+          "date": "2026-05-07T21:02:11.000Z",
+          "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+          "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+          "date": "2026-05-07T15:00:00.000Z",
+          "description": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportu...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+          "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+          "date": "2026-05-07T14:30:00.000Z",
+          "description": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Chinas Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+          "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+          "date": "2026-05-07T13:44:25.000Z",
+          "description": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Is xAI a neocloud now?",
           "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
@@ -141,41 +155,6 @@
           "date": "2026-05-06T18:23:54.000Z",
           "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "DeepSeek could hit $45B valuation from its first investment round",
-          "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-          "date": "2026-05-06T17:20:34.000Z",
-          "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-          "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-          "date": "2026-05-06T15:46:38.000Z",
-          "description": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI boom pushes Samsung to $1T",
-          "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-          "date": "2026-05-06T13:54:09.000Z",
-          "description": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Peter Sarlins QuTwo reaches $380M valuation in angel round",
-          "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-          "date": "2026-05-06T06:47:12.000Z",
-          "description": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-          "date": "2026-05-05T23:50:10.000Z",
-          "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -184,45 +163,31 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "OpenAI introduces new Trusted Contact safeguard for cases of possible self-harm",
+          "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+          "date": "2026-05-07T20:20:20.000Z",
+          "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elon Musks lawsuit is putting OpenAIs safety record under the microscope",
+          "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+          "date": "2026-05-07T19:21:21.000Z",
+          "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+          "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+          "date": "2026-05-07T14:30:00.000Z",
+          "description": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "SpaceX may spend up to $119B on Terafab chip factory in Texas",
           "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
           "date": "2026-05-06T17:23:08.000Z",
           "description": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "DeepSeek could hit $45B valuation from its first investment round",
-          "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-          "date": "2026-05-06T17:20:34.000Z",
-          "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple to pay $250M to settle lawsuit over Siris delayed AI features",
-          "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-          "date": "2026-05-06T15:12:49.000Z",
-          "description": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "At TechCrunch Disrupt 2026, all your MA questions will be answered",
-          "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
-          "date": "2026-05-06T14:30:00.000Z",
-          "description": "Leaders from Coinbase, M13, and Mignano Law Group talk about how MA is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
-          "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-          "date": "2026-05-06T06:34:32.000Z",
-          "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-          "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-          "date": "2026-05-05T23:50:10.000Z",
-          "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
           "source": "TechCrunch"
         }
       ]
