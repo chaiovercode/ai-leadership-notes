@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-08T13:05:35.089Z",
+  "updated": "2026-05-09T12:51:10.356Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "hnUrl": "https://news.ycombinator.com/item?id=48055913",
-      "score": 763,
-      "comments": 470
-    },
-    {
-      "title": "Cloudflare to cut about 20% workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48054423",
-      "score": 920,
-      "comments": 622
-    },
-    {
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48059606",
-      "score": 117,
-      "comments": 89
-    },
-    {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48056227",
-      "score": 622,
-      "comments": 342
-    },
-    {
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "hnUrl": "https://news.ycombinator.com/item?id=48059662",
-      "score": 125,
-      "comments": 38
-    },
-    {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "hnUrl": "https://news.ycombinator.com/item?id=48053623",
-      "score": 691,
-      "comments": 282
-    },
-    {
-      "title": "Pinocchio is weirder than you remembered",
-      "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48035420",
-      "score": 206,
-      "comments": 86
-    },
-    {
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48049653",
-      "score": 681,
-      "comments": 325
-    },
-    {
-      "title": "Rumors of my death are slightly exaggerated",
-      "url": "https://news.ycombinator.com/item?id=48037336",
-      "hnUrl": "https://news.ycombinator.com/item?id=48037336",
-      "score": 417,
-      "comments": 61
-    },
-    {
-      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
-      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48062035",
+      "title": "Forking the Web",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48074087",
       "score": 19,
-      "comments": 2
+      "comments": 8
     },
     {
-      "title": "Agents need control flow, not more prompts",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48051562",
-      "score": 503,
-      "comments": 247
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48071262",
+      "score": 403,
+      "comments": 238
     },
     {
-      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48021023",
-      "score": 59,
-      "comments": 15
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "hnUrl": "https://news.ycombinator.com/item?id=48067119",
+      "score": 1153,
+      "comments": 402
     },
     {
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "url": "https://github.com/antirez/ds4",
-      "hnUrl": "https://news.ycombinator.com/item?id=48050751",
-      "score": 429,
-      "comments": 119
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "hnUrl": "https://news.ycombinator.com/item?id=48071940",
+      "score": 210,
+      "comments": 121
     },
     {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "hnUrl": "https://news.ycombinator.com/item?id=48052537",
-      "score": 308,
-      "comments": 100
+      "title": "OpenAI’s WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48051951",
+      "score": 355,
+      "comments": 87
     },
     {
-      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48052371",
-      "score": 250,
-      "comments": 225
+      "title": "America's carpet capital: an empire and its toxic legacy",
+      "url": "https://apnews.com/projects/pfas-forever-stained/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48037243",
+      "score": 46,
+      "comments": 21
+    },
+    {
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "hnUrl": "https://news.ycombinator.com/item?id=48061884",
+      "score": 703,
+      "comments": 139
+    },
+    {
+      "title": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48046436",
+      "score": 195,
+      "comments": 138
+    },
+    {
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "hnUrl": "https://news.ycombinator.com/item?id=48073246",
+      "score": 15,
+      "comments": 3
+    },
+    {
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "url": "https://www.wiisfi.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48037760",
+      "score": 280,
+      "comments": 71
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "hnUrl": "https://news.ycombinator.com/item?id=48066524",
+      "score": 356,
+      "comments": 141
+    },
+    {
+      "title": "AWS North Virginia data center outage – resolved",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48058197",
+      "score": 233,
+      "comments": 160
+    },
+    {
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "hnUrl": "https://news.ycombinator.com/item?id=48065360",
+      "score": 357,
+      "comments": 109
+    },
+    {
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48065511",
+      "score": 162,
+      "comments": 13
+    },
+    {
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48061566",
+      "score": 463,
+      "comments": 162
     }
   ]
 }
