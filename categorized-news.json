@@ -1,23 +1,36 @@
 {
-  "updated": "2026-05-08T04:15:16.757Z",
+  "updated": "2026-05-09T04:21:51.515Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": [
-        {
-          "title": "Is xAI a neocloud now?",
-          "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-          "date": "2026-05-06T21:32:55.000Z",
-          "description": "xAI's real business may be more about building data centers than training AI models.",
-          "source": "TechCrunch"
-        }
-      ]
+      "articles": []
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "The “people’s airline” and the enterprise AI gold rush",
+          "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+          "date": "2026-05-08T15:46:17.000Z",
+          "description": "Everyone wants a piece of theenterpriseAI pie, and this week, we saw a string of companies making their moves. FromAnthropic and OpenAI announcing new joint venturestargeting enterprise AI deployment ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+          "date": "2026-05-08T14:00:00.000Z",
+          "description": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
+          "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+          "date": "2026-05-08T04:42:29.000Z",
+          "description": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the foun...",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI launches new voice intelligence features in its API",
           "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
@@ -66,27 +79,6 @@
           "date": "2026-05-07T14:00:00.000Z",
           "description": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Spotify wants to become the home for AI-generated personal audio",
-          "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-          "date": "2026-05-07T13:00:00.000Z",
-          "description": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Spotifys AI DJ now supports French, German, Italian, and Brazilian Portuguese",
-          "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-          "date": "2026-05-07T12:20:04.000Z",
-          "description": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Five architects of the AI economy explain where the wheels are coming off",
-          "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-          "date": "2026-05-07T05:25:10.000Z",
-          "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -107,6 +99,27 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+          "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+          "date": "2026-05-08T18:33:21.000Z",
+          "description": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The “people’s airline” and the enterprise AI gold rush",
+          "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+          "date": "2026-05-08T15:46:17.000Z",
+          "description": "Everyone wants a piece of theenterpriseAI pie, and this week, we saw a string of companies making their moves. FromAnthropic and OpenAI announcing new joint venturestargeting enterprise AI deployment ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "See what happens when creative legends use AI to make ads for small businesses.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+          "date": "2026-05-08T15:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\"&gt;Today we're launching The Small Brief, an initiative bringing together thr...",
+          "source": "Google AI Blog"
+        },
         {
           "title": "OpenAI launches new voice intelligence features in its API",
           "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
@@ -141,20 +154,6 @@
           "date": "2026-05-07T13:44:25.000Z",
           "description": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Is xAI a neocloud now?",
-          "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-          "date": "2026-05-06T21:32:55.000Z",
-          "description": "xAI's real business may be more about building data centers than training AI models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-          "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-          "date": "2026-05-06T18:23:54.000Z",
-          "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -162,6 +161,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+          "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+          "date": "2026-05-08T22:59:05.000Z",
+          "description": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Intels comeback story is even wilder than it seems",
+          "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+          "date": "2026-05-08T20:02:52.000Z",
+          "description": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI introduces new Trusted Contact safeguard for cases of possible self-harm",
           "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
@@ -181,13 +194,6 @@
           "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
           "date": "2026-05-07T14:30:00.000Z",
           "description": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SpaceX may spend up to $119B on Terafab chip factory in Texas",
-          "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-          "date": "2026-05-06T17:23:08.000Z",
-          "description": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
           "source": "TechCrunch"
         }
       ]
