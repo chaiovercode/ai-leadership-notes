@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T04:21:51.515Z",
+  "updated": "2026-05-10T04:42:43.967Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -10,6 +10,20 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "So youve heard these AI terms and nodded along; lets fix that",
+          "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "date": "2026-05-09T21:45:00.000Z",
+          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia has already committed $40B to equity AI deals this year",
+          "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+          "date": "2026-05-09T14:43:30.000Z",
+          "description": "Nvidia continues to be a big investor in the AI ecosystem.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The “people’s airline” and the enterprise AI gold rush",
           "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
@@ -64,20 +78,6 @@
           "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
           "date": "2026-05-07T16:05:48.000Z",
           "description": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Auroras Chris Urmson on why self-driving trucks are finally ready to scale",
-          "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
-          "date": "2026-05-07T14:24:54.000Z",
-          "description": "Self-driving has been almost here for over a decade. But somewhere between DARPAchallengesand a handful of driverless trucks hauling freight between Dallas and Houston, Auroraco-founder andCEOChris Ur...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-          "date": "2026-05-07T14:00:00.000Z",
-          "description": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
           "source": "TechCrunch"
         }
       ]
