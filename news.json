@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-12T13:49:46.941Z",
+  "updated": "2026-05-13T14:02:52.806Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Learning Software Architecture",
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48106024",
-      "score": 240,
-      "comments": 41
+      "title": "I Moved My Digital Stack to Europe",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48120629",
+      "score": 346,
+      "comments": 241
     },
     {
-      "title": "Screenshots of Old Desktop OSes",
-      "url": "http://www.typewritten.org/Media/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48104428",
-      "score": 385,
-      "comments": 166
+      "title": "Why I'm leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48121266",
+      "score": 105,
+      "comments": 76
     },
     {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48106534",
-      "score": 195,
-      "comments": 139
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=48089921",
+      "score": 154,
+      "comments": 53
     },
     {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "hnUrl": "https://news.ycombinator.com/item?id=48100706",
-      "score": 924,
-      "comments": 386
+      "title": "Dutch suicide prevention website shares data with tech companies without consent",
+      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+      "hnUrl": "https://news.ycombinator.com/item?id=48121299",
+      "score": 58,
+      "comments": 26
     },
     {
-      "title": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "hnUrl": "https://news.ycombinator.com/item?id=48102700",
-      "score": 378,
-      "comments": 117
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "hnUrl": "https://news.ycombinator.com/item?id=48115127",
+      "score": 538,
+      "comments": 236
     },
     {
-      "title": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "hnUrl": "https://news.ycombinator.com/item?id=48100433",
-      "score": 643,
-      "comments": 663
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "hnUrl": "https://news.ycombinator.com/item?id=48117810",
+      "score": 243,
+      "comments": 57
     },
     {
-      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
-      "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
-      "hnUrl": "https://news.ycombinator.com/item?id=48107024",
+      "title": "Web Server on a Nintendo Wii",
+      "url": "http://wii.sjmulder.nl/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48078452",
+      "score": 48,
+      "comments": 4
+    },
+    {
+      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+      "hnUrl": "https://news.ycombinator.com/item?id=48120776",
       "score": 1,
       "comments": 0
     },
     {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "hnUrl": "https://news.ycombinator.com/item?id=48098261",
-      "score": 383,
-      "comments": 76
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48111545",
+      "score": 846,
+      "comments": 1382
     },
     {
-      "title": "Rtwatch: Watch videos with friends using WebRTC",
-      "url": "https://github.com/pion/rtwatch",
-      "hnUrl": "https://news.ycombinator.com/item?id=48075131",
-      "score": 52,
-      "comments": 11
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "hnUrl": "https://news.ycombinator.com/item?id=48111896",
+      "score": 538,
+      "comments": 157
     },
     {
-      "title": "Extremely Low Frequencies",
-      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48104041",
-      "score": 128,
-      "comments": 8
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "hnUrl": "https://news.ycombinator.com/item?id=48077924",
+      "score": 7,
+      "comments": 0
     },
     {
-      "title": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "hnUrl": "https://news.ycombinator.com/item?id=48103042",
-      "score": 174,
-      "comments": 78
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48113895",
+      "score": 412,
+      "comments": 54
     },
     {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48094641",
-      "score": 211,
-      "comments": 152
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "hnUrl": "https://news.ycombinator.com/item?id=48109460",
+      "score": 667,
+      "comments": 289
     },
     {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48100662",
-      "score": 220,
-      "comments": 228
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48112042",
+      "score": 344,
+      "comments": 180
     },
     {
-      "title": "I hate soldering",
-      "url": "https://user8.bearblog.dev/rant/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48059831",
-      "score": 163,
-      "comments": 145
-    },
-    {
-      "title": "Software Internals Book Club",
-      "url": "https://eatonphil.com/bookclub.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48103511",
-      "score": 131,
-      "comments": 23
+      "title": "Scrcpy v4.0",
+      "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+      "hnUrl": "https://news.ycombinator.com/item?id=48114356",
+      "score": 275,
+      "comments": 42
     }
   ]
 }
