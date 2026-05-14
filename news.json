@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-13T14:02:52.806Z",
+  "updated": "2026-05-14T13:27:17.177Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "I Moved My Digital Stack to Europe",
-      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48120629",
-      "score": 346,
-      "comments": 241
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "hnUrl": "https://news.ycombinator.com/item?id=48130950",
+      "score": 360,
+      "comments": 315
     },
     {
-      "title": "Why I'm leaving GitHub for Forgejo",
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48121266",
-      "score": 105,
-      "comments": 76
+      "title": "Scorched Earth 2000 – Web",
+      "url": "http://www.scorch2000.com/web/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48129694",
+      "score": 307,
+      "comments": 115
     },
     {
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "hnUrl": "https://news.ycombinator.com/item?id=48089921",
-      "score": 154,
-      "comments": 53
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48087887",
+      "score": 824,
+      "comments": 518
     },
     {
-      "title": "Dutch suicide prevention website shares data with tech companies without consent",
-      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
-      "hnUrl": "https://news.ycombinator.com/item?id=48121299",
-      "score": 58,
-      "comments": 26
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "url": "https://classic7.lol/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48132030",
+      "score": 109,
+      "comments": 94
     },
     {
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "hnUrl": "https://news.ycombinator.com/item?id=48115127",
-      "score": 538,
-      "comments": 236
-    },
-    {
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "hnUrl": "https://news.ycombinator.com/item?id=48117810",
-      "score": 243,
-      "comments": 57
-    },
-    {
-      "title": "Web Server on a Nintendo Wii",
-      "url": "http://wii.sjmulder.nl/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48078452",
-      "score": 48,
-      "comments": 4
-    },
-    {
-      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
-      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
-      "hnUrl": "https://news.ycombinator.com/item?id=48120776",
-      "score": 1,
+      "title": "The Whole Anthropic Kerfuffle",
+      "url": "https://twitter.com/josevalim/status/2054887621336174799",
+      "hnUrl": "https://news.ycombinator.com/item?id=48134869",
+      "score": 8,
       "comments": 0
     },
     {
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48111545",
-      "score": 846,
-      "comments": 1382
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48122635",
+      "score": 582,
+      "comments": 180
+    },
+    {
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "url": "https://github.com/DrCatHicks/learning-opportunities",
+      "hnUrl": "https://news.ycombinator.com/item?id=48130679",
+      "score": 105,
+      "comments": 18
+    },
+    {
+      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48125617",
+      "score": 260,
+      "comments": 311
+    },
+    {
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "hnUrl": "https://news.ycombinator.com/item?id=48073979",
+      "score": 405,
+      "comments": 264
+    },
+    {
+      "title": "The Siri for Families Apple Will Never Build",
+      "url": "https://taoofmac.com/space/blog/2026/05/14/1220",
+      "hnUrl": "https://news.ycombinator.com/item?id=48134084",
+      "score": 25,
+      "comments": 6
+    },
+    {
+      "title": "Technical Dimensions of Live Feedback in Programming Systems",
+      "url": "https://joshuahhh.com/dims-of-feedback/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48084516",
+      "score": 28,
+      "comments": 4
+    },
+    {
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48118727",
+      "score": 336,
+      "comments": 211
+    },
+    {
+      "title": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48096760",
+      "score": 190,
+      "comments": 59
     },
     {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
       "hnUrl": "https://news.ycombinator.com/item?id=48111896",
-      "score": 538,
-      "comments": 157
+      "score": 693,
+      "comments": 197
     },
     {
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "hnUrl": "https://news.ycombinator.com/item?id=48077924",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48113895",
-      "score": 412,
-      "comments": 54
-    },
-    {
-      "title": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "hnUrl": "https://news.ycombinator.com/item?id=48109460",
-      "score": 667,
-      "comments": 289
-    },
-    {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48112042",
-      "score": 344,
-      "comments": 180
-    },
-    {
-      "title": "Scrcpy v4.0",
-      "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "hnUrl": "https://news.ycombinator.com/item?id=48114356",
-      "score": 275,
-      "comments": 42
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48121929",
+      "score": 215,
+      "comments": 609
     }
   ]
 }
