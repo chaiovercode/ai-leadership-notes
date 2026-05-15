@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-14T13:27:17.177Z",
+  "updated": "2026-05-15T13:26:23.000Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "hnUrl": "https://news.ycombinator.com/item?id=48130950",
-      "score": 360,
-      "comments": 315
+      "title": "O(x)Caml in Space",
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48147058",
+      "score": 110,
+      "comments": 8
     },
     {
-      "title": "Scorched Earth 2000 – Web",
-      "url": "http://www.scorch2000.com/web/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48129694",
-      "score": 307,
-      "comments": 115
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "hnUrl": "https://news.ycombinator.com/item?id=48146369",
+      "score": 203,
+      "comments": 30
     },
     {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48087887",
-      "score": 824,
-      "comments": 518
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "url": "https://explorer.samismith.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48146129",
+      "score": 241,
+      "comments": 61
     },
     {
-      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-      "url": "https://classic7.lol/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48132030",
-      "score": 109,
-      "comments": 94
+      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+      "url": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48147945",
+      "score": 45,
+      "comments": 37
     },
     {
-      "title": "The Whole Anthropic Kerfuffle",
-      "url": "https://twitter.com/josevalim/status/2054887621336174799",
-      "hnUrl": "https://news.ycombinator.com/item?id=48134869",
-      "score": 8,
-      "comments": 0
+      "title": "Welcome to the Strip Mining Era of OSS Security",
+      "url": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
+      "hnUrl": "https://news.ycombinator.com/item?id=48147339",
+      "score": 40,
+      "comments": 35
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48122635",
-      "score": 582,
-      "comments": 180
-    },
-    {
-      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-      "url": "https://github.com/DrCatHicks/learning-opportunities",
-      "hnUrl": "https://news.ycombinator.com/item?id=48130679",
-      "score": 105,
-      "comments": 18
-    },
-    {
-      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48125617",
-      "score": 260,
-      "comments": 311
-    },
-    {
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "hnUrl": "https://news.ycombinator.com/item?id=48073979",
-      "score": 405,
-      "comments": 264
-    },
-    {
-      "title": "The Siri for Families Apple Will Never Build",
-      "url": "https://taoofmac.com/space/blog/2026/05/14/1220",
-      "hnUrl": "https://news.ycombinator.com/item?id=48134084",
-      "score": 25,
-      "comments": 6
-    },
-    {
-      "title": "Technical Dimensions of Live Feedback in Programming Systems",
-      "url": "https://joshuahhh.com/dims-of-feedback/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48084516",
-      "score": 28,
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "url": "https://radicle.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48147603",
+      "score": 39,
       "comments": 4
     },
     {
-      "title": "The Emacsification of Software",
-      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48118727",
-      "score": 336,
-      "comments": 211
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48138136",
+      "score": 938,
+      "comments": 483
     },
     {
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48096760",
-      "score": 190,
-      "comments": 59
+      "title": "UK government replaces Palantir software with internally-built refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+      "hnUrl": "https://news.ycombinator.com/item?id=48142251",
+      "score": 351,
+      "comments": 126
     },
     {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "hnUrl": "https://news.ycombinator.com/item?id=48111896",
-      "score": 693,
-      "comments": 197
+      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+      "url": "https://signoz.io/careers",
+      "hnUrl": "https://news.ycombinator.com/item?id=48147533",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48121929",
-      "score": 215,
-      "comments": 609
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "hnUrl": "https://news.ycombinator.com/item?id=48142108",
+      "score": 359,
+      "comments": 145
+    },
+    {
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "hnUrl": "https://news.ycombinator.com/item?id=48144670",
+      "score": 56,
+      "comments": 37
+    },
+    {
+      "title": "Building ML framework with Rust and Category Theory",
+      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48137629",
+      "score": 58,
+      "comments": 15
+    },
+    {
+      "title": "NanoTDB – Golang Append-Only Time Series DB",
+      "url": "https://github.com/aymanhs/nanotdb",
+      "hnUrl": "https://news.ycombinator.com/item?id=48146877",
+      "score": 11,
+      "comments": 1
+    },
+    {
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "hnUrl": "https://news.ycombinator.com/item?id=48144380",
+      "score": 185,
+      "comments": 67
+    },
+    {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48137145",
+      "score": 635,
+      "comments": 148
     }
   ]
 }
