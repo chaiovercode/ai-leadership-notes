@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-15T13:26:23.000Z",
+  "updated": "2026-05-16T12:55:26.601Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "O(x)Caml in Space",
-      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48147058",
-      "score": 110,
-      "comments": 8
+      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "hnUrl": "https://news.ycombinator.com/item?id=48158506",
+      "score": 87,
+      "comments": 14
     },
     {
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "hnUrl": "https://news.ycombinator.com/item?id=48146369",
-      "score": 203,
-      "comments": 30
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48150431",
+      "score": 1008,
+      "comments": 206
     },
     {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "url": "https://explorer.samismith.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48146129",
-      "score": 241,
-      "comments": 61
+      "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
+      "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
+      "hnUrl": "https://news.ycombinator.com/item?id=48159282",
+      "score": 52,
+      "comments": 36
     },
     {
-      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
-      "url": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48147945",
-      "score": 45,
-      "comments": 37
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48159445",
+      "score": 6,
+      "comments": 3
     },
     {
-      "title": "Welcome to the Strip Mining Era of OSS Security",
-      "url": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
-      "hnUrl": "https://news.ycombinator.com/item?id=48147339",
-      "score": 40,
-      "comments": 35
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "hnUrl": "https://news.ycombinator.com/item?id=48157559",
+      "score": 197,
+      "comments": 166
     },
     {
-      "title": "Radicle: Sovereign {code forge} built on Git",
-      "url": "https://radicle.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48147603",
-      "score": 39,
-      "comments": 4
+      "title": "Ploopy Bean: a trackpoint for every computer",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48114208",
+      "score": 119,
+      "comments": 52
     },
     {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48138136",
-      "score": 938,
-      "comments": 483
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "hnUrl": "https://news.ycombinator.com/item?id=48153379",
+      "score": 1490,
+      "comments": 762
     },
     {
-      "title": "UK government replaces Palantir software with internally-built refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "hnUrl": "https://news.ycombinator.com/item?id=48142251",
-      "score": 351,
-      "comments": 126
+      "title": "Gaining control of every projector and camera on campus",
+      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48130468",
+      "score": 48,
+      "comments": 13
     },
     {
-      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-      "url": "https://signoz.io/careers",
-      "hnUrl": "https://news.ycombinator.com/item?id=48147533",
-      "score": 1,
-      "comments": 0
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48132106",
+      "score": 144,
+      "comments": 54
     },
     {
-      "title": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "hnUrl": "https://news.ycombinator.com/item?id=48142108",
-      "score": 359,
-      "comments": 145
+      "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+      "url": "https://github.com/chiennv2000/orthrus",
+      "hnUrl": "https://news.ycombinator.com/item?id=48154865",
+      "score": 135,
+      "comments": 21
     },
     {
-      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-      "hnUrl": "https://news.ycombinator.com/item?id=48144670",
-      "score": 56,
-      "comments": 37
+      "title": "Where to buy a non-Apple, non-Google smartphone",
+      "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
+      "hnUrl": "https://news.ycombinator.com/item?id=48158130",
+      "score": 74,
+      "comments": 49
     },
     {
-      "title": "Building ML framework with Rust and Category Theory",
-      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48137629",
-      "score": 58,
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48155324",
+      "score": 146,
+      "comments": 165
+    },
+    {
+      "title": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "hnUrl": "https://news.ycombinator.com/item?id=48149259",
+      "score": 138,
       "comments": 15
     },
     {
-      "title": "NanoTDB – Golang Append-Only Time Series DB",
-      "url": "https://github.com/aymanhs/nanotdb",
-      "hnUrl": "https://news.ycombinator.com/item?id=48146877",
-      "score": 11,
-      "comments": 1
+      "title": "The sigmoids won't save you",
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "hnUrl": "https://news.ycombinator.com/item?id=48147021",
+      "score": 228,
+      "comments": 216
     },
     {
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "hnUrl": "https://news.ycombinator.com/item?id=48144380",
-      "score": 185,
-      "comments": 67
-    },
-    {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48137145",
-      "score": 635,
-      "comments": 148
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48148460",
+      "score": 396,
+      "comments": 215
     }
   ]
 }
