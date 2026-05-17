@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-16T12:55:26.601Z",
+  "updated": "2026-05-17T12:53:10.790Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "hnUrl": "https://news.ycombinator.com/item?id=48158506",
-      "score": 87,
-      "comments": 14
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48168221",
+      "score": 25,
+      "comments": 6
     },
     {
-      "title": "Project Gutenberg – keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48150431",
-      "score": 1008,
-      "comments": 206
+      "title": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48168198",
+      "score": 32,
+      "comments": 18
     },
     {
-      "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
-      "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
-      "hnUrl": "https://news.ycombinator.com/item?id=48159282",
-      "score": 52,
-      "comments": 36
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "hnUrl": "https://news.ycombinator.com/item?id=48168056",
+      "score": 11,
+      "comments": 3
+    },
+    {
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "hnUrl": "https://news.ycombinator.com/item?id=48164287",
+      "score": 451,
+      "comments": 225
+    },
+    {
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48166459",
+      "score": 339,
+      "comments": 132
+    },
+    {
+      "title": "Prolog Basics Explained with Pokémon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48147091",
+      "score": 45,
+      "comments": 5
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "hnUrl": "https://news.ycombinator.com/item?id=48164432",
+      "score": 231,
+      "comments": 29
+    },
+    {
+      "title": "Colossus: The Forbin Project",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "hnUrl": "https://news.ycombinator.com/item?id=48142115",
+      "score": 131,
+      "comments": 44
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48165295",
+      "score": 160,
+      "comments": 13
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48158400",
+      "score": 584,
+      "comments": 328
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48163392",
+      "score": 226,
+      "comments": 276
     },
     {
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
       "hnUrl": "https://news.ycombinator.com/item?id=48159445",
-      "score": 6,
-      "comments": 3
+      "score": 358,
+      "comments": 140
     },
     {
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "hnUrl": "https://news.ycombinator.com/item?id=48157559",
-      "score": 197,
-      "comments": 166
+      "title": "Mado: Fast Markdown linter written in Rust",
+      "url": "https://github.com/akiomik/mado",
+      "hnUrl": "https://news.ycombinator.com/item?id=48141354",
+      "score": 8,
+      "comments": 2
     },
     {
-      "title": "Ploopy Bean: a trackpoint for every computer",
-      "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48114208",
-      "score": 119,
-      "comments": 52
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48158065",
+      "score": 324,
+      "comments": 325
     },
     {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "hnUrl": "https://news.ycombinator.com/item?id=48153379",
-      "score": 1490,
-      "comments": 762
-    },
-    {
-      "title": "Gaining control of every projector and camera on campus",
-      "url": "https://www.edna.land/blogs/posts/scanning/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48130468",
-      "score": 48,
-      "comments": 13
-    },
-    {
-      "title": "The bird eye was pushed to an evolutionary extreme",
-      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48132106",
-      "score": 144,
-      "comments": 54
-    },
-    {
-      "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
-      "url": "https://github.com/chiennv2000/orthrus",
-      "hnUrl": "https://news.ycombinator.com/item?id=48154865",
-      "score": 135,
-      "comments": 21
-    },
-    {
-      "title": "Where to buy a non-Apple, non-Google smartphone",
-      "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
-      "hnUrl": "https://news.ycombinator.com/item?id=48158130",
-      "score": 74,
-      "comments": 49
-    },
-    {
-      "title": "The main thing about P2P meth is that there's so much of it (2021)",
-      "url": "https://dynomight.net/p2p-meth/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48155324",
-      "score": 146,
-      "comments": 165
-    },
-    {
-      "title": "Additive Blending on the Nintendo 64",
-      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "hnUrl": "https://news.ycombinator.com/item?id=48149259",
-      "score": 138,
-      "comments": 15
-    },
-    {
-      "title": "The sigmoids won't save you",
-      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "hnUrl": "https://news.ycombinator.com/item?id=48147021",
-      "score": 228,
-      "comments": 216
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48148460",
-      "score": 396,
-      "comments": 215
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48159241",
+      "score": 307,
+      "comments": 175
     }
   ]
 }
