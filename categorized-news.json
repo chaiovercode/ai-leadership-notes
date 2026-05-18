@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T04:52:03.511Z",
+  "updated": "2026-05-18T05:05:01.154Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -32,6 +32,27 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+          "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "date": "2026-05-17T19:46:34.000Z",
+          "description": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+          "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+          "date": "2026-05-17T16:32:04.000Z",
+          "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+          "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+          "date": "2026-05-17T16:05:00.000Z",
+          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The haves and have nots of the AI gold rush",
           "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
@@ -80,27 +101,6 @@
           "date": "2026-05-14T21:30:44.000Z",
           "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI says Codex is coming to your phone",
-          "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-          "date": "2026-05-14T20:58:55.000Z",
-          "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI is reportedly preparing legal action against Apple; it wouldnt be the first partner to feel burned",
-          "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-          "date": "2026-05-14T19:12:03.000Z",
-          "description": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-          "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-          "date": "2026-05-14T19:05:01.000Z",
-          "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -148,20 +148,6 @@
           "date": "2026-05-14T15:20:18.000Z",
           "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports record quarterly revenue",
-          "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-          "date": "2026-05-14T14:01:14.000Z",
-          "description": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-          "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-          "date": "2026-05-14T14:00:00.000Z",
-          "description": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -169,6 +155,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Apple’s Siri revamp could include auto-deleting chats",
+          "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "date": "2026-05-17T20:15:00.000Z",
+          "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+          "source": "TechCrunch"
+        },
         {
           "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
           "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
