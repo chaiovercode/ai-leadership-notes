@@ -1,10 +1,17 @@
 {
-  "updated": "2026-05-18T05:05:01.154Z",
+  "updated": "2026-05-19T04:58:57.827Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "date": "2026-05-18T21:29:31.000Z",
+          "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
           "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
@@ -33,6 +40,34 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "date": "2026-05-18T21:29:31.000Z",
+          "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+          "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+          "date": "2026-05-18T19:27:52.000Z",
+          "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+          "date": "2026-05-18T17:34:43.000Z",
+          "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazons new Alexa+ powered feature can generate podcast episodes",
+          "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+          "date": "2026-05-18T14:56:47.000Z",
+          "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
           "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
           "date": "2026-05-17T19:46:34.000Z",
@@ -54,7 +89,7 @@
           "source": "TechCrunch"
         },
         {
-          "title": "The haves and have nots of the AI gold rush",
+          "title": "The haves and have-nots of the AI gold rush",
           "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
           "date": "2026-05-16T20:17:16.000Z",
           "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -71,35 +106,7 @@
           "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
           "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
           "date": "2026-05-16T15:33:33.000Z",
-          "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-          "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-          "date": "2026-05-15T19:24:16.000Z",
-          "description": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:can we trust the people in charge of AI?All of this is playing out as SpaceX charges towa...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-          "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-          "date": "2026-05-15T18:14:44.000Z",
-          "description": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-          "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-          "date": "2026-05-15T16:00:00.000Z",
-          "description": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Elon Musks SpaceXAI has been bleeding staff since its merger",
-          "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-          "date": "2026-05-14T21:30:44.000Z",
-          "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene...",
+          "description": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
           "source": "TechCrunch"
         }
       ]
@@ -114,13 +121,6 @@
           "date": "2026-05-14T20:58:55.000Z",
           "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-          "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-          "date": "2026-05-14T15:20:18.000Z",
-          "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -129,24 +129,24 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+          "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+          "date": "2026-05-18T19:27:52.000Z",
+          "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "South Koreas LetinAR is building optics behind AI glasses",
+          "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+          "date": "2026-05-18T11:00:00.000Z",
+          "description": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
           "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
           "date": "2026-05-15T14:00:00.000Z",
           "description": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "What happens when AI starts building itself?",
-          "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-          "date": "2026-05-14T19:57:20.000Z",
-          "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-          "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-          "date": "2026-05-14T15:20:18.000Z",
-          "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
           "source": "TechCrunch"
         }
       ]
@@ -155,6 +155,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+          "date": "2026-05-18T17:34:43.000Z",
+          "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Apple’s Siri revamp could include auto-deleting chats",
           "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
@@ -167,27 +174,6 @@
           "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
           "date": "2026-05-14T22:47:51.000Z",
           "description": "Here's what the biggest tech court case of the year is all about.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "What happens when AI starts building itself?",
-          "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-          "date": "2026-05-14T19:57:20.000Z",
-          "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI is reportedly preparing legal action against Apple; it wouldnt be the first partner to feel burned",
-          "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-          "date": "2026-05-14T19:12:03.000Z",
-          "description": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-          "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-          "date": "2026-05-14T19:05:01.000Z",
-          "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
           "source": "TechCrunch"
         }
       ]
