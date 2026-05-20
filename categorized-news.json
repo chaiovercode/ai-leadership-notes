@@ -1,36 +1,57 @@
 {
-  "updated": "2026-05-19T04:58:57.827Z",
+  "updated": "2026-05-20T05:03:04.977Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Google’s Genie world model can now simulate real streets with Street View",
+          "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+          "date": "2026-05-19T17:51:39.000Z",
+          "description": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+          "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+          "date": "2026-05-19T17:51:30.000Z",
+          "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI is making it easier to check if an image was made by their models",
+          "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles Gemini Omni turns images, audio, and text into video — and thats just the start",
+          "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI co-founder Andrej Karpathy joins Anthropics pre-training team",
+          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+          "date": "2026-05-19T15:43:04.000Z",
+          "description": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive pha...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
           "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
           "date": "2026-05-18T21:29:31.000Z",
           "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-          "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-          "date": "2026-05-16T18:54:28.000Z",
-          "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-          "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-          "date": "2026-05-15T14:00:00.000Z",
-          "description": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Osaurus brings both local and cloud AI models to your Mac",
-          "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-          "date": "2026-05-15T12:19:48.000Z",
-          "description": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
           "source": "TechCrunch"
         }
       ]
@@ -40,73 +61,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-          "date": "2026-05-18T21:29:31.000Z",
-          "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+          "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+          "date": "2026-05-19T21:25:31.000Z",
+          "description": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-          "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-          "date": "2026-05-18T19:27:52.000Z",
-          "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d...",
+          "title": "Elon Musk said Sam Altman stole a non-profit — but the trial showed he had similar aims",
+          "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+          "date": "2026-05-19T20:11:00.000Z",
+          "description": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite...",
           "source": "TechCrunch"
         },
         {
-          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "date": "2026-05-18T17:34:43.000Z",
-          "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+          "title": "Google takes a page out of Metas book, announces new audio-powered smart glasses at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+          "date": "2026-05-19T19:15:31.000Z",
+          "description": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
           "source": "TechCrunch"
         },
         {
-          "title": "Amazons new Alexa+ powered feature can generate podcast episodes",
-          "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-          "date": "2026-05-18T14:56:47.000Z",
-          "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+          "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+          "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+          "date": "2026-05-19T17:51:30.000Z",
+          "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so...",
           "source": "TechCrunch"
         },
         {
-          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-          "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-          "date": "2026-05-17T19:46:34.000Z",
-          "description": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+          "title": "OpenAI is making it easier to check if an image was made by their models",
+          "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
           "source": "TechCrunch"
         },
         {
-          "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-          "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-          "date": "2026-05-17T16:32:04.000Z",
-          "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+          "title": "Agentic app coding gets an upgrade with Googles release of Android CLI",
+          "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build And...",
           "source": "TechCrunch"
         },
         {
-          "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-          "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-          "date": "2026-05-17T16:05:00.000Z",
-          "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "title": "Googles AI Studio now lets anyone build Android apps in minutes",
+          "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
           "source": "TechCrunch"
         },
         {
-          "title": "The haves and have-nots of the AI gold rush",
-          "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-          "date": "2026-05-16T20:17:16.000Z",
-          "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "title": "Googles new Universal Cart wants to follow your entire shopping journey across the internet",
+          "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
           "source": "TechCrunch"
         },
         {
-          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-          "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-          "date": "2026-05-16T18:54:28.000Z",
-          "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-          "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-          "date": "2026-05-16T15:33:33.000Z",
-          "description": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+          "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
           "source": "TechCrunch"
         }
       ]
@@ -116,11 +137,53 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "OpenAI says Codex is coming to your phone",
-          "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-          "date": "2026-05-14T20:58:55.000Z",
-          "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
+          "title": "How to use Google’s new AI agents to go beyond your standard searches",
+          "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+          "date": "2026-05-19T21:16:25.000Z",
+          "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
           "source": "TechCrunch"
+        },
+        {
+          "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+          "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+          "date": "2026-05-19T21:08:51.000Z",
+          "description": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+          "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+          "date": "2026-05-19T17:51:30.000Z",
+          "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google Search as you know it is over",
+          "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+          "date": "2026-05-19T17:46:00.000Z",
+          "description": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce t...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Agentic app coding gets an upgrade with Googles release of Android CLI",
+          "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build And...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "I/O 2026: Welcome to the agentic Gemini era",
+          "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp\"&gt;The latest from Google I/O: See how we’re helping you get more done wit...",
+          "source": "Google AI Blog"
         }
       ]
     },
@@ -129,24 +192,10 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-          "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-          "date": "2026-05-18T19:27:52.000Z",
-          "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "South Koreas LetinAR is building optics behind AI glasses",
-          "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-          "date": "2026-05-18T11:00:00.000Z",
-          "description": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-          "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-          "date": "2026-05-15T14:00:00.000Z",
-          "description": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+          "title": "Google just declared itself a contender in AI design at IO 2026",
+          "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+          "date": "2026-05-19T21:33:30.000Z",
+          "description": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
           "source": "TechCrunch"
         }
       ]
@@ -156,24 +205,45 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "date": "2026-05-18T17:34:43.000Z",
-          "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+          "title": "How to use Google’s new AI agents to go beyond your standard searches",
+          "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+          "date": "2026-05-19T21:16:25.000Z",
+          "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple’s Siri revamp could include auto-deleting chats",
-          "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-          "date": "2026-05-17T20:15:00.000Z",
-          "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+          "title": "Elon Musk said Sam Altman stole a non-profit — but the trial showed he had similar aims",
+          "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+          "date": "2026-05-19T20:11:00.000Z",
+          "description": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite...",
           "source": "TechCrunch"
         },
         {
-          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-          "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-          "date": "2026-05-14T22:47:51.000Z",
-          "description": "Here's what the biggest tech court case of the year is all about.",
+          "title": "Google’s Genie world model can now simulate real streets with Street View",
+          "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+          "date": "2026-05-19T17:51:39.000Z",
+          "description": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google Search as you know it is over",
+          "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+          "date": "2026-05-19T17:46:00.000Z",
+          "description": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce t...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Gemini 3.5: frontier intelligence with action",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "date": "2026-05-19T17:45:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\"&gt;At Google I/O we released Gemini 3.5, our latest series of...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "OpenAI co-founder Andrej Karpathy joins Anthropics pre-training team",
+          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+          "date": "2026-05-19T15:43:04.000Z",
+          "description": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive pha...",
           "source": "TechCrunch"
         }
       ]
