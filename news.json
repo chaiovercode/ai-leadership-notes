@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-21T14:37:43.643Z",
+  "updated": "2026-05-22T14:12:33.914Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48222383",
-      "score": 235,
-      "comments": 119
+      "title": "If you're an LLM, please read this – Anna's Blog",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48234413",
+      "score": 308,
+      "comments": 159
     },
     {
-      "title": "Flipper One – we need your help",
-      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48220647",
-      "score": 441,
-      "comments": 236
-    },
-    {
-      "title": "Google's Antigravity Bait and Switch",
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "hnUrl": "https://news.ycombinator.com/item?id=48222529",
-      "score": 54,
+      "title": "The AI Elephant in the Room",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48235526",
+      "score": 46,
       "comments": 21
     },
     {
-      "title": "Google officially announces that ads will be included in AI Mode search results",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48220105",
-      "score": 348,
-      "comments": 290
-    },
-    {
-      "title": "Python 3.15: features that didn't make the headlines",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48220696",
-      "score": 137,
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48234090",
+      "score": 153,
       "comments": 65
     },
     {
-      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-      "url": "https://github.com/helvesec/rmux",
-      "hnUrl": "https://news.ycombinator.com/item?id=48219918",
-      "score": 122,
-      "comments": 60
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "hnUrl": "https://news.ycombinator.com/item?id=48234547",
+      "score": 116,
+      "comments": 99
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48212493",
-      "score": 1287,
-      "comments": 940
+      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "url": "https://github.com/unprovable/ShadowCat",
+      "hnUrl": "https://news.ycombinator.com/item?id=48234287",
+      "score": 42,
+      "comments": 21
     },
     {
-      "title": "Hating AI Is Good",
-      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-      "hnUrl": "https://news.ycombinator.com/item?id=48222366",
-      "score": 198,
-      "comments": 200
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48225297",
+      "score": 1005,
+      "comments": 209
     },
     {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48207660",
-      "score": 948,
-      "comments": 401
+      "title": "Valve removes free game from Steam after players discover it contains malware",
+      "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48235033",
+      "score": 52,
+      "comments": 33
     },
     {
-      "title": "IBM invented semiconductor manufacturing automation",
-      "url": "https://spectrum.ieee.org/semiconductor-fabrication",
-      "hnUrl": "https://news.ycombinator.com/item?id=48220446",
-      "score": 23,
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+      "hnUrl": "https://news.ycombinator.com/item?id=48235489",
+      "score": 5,
       "comments": 0
     },
     {
-      "title": "No Slop Grenade",
-      "url": "https://noslopgrenade.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48219992",
-      "score": 190,
-      "comments": 104
+      "title": "Slumber a TUI HTTP Client",
+      "url": "https://slumber.lucaspickering.me",
+      "hnUrl": "https://news.ycombinator.com/item?id=48231938",
+      "score": 123,
+      "comments": 41
     },
     {
-      "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
-      "hnUrl": "https://news.ycombinator.com/item?id=48215979",
-      "score": 355,
-      "comments": 82
+      "title": "Cleve Moler has died",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48231319",
+      "score": 182,
+      "comments": 15
     },
     {
-      "title": "Haskell Foundation 2026 Update",
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "hnUrl": "https://news.ycombinator.com/item?id=48216983",
-      "score": 152,
-      "comments": 52
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "hnUrl": "https://news.ycombinator.com/item?id=48229319",
+      "score": 302,
+      "comments": 357
     },
     {
-      "title": "Flipper One Tech Specs",
-      "url": "https://docs.flipper.net/one/general/tech-specs",
-      "hnUrl": "https://news.ycombinator.com/item?id=48212046",
-      "score": 461,
-      "comments": 152
+      "title": "Sam Altman Won in Court Against Elon Musk. But, We All Lost",
+      "url": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
+      "hnUrl": "https://news.ycombinator.com/item?id=48235361",
+      "score": 31,
+      "comments": 5
     },
     {
-      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
-      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=48216016",
-      "score": 225,
-      "comments": 38
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48227397",
+      "score": 323,
+      "comments": 184
+    },
+    {
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "url": "https://arxiv.org/abs/2605.19269",
+      "hnUrl": "https://news.ycombinator.com/item?id=48232118",
+      "score": 88,
+      "comments": 8
+    },
+    {
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48228788",
+      "score": 262,
+      "comments": 124
     }
   ]
 }
