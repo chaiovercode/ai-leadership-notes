@@ -1,22 +1,36 @@
 {
-  "updated": "2026-05-21T05:08:03.621Z",
+  "updated": "2026-05-22T04:59:20.476Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Trump delays AI security executive order, saying language could have been a blocker",
+          "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+          "date": "2026-05-21T17:30:45.000Z",
+          "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+          "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+          "date": "2026-05-21T14:00:00.000Z",
+          "description": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hark raises $700M Series A for its secretive universal AI interface",
+          "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+          "date": "2026-05-21T14:00:00.000Z",
+          "description": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
           "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
           "date": "2026-05-20T20:28:27.000Z",
           "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Stability AI releases a new audio model that can create 6-minute songs",
-          "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-          "date": "2026-05-20T15:00:00.000Z",
-          "description": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
           "source": "TechCrunch"
         }
       ]
@@ -25,6 +39,27 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+          "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+          "date": "2026-05-21T19:19:05.000Z",
+          "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Spotify adds AI-powered QA and briefing generation features to podcasts",
+          "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+          "date": "2026-05-21T15:27:00.000Z",
+          "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Spotify takes on Googles NotebookLM with its new app",
+          "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+          "date": "2026-05-21T15:27:00.000Z",
+          "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropic says its about to have its first profitable quarter",
           "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
@@ -73,27 +108,6 @@
           "date": "2026-05-20T19:30:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\"&gt;This year at Google I/O 2026, we announced Gemini Omni, Google Antigravi...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "OpenAI barrels toward IPO that may happen in September",
-          "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-          "date": "2026-05-20T17:24:24.000Z",
-          "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "A new experiment brings better group meetings to Google Beam",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-          "date": "2026-05-20T16:45:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\"&gt;See and hear your colleagues in true-to-life size and soun...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Figma adds an AI assistant to its collaborative canvas",
-          "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-          "date": "2026-05-20T13:00:00.000Z",
-          "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -102,38 +116,17 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+          "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+          "date": "2026-05-21T13:52:23.000Z",
+          "description": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Jensen Huang says hes found a brand new $200B market for Nvidia",
           "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
           "date": "2026-05-21T00:28:31.000Z",
           "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-          "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-          "date": "2026-05-20T14:00:00.000Z",
-          "description": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a compute...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Figma adds an AI assistant to its collaborative canvas",
-          "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-          "date": "2026-05-20T13:00:00.000Z",
-          "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How to use Google’s new AI agents to go beyond your standard searches",
-          "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-          "date": "2026-05-19T21:16:25.000Z",
-          "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-          "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-          "date": "2026-05-19T21:08:51.000Z",
-          "description": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
           "source": "TechCrunch"
         },
         {
@@ -149,6 +142,20 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+          "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+          "date": "2026-05-21T19:45:00.000Z",
+          "description": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+          "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+          "date": "2026-05-21T13:38:42.000Z",
+          "description": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropic says its about to have its first profitable quarter",
           "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
@@ -176,27 +183,6 @@
           "date": "2026-05-20T19:47:20.000Z",
           "description": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AI search startups are blowing up",
-          "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-          "date": "2026-05-20T15:04:45.000Z",
-          "description": "AI search has quietly become one of the most attractive targets in consumer AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-          "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
-          "date": "2026-05-20T14:00:00.000Z",
-          "description": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google just declared itself a contender in AI design at IO 2026",
-          "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-          "date": "2026-05-19T21:33:30.000Z",
-          "description": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -205,38 +191,31 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Trump delays AI security executive order, saying language could have been a blocker",
+          "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+          "date": "2026-05-21T17:30:45.000Z",
+          "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+          "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+          "date": "2026-05-21T15:27:00.000Z",
+          "description": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+          "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+          "date": "2026-05-21T14:00:00.000Z",
+          "description": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "OpenAI barrels toward IPO that may happen in September",
           "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
           "date": "2026-05-20T17:24:24.000Z",
           "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI search startups are blowing up",
-          "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-          "date": "2026-05-20T15:04:45.000Z",
-          "description": "AI search has quietly become one of the most attractive targets in consumer AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-          "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-          "date": "2026-05-20T14:00:00.000Z",
-          "description": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a compute...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How to use Google’s new AI agents to go beyond your standard searches",
-          "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-          "date": "2026-05-19T21:16:25.000Z",
-          "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Elon Musk said Sam Altman stole a non-profit — but the trial showed he had similar aims",
-          "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-          "date": "2026-05-19T20:11:00.000Z",
-          "description": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite...",
           "source": "TechCrunch"
         },
         {
