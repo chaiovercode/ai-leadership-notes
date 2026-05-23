@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T04:59:20.476Z",
+  "updated": "2026-05-23T04:39:16.133Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -25,13 +25,6 @@
           "date": "2026-05-21T14:00:00.000Z",
           "description": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-          "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-          "date": "2026-05-20T20:28:27.000Z",
-          "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -39,6 +32,41 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "AI is being used to resurrect the voices of dead pilots",
+          "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+          "date": "2026-05-22T23:03:33.000Z",
+          "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google goes for the glitter with disco-ball icons: Are yall sure you still want this?",
+          "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+          "date": "2026-05-22T21:02:36.000Z",
+          "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+          "date": "2026-05-22T18:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp\"&gt;A recap of the 2026 I/O Dialogues, where leaders discuss the future...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "You can no longer Google the word disregard",
+          "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+          "date": "2026-05-22T16:16:48.000Z",
+          "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "We tried Google’s AI glasses and they’re almost there",
+          "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+          "date": "2026-05-22T15:37:15.000Z",
+          "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Six search engines worth trying now that Google isn’t really Google anymore",
           "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
@@ -68,45 +96,10 @@
           "source": "TechCrunch"
         },
         {
-          "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-          "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-          "date": "2026-05-20T22:26:08.000Z",
-          "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-          "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-          "date": "2026-05-20T21:55:49.000Z",
-          "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic will pay xAI $1.25B per month for compute",
-          "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-          "date": "2026-05-20T21:29:22.000Z",
-          "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "We’re announcing new community investments in Missouri.",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
           "date": "2026-05-20T20:40:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\"&gt;We’re helping build the state’s next-generation workforce and investing in ...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-          "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-          "date": "2026-05-20T20:28:27.000Z",
-          "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "100 things we announced at I/O 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-          "date": "2026-05-20T19:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\"&gt;This year at Google I/O 2026, we announced Gemini Omni, Google Antigravi...",
           "source": "Google AI Blog"
         }
       ]
@@ -143,6 +136,13 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+          "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+          "date": "2026-05-22T20:40:48.000Z",
+          "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
           "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
           "date": "2026-05-21T19:45:00.000Z",
@@ -169,20 +169,6 @@
           "date": "2026-05-20T22:30:45.000Z",
           "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-          "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-          "date": "2026-05-20T22:03:51.000Z",
-          "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-          "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-          "date": "2026-05-20T19:47:20.000Z",
-          "description": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -190,6 +176,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Elon Musk cant hear you over the sound of his $1.75 trillion IPO",
+          "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+          "date": "2026-05-22T18:17:07.000Z",
+          "description": "The SpaceX S-1 is finally here, and the story it tells goesway furtherthan rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a$28 trilliontotal add...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceX files to go public, and the math requires a little faith",
+          "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+          "date": "2026-05-22T14:30:00.000Z",
+          "description": "The SpaceX S-1 is finally here, and the story it tells goesway furtherthan rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a$28 trilliontotal add...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Trump delays AI security executive order, saying language could have been a blocker",
           "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
@@ -209,13 +209,6 @@
           "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
           "date": "2026-05-21T14:00:00.000Z",
           "description": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI barrels toward IPO that may happen in September",
-          "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-          "date": "2026-05-20T17:24:24.000Z",
-          "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
           "source": "TechCrunch"
         },
         {
