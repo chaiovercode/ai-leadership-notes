@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T04:39:16.133Z",
+  "updated": "2026-05-24T05:00:31.594Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -32,6 +32,20 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Ferrari is using IBMs AI to create F1 superfans",
+          "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+          "date": "2026-05-23T15:08:00.000Z",
+          "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elon Musk has given up on solar power (on Earth)",
+          "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+          "date": "2026-05-23T13:00:00.000Z",
+          "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+          "source": "TechCrunch"
+        },
         {
           "title": "AI is being used to resurrect the voices of dead pilots",
           "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -87,20 +101,6 @@
           "date": "2026-05-21T15:27:00.000Z",
           "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic says its about to have its first profitable quarter",
-          "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-          "date": "2026-05-21T00:21:21.000Z",
-          "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "We’re announcing new community investments in Missouri.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-          "date": "2026-05-20T20:40:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\"&gt;We’re helping build the state’s next-generation workforce and investing in ...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -154,20 +154,6 @@
           "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
           "date": "2026-05-21T13:38:42.000Z",
           "description": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic says its about to have its first profitable quarter",
-          "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-          "date": "2026-05-21T00:21:21.000Z",
-          "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Clouted wants to take the guesswork out of making short videos go viral",
-          "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-          "date": "2026-05-20T22:30:45.000Z",
-          "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
           "source": "TechCrunch"
         }
       ]
