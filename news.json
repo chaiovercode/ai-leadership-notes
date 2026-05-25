@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-24T12:56:59.361Z",
+  "updated": "2026-05-25T14:30:59.767Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48255593",
-      "score": 72,
-      "comments": 45
+      "title": "Search engines alternatives now that Google isn't Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48266051",
+      "score": 268,
+      "comments": 204
     },
     {
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48223997",
-      "score": 117,
-      "comments": 18
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48265206",
+      "score": 370,
+      "comments": 136
     },
     {
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48253386",
-      "score": 315,
-      "comments": 95
+      "title": "2026 HIPAA Security Rule Update",
+      "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48266895",
+      "score": 18,
+      "comments": 1
     },
     {
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "hnUrl": "https://news.ycombinator.com/item?id=48254309",
-      "score": 216,
-      "comments": 98
+      "title": "Leave Me Behind",
+      "url": "http://androidessence.com/leave-me-behind/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48265876",
+      "score": 136,
+      "comments": 84
     },
     {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48253186",
-      "score": 180,
-      "comments": 86
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48266485",
+      "score": 98,
+      "comments": 29
     },
     {
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48253060",
-      "score": 286,
-      "comments": 20
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48266906",
+      "score": 10,
+      "comments": 0
     },
     {
-      "title": "Time to talk about my writerdeck",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48250144",
-      "score": 398,
-      "comments": 235
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48243666",
+      "score": 211,
+      "comments": 102
     },
     {
-      "title": "On The <dl> (2021)",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48247325",
-      "score": 406,
-      "comments": 120
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "hnUrl": "https://news.ycombinator.com/item?id=48258015",
+      "score": 432,
+      "comments": 92
     },
     {
-      "title": "My two-part desk setup (2025)",
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48214311",
-      "score": 307,
-      "comments": 175
+      "title": "AI errno(2) values",
+      "url": "https://www.netmeister.org/blog/ai-errno.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48236816",
+      "score": 53,
+      "comments": 12
     },
     {
-      "title": "The Art of Money Getting",
-      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48247208",
-      "score": 316,
-      "comments": 168
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48256953",
+      "score": 616,
+      "comments": 255
     },
     {
-      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
-      "url": "https://sales-and-dungeons.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48232721",
-      "score": 103,
-      "comments": 32
+      "title": "The physicists who convinced Fermilab to send Brazil's emails",
+      "url": "https://buttondown.com/blog/brazil-fermilab-email",
+      "hnUrl": "https://news.ycombinator.com/item?id=48219373",
+      "score": 13,
+      "comments": 3
     },
     {
-      "title": "Judson's Last Ride",
-      "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48246993",
-      "score": 113,
-      "comments": 5
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48259808",
+      "score": 361,
+      "comments": 349
     },
     {
-      "title": "Amazon Web Services – Four Years and Out",
-      "url": "https://www.adventuresinoss.com/aws-four-years/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48254475",
-      "score": 246,
-      "comments": 88
+      "title": "Bytecode VMs in surprising places (2024)",
+      "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48236122",
+      "score": 70,
+      "comments": 23
     },
     {
-      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48241890",
-      "score": 931,
-      "comments": 1556
+      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "url": "https://ohwr.org/projects/white-rabbit/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48245916",
+      "score": 140,
+      "comments": 30
     },
     {
-      "title": "Hengefinder: Finding when the sun aligns with your street",
-      "url": "https://victoriaritvo.com/blog/hengefinder/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48241335",
-      "score": 158,
-      "comments": 36
+      "title": "Notes about reading messages with the Python email packages",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+      "hnUrl": "https://news.ycombinator.com/item?id=48204632",
+      "score": 35,
+      "comments": 1
     }
   ]
 }
