@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-28T15:24:11.507Z",
+  "updated": "2026-05-29T14:36:06.758Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "url": "https://lenz.io/research/llm-disagreement",
-      "hnUrl": "https://news.ycombinator.com/item?id=48307887",
-      "score": 354,
-      "comments": 233
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "url": "https://github.com/scanaislop/aislop",
+      "hnUrl": "https://news.ycombinator.com/item?id=48322956",
+      "score": 48,
+      "comments": 35
     },
     {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48299753",
-      "score": 1115,
-      "comments": 666
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "hnUrl": "https://news.ycombinator.com/item?id=48323101",
+      "score": 101,
+      "comments": 14
     },
     {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "hnUrl": "https://news.ycombinator.com/item?id=48309233",
-      "score": 163,
-      "comments": 160
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "hnUrl": "https://news.ycombinator.com/item?id=48311647",
+      "score": 1652,
+      "comments": 1286
     },
     {
-      "title": "EU fines Temu €200M for allowing sale of illegal products",
-      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "hnUrl": "https://news.ycombinator.com/item?id=48309302",
-      "score": 53,
-      "comments": 24
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "hnUrl": "https://news.ycombinator.com/item?id=48314136",
+      "score": 1153,
+      "comments": 509
     },
     {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48307231",
-      "score": 257,
-      "comments": 110
+      "title": "Is This Sustainable?",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "hnUrl": "https://news.ycombinator.com/item?id=48321264",
+      "score": 62,
+      "comments": 49
     },
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48296794",
-      "score": 1005,
-      "comments": 1112
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48321076",
+      "score": 102,
+      "comments": 51
     },
     {
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "hnUrl": "https://news.ycombinator.com/item?id=48304260",
-      "score": 319,
-      "comments": 135
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "hnUrl": "https://news.ycombinator.com/item?id=48318174",
+      "score": 244,
+      "comments": 51
     },
     {
-      "title": "SimCity 3k in 4k (2025)",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48297645",
-      "score": 433,
-      "comments": 171
+      "title": "Orchestrating AI code review at scale",
+      "url": "https://blog.cloudflare.com/ai-code-review/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48276152",
+      "score": 70,
+      "comments": 22
     },
     {
-      "title": "Creusot helps you prove your Rust code is correct",
-      "url": "https://github.com/creusot-rs/creusot/tree/master",
-      "hnUrl": "https://news.ycombinator.com/item?id=48309645",
-      "score": 11,
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48314951",
+      "score": 492,
+      "comments": 74
+    },
+    {
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48322118",
+      "score": 68,
+      "comments": 69
+    },
+    {
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48318522",
+      "score": 114,
+      "comments": 41
+    },
+    {
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "hnUrl": "https://news.ycombinator.com/item?id=48319509",
+      "score": 292,
+      "comments": 145
+    },
+    {
+      "title": "Blue Origin rocket explodes on launchpad in a setback",
+      "url": "https://www.reuters.com/science/blue-origin-says-it-faced-anomaly-during-hot-fire-test-2026-05-29/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48323495",
+      "score": 8,
+      "comments": 1
+    },
+    {
+      "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+      "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48291016",
+      "score": 10,
       "comments": 0
     },
     {
-      "title": "Rapira (Рапира) – Soviet programming language interpreter",
-      "url": "https://github.com/begoon/rapira",
-      "hnUrl": "https://news.ycombinator.com/item?id=48264705",
-      "score": 76,
+      "title": "Ten Basic Clouds",
+      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "hnUrl": "https://news.ycombinator.com/item?id=48261377",
+      "score": 167,
       "comments": 44
-    },
-    {
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "hnUrl": "https://news.ycombinator.com/item?id=48299220",
-      "score": 361,
-      "comments": 357
-    },
-    {
-      "title": "Libwce: The entropy layer of a wavelet codec, on its own",
-      "url": "https://yogthos.net/posts/2026-05-24-libwce.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48257224",
-      "score": 23,
-      "comments": 0
-    },
-    {
-      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48299638",
-      "score": 278,
-      "comments": 109
-    },
-    {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48305446",
-      "score": 132,
-      "comments": 38
-    },
-    {
-      "title": "The Ask",
-      "url": "https://randsinrepose.com/archives/the-ask/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48267558",
-      "score": 113,
-      "comments": 67
     }
   ]
 }
