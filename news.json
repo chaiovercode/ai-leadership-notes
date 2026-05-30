@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-29T14:36:06.758Z",
+  "updated": "2026-05-30T13:00:12.432Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-      "url": "https://github.com/scanaislop/aislop",
-      "hnUrl": "https://news.ycombinator.com/item?id=48322956",
-      "score": 48,
-      "comments": 35
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48334515",
+      "score": 129,
+      "comments": 7
     },
     {
-      "title": "Please Use AI",
-      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
-      "hnUrl": "https://news.ycombinator.com/item?id=48323101",
-      "score": 101,
-      "comments": 14
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "hnUrl": "https://news.ycombinator.com/item?id=48334048",
+      "score": 156,
+      "comments": 46
     },
     {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "hnUrl": "https://news.ycombinator.com/item?id=48311647",
-      "score": 1652,
-      "comments": 1286
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48335135",
+      "score": 87,
+      "comments": 34
     },
     {
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "hnUrl": "https://news.ycombinator.com/item?id=48314136",
-      "score": 1153,
-      "comments": 509
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "url": "https://helios.southlondonscientific.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48334949",
+      "score": 19,
+      "comments": 3
     },
     {
-      "title": "Is This Sustainable?",
-      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-      "hnUrl": "https://news.ycombinator.com/item?id=48321264",
-      "score": 62,
-      "comments": 49
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "hnUrl": "https://news.ycombinator.com/item?id=48334710",
+      "score": 22,
+      "comments": 4
     },
     {
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48321076",
-      "score": 102,
-      "comments": 51
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48326802",
+      "score": 585,
+      "comments": 298
     },
     {
-      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "hnUrl": "https://news.ycombinator.com/item?id=48318174",
-      "score": 244,
-      "comments": 51
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48333820",
+      "score": 273,
+      "comments": 201
     },
     {
-      "title": "Orchestrating AI code review at scale",
-      "url": "https://blog.cloudflare.com/ai-code-review/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48276152",
-      "score": 70,
-      "comments": 22
-    },
-    {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48314951",
-      "score": 492,
-      "comments": 74
-    },
-    {
-      "title": "We should be more tired than the model",
-      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48322118",
-      "score": 68,
-      "comments": 69
-    },
-    {
-      "title": "Let's compile Quake like it's 1997",
-      "url": "https://fabiensanglard.net/compile_like_1997/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48318522",
-      "score": 114,
-      "comments": 41
-    },
-    {
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "hnUrl": "https://news.ycombinator.com/item?id=48319509",
-      "score": 292,
-      "comments": 145
-    },
-    {
-      "title": "Blue Origin rocket explodes on launchpad in a setback",
-      "url": "https://www.reuters.com/science/blue-origin-says-it-faced-anomaly-during-hot-fire-test-2026-05-29/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48323495",
-      "score": 8,
+      "title": "Understand Anything – Graphs that teach the codebase",
+      "url": "https://understand-anything.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48282025",
+      "score": 14,
       "comments": 1
     },
     {
-      "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
-      "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48291016",
-      "score": 10,
-      "comments": 0
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "hnUrl": "https://news.ycombinator.com/item?id=48325340",
+      "score": 399,
+      "comments": 173
     },
     {
-      "title": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "hnUrl": "https://news.ycombinator.com/item?id=48261377",
-      "score": 167,
-      "comments": 44
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48284494",
+      "score": 235,
+      "comments": 94
+    },
+    {
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48283410",
+      "score": 175,
+      "comments": 41
+    },
+    {
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "hnUrl": "https://news.ycombinator.com/item?id=48330436",
+      "score": 281,
+      "comments": 262
+    },
+    {
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48323869",
+      "score": 326,
+      "comments": 522
+    },
+    {
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "hnUrl": "https://news.ycombinator.com/item?id=48324712",
+      "score": 1080,
+      "comments": 1215
+    },
+    {
+      "title": "The Last Technical Interview",
+      "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+      "hnUrl": "https://news.ycombinator.com/item?id=48328405",
+      "score": 140,
+      "comments": 110
     }
   ]
 }
