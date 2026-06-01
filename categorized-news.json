@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T05:16:50.271Z",
+  "updated": "2026-06-01T06:01:15.296Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -18,6 +18,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Making sense of the debate over AI psychosis",
+          "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+          "date": "2026-05-31T15:30:00.000Z",
+          "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+          "source": "TechCrunch"
+        },
         {
           "title": "SoftBank says it will invest up to €75 billion to build French data centers",
           "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
@@ -80,13 +87,6 @@
           "date": "2026-05-29T17:57:05.000Z",
           "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of A...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-          "date": "2026-05-29T17:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp\"&gt;Watch 9 videos showing the capabilities of Gemini Omni and...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -141,13 +141,6 @@
           "date": "2026-05-29T00:44:37.000Z",
           "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-          "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-          "date": "2026-05-28T18:52:51.000Z",
-          "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -155,6 +148,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Erin Brockovich takes aim at data center secrecy",
+          "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "date": "2026-05-31T21:05:14.000Z",
+          "description": "Environmental activist Erin Brockovich has a new mission.",
+          "source": "TechCrunch"
+        },
         {
           "title": "I put Googles 24/7 AI assistant Gemini Spark to work, and its actually pretty useful",
           "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
