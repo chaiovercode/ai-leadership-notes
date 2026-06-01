@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-31T13:10:39.067Z",
+  "updated": "2026-06-01T17:13:26.639Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48344961",
-      "score": 116,
-      "comments": 24
+      "title": "The newest Instagram \"exploit\" is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "hnUrl": "https://news.ycombinator.com/item?id=48359102",
+      "score": 147,
+      "comments": 27
     },
     {
-      "title": "The Website Specification",
-      "url": "https://specification.website/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48343683",
-      "score": 252,
-      "comments": 101
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=48359232",
+      "score": 24,
+      "comments": 8
     },
     {
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48343714",
-      "score": 133,
-      "comments": 57
-    },
-    {
-      "title": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48340411",
-      "score": 688,
-      "comments": 402
-    },
-    {
-      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
-      "url": "https://secret-archive.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48321089",
-      "score": 33,
-      "comments": 1
-    },
-    {
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "hnUrl": "https://news.ycombinator.com/item?id=48341062",
-      "score": 296,
-      "comments": 34
-    },
-    {
-      "title": "One year of Roto, a compiled scripting language for Rust",
-      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48323303",
-      "score": 58,
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48357075",
+      "score": 143,
       "comments": 12
     },
     {
-      "title": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "hnUrl": "https://news.ycombinator.com/item?id=48318402",
-      "score": 355,
-      "comments": 98
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "hnUrl": "https://news.ycombinator.com/item?id=48356625",
+      "score": 613,
+      "comments": 316
     },
     {
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "hnUrl": "https://news.ycombinator.com/item?id=48340910",
-      "score": 257,
-      "comments": 114
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48357154",
+      "score": 246,
+      "comments": 99
     },
     {
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=48318624",
-      "score": 106,
-      "comments": 5
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48353348",
+      "score": 525,
+      "comments": 232
     },
     {
-      "title": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "hnUrl": "https://news.ycombinator.com/item?id=48337987",
-      "score": 297,
-      "comments": 150
+      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+      "url": "https://news.ycombinator.com/item?id=48356312",
+      "hnUrl": "https://news.ycombinator.com/item?id=48356312",
+      "score": 46,
+      "comments": 6
     },
     {
-      "title": "Racket v9.2",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48306713",
-      "score": 159,
-      "comments": 17
+      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48311003",
+      "score": 118,
+      "comments": 56
     },
     {
-      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "hnUrl": "https://news.ycombinator.com/item?id=48341578",
-      "score": 912,
-      "comments": 320
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48359130",
+      "score": 131,
+      "comments": 63
     },
     {
-      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
-      "url": "https://mechanical-pencil.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48341932",
-      "score": 111,
-      "comments": 15
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "hnUrl": "https://news.ycombinator.com/item?id=48358646",
+      "score": 152,
+      "comments": 96
     },
     {
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "url": "https://github.com/kristapsdz/openrsync",
-      "hnUrl": "https://news.ycombinator.com/item?id=48334854",
-      "score": 433,
-      "comments": 160
+      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "url": "https://blainsmith.com/articles/httptrace-with-go/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48311587",
+      "score": 138,
+      "comments": 9
+    },
+    {
+      "title": "KDE at 30",
+      "url": "https://kde.org/anniversaries/30/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48357355",
+      "score": 113,
+      "comments": 52
+    },
+    {
+      "title": "\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]",
+      "url": "https://www.youtube.com/watch?v=chJHB-btMNI",
+      "hnUrl": "https://news.ycombinator.com/item?id=48331587",
+      "score": 26,
+      "comments": 6
+    },
+    {
+      "title": "Show HN: A CSS 3D Engine (no WebGL)",
+      "url": "https://github.com/LayoutitStudio/polycss",
+      "hnUrl": "https://news.ycombinator.com/item?id=48356946",
+      "score": 21,
+      "comments": 9
+    },
+    {
+      "title": "Cessation of public development of Kefir C compiler",
+      "url": "https://kefir.protopopov.lv/posts/announce2.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48354224",
+      "score": 108,
+      "comments": 69
     }
   ]
 }
