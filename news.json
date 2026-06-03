@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-02T15:56:05.928Z",
+  "updated": "2026-06-03T16:13:36.674Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "url": "https://www.bbc.com/news/articles/c152yvwjwkko",
-      "hnUrl": "https://news.ycombinator.com/item?id=48371224",
-      "score": 44,
-      "comments": 39
+      "title": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "hnUrl": "https://news.ycombinator.com/item?id=48384482",
+      "score": 120,
+      "comments": 47
     },
     {
-      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-      "hnUrl": "https://news.ycombinator.com/item?id=48370291",
-      "score": 57,
-      "comments": 11
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48382310",
+      "score": 431,
+      "comments": 74
     },
     {
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "url": "https://blog.adafruit.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48368121",
-      "score": 382,
-      "comments": 134
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "hnUrl": "https://news.ycombinator.com/item?id=48383220",
+      "score": 363,
+      "comments": 326
     },
     {
-      "title": "Why Janet? (2023)",
-      "url": "https://ianthehenry.com/posts/why-janet/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48367907",
-      "score": 315,
-      "comments": 148
+      "title": "Every Byte Matters",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "hnUrl": "https://news.ycombinator.com/item?id=48382382",
+      "score": 164,
+      "comments": 76
     },
     {
-      "title": "Apple rejected my dictation app for using the accessibility API",
-      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48369088",
-      "score": 200,
-      "comments": 122
+      "title": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48382142",
+      "score": 145,
+      "comments": 24
     },
     {
-      "title": "You Don't Love Systemd Timers Enough",
-      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48367904",
-      "score": 177,
-      "comments": 98
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48371562",
+      "score": 577,
+      "comments": 85
     },
     {
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "hnUrl": "https://news.ycombinator.com/item?id=48359102",
-      "score": 2040,
-      "comments": 450
+      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48374552",
+      "score": 178,
+      "comments": 26
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "hnUrl": "https://news.ycombinator.com/item?id=48364055",
-      "score": 564,
-      "comments": 950
+      "title": "I built a ceiling projection mapping of the planes flying over my house",
+      "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48383823",
+      "score": 123,
+      "comments": 17
     },
     {
-      "title": "Muxcard, a dyi credit card size computer",
-      "url": "https://github.com/krauseler/muxcard",
-      "hnUrl": "https://news.ycombinator.com/item?id=48342399",
-      "score": 185,
-      "comments": 50
+      "title": "I Found a Bug in Apple's Fsck_hfs",
+      "url": "https://medium.com/@kivancgunalp/i-found-a-bug-in-apples-fsck-hfs-here-s-how-i-tracked-it-down-edc782ce5cf9",
+      "hnUrl": "https://news.ycombinator.com/item?id=48378349",
+      "score": 9,
+      "comments": 2
     },
     {
-      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
-      "hnUrl": "https://news.ycombinator.com/item?id=48369098",
+      "title": "Piramidal (YC W24) – Software Engineers – NYC Onsite",
+      "url": "https://news.ycombinator.com/item?id=48382853",
+      "hnUrl": "https://news.ycombinator.com/item?id=48382853",
       "score": 1,
       "comments": 0
     },
     {
-      "title": "PCMFlowG722 wideband (HD voice) codec for ESP32",
-      "url": "https://github.com/tanakamasayuki/PCMFlowG722",
-      "hnUrl": "https://news.ycombinator.com/item?id=48337190",
-      "score": 8,
-      "comments": 1
+      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+      "hnUrl": "https://news.ycombinator.com/item?id=48344327",
+      "score": 174,
+      "comments": 50
     },
     {
-      "title": "Americans don't know how to fight AI. So they're fighting data centers",
-      "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
-      "hnUrl": "https://news.ycombinator.com/item?id=48371592",
-      "score": 17,
-      "comments": 0
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "hnUrl": "https://news.ycombinator.com/item?id=48377404",
+      "score": 407,
+      "comments": 107
     },
     {
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48364800",
-      "score": 345,
-      "comments": 211
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48374466",
+      "score": 513,
+      "comments": 242
     },
     {
-      "title": "Webcam head tracking, webcam to control in‑game FOV",
-      "url": "https://www.openfov.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48336783",
-      "score": 57,
-      "comments": 32
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "url": "https://leidendeclaration.ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48380670",
+      "score": 89,
+      "comments": 42
     },
     {
-      "title": "CQL: Categorical Databases",
-      "url": "https://categoricaldata.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48335022",
-      "score": 77,
-      "comments": 24
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48379669",
+      "score": 140,
+      "comments": 43
     }
   ]
 }
