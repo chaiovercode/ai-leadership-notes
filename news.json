@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-06T13:04:51.347Z",
+  "updated": "2026-06-07T13:17:29.044Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48389360",
-      "score": 460,
-      "comments": 137
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48421442",
-      "score": 701,
-      "comments": 229
-    },
-    {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48420148",
-      "score": 192,
-      "comments": 65
-    },
-    {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48423990",
-      "score": 69,
-      "comments": 70
-    },
-    {
-      "title": "Introduction – Rust for Python Programmers",
-      "url": "https://microsoft.github.io/RustTraining/python-book/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48423615",
-      "score": 23,
-      "comments": 8
-    },
-    {
-      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-      "hnUrl": "https://news.ycombinator.com/item?id=48424103",
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48421171",
-      "score": 105,
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48434312",
+      "score": 80,
       "comments": 35
     },
     {
-      "title": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48413500",
-      "score": 413,
-      "comments": 173
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48432199",
+      "score": 244,
+      "comments": 57
     },
     {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "hnUrl": "https://news.ycombinator.com/item?id=48413464",
-      "score": 407,
-      "comments": 252
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "hnUrl": "https://news.ycombinator.com/item?id=48431461",
+      "score": 209,
+      "comments": 94
     },
     {
-      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "url": "https://news.ycombinator.com/item?id=48406174",
-      "hnUrl": "https://news.ycombinator.com/item?id=48406174",
-      "score": 383,
-      "comments": 709
+      "title": "My Software North Star",
+      "url": "https://kristoff.it/blog/north-star/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48389368",
+      "score": 123,
+      "comments": 67
     },
     {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "hnUrl": "https://news.ycombinator.com/item?id=48414367",
-      "score": 418,
-      "comments": 93
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48433410",
+      "score": 179,
+      "comments": 96
     },
     {
-      "title": "Did Claude increase bugs in rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48411635",
-      "score": 448,
-      "comments": 456
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "hnUrl": "https://news.ycombinator.com/item?id=48431286",
+      "score": 111,
+      "comments": 50
     },
     {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48414653",
-      "score": 363,
-      "comments": 109
+      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "url": "https://kyushu.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48432722",
+      "score": 7,
+      "comments": 8
     },
     {
-      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48422993",
-      "score": 85,
-      "comments": 19
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48430539",
+      "score": 158,
+      "comments": 23
     },
     {
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "hnUrl": "https://news.ycombinator.com/item?id=48383667",
-      "score": 544,
-      "comments": 220
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48428025",
+      "score": 364,
+      "comments": 105
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "hnUrl": "https://news.ycombinator.com/item?id=48430923",
+      "score": 124,
+      "comments": 55
+    },
+    {
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48415457",
+      "score": 102,
+      "comments": 9
+    },
+    {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48416264",
+      "score": 236,
+      "comments": 152
+    },
+    {
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48393252",
+      "score": 101,
+      "comments": 15
+    },
+    {
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.04299",
+      "hnUrl": "https://news.ycombinator.com/item?id=48433305",
+      "score": 16,
+      "comments": 0
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48425528",
+      "score": 318,
+      "comments": 301
     }
   ]
 }
