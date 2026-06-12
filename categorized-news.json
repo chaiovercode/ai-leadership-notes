@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-11T05:26:41.530Z",
+  "updated": "2026-06-12T05:47:57.311Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Cheaper, faster, and culturally aware, Avataars video AI is built for Indias scale",
+          "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+          "date": "2026-06-12T04:30:00.000Z",
+          "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+          "source": "TechCrunch"
+        },
         {
           "title": "How memory tools can make AI models worse",
           "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
@@ -39,20 +46,6 @@
           "date": "2026-06-10T13:07:56.000Z",
           "description": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Can tech companies learn to love cheaper AI models?",
-          "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-          "date": "2026-06-09T18:56:09.000Z",
-          "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics Claude Fable 5 is a version of Mythos the public can access today",
-          "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-          "date": "2026-06-09T17:00:00.000Z",
-          "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -60,6 +53,41 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+          "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+          "date": "2026-06-11T20:33:10.000Z",
+          "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+          "date": "2026-06-11T20:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\"&gt;We’re helping build the state’s next-generation workforce and investing in ...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Deezers new tool can identify AI music from Spotify, Apple Music, and others",
+          "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+          "date": "2026-06-11T16:36:20.000Z",
+          "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Pools new app turns your screenshots into something useful",
+          "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+          "date": "2026-06-11T15:30:00.000Z",
+          "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DoorDashs new AI chatbot lets you order with prompts and photos",
+          "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+          "date": "2026-06-11T14:23:43.000Z",
+          "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Opendoors India exit is fueling a bigger conversation about AI and outsourcing",
           "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
@@ -71,7 +99,7 @@
           "title": "Anthropics Dario Amodei has just one direct report",
           "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
           "date": "2026-06-11T03:53:06.000Z",
-          "description": "If you doubted his genius, doubt no more.",
+          "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
           "source": "TechCrunch"
         },
         {
@@ -93,41 +121,6 @@
           "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
           "date": "2026-06-10T17:07:35.000Z",
           "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Cybersecurity researchers arent happy about the guardrails on Anthropics Fable",
-          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-          "date": "2026-06-10T15:41:22.000Z",
-          "description": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The three hard-tech moonshots fueling SpaceXs unbelievable IPO",
-          "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-          "date": "2026-06-10T14:48:01.000Z",
-          "description": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta signs first AI data center deal in India with Reliance",
-          "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-          "date": "2026-06-10T07:05:26.000Z",
-          "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google just fired a warning shot in the AI subscription price wars",
-          "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-          "date": "2026-06-10T00:26:10.000Z",
-          "description": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-          "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-          "date": "2026-06-09T23:17:51.000Z",
-          "description": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
           "source": "TechCrunch"
         }
       ]
@@ -164,6 +157,20 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Jeff Bezoss Prometheus raises $12B to build an artificial general engineer for the physical world",
+          "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+          "date": "2026-06-12T01:04:38.000Z",
+          "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropics Dario Amodei has just one direct report",
+          "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+          "date": "2026-06-11T03:53:06.000Z",
+          "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
           "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
           "date": "2026-06-10T15:00:00.000Z",
@@ -183,13 +190,6 @@
           "date": "2026-06-10T13:33:09.000Z",
           "description": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-          "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-          "date": "2026-06-09T23:17:51.000Z",
-          "description": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -198,24 +198,24 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Theker just raised $85M to build the factory robot that doesnt specialize in anything",
+          "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+          "date": "2026-06-12T01:48:07.000Z",
+          "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceX SPV investors wont know their true holdings until post-IPO lock-ups lift",
+          "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+          "date": "2026-06-11T19:58:01.000Z",
+          "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
           "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
           "date": "2026-06-10T22:31:19.000Z",
           "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hey, Siri, heres what I actually want from AI",
-          "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-          "date": "2026-06-09T20:50:17.000Z",
-          "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics Claude Fable 5 is a version of Mythos the public can access today",
-          "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-          "date": "2026-06-09T17:00:00.000Z",
-          "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
           "source": "TechCrunch"
         }
       ]
