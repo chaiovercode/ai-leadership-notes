@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-15T16:52:44.091Z",
+  "updated": "2026-06-16T16:20:19.299Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "hnUrl": "https://news.ycombinator.com/item?id=48542480",
-      "score": 293,
-      "comments": 89
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48555993",
+      "score": 237,
+      "comments": 131
     },
     {
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48542433",
-      "score": 31,
-      "comments": 9
+      "title": "Fable ban was never about a jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48556785",
+      "score": 69,
+      "comments": 18
     },
     {
-      "title": "Making glass-to-metal seals for home­made vacuum tubes",
-      "url": "https://maurycyz.com/projects/glass/1/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48528587",
-      "score": 31,
-      "comments": 9
+      "title": "Mechanical Watch (2022)",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48553550",
+      "score": 443,
+      "comments": 79
     },
     {
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=48540854",
-      "score": 381,
-      "comments": 155
-    },
-    {
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48533848",
-      "score": 813,
-      "comments": 276
-    },
-    {
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "hnUrl": "https://news.ycombinator.com/item?id=48536776",
-      "score": 378,
-      "comments": 177
-    },
-    {
-      "title": "Openrouter Fusion API",
-      "url": "https://openrouter.ai/openrouter/fusion",
-      "hnUrl": "https://news.ycombinator.com/item?id=48537641",
-      "score": 156,
+      "title": "Correlated randomness in Slay the Spire 2",
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48552844",
+      "score": 180,
       "comments": 60
+    },
+    {
+      "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
+      "url": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
+      "hnUrl": "https://news.ycombinator.com/item?id=48556414",
+      "score": 93,
+      "comments": 67
+    },
+    {
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "hnUrl": "https://news.ycombinator.com/item?id=48550779",
+      "score": 661,
+      "comments": 326
+    },
+    {
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48546294",
+      "score": 1456,
+      "comments": 275
+    },
+    {
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "hnUrl": "https://news.ycombinator.com/item?id=48550693",
+      "score": 426,
+      "comments": 136
+    },
+    {
+      "title": "An interview with an Apple emoji designer",
+      "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48519723",
+      "score": 53,
+      "comments": 26
+    },
+    {
+      "title": "Getting Creative with Perlin Noise Fields",
+      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+      "hnUrl": "https://news.ycombinator.com/item?id=48522316",
+      "score": 112,
+      "comments": 19
+    },
+    {
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "hnUrl": "https://news.ycombinator.com/item?id=48552687",
+      "score": 411,
+      "comments": 230
+    },
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48547985",
+      "score": 520,
+      "comments": 311
     },
     {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
       "hnUrl": "https://news.ycombinator.com/item?id=48543475",
-      "score": 5,
-      "comments": 1
+      "score": 951,
+      "comments": 169
     },
     {
-      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
-      "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48485527",
-      "score": 108,
-      "comments": 56
+      "title": "SpaceX to buy Cursor for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48553224",
+      "score": 269,
+      "comments": 213
     },
     {
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "url": "https://github.com/themartiano/luz",
-      "hnUrl": "https://news.ycombinator.com/item?id=48538833",
-      "score": 122,
-      "comments": 49
-    },
-    {
-      "title": "Even more batteries included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48535886",
-      "score": 307,
-      "comments": 103
-    },
-    {
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "hnUrl": "https://news.ycombinator.com/item?id=48540126",
-      "score": 208,
-      "comments": 168
-    },
-    {
-      "title": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
-      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
-      "hnUrl": "https://news.ycombinator.com/item?id=48537512",
-      "score": 124,
-      "comments": 92
-    },
-    {
-      "title": "Google Flight Simulator",
-      "url": "https://developers.google.com/maps/documentation/earth/flight-simulator",
-      "hnUrl": "https://news.ycombinator.com/item?id=48540945",
-      "score": 92,
-      "comments": 35
-    },
-    {
-      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "url": "https://github.com/tamnd/kage",
-      "hnUrl": "https://news.ycombinator.com/item?id=48529990",
-      "score": 642,
-      "comments": 124
+      "title": "Google Chrome update will close the door on ad blockers",
+      "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48555244",
+      "score": 170,
+      "comments": 105
     }
   ]
 }
