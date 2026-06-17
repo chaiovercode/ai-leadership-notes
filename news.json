@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-16T16:20:19.299Z",
+  "updated": "2026-06-17T14:47:20.087Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "Want your images back? Sure... That'll be $5!",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "hnUrl": "https://news.ycombinator.com/item?id=48569954",
+      "score": 246,
+      "comments": 104
+    },
+    {
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "hnUrl": "https://news.ycombinator.com/item?id=48567759",
+      "score": 434,
+      "comments": 238
+    },
+    {
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48569278",
+      "score": 436,
+      "comments": 238
+    },
+    {
+      "title": "RFC 10008: The new HTTP Query Method",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48568502",
+      "score": 141,
+      "comments": 72
+    },
+    {
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48567877",
+      "score": 128,
+      "comments": 30
+    },
+    {
+      "title": "Hacker News but for Independent Blogs",
+      "url": "https://bubbles.town/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48567155",
+      "score": 287,
+      "comments": 87
+    },
+    {
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "hnUrl": "https://news.ycombinator.com/item?id=48561654",
+      "score": 901,
+      "comments": 474
+    },
+    {
+      "title": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "hnUrl": "https://news.ycombinator.com/item?id=48570948",
+      "score": 27,
+      "comments": 0
+    },
     {
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
       "hnUrl": "https://news.ycombinator.com/item?id=48555993",
-      "score": 237,
-      "comments": 131
+      "score": 1442,
+      "comments": 553
     },
     {
-      "title": "Fable ban was never about a jailbreak",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48556785",
-      "score": 69,
-      "comments": 18
+      "title": "Abandoned and Little-Known Airfields",
+      "url": "https://airfields-freeman.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48531590",
+      "score": 72,
+      "comments": 14
     },
     {
-      "title": "Mechanical Watch (2022)",
-      "url": "https://ciechanow.ski/mechanical-watch/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48553550",
-      "score": 443,
-      "comments": 79
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48563394",
+      "score": 315,
+      "comments": 78
     },
     {
-      "title": "Correlated randomness in Slay the Spire 2",
-      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48552844",
-      "score": 180,
-      "comments": 60
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48558018",
+      "score": 497,
+      "comments": 214
     },
     {
-      "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
-      "url": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
-      "hnUrl": "https://news.ycombinator.com/item?id=48556414",
-      "score": 93,
-      "comments": 67
+      "title": "Subterranean fungi networks more than 100 quadrillion km in length",
+      "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
+      "hnUrl": "https://news.ycombinator.com/item?id=48496233",
+      "score": 125,
+      "comments": 32
     },
     {
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "hnUrl": "https://news.ycombinator.com/item?id=48550779",
-      "score": 661,
-      "comments": 326
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "hnUrl": "https://news.ycombinator.com/item?id=48557079",
+      "score": 501,
+      "comments": 218
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48546294",
-      "score": 1456,
-      "comments": 275
-    },
-    {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "hnUrl": "https://news.ycombinator.com/item?id=48550693",
-      "score": 426,
-      "comments": 136
-    },
-    {
-      "title": "An interview with an Apple emoji designer",
-      "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48519723",
-      "score": 53,
-      "comments": 26
-    },
-    {
-      "title": "Getting Creative with Perlin Noise Fields",
-      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-      "hnUrl": "https://news.ycombinator.com/item?id=48522316",
-      "score": 112,
-      "comments": 19
-    },
-    {
-      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "hnUrl": "https://news.ycombinator.com/item?id=48552687",
-      "score": 411,
-      "comments": 230
-    },
-    {
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48547985",
-      "score": 520,
-      "comments": 311
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "hnUrl": "https://news.ycombinator.com/item?id=48543475",
-      "score": 951,
-      "comments": 169
-    },
-    {
-      "title": "SpaceX to buy Cursor for $60B",
-      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48553224",
-      "score": 269,
-      "comments": 213
-    },
-    {
-      "title": "Google Chrome update will close the door on ad blockers",
-      "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48555244",
-      "score": 170,
-      "comments": 105
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48558489",
+      "score": 366,
+      "comments": 415
     }
   ]
 }
