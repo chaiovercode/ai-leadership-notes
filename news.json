@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-17T14:47:20.087Z",
+  "updated": "2026-06-18T14:42:47.461Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Want your images back? Sure... That'll be $5!",
-      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "hnUrl": "https://news.ycombinator.com/item?id=48569954",
-      "score": 246,
-      "comments": 104
+      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "hnUrl": "https://news.ycombinator.com/item?id=48584135",
+      "score": 172,
+      "comments": 66
     },
     {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "hnUrl": "https://news.ycombinator.com/item?id=48567759",
-      "score": 434,
-      "comments": 238
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48583928",
+      "score": 114,
+      "comments": 33
     },
     {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48569278",
-      "score": 436,
-      "comments": 238
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "hnUrl": "https://news.ycombinator.com/item?id=48583386",
+      "score": 126,
+      "comments": 54
     },
     {
-      "title": "RFC 10008: The new HTTP Query Method",
-      "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48568502",
-      "score": 141,
-      "comments": 72
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "hnUrl": "https://news.ycombinator.com/item?id=48579650",
+      "score": 1048,
+      "comments": 722
     },
     {
-      "title": "Show HN: High-Res Neural Cellular Automata",
-      "url": "https://cells2pixels.github.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48567877",
-      "score": 128,
-      "comments": 30
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48584207",
+      "score": 188,
+      "comments": 118
     },
     {
-      "title": "Hacker News but for Independent Blogs",
-      "url": "https://bubbles.town/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48567155",
-      "score": 287,
-      "comments": 87
+      "title": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48581458",
+      "score": 299,
+      "comments": 118
     },
     {
-      "title": "GrapheneOS has been ported to Android 17",
-      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "hnUrl": "https://news.ycombinator.com/item?id=48561654",
-      "score": 901,
-      "comments": 474
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48580209",
+      "score": 337,
+      "comments": 180
     },
     {
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "hnUrl": "https://news.ycombinator.com/item?id=48570948",
-      "score": 27,
-      "comments": 0
+      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "hnUrl": "https://news.ycombinator.com/item?id=48583703",
+      "score": 52,
+      "comments": 12
     },
     {
-      "title": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48555993",
-      "score": 1442,
-      "comments": 553
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48571081",
+      "score": 1192,
+      "comments": 637
     },
     {
-      "title": "Abandoned and Little-Known Airfields",
-      "url": "https://airfields-freeman.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48531590",
-      "score": 72,
-      "comments": 14
+      "title": "Git platform built for agentic era",
+      "url": "https://gitlawb.com/node",
+      "hnUrl": "https://news.ycombinator.com/item?id=48584873",
+      "score": 6,
+      "comments": 4
     },
     {
-      "title": "Humiliating IIS servers for fun and jail time",
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48563394",
-      "score": 315,
-      "comments": 78
+      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+      "hnUrl": "https://news.ycombinator.com/item?id=48582320",
+      "score": 281,
+      "comments": 137
     },
     {
-      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48558018",
-      "score": 497,
-      "comments": 214
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48565498",
+      "score": 496,
+      "comments": 546
     },
     {
-      "title": "Subterranean fungi networks more than 100 quadrillion km in length",
-      "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-      "hnUrl": "https://news.ycombinator.com/item?id=48496233",
-      "score": 125,
-      "comments": 32
+      "title": "I hate compilers",
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48581070",
+      "score": 120,
+      "comments": 103
     },
     {
-      "title": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "hnUrl": "https://news.ycombinator.com/item?id=48557079",
-      "score": 501,
-      "comments": 218
+      "title": "Clojure Hosted on Go",
+      "url": "https://github.com/glojurelang/glojure",
+      "hnUrl": "https://news.ycombinator.com/item?id=48578326",
+      "score": 182,
+      "comments": 23
     },
     {
-      "title": "Has AI already killed self-help nonfiction books?",
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48558489",
-      "score": 366,
-      "comments": 415
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "hnUrl": "https://news.ycombinator.com/item?id=48556561",
+      "score": 300,
+      "comments": 211
     }
   ]
 }
