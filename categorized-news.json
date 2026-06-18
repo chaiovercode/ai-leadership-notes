@@ -1,22 +1,22 @@
 {
-  "updated": "2026-06-17T06:08:54.947Z",
+  "updated": "2026-06-18T05:53:51.738Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "The US governments Anthropic models ban was never about an AI jailbreak",
-          "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-          "date": "2026-06-15T21:50:21.000Z",
-          "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
+          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+          "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+          "date": "2026-06-17T17:43:07.000Z",
+          "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
           "source": "TechCrunch"
         },
         {
-          "title": "Cybersecurity vets protest dangerous US government ban on Anthropics most powerful models",
-          "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-          "date": "2026-06-15T15:29:51.000Z",
-          "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil...",
+          "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+          "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+          "date": "2026-06-17T15:00:00.000Z",
+          "description": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
           "source": "TechCrunch"
         }
       ]
@@ -26,73 +26,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Anthropics latest feud with the Trump admin may actually help it, sales data suggests",
-          "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-          "date": "2026-06-16T22:34:17.000Z",
-          "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+          "title": "How to turn off AI in your Google Docs",
+          "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+          "date": "2026-06-18T01:23:51.000Z",
+          "description": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
           "source": "TechCrunch"
         },
         {
-          "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-          "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-          "date": "2026-06-16T18:00:00.000Z",
-          "description": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri...",
+          "title": "Roelof Botha joins SpaceXs board of directors",
+          "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+          "date": "2026-06-17T20:32:52.000Z",
+          "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
           "source": "TechCrunch"
         },
         {
-          "title": "Sixty percent of US consumers say AI in brand messaging is a turnoff, survey finds",
-          "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-          "date": "2026-06-16T16:49:44.000Z",
-          "description": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+          "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+          "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+          "date": "2026-06-17T20:17:38.000Z",
+          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
           "source": "TechCrunch"
         },
         {
-          "title": "SpaceX is public: Everything you need to know post-IPO",
-          "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-          "date": "2026-06-16T15:53:12.000Z",
-          "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
+          "title": "World leaders want American AI. They just dont want America to be able to turn it off.",
+          "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+          "date": "2026-06-17T19:01:19.000Z",
+          "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
           "source": "TechCrunch"
         },
         {
-          "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-          "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-          "date": "2026-06-16T15:05:03.000Z",
-          "description": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
+          "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+          "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+          "date": "2026-06-17T18:30:56.000Z",
+          "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
           "source": "TechCrunch"
         },
         {
-          "title": "Robinhoods note on 10% layoffs shows blaming AI isnt cutting it",
-          "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-          "date": "2026-06-16T14:50:09.000Z",
-          "description": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note...",
+          "title": "Social media’s next evolution: user-controlled algorithms",
+          "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+          "date": "2026-06-17T18:19:48.000Z",
+          "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
           "source": "TechCrunch"
         },
         {
-          "title": "Probably raises $9M to build a more reliable kind of AI",
-          "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-          "date": "2026-06-16T13:15:09.000Z",
-          "description": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+          "title": "NEAs Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+          "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+          "date": "2026-06-17T18:00:00.000Z",
+          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
           "source": "TechCrunch"
         },
         {
-          "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-          "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-          "date": "2026-06-16T11:21:41.000Z",
-          "description": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+          "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+          "date": "2026-06-17T17:43:07.000Z",
+          "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
           "source": "TechCrunch"
         },
         {
-          "title": "ChatGPTs market share slips below 50% for first time",
-          "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-          "date": "2026-06-16T10:30:00.000Z",
-          "description": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+          "title": "Google bets on Gemini to reinvent the smart home speaker",
+          "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+          "date": "2026-06-17T16:30:09.000Z",
+          "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversation...",
           "source": "TechCrunch"
         },
         {
-          "title": "The US governments Anthropic models ban was never about an AI jailbreak",
-          "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-          "date": "2026-06-15T21:50:21.000Z",
-          "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
+          "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+          "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+          "date": "2026-06-17T15:24:41.000Z",
+          "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
           "source": "TechCrunch"
         }
       ]
@@ -102,24 +102,10 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Malaysias AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-          "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-          "date": "2026-06-16T06:59:00.000Z",
-          "description": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-          "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-          "date": "2026-06-15T14:34:45.000Z",
-          "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-          "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-          "date": "2026-06-15T13:00:00.000Z",
-          "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+          "title": "NEAs Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+          "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+          "date": "2026-06-17T18:00:00.000Z",
+          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
           "source": "TechCrunch"
         }
       ]
@@ -128,6 +114,34 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+          "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+          "date": "2026-06-17T20:17:38.000Z",
+          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+          "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+          "date": "2026-06-17T18:30:56.000Z",
+          "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+          "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+          "date": "2026-06-17T17:43:07.000Z",
+          "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+          "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+          "date": "2026-06-17T12:14:44.000Z",
+          "description": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropics latest feud with the Trump admin may actually help it, sales data suggests",
           "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
@@ -141,41 +155,6 @@
           "date": "2026-06-16T20:11:00.000Z",
           "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-          "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-          "date": "2026-06-16T15:00:00.000Z",
-          "description": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Malaysias AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-          "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-          "date": "2026-06-16T06:59:00.000Z",
-          "description": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-          "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-          "date": "2026-06-15T14:34:45.000Z",
-          "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sarvam becomes Indias newest AI unicorn with $234 million funding round led by HCLTech",
-          "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-          "date": "2026-06-15T13:46:08.000Z",
-          "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-          "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-          "date": "2026-06-15T13:00:00.000Z",
-          "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -184,31 +163,31 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "After unveiling ridiculously expensive AR glasses, Snaps stock takes a dive",
+          "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+          "date": "2026-06-17T20:24:28.000Z",
+          "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "date": "2026-06-17T17:00:01.000Z",
+          "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+          "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+          "date": "2026-06-17T14:15:22.000Z",
+          "description": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Anthropics latest feud with the Trump admin may actually help it, sales data suggests",
           "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
           "date": "2026-06-16T22:34:17.000Z",
           "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Probably raises $9M to build a more reliable kind of AI",
-          "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-          "date": "2026-06-16T13:15:09.000Z",
-          "description": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Googles Israel, ICE ties",
-          "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-          "date": "2026-06-15T23:51:44.000Z",
-          "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The US governments Anthropic models ban was never about an AI jailbreak",
-          "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-          "date": "2026-06-15T21:50:21.000Z",
-          "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro...",
           "source": "TechCrunch"
         }
       ]
