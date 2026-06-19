@@ -1,22 +1,15 @@
 {
-  "updated": "2026-06-18T05:53:51.738Z",
+  "updated": "2026-06-19T06:16:47.576Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-          "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-          "date": "2026-06-17T17:43:07.000Z",
-          "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-          "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-          "date": "2026-06-17T15:00:00.000Z",
-          "description": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+          "title": "General Intuition in talks to raise $300M at around $2B valuation",
+          "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+          "date": "2026-06-18T15:20:37.000Z",
+          "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
           "source": "TechCrunch"
         }
       ]
@@ -25,6 +18,62 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+          "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "date": "2026-06-18T20:30:00.000Z",
+          "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "date": "2026-06-18T19:59:22.000Z",
+          "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+          "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+          "date": "2026-06-18T18:51:46.000Z",
+          "description": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+          "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+          "date": "2026-06-18T18:22:13.000Z",
+          "description": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI data centers just got a government-mandated fast lane to the grid",
+          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+          "date": "2026-06-18T17:49:23.000Z",
+          "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The smartphone era created an attention crisis — slow tech is fixing it",
+          "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+          "date": "2026-06-18T17:16:30.000Z",
+          "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Queer Eye life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+          "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+          "date": "2026-06-18T16:55:04.000Z",
+          "description": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+          "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+          "date": "2026-06-18T15:13:21.000Z",
+          "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+          "source": "TechCrunch"
+        },
         {
           "title": "How to turn off AI in your Google Docs",
           "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
@@ -37,62 +86,6 @@
           "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
           "date": "2026-06-17T20:32:52.000Z",
           "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-          "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-          "date": "2026-06-17T20:17:38.000Z",
-          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "World leaders want American AI. They just dont want America to be able to turn it off.",
-          "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-          "date": "2026-06-17T19:01:19.000Z",
-          "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-          "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-          "date": "2026-06-17T18:30:56.000Z",
-          "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Social media’s next evolution: user-controlled algorithms",
-          "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-          "date": "2026-06-17T18:19:48.000Z",
-          "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "NEAs Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-          "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-          "date": "2026-06-17T18:00:00.000Z",
-          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-          "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-          "date": "2026-06-17T17:43:07.000Z",
-          "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google bets on Gemini to reinvent the smart home speaker",
-          "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-          "date": "2026-06-17T16:30:09.000Z",
-          "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversation...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
-          "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
-          "date": "2026-06-17T15:24:41.000Z",
-          "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
           "source": "TechCrunch"
         }
       ]
@@ -115,6 +108,27 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+          "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "date": "2026-06-19T00:51:11.000Z",
+          "description": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+          "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "date": "2026-06-18T21:20:13.000Z",
+          "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "General Intuition in talks to raise $300M at around $2B valuation",
+          "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+          "date": "2026-06-18T15:20:37.000Z",
+          "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
           "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
           "date": "2026-06-17T20:17:38.000Z",
@@ -127,34 +141,6 @@
           "date": "2026-06-17T18:30:56.000Z",
           "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-          "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-          "date": "2026-06-17T17:43:07.000Z",
-          "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-          "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-          "date": "2026-06-17T12:14:44.000Z",
-          "description": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics latest feud with the Trump admin may actually help it, sales data suggests",
-          "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-          "date": "2026-06-16T22:34:17.000Z",
-          "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-          "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-          "date": "2026-06-16T20:11:00.000Z",
-          "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -163,31 +149,31 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "date": "2026-06-18T19:59:22.000Z",
+          "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "General Intuition in talks to raise $300M at around $2B valuation",
+          "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+          "date": "2026-06-18T15:20:37.000Z",
+          "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Pixis new iOS app turns text messages into interactive AR experiences",
+          "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+          "date": "2026-06-18T12:00:00.000Z",
+          "description": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+          "source": "TechCrunch"
+        },
+        {
           "title": "After unveiling ridiculously expensive AR glasses, Snaps stock takes a dive",
           "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
           "date": "2026-06-17T20:24:28.000Z",
           "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-          "date": "2026-06-17T17:00:01.000Z",
-          "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-          "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-          "date": "2026-06-17T14:15:22.000Z",
-          "description": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics latest feud with the Trump admin may actually help it, sales data suggests",
-          "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-          "date": "2026-06-16T22:34:17.000Z",
-          "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
           "source": "TechCrunch"
         }
       ]
