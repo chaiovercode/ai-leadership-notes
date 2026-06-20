@@ -1,10 +1,31 @@
 {
-  "updated": "2026-06-19T06:16:47.576Z",
+  "updated": "2026-06-20T05:11:35.120Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "From PGP to Mythos: a brief history of export controls that didnt stop anyone",
+          "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "date": "2026-06-19T22:40:14.000Z",
+          "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Is the US governments Anthropic ban accidentally helping the brand?",
+          "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+          "date": "2026-06-19T16:08:17.000Z",
+          "description": "Just as last weekwas ending,the US governmentforced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to b...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The US banned Anthropics Fable 5 release, but the numbers dont seem to care",
+          "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+          "date": "2026-06-19T16:01:03.000Z",
+          "description": "Just as last weekwas ending,the US governmentforced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to b...",
+          "source": "TechCrunch"
+        },
         {
           "title": "General Intuition in talks to raise $300M at around $2B valuation",
           "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
@@ -18,6 +39,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "From PGP to Mythos: a brief history of export controls that didnt stop anyone",
+          "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "date": "2026-06-19T22:40:14.000Z",
+          "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Is the US governments Anthropic ban accidentally helping the brand?",
+          "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+          "date": "2026-06-19T16:08:17.000Z",
+          "description": "Just as last weekwas ending,the US governmentforced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to b...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The US banned Anthropics Fable 5 release, but the numbers dont seem to care",
+          "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+          "date": "2026-06-19T16:01:03.000Z",
+          "description": "Just as last weekwas ending,the US governmentforced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to b...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Billionaire Ambani wants AI in every call, app, and home",
+          "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+          "date": "2026-06-19T15:23:28.000Z",
+          "description": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
           "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
@@ -59,59 +108,37 @@
           "date": "2026-06-18T17:16:30.000Z",
           "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Queer Eye life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-          "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-          "date": "2026-06-18T16:55:04.000Z",
-          "description": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-          "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-          "date": "2026-06-18T15:13:21.000Z",
-          "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How to turn off AI in your Google Docs",
-          "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-          "date": "2026-06-18T01:23:51.000Z",
-          "description": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Roelof Botha joins SpaceXs board of directors",
-          "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-          "date": "2026-06-17T20:32:52.000Z",
-          "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-          "source": "TechCrunch"
         }
       ]
     },
     {
       "id": "agents",
       "name": "AI Agents & Automation",
-      "articles": [
-        {
-          "title": "NEAs Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-          "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-          "date": "2026-06-17T18:00:00.000Z",
-          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
-          "source": "TechCrunch"
-        }
-      ]
+      "articles": []
     },
     {
       "id": "business",
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+          "title": "The CEO of Allbirds new AI biz has a plan, but no team",
+          "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+          "date": "2026-06-19T13:00:00.000Z",
+          "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The US says ASMLs top chip tool may be in China, but how?",
+          "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+          "date": "2026-06-19T07:59:12.000Z",
+          "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
           "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
           "date": "2026-06-19T00:51:11.000Z",
-          "description": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+          "description": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
           "source": "TechCrunch"
         },
         {
@@ -127,20 +154,6 @@
           "date": "2026-06-18T15:20:37.000Z",
           "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-          "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-          "date": "2026-06-17T20:17:38.000Z",
-          "description": "Tokenmaxxingwasthe hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as faras it would go.Then the bill came due. Uberreportedly blewthrough its annua...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-          "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-          "date": "2026-06-17T18:30:56.000Z",
-          "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -148,6 +161,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "The US says ASMLs top chip tool may be in China, but how?",
+          "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+          "date": "2026-06-19T07:59:12.000Z",
+          "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
           "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
@@ -167,13 +187,6 @@
           "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
           "date": "2026-06-18T12:00:00.000Z",
           "description": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "After unveiling ridiculously expensive AR glasses, Snaps stock takes a dive",
-          "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-          "date": "2026-06-17T20:24:28.000Z",
-          "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
           "source": "TechCrunch"
         }
       ]
