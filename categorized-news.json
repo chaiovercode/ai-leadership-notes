@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T05:59:01.992Z",
+  "updated": "2026-06-22T06:27:38.775Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -25,13 +25,6 @@
           "date": "2026-06-19T16:01:03.000Z",
           "description": "Just as last weekwas ending,the US governmentforced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to b...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "General Intuition in talks to raise $300M at around $2B valuation",
-          "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-          "date": "2026-06-18T15:20:37.000Z",
-          "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -39,6 +32,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+          "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "date": "2026-06-21T15:28:17.000Z",
+          "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
           "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
@@ -101,13 +101,6 @@
           "date": "2026-06-18T19:59:22.000Z",
           "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-          "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-          "date": "2026-06-18T18:51:46.000Z",
-          "description": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -121,7 +114,7 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "The CEO of Allbirds new AI biz has a plan, but no team",
+          "title": "The CEO of Allbirds new AI biz has a plan. Now she needs a brand-new team",
           "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
           "date": "2026-06-19T13:00:00.000Z",
           "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
@@ -147,13 +140,6 @@
           "date": "2026-06-18T21:20:13.000Z",
           "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "General Intuition in talks to raise $300M at around $2B valuation",
-          "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-          "date": "2026-06-18T15:20:37.000Z",
-          "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -161,6 +147,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+          "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "date": "2026-06-21T15:28:17.000Z",
+          "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "date": "2026-06-21T14:40:28.000Z",
+          "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The US says ASMLs top chip tool may be in China, but how?",
           "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
@@ -173,13 +173,6 @@
           "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
           "date": "2026-06-18T19:59:22.000Z",
           "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "General Intuition in talks to raise $300M at around $2B valuation",
-          "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-          "date": "2026-06-18T15:20:37.000Z",
-          "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
           "source": "TechCrunch"
         }
       ]
