@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-24T14:03:16.737Z",
+  "updated": "2026-06-25T14:00:30.438Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48657030",
-      "score": 438,
-      "comments": 146
+      "title": "Countries are competing to see which can carry out mass surveillance the best",
+      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+      "hnUrl": "https://news.ycombinator.com/item?id=48672764",
+      "score": 158,
+      "comments": 39
     },
     {
-      "title": "Krea 2 Technical Report",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "hnUrl": "https://news.ycombinator.com/item?id=48646659",
-      "score": 71,
-      "comments": 4
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48669534",
+      "score": 420,
+      "comments": 167
     },
     {
-      "title": "Minimus container images are now free",
-      "url": "https://images.minimus.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48658361",
-      "score": 51,
-      "comments": 28
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48664814",
+      "score": 575,
+      "comments": 928
     },
     {
-      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-      "url": "https://paolino.me/founding-a-company-in-germany/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48658718",
-      "score": 189,
-      "comments": 201
-    },
-    {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48658095",
-      "score": 22,
-      "comments": 7
-    },
-    {
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48658647",
-      "score": 94,
-      "comments": 84
-    },
-    {
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48653216",
-      "score": 337,
-      "comments": 190
-    },
-    {
-      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "hnUrl": "https://news.ycombinator.com/item?id=48654676",
-      "score": 191,
-      "comments": 87
-    },
-    {
-      "title": "In memory of the man who put red and green squiggles under words",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "hnUrl": "https://news.ycombinator.com/item?id=48648959",
-      "score": 495,
-      "comments": 80
-    },
-    {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
-      "hnUrl": "https://news.ycombinator.com/item?id=48649435",
-      "score": 532,
-      "comments": 56
-    },
-    {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48648619",
-      "score": 613,
-      "comments": 221
-    },
-    {
-      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "hnUrl": "https://news.ycombinator.com/item?id=48654465",
-      "score": 152,
-      "comments": 64
-    },
-    {
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "hnUrl": "https://news.ycombinator.com/item?id=48654351",
-      "score": 146,
-      "comments": 44
-    },
-    {
-      "title": "A deadly fungus that can infect cats and people is spreading",
-      "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
-      "hnUrl": "https://news.ycombinator.com/item?id=48658186",
-      "score": 108,
+      "title": "LastPass notifies users of yet another data breach",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48671468",
+      "score": 173,
       "comments": 78
     },
     {
-      "title": "Printing Gaussian Splats",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "hnUrl": "https://news.ycombinator.com/item?id=48618481",
-      "score": 340,
-      "comments": 39
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48663324",
+      "score": 751,
+      "comments": 429
+    },
+    {
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48668033",
+      "score": 248,
+      "comments": 104
+    },
+    {
+      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "hnUrl": "https://news.ycombinator.com/item?id=48636753",
+      "score": 136,
+      "comments": 25
+    },
+    {
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48666927",
+      "score": 326,
+      "comments": 102
+    },
+    {
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "hnUrl": "https://news.ycombinator.com/item?id=48669932",
+      "score": 138,
+      "comments": 145
+    },
+    {
+      "title": "Apple announces significant price increases for MacBooks, iPads, more",
+      "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48672732",
+      "score": 130,
+      "comments": 109
+    },
+    {
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "hnUrl": "https://news.ycombinator.com/item?id=48667336",
+      "score": 190,
+      "comments": 107
+    },
+    {
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48660178",
+      "score": 397,
+      "comments": 310
+    },
+    {
+      "title": "GLM-5.2 is a step change for open agents",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "hnUrl": "https://news.ycombinator.com/item?id=48639840",
+      "score": 291,
+      "comments": 176
+    },
+    {
+      "title": "Lies, Damn Lies and Database Benchmarks",
+      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48639429",
+      "score": 33,
+      "comments": 12
+    },
+    {
+      "title": "Dolphin Emulator Progress Release 2606",
+      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48671392",
+      "score": 164,
+      "comments": 22
     }
   ]
 }
