@@ -1,15 +1,79 @@
 {
-  "updated": "2026-06-25T05:03:42.954Z",
+  "updated": "2026-06-26T05:06:34.684Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": []
+      "articles": [
+        {
+          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "date": "2026-06-25T23:34:39.000Z",
+          "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "date": "2026-06-25T23:34:39.000Z",
+          "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropics Claude is winning over paid consumers, a market owned by ChatGPT",
+          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "date": "2026-06-25T17:38:27.000Z",
+          "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+          "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "date": "2026-06-25T16:48:11.000Z",
+          "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Our latest Google Finance upgrades, including a new app",
+          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+          "date": "2026-06-25T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\"&gt;The new Google Finance is coming out of beta and launching...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+          "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+          "date": "2026-06-25T14:55:38.000Z",
+          "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+          "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+          "date": "2026-06-25T14:00:00.000Z",
+          "description": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+          "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+          "date": "2026-06-25T13:30:00.000Z",
+          "description": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+          "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+          "date": "2026-06-25T12:00:38.000Z",
+          "description": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Europe is pushing back on Washingtons chip war",
           "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
@@ -23,62 +87,6 @@
           "date": "2026-06-24T21:42:07.000Z",
           "description": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-          "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-          "date": "2026-06-24T20:09:45.000Z",
-          "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Facebook rolls out an AI companion app for creators",
-          "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-          "date": "2026-06-24T17:16:24.000Z",
-          "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Figma adds code layers, support for animations, more AI features in new update",
-          "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-          "date": "2026-06-24T16:15:00.000Z",
-          "description": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI unveils its first custom chip, built by Broadcom",
-          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-          "date": "2026-06-24T14:54:46.000Z",
-          "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-          "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-          "date": "2026-06-24T14:00:00.000Z",
-          "description": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-          "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-          "date": "2026-06-23T17:00:00.000Z",
-          "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-          "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-          "date": "2026-06-23T14:00:00.000Z",
-          "description": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI launches new initiative to help find and patch open source bugs",
-          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-          "date": "2026-06-23T00:11:31.000Z",
-          "description": "OpenAI is using AI to help the open source community better protect itself.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -87,24 +95,17 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Indias MoEngage bets that the future of marketing is millions of AI agents",
-          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-          "date": "2026-06-23T23:30:00.000Z",
-          "description": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "date": "2026-06-25T20:19:25.000Z",
+          "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
           "source": "TechCrunch"
         },
         {
-          "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-          "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-          "date": "2026-06-23T13:00:00.000Z",
-          "description": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The AI world is getting loopy",
-          "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-          "date": "2026-06-22T20:53:11.000Z",
-          "description": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+          "title": "General Intuitions $2.3B bet that video games can train AI agents for the real world",
+          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "date": "2026-06-25T16:55:00.000Z",
+          "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
           "source": "TechCrunch"
         }
       ]
@@ -113,6 +114,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "date": "2026-06-25T20:19:25.000Z",
+          "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
           "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
@@ -140,27 +148,6 @@
           "date": "2026-06-24T16:48:43.000Z",
           "description": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Indias MoEngage bets that the future of marketing is millions of AI agents",
-          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-          "date": "2026-06-23T23:30:00.000Z",
-          "description": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-          "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-          "date": "2026-06-23T17:00:00.000Z",
-          "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-          "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-          "date": "2026-06-23T13:00:00.000Z",
-          "description": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -169,17 +156,24 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "date": "2026-06-25T23:34:39.000Z",
+          "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "General Intuitions $2.3B bet that video games can train AI agents for the real world",
+          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "date": "2026-06-25T16:55:00.000Z",
+          "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "AI was supposed to kill engineering jobs, but new data suggests theyre the most resilient",
           "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
           "date": "2026-06-24T21:56:41.000Z",
           "description": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-          "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-          "date": "2026-06-23T01:27:55.000Z",
-          "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
           "source": "TechCrunch"
         }
       ]
