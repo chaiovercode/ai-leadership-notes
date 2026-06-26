@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-25T14:00:30.438Z",
+  "updated": "2026-06-26T13:59:31.744Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Countries are competing to see which can carry out mass surveillance the best",
-      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-      "hnUrl": "https://news.ycombinator.com/item?id=48672764",
-      "score": 158,
-      "comments": 39
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48678852",
+      "score": 1053,
+      "comments": 124
     },
     {
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48669534",
-      "score": 420,
-      "comments": 167
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "hnUrl": "https://news.ycombinator.com/item?id=48675179",
+      "score": 1439,
+      "comments": 302
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48664814",
-      "score": 575,
-      "comments": 928
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48681949",
+      "score": 213,
+      "comments": 35
     },
     {
-      "title": "LastPass notifies users of yet another data breach",
-      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48671468",
-      "score": 173,
-      "comments": 78
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48681687",
+      "score": 246,
+      "comments": 96
     },
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48663324",
-      "score": 751,
-      "comments": 429
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48681220",
+      "score": 236,
+      "comments": 122
     },
     {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48668033",
-      "score": 248,
-      "comments": 104
+      "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "url": "https://github.com/DDecoene/WebBaseIII",
+      "hnUrl": "https://news.ycombinator.com/item?id=48656986",
+      "score": 23,
+      "comments": 6
     },
     {
-      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-      "url": "https://github.com/BohemiaInteractive/CWR",
-      "hnUrl": "https://news.ycombinator.com/item?id=48636753",
-      "score": 136,
-      "comments": 25
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48610137",
+      "score": 128,
+      "comments": 33
     },
     {
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48666927",
-      "score": 326,
-      "comments": 102
+      "title": "We all depend on open source. We will defend it together",
+      "url": "https://akrites.org/letter/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48682737",
+      "score": 341,
+      "comments": 164
     },
     {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "hnUrl": "https://news.ycombinator.com/item?id=48669932",
-      "score": 138,
-      "comments": 145
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "hnUrl": "https://news.ycombinator.com/item?id=48679608",
+      "score": 867,
+      "comments": 425
     },
     {
-      "title": "Apple announces significant price increases for MacBooks, iPads, more",
-      "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48672732",
-      "score": 130,
-      "comments": 109
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "hnUrl": "https://news.ycombinator.com/item?id=48642474",
+      "score": 275,
+      "comments": 54
     },
     {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "hnUrl": "https://news.ycombinator.com/item?id=48667336",
-      "score": 190,
-      "comments": 107
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+      "url": "https://gchandbook.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48680370",
+      "score": 185,
+      "comments": 35
     },
     {
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48660178",
-      "score": 397,
-      "comments": 310
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48631450",
+      "score": 412,
+      "comments": 169
     },
     {
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "hnUrl": "https://news.ycombinator.com/item?id=48639840",
-      "score": 291,
-      "comments": 176
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "hnUrl": "https://news.ycombinator.com/item?id=48674967",
+      "score": 349,
+      "comments": 188
     },
     {
-      "title": "Lies, Damn Lies and Database Benchmarks",
-      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48639429",
-      "score": 33,
-      "comments": 12
+      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+      "url": "https://twitter.com/mfts0/status/2070080422482977095",
+      "hnUrl": "https://news.ycombinator.com/item?id=48672328",
+      "score": 447,
+      "comments": 181
     },
     {
-      "title": "Dolphin Emulator Progress Release 2606",
-      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48671392",
-      "score": 164,
-      "comments": 22
+      "title": "Ultrasound Imaging of the Brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "hnUrl": "https://news.ycombinator.com/item?id=48685558",
+      "score": 6,
+      "comments": 0
     }
   ]
 }
