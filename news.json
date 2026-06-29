@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-28T13:11:59.607Z",
+  "updated": "2026-06-29T15:26:58.639Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "hnUrl": "https://news.ycombinator.com/item?id=48706714",
-      "score": 15,
-      "comments": 9
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "hnUrl": "https://news.ycombinator.com/item?id=48718840",
+      "score": 159,
+      "comments": 184
     },
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "hnUrl": "https://news.ycombinator.com/item?id=48703759",
-      "score": 298,
-      "comments": 79
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "hnUrl": "https://news.ycombinator.com/item?id=48713832",
+      "score": 763,
+      "comments": 325
     },
     {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "hnUrl": "https://news.ycombinator.com/item?id=48703258",
-      "score": 171,
-      "comments": 54
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "url": "https://twitter.com/i/status/2071277885646868536",
+      "hnUrl": "https://news.ycombinator.com/item?id=48719027",
+      "score": 105,
+      "comments": 38
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "hnUrl": "https://news.ycombinator.com/item?id=48698617",
-      "score": 861,
-      "comments": 333
-    },
-    {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "hnUrl": "https://news.ycombinator.com/item?id=48704373",
-      "score": 84,
-      "comments": 37
-    },
-    {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=48703412",
-      "score": 150,
-      "comments": 58
-    },
-    {
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48702273",
-      "score": 200,
-      "comments": 76
-    },
-    {
-      "title": "Bringing Swift to the Apple ][",
-      "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48670579",
-      "score": 8,
-      "comments": 0
-    },
-    {
-      "title": "The origins of the school system aimed to produce independent, critical thinkers",
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
-      "hnUrl": "https://news.ycombinator.com/item?id=48706877",
+      "title": "WebGL Without a GPU",
+      "url": "https://microlink.io/blog/webgl-without-a-gpu",
+      "hnUrl": "https://news.ycombinator.com/item?id=48720179",
       "score": 5,
+      "comments": 2
+    },
+    {
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48716902",
+      "score": 606,
+      "comments": 88
+    },
+    {
+      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+      "hnUrl": "https://news.ycombinator.com/item?id=48718102",
+      "score": 110,
+      "comments": 40
+    },
+    {
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48708644",
+      "score": 128,
+      "comments": 19
+    },
+    {
+      "title": "DocumentDB – a MongoDB compatible open-source database",
+      "url": "https://documentdb.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48719483",
+      "score": 3,
       "comments": 0
     },
     {
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-      "hnUrl": "https://news.ycombinator.com/item?id=48702848",
-      "score": 95,
-      "comments": 9
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=48714529",
+      "score": 785,
+      "comments": 476
     },
     {
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48699928",
-      "score": 263,
-      "comments": 114
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "hnUrl": "https://news.ycombinator.com/item?id=48714802",
+      "score": 111,
+      "comments": 73
     },
     {
-      "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-      "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48689407",
-      "score": 13,
-      "comments": 0
+      "title": "Data breach exposes up to 14.2M email logins at six ISPs",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48719712",
+      "score": 19,
+      "comments": 1
     },
     {
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "hnUrl": "https://news.ycombinator.com/item?id=48660021",
-      "score": 247,
-      "comments": 160
+      "title": "We found a bug in the hyper HTTP library",
+      "url": "https://blog.cloudflare.com/hyper-bug/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48670314",
+      "score": 132,
+      "comments": 60
     },
     {
-      "title": "The case for physical media ownership",
-      "url": "https://dervis.de/physical/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48697335",
-      "score": 457,
-      "comments": 312
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48710092",
+      "score": 369,
+      "comments": 139
     },
     {
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-      "score": 755,
-      "comments": 141
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48709670",
+      "score": 1017,
+      "comments": 468
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "hnUrl": "https://news.ycombinator.com/item?id=48708941",
+      "score": 520,
+      "comments": 647
     }
   ]
 }
