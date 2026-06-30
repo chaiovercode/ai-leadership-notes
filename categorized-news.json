@@ -1,29 +1,29 @@
 {
-  "updated": "2026-06-29T05:48:14.167Z",
+  "updated": "2026-06-30T05:01:26.528Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+          "date": "2026-06-30T02:28:41.000Z",
+          "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+          "date": "2026-06-29T14:00:08.000Z",
+          "description": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Asian AI startups launch Mythos-like  models as Anthropics export ban drags on",
           "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
           "date": "2026-06-27T12:00:00.000Z",
           "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Its not about Anthropic vs. OpenAI anymore",
-          "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-          "date": "2026-06-26T16:24:47.000Z",
-          "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-          "date": "2026-06-25T23:34:39.000Z",
-          "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
           "source": "TechCrunch"
         }
       ]
@@ -32,6 +32,41 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "The AI jobs debate just got messier",
+          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "date": "2026-06-30T04:01:00.000Z",
+          "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Geminis personalized AI image generation is now free for US users",
+          "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+          "date": "2026-06-29T20:12:59.000Z",
+          "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+          "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "date": "2026-06-29T18:10:26.000Z",
+          "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "South Korean tech giants commit over $550B to ease RAMageddon",
+          "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+          "date": "2026-06-29T18:07:48.000Z",
+          "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TIDAL cracks down on AI music by cutting off monetization",
+          "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+          "date": "2026-06-29T16:29:04.000Z",
+          "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
           "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
@@ -64,42 +99,7 @@
           "title": "The fittest founder in the room got cancer. Heres how he used AI to fight back.",
           "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
           "date": "2026-06-27T14:00:00.000Z",
-          "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Asian AI startups launch Mythos-like  models as Anthropics export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-          "date": "2026-06-27T12:00:00.000Z",
-          "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-          "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-          "date": "2026-06-27T01:01:37.000Z",
-          "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-          "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-          "date": "2026-06-26T18:32:14.000Z",
-          "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-          "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-          "date": "2026-06-26T18:19:36.000Z",
-          "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-          "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-          "date": "2026-06-26T17:43:22.000Z",
-          "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up withJalapeño, its custom inference chip built with B...",
+          "description": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
           "source": "TechCrunch"
         }
       ]
@@ -109,17 +109,10 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-          "date": "2026-06-25T20:19:25.000Z",
-          "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "General Intuitions $2.3B bet that video games can train AI agents for the real world",
-          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-          "date": "2026-06-25T16:55:00.000Z",
-          "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+          "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+          "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+          "date": "2026-06-29T17:03:50.000Z",
+          "description": "Cursor has launched a new mobile app for remote oversight over coding agents.",
           "source": "TechCrunch"
         }
       ]
@@ -128,6 +121,27 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+          "date": "2026-06-30T02:28:41.000Z",
+          "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+          "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+          "date": "2026-06-29T17:39:17.000Z",
+          "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+          "date": "2026-06-29T14:00:08.000Z",
+          "description": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Asian AI startups launch Mythos-like  models as Anthropics export ban drags on",
           "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -141,13 +155,6 @@
           "date": "2026-06-26T18:32:14.000Z",
           "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-          "date": "2026-06-25T20:19:25.000Z",
-          "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -156,24 +163,17 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "Its not about Anthropic vs. OpenAI anymore",
-          "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-          "date": "2026-06-26T16:24:47.000Z",
-          "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-          "source": "TechCrunch"
+          "title": "Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+          "date": "2026-06-29T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\"&gt;A Google expert explains what it means to take a full-stack approach to AI and ...",
+          "source": "Google AI Blog"
         },
         {
-          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-          "date": "2026-06-25T23:34:39.000Z",
-          "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "General Intuitions $2.3B bet that video games can train AI agents for the real world",
-          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-          "date": "2026-06-25T16:55:00.000Z",
-          "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+          "title": "Omen AIs plan to optimize data centers is all wet",
+          "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+          "date": "2026-06-29T13:00:00.000Z",
+          "description": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
           "source": "TechCrunch"
         }
       ]
