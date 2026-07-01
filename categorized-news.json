@@ -1,29 +1,36 @@
 {
-  "updated": "2026-06-30T05:01:26.528Z",
+  "updated": "2026-07-01T05:19:53.267Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "title": "Trump drops restrictions on Anthropics Mythos and Fable models",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "date": "2026-07-01T02:16:06.000Z",
+          "description": "Anthropic said it would begin restoring access to the Fable on July 1.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "date": "2026-06-30T18:00:00.000Z",
+          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "date": "2026-06-30T17:00:00.000Z",
+          "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
           "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
           "date": "2026-06-30T02:28:41.000Z",
-          "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-          "date": "2026-06-29T14:00:08.000Z",
-          "description": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Asian AI startups launch Mythos-like  models as Anthropics export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-          "date": "2026-06-27T12:00:00.000Z",
-          "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+          "description": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
           "source": "TechCrunch"
         }
       ]
@@ -33,73 +40,73 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "The Father of the Internet is finally retiring",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "date": "2026-07-01T03:15:37.000Z",
+          "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trump drops restrictions on Anthropics Mythos and Fable models",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "date": "2026-07-01T02:16:06.000Z",
+          "description": "Anthropic said it would begin restoring access to the Fable on July 1.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+          "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "date": "2026-06-30T20:33:48.000Z",
+          "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+          "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+          "date": "2026-06-30T19:02:38.000Z",
+          "description": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "date": "2026-06-30T18:00:00.000Z",
+          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "date": "2026-06-30T17:00:00.000Z",
+          "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Podcasting platform Riverside enters the newsletter publishing game",
+          "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+          "date": "2026-06-30T15:00:00.000Z",
+          "description": "Users will be able use AI to create newsletters based on their recordings.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "date": "2026-06-30T15:00:00.000Z",
+          "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "date": "2026-06-30T06:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
+          "source": "Google AI Blog"
+        },
+        {
           "title": "The AI jobs debate just got messier",
           "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
           "date": "2026-06-30T04:01:00.000Z",
           "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Geminis personalized AI image generation is now free for US users",
-          "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-          "date": "2026-06-29T20:12:59.000Z",
-          "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-          "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-          "date": "2026-06-29T18:10:26.000Z",
-          "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "South Korean tech giants commit over $550B to ease RAMageddon",
-          "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-          "date": "2026-06-29T18:07:48.000Z",
-          "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TIDAL cracks down on AI music by cutting off monetization",
-          "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-          "date": "2026-06-29T16:29:04.000Z",
-          "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-          "date": "2026-06-28T19:05:39.000Z",
-          "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-          "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-          "date": "2026-06-28T15:00:00.000Z",
-          "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musks orbital data center hype",
-          "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-          "date": "2026-06-27T20:42:36.000Z",
-          "description": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-          "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-          "date": "2026-06-27T16:45:09.000Z",
-          "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The fittest founder in the room got cancer. Heres how he used AI to fight back.",
-          "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-          "date": "2026-06-27T14:00:00.000Z",
-          "description": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
           "source": "TechCrunch"
         }
       ]
@@ -109,10 +116,52 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-          "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-          "date": "2026-06-29T17:03:50.000Z",
-          "description": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+          "title": "OpenClaw is finally available on Android and iOS",
+          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "date": "2026-06-30T21:53:28.000Z",
+          "description": "The free open source agentic program is finally invading your phone.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "date": "2026-06-30T18:00:00.000Z",
+          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Acti puts AI agents directly into your smartphone keyboard",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+          "date": "2026-06-30T17:52:46.000Z",
+          "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "date": "2026-06-30T17:00:00.000Z",
+          "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+          "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+          "date": "2026-06-30T15:08:42.000Z",
+          "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "date": "2026-06-30T15:00:00.000Z",
+          "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+          "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+          "date": "2026-06-30T09:00:00.000Z",
+          "description": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
           "source": "TechCrunch"
         }
       ]
@@ -122,38 +171,45 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "date": "2026-07-01T02:04:40.000Z",
+          "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "date": "2026-06-30T18:13:02.000Z",
+          "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Acti puts AI agents directly into your smartphone keyboard",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+          "date": "2026-06-30T17:52:46.000Z",
+          "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "date": "2026-06-30T15:00:00.000Z",
+          "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "date": "2026-06-30T06:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
           "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
           "date": "2026-06-30T02:28:41.000Z",
-          "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-          "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-          "date": "2026-06-29T17:39:17.000Z",
-          "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-          "date": "2026-06-29T14:00:08.000Z",
-          "description": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Asian AI startups launch Mythos-like  models as Anthropics export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-          "date": "2026-06-27T12:00:00.000Z",
-          "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-          "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-          "date": "2026-06-26T18:32:14.000Z",
-          "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa...",
+          "description": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
           "source": "TechCrunch"
         }
       ]
@@ -163,18 +219,60 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "date": "2026-07-01T02:04:40.000Z",
+          "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenClaw is finally available on Android and iOS",
+          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "date": "2026-06-30T21:53:28.000Z",
+          "description": "The free open source agentic program is finally invading your phone.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "date": "2026-06-30T18:13:02.000Z",
+          "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "date": "2026-06-30T18:00:00.000Z",
+          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Acti puts AI agents directly into your smartphone keyboard",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+          "date": "2026-06-30T17:52:46.000Z",
+          "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Lumo, Protons privacy-focused AI chatbot, gets an upgrade",
+          "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+          "date": "2026-06-30T14:00:00.000Z",
+          "description": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "date": "2026-06-30T06:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
+          "source": "Google AI Blog"
+        },
+        {
           "title": "Ask an AI expert: What exactly is the full stack?",
           "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
           "date": "2026-06-29T16:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\"&gt;A Google expert explains what it means to take a full-stack approach to AI and ...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Omen AIs plan to optimize data centers is all wet",
-          "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-          "date": "2026-06-29T13:00:00.000Z",
-          "description": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-          "source": "TechCrunch"
         }
       ]
     }
