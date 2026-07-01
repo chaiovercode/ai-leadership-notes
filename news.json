@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-30T13:52:15.304Z",
+  "updated": "2026-07-01T14:04:27.620Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "The US ambassador had Belgian police stop our reporting",
-      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-      "hnUrl": "https://news.ycombinator.com/item?id=48730608",
-      "score": 337,
-      "comments": 128
+      "title": "Why I Stopped Arguing with People",
+      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48746445",
+      "score": 105,
+      "comments": 71
     },
     {
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48730729",
-      "score": 402,
-      "comments": 172
+      "title": "Asahi Linux 7.1 Progress Report",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48744518",
+      "score": 323,
+      "comments": 84
     },
     {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48704289",
-      "score": 142,
-      "comments": 37
+      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "hnUrl": "https://news.ycombinator.com/item?id=48744232",
+      "score": 224,
+      "comments": 123
     },
     {
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48683098",
-      "score": 404,
-      "comments": 87
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "url": "https://news.ycombinator.com/item?id=48746752",
+      "hnUrl": "https://news.ycombinator.com/item?id=48746752",
+      "score": 7,
+      "comments": 1
     },
     {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48721903",
-      "score": 1010,
-      "comments": 657
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "hnUrl": "https://news.ycombinator.com/item?id=48734373",
+      "score": 2254,
+      "comments": 661
     },
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48724230",
-      "score": 568,
-      "comments": 334
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48745113",
+      "score": 160,
+      "comments": 49
     },
     {
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48698908",
-      "score": 548,
-      "comments": 189
+      "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+      "url": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
+      "hnUrl": "https://news.ycombinator.com/item?id=48746331",
+      "score": 1,
+      "comments": 0
     },
     {
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "hnUrl": "https://news.ycombinator.com/item?id=48727177",
-      "score": 161,
-      "comments": 25
-    },
-    {
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48727116",
-      "score": 199,
-      "comments": 52
-    },
-    {
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "hnUrl": "https://news.ycombinator.com/item?id=48719485",
-      "score": 431,
-      "comments": 285
-    },
-    {
-      "title": "Linux for the Sega MegaDrive",
-      "url": "https://github.com/LinuxMD/linuxmd",
-      "hnUrl": "https://news.ycombinator.com/item?id=48720186",
-      "score": 161,
-      "comments": 32
-    },
-    {
-      "title": "One million passports leaked online",
-      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-      "hnUrl": "https://news.ycombinator.com/item?id=48706389",
-      "score": 344,
-      "comments": 207
-    },
-    {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "hnUrl": "https://news.ycombinator.com/item?id=48722052",
-      "score": 229,
-      "comments": 44
-    },
-    {
-      "title": "How to corrupt an SQLite database file",
-      "url": "https://www.sqlite.org/howtocorrupt.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48689885",
-      "score": 119,
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48711052",
+      "score": 151,
       "comments": 28
     },
     {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "hnUrl": "https://news.ycombinator.com/item?id=48720924",
-      "score": 558,
-      "comments": 258
+      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
+      "url": "https://cleberg.net/blog/internet.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48744655",
+      "score": 151,
+      "comments": 127
+    },
+    {
+      "title": "Obfuscation: Building the final boss of cryptography (Part I)",
+      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48721434",
+      "score": 38,
+      "comments": 1
+    },
+    {
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "hnUrl": "https://news.ycombinator.com/item?id=48736605",
+      "score": 1180,
+      "comments": 723
+    },
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48743472",
+      "score": 390,
+      "comments": 249
+    },
+    {
+      "title": "ArXiv's Next Chapter",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48741748",
+      "score": 187,
+      "comments": 55
+    },
+    {
+      "title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
+      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48745061",
+      "score": 80,
+      "comments": 44
+    },
+    {
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "hnUrl": "https://news.ycombinator.com/item?id=48740698",
+      "score": 254,
+      "comments": 49
     }
   ]
 }
