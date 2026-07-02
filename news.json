@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-01T14:04:27.620Z",
+  "updated": "2026-07-02T13:26:24.116Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Why I Stopped Arguing with People",
-      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48746445",
-      "score": 105,
-      "comments": 71
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48760289",
+      "score": 170,
+      "comments": 83
     },
     {
-      "title": "Asahi Linux 7.1 Progress Report",
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48744518",
-      "score": 323,
-      "comments": 84
+      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48755965",
+      "score": 952,
+      "comments": 393
     },
     {
-      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
-      "hnUrl": "https://news.ycombinator.com/item?id=48744232",
-      "score": 224,
-      "comments": 123
-    },
-    {
-      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
-      "url": "https://news.ycombinator.com/item?id=48746752",
-      "hnUrl": "https://news.ycombinator.com/item?id=48746752",
-      "score": 7,
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48760598",
+      "score": 23,
       "comments": 1
     },
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "hnUrl": "https://news.ycombinator.com/item?id=48734373",
-      "score": 2254,
-      "comments": 661
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48756602",
+      "score": 242,
+      "comments": 103
     },
     {
-      "title": "Nintendo has raised its employees base salary by 10%",
-      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48745113",
-      "score": 160,
-      "comments": 49
-    },
-    {
-      "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
-      "url": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
-      "hnUrl": "https://news.ycombinator.com/item?id=48746331",
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "title": "Newly discovered spider builds spring loaded snare to catch ants",
-      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48711052",
-      "score": 151,
-      "comments": 28
-    },
-    {
-      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
-      "url": "https://cleberg.net/blog/internet.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48744655",
-      "score": 151,
-      "comments": 127
-    },
-    {
-      "title": "Obfuscation: Building the final boss of cryptography (Part I)",
-      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48721434",
-      "score": 38,
-      "comments": 1
-    },
-    {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "hnUrl": "https://news.ycombinator.com/item?id=48736605",
-      "score": 1180,
-      "comments": 723
-    },
-    {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48743472",
-      "score": 390,
-      "comments": 249
-    },
-    {
-      "title": "ArXiv's Next Chapter",
-      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48741748",
-      "score": 187,
-      "comments": 55
-    },
-    {
-      "title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
-      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48745061",
-      "score": 80,
+      "title": "The Fall of the Theorem Economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "hnUrl": "https://news.ycombinator.com/item?id=48758048",
+      "score": 118,
       "comments": 44
     },
     {
-      "title": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
-      "hnUrl": "https://news.ycombinator.com/item?id=48740698",
-      "score": 254,
-      "comments": 49
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "hnUrl": "https://news.ycombinator.com/item?id=48760201",
+      "score": 12,
+      "comments": 2
+    },
+    {
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "hnUrl": "https://news.ycombinator.com/item?id=48753715",
+      "score": 448,
+      "comments": 305
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48755005",
+      "score": 368,
+      "comments": 70
+    },
+    {
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "url": "https://github.com/emson/claudoro",
+      "hnUrl": "https://news.ycombinator.com/item?id=48745590",
+      "score": 4,
+      "comments": 1
+    },
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "hnUrl": "https://news.ycombinator.com/item?id=48758970",
+      "score": 124,
+      "comments": 68
+    },
+    {
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48755731",
+      "score": 376,
+      "comments": 236
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48750710",
+      "score": 382,
+      "comments": 205
+    },
+    {
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48747116",
+      "score": 408,
+      "comments": 129
+    },
+    {
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48758309",
+      "score": 177,
+      "comments": 153
+    },
+    {
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48753979",
+      "score": 196,
+      "comments": 206
     }
   ]
 }
