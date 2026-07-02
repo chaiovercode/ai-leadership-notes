@@ -1,15 +1,29 @@
 {
-  "updated": "2026-07-01T05:19:53.267Z",
+  "updated": "2026-07-02T04:56:05.772Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Cloudflares new policy pushes AI companies to pay for publishers content",
+          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "date": "2026-07-01T17:48:37.000Z",
+          "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "date": "2026-07-01T13:43:07.000Z",
+          "description": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Trump drops restrictions on Anthropics Mythos and Fable models",
           "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
           "date": "2026-07-01T02:16:06.000Z",
-          "description": "Anthropic said it would begin restoring access to the Fable on July 1.",
+          "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
           "source": "TechCrunch"
         },
         {
@@ -25,13 +39,6 @@
           "date": "2026-06-30T17:00:00.000Z",
           "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-          "date": "2026-06-30T02:28:41.000Z",
-          "description": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -39,6 +46,41 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "date": "2026-07-01T18:54:18.000Z",
+          "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+          "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+          "date": "2026-07-01T18:47:22.000Z",
+          "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure a...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The latest AI news we announced in June 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+          "date": "2026-07-01T18:15:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from June 2026.",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+          "date": "2026-07-01T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\"&gt;Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summi...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Gemini Spark, Googles agentic assistant, is now available on Mac",
+          "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "date": "2026-07-01T14:20:19.000Z",
+          "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The Father of the Internet is finally retiring",
           "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
@@ -50,7 +92,7 @@
           "title": "Trump drops restrictions on Anthropics Mythos and Fable models",
           "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
           "date": "2026-07-01T02:16:06.000Z",
-          "description": "Anthropic said it would begin restoring access to the Fable on July 1.",
+          "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
           "source": "TechCrunch"
         },
         {
@@ -73,41 +115,6 @@
           "date": "2026-06-30T18:00:00.000Z",
           "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-          "date": "2026-06-30T17:00:00.000Z",
-          "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Podcasting platform Riverside enters the newsletter publishing game",
-          "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-          "date": "2026-06-30T15:00:00.000Z",
-          "description": "Users will be able use AI to create newsletters based on their recordings.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-          "date": "2026-06-30T15:00:00.000Z",
-          "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-          "date": "2026-06-30T06:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "The AI jobs debate just got messier",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-          "date": "2026-06-30T04:01:00.000Z",
-          "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -115,6 +122,20 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Cloudflares new policy pushes AI companies to pay for publishers content",
+          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "date": "2026-07-01T17:48:37.000Z",
+          "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Gemini Spark, Googles agentic assistant, is now available on Mac",
+          "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "date": "2026-07-01T14:20:19.000Z",
+          "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenClaw is finally available on Android and iOS",
           "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
@@ -156,13 +177,6 @@
           "date": "2026-06-30T15:00:00.000Z",
           "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-          "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-          "date": "2026-06-30T09:00:00.000Z",
-          "description": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -170,6 +184,27 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+          "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+          "date": "2026-07-01T14:25:23.000Z",
+          "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+          "date": "2026-07-01T14:00:00.000Z",
+          "description": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and QA on what it takes to build and scale...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "date": "2026-07-01T13:43:07.000Z",
+          "description": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
           "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
@@ -204,13 +239,6 @@
           "date": "2026-06-30T06:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-          "date": "2026-06-30T02:28:41.000Z",
-          "description": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -218,6 +246,34 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Cloudflares new policy pushes AI companies to pay for publishers content",
+          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "date": "2026-07-01T17:48:37.000Z",
+          "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+          "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+          "date": "2026-07-01T14:25:23.000Z",
+          "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+          "date": "2026-07-01T14:00:00.000Z",
+          "description": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and QA on what it takes to build and scale...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trump drops restrictions on Anthropics Mythos and Fable models",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "date": "2026-07-01T02:16:06.000Z",
+          "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
           "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
@@ -254,24 +310,10 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Lumo, Protons privacy-focused AI chatbot, gets an upgrade",
-          "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-          "date": "2026-06-30T14:00:00.000Z",
-          "description": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
           "date": "2026-06-30T06:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-          "date": "2026-06-29T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\"&gt;A Google expert explains what it means to take a full-stack approach to AI and ...",
           "source": "Google AI Blog"
         }
       ]
