@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T04:56:05.772Z",
+  "updated": "2026-07-03T04:40:02.333Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -25,20 +25,6 @@
           "date": "2026-07-01T02:16:06.000Z",
           "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-          "date": "2026-06-30T18:00:00.000Z",
-          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-          "date": "2026-06-30T17:00:00.000Z",
-          "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -46,6 +32,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Jersey Mikes IPO illustrates how bad the AI hype has become",
+          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "date": "2026-07-02T20:11:59.000Z",
+          "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "date": "2026-07-02T18:44:02.000Z",
+          "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic is discussing a new custom chip with Samsung",
+          "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "date": "2026-07-02T18:31:09.000Z",
+          "description": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+          "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "date": "2026-07-02T15:20:51.000Z",
+          "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "date": "2026-07-02T13:53:00.000Z",
+          "description": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Yep, were using OpenClaw to date now",
+          "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+          "date": "2026-07-02T12:00:00.000Z",
+          "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+          "source": "TechCrunch"
+        },
         {
           "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
           "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
@@ -73,48 +101,6 @@
           "date": "2026-07-01T16:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\"&gt;Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summi...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Gemini Spark, Googles agentic assistant, is now available on Mac",
-          "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-          "date": "2026-07-01T14:20:19.000Z",
-          "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The Father of the Internet is finally retiring",
-          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-          "date": "2026-07-01T03:15:37.000Z",
-          "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Trump drops restrictions on Anthropics Mythos and Fable models",
-          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-          "date": "2026-07-01T02:16:06.000Z",
-          "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-          "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-          "date": "2026-06-30T20:33:48.000Z",
-          "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-          "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-          "date": "2026-06-30T19:02:38.000Z",
-          "description": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-          "date": "2026-06-30T18:00:00.000Z",
-          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -122,6 +108,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Mark Zuckerberg tells staff that AI agents havent progressed as quickly as hed hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "date": "2026-07-02T23:38:10.000Z",
+          "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Cloudflares new policy pushes AI companies to pay for publishers content",
           "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
@@ -142,41 +135,6 @@
           "date": "2026-06-30T21:53:28.000Z",
           "description": "The free open source agentic program is finally invading your phone.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-          "date": "2026-06-30T18:00:00.000Z",
-          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Acti puts AI agents directly into your smartphone keyboard",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-          "date": "2026-06-30T17:52:46.000Z",
-          "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-          "date": "2026-06-30T17:00:00.000Z",
-          "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-          "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-          "date": "2026-06-30T15:08:42.000Z",
-          "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-          "date": "2026-06-30T15:00:00.000Z",
-          "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -184,6 +142,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "date": "2026-07-02T05:30:00.000Z",
+          "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
           "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -213,27 +178,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-          "date": "2026-06-30T18:13:02.000Z",
-          "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Acti puts AI agents directly into your smartphone keyboard",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-          "date": "2026-06-30T17:52:46.000Z",
-          "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-          "date": "2026-06-30T15:00:00.000Z",
-          "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
           "date": "2026-06-30T06:00:00.000Z",
@@ -246,6 +190,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "date": "2026-07-02T18:44:02.000Z",
+          "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Yep, were using OpenClaw to date now",
+          "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+          "date": "2026-07-02T12:00:00.000Z",
+          "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Cloudflares new policy pushes AI companies to pay for publishers content",
           "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
@@ -289,31 +247,17 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-          "date": "2026-06-30T18:13:02.000Z",
-          "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-          "date": "2026-06-30T18:00:00.000Z",
-          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Acti puts AI agents directly into your smartphone keyboard",
-          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-          "date": "2026-06-30T17:52:46.000Z",
-          "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat...",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
           "date": "2026-06-30T06:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+          "date": "2026-06-29T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\"&gt;A Google expert explains what it means to take a full-stack approach to AI and ...",
           "source": "Google AI Blog"
         }
       ]
