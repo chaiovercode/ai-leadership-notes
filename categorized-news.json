@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:40:02.333Z",
+  "updated": "2026-07-04T04:33:23.667Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -32,6 +32,20 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "The only AI glossary youll need this year",
+          "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "date": "2026-07-03T21:20:00.000Z",
+          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The browser wars arent about search anymore — here are the best alternatives to Chrome and Safari",
+          "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "date": "2026-07-03T18:43:00.000Z",
+          "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Jersey Mikes IPO illustrates how bad the AI hype has become",
           "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
@@ -87,20 +101,6 @@
           "date": "2026-07-01T18:47:22.000Z",
           "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure a...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "The latest AI news we announced in June 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-          "date": "2026-07-01T18:15:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from June 2026.",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-          "date": "2026-07-01T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\"&gt;Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summi...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -127,13 +127,6 @@
           "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
           "date": "2026-07-01T14:20:19.000Z",
           "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenClaw is finally available on Android and iOS",
-          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-          "date": "2026-06-30T21:53:28.000Z",
-          "description": "The free open source agentic program is finally invading your phone.",
           "source": "TechCrunch"
         }
       ]
@@ -237,13 +230,6 @@
           "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
           "date": "2026-07-01T02:04:40.000Z",
           "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenClaw is finally available on Android and iOS",
-          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-          "date": "2026-06-30T21:53:28.000Z",
-          "description": "The free open source agentic program is finally invading your phone.",
           "source": "TechCrunch"
         },
         {
