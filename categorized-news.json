@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T04:55:06.244Z",
+  "updated": "2026-07-06T05:08:38.183Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -129,6 +129,13 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Amazon will stop accepting new customers for Mechanical Turk",
+          "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "date": "2026-07-05T17:43:36.000Z",
+          "description": "These may be the last days of Amazon’s Mechanical Turk.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
           "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
           "date": "2026-07-04T15:51:32.000Z",
@@ -147,13 +154,6 @@
           "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
           "date": "2026-07-01T14:25:23.000Z",
           "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-          "date": "2026-07-01T14:00:00.000Z",
-          "description": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and QA on what it takes to build and scale...",
           "source": "TechCrunch"
         },
         {
@@ -202,13 +202,6 @@
           "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
           "date": "2026-07-01T14:25:23.000Z",
           "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-          "date": "2026-07-01T14:00:00.000Z",
-          "description": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and QA on what it takes to build and scale...",
           "source": "TechCrunch"
         },
         {
