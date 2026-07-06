@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-05T13:04:27.310Z",
+  "updated": "2026-07-06T14:54:38.422Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "hnUrl": "https://news.ycombinator.com/item?id=48791328",
-      "score": 180,
-      "comments": 69
+      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48803751",
+      "score": 188,
+      "comments": 100
     },
     {
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48790689",
-      "score": 316,
-      "comments": 160
+      "title": "Workers Cache",
+      "url": "https://blog.cloudflare.com/workers-cache/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48804014",
+      "score": 138,
+      "comments": 46
     },
     {
-      "title": "Claude Design System Prompt",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "hnUrl": "https://news.ycombinator.com/item?id=48792399",
-      "score": 52,
-      "comments": 12
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "hnUrl": "https://news.ycombinator.com/item?id=48802535",
+      "score": 270,
+      "comments": 107
     },
     {
-      "title": "Fast Software, the Best Software (2019)",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48792008",
-      "score": 58,
-      "comments": 27
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "hnUrl": "https://news.ycombinator.com/item?id=48803364",
+      "score": 143,
+      "comments": 66
     },
     {
-      "title": "Functional Programming in hica",
-      "url": "https://www.hica.dev/docs/functional-programming/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48759579",
-      "score": 16,
-      "comments": 4
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48804193",
+      "score": 86,
+      "comments": 39
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "hnUrl": "https://news.ycombinator.com/item?id=48789428",
-      "score": 316,
-      "comments": 120
+      "title": "Show HN: Scan your AI agents for dangerous capabilities",
+      "url": "https://github.com/makerchecker/MakerChecker",
+      "hnUrl": "https://news.ycombinator.com/item?id=48804182",
+      "score": 20,
+      "comments": 10
     },
     {
-      "title": "Trust your compiler: Modern C++",
-      "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48746933",
-      "score": 12,
-      "comments": 3
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "hnUrl": "https://news.ycombinator.com/item?id=48799614",
+      "score": 365,
+      "comments": 318
     },
     {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "hnUrl": "https://news.ycombinator.com/item?id=48789712",
-      "score": 154,
-      "comments": 33
+      "title": "Introduction to Genomics for Engineers",
+      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48760424",
+      "score": 124,
+      "comments": 17
     },
     {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "hnUrl": "https://news.ycombinator.com/item?id=48788283",
-      "score": 599,
-      "comments": 256
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "hnUrl": "https://news.ycombinator.com/item?id=48799929",
+      "score": 248,
+      "comments": 150
     },
     {
-      "title": "Meta's Un-Stable Signature",
-      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48750405",
-      "score": 107,
-      "comments": 15
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48799155",
+      "score": 397,
+      "comments": 102
     },
     {
-      "title": "The Log is the Agent",
-      "url": "https://arxiv.org/abs/2605.21997",
-      "hnUrl": "https://news.ycombinator.com/item?id=48790912",
-      "score": 59,
-      "comments": 18
+      "title": "C programmers commit fresh crimes against readability",
+      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+      "hnUrl": "https://news.ycombinator.com/item?id=48803347",
+      "score": 83,
+      "comments": 8
     },
     {
-      "title": "What ORMs have taught me: just learn SQL (2014)",
-      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48742175",
-      "score": 223,
-      "comments": 249
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48797916",
+      "score": 1032,
+      "comments": 253
     },
     {
-      "title": "“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48787042",
-      "score": 157,
-      "comments": 259
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "hnUrl": "https://news.ycombinator.com/item?id=48798815",
+      "score": 172,
+      "comments": 84
     },
     {
-      "title": "Dark mode with web standards",
-      "url": "https://olliewilliams.xyz/blog/dark-mode/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48791973",
-      "score": 14,
-      "comments": 3
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48767058",
+      "score": 307,
+      "comments": 550
     },
     {
-      "title": "Reducing Assumptions, Exploding Your Code",
-      "url": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48791990",
-      "score": 16,
-      "comments": 5
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "hnUrl": "https://news.ycombinator.com/item?id=48798153",
+      "score": 208,
+      "comments": 52
     }
   ]
 }
