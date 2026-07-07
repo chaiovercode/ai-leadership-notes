@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-06T14:54:38.422Z",
+  "updated": "2026-07-07T14:03:19.839Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
-      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48803751",
-      "score": 188,
-      "comments": 100
+      "title": "Europe's company websites are mostly served by US vendors",
+      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=48816612",
+      "score": 97,
+      "comments": 78
     },
     {
-      "title": "Workers Cache",
-      "url": "https://blog.cloudflare.com/workers-cache/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48804014",
-      "score": 138,
-      "comments": 46
+      "title": "98% Isn't Much",
+      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48816959",
+      "score": 144,
+      "comments": 122
     },
     {
-      "title": "Real-time map of Great Britain's rail network",
-      "url": "https://www.map.signalbox.io",
-      "hnUrl": "https://news.ycombinator.com/item?id=48802535",
-      "score": 270,
-      "comments": 107
+      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+      "hnUrl": "https://news.ycombinator.com/item?id=48816003",
+      "score": 151,
+      "comments": 115
     },
     {
-      "title": "Road to Elm 1.0",
-      "url": "https://elm-lang.org/news/faster-builds",
-      "hnUrl": "https://news.ycombinator.com/item?id=48803364",
-      "score": 143,
-      "comments": 66
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "hnUrl": "https://news.ycombinator.com/item?id=48808482",
+      "score": 720,
+      "comments": 277
     },
     {
-      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
-      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48804193",
-      "score": 86,
-      "comments": 39
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48808928",
+      "score": 666,
+      "comments": 163
     },
     {
-      "title": "Show HN: Scan your AI agents for dangerous capabilities",
-      "url": "https://github.com/makerchecker/MakerChecker",
-      "hnUrl": "https://news.ycombinator.com/item?id=48804182",
-      "score": 20,
-      "comments": 10
+      "title": "C++ Details of Asymmetric Fences",
+      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48777488",
+      "score": 5,
+      "comments": 0
     },
     {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "hnUrl": "https://news.ycombinator.com/item?id=48799614",
-      "score": 365,
-      "comments": 318
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48809877",
+      "score": 566,
+      "comments": 347
     },
     {
-      "title": "Introduction to Genomics for Engineers",
-      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48760424",
-      "score": 124,
-      "comments": 17
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "hnUrl": "https://news.ycombinator.com/item?id=48812156",
+      "score": 302,
+      "comments": 110
     },
     {
-      "title": "Building relationships with customers through support didn't turn out as hoped",
-      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-      "hnUrl": "https://news.ycombinator.com/item?id=48799929",
-      "score": 248,
-      "comments": 150
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "hnUrl": "https://news.ycombinator.com/item?id=48812055",
+      "score": 198,
+      "comments": 67
     },
     {
-      "title": "Has_not_been_viewed_much",
-      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48799155",
-      "score": 397,
-      "comments": 102
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "hnUrl": "https://news.ycombinator.com/item?id=48815196",
+      "score": 190,
+      "comments": 88
     },
     {
-      "title": "C programmers commit fresh crimes against readability",
-      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-      "hnUrl": "https://news.ycombinator.com/item?id=48803347",
-      "score": 83,
-      "comments": 8
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "hnUrl": "https://news.ycombinator.com/item?id=48811591",
+      "score": 552,
+      "comments": 342
     },
     {
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48797916",
-      "score": 1032,
-      "comments": 253
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48813929",
+      "score": 87,
+      "comments": 28
     },
     {
-      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-      "url": "https://arxiv.org/abs/2605.20049",
-      "hnUrl": "https://news.ycombinator.com/item?id=48798815",
-      "score": 172,
-      "comments": 84
+      "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
+      "url": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48817191",
+      "score": 58,
+      "comments": 45
     },
     {
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48767058",
-      "score": 307,
-      "comments": 550
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48811644",
+      "score": 278,
+      "comments": 60
     },
     {
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
-      "hnUrl": "https://news.ycombinator.com/item?id=48798153",
-      "score": 208,
-      "comments": 52
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "hnUrl": "https://news.ycombinator.com/item?id=48808002",
+      "score": 413,
+      "comments": 158
     }
   ]
 }
