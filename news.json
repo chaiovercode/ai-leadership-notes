@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-07T14:03:19.839Z",
+  "updated": "2026-07-08T13:27:18.880Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Europe's company websites are mostly served by US vendors",
-      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
-      "hnUrl": "https://news.ycombinator.com/item?id=48816612",
-      "score": 97,
-      "comments": 78
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48829312",
+      "score": 588,
+      "comments": 116
     },
     {
-      "title": "98% Isn't Much",
-      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48816959",
-      "score": 144,
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48830565",
+      "score": 90,
+      "comments": 39
+    },
+    {
+      "title": "Tiny data centre used to heat public swimming pool",
+      "url": "https://www.bbc.com/news/technology-64939558",
+      "hnUrl": "https://news.ycombinator.com/item?id=48831499",
+      "score": 10,
+      "comments": 5
+    },
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48827858",
+      "score": 311,
       "comments": 122
     },
     {
-      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
-      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
-      "hnUrl": "https://news.ycombinator.com/item?id=48816003",
-      "score": 151,
-      "comments": 115
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48827325",
+      "score": 242,
+      "comments": 165
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "hnUrl": "https://news.ycombinator.com/item?id=48808482",
-      "score": 720,
-      "comments": 277
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "hnUrl": "https://news.ycombinator.com/item?id=48780387",
+      "score": 134,
+      "comments": 35
     },
     {
-      "title": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48808928",
-      "score": 666,
-      "comments": 163
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "hnUrl": "https://news.ycombinator.com/item?id=48829242",
+      "score": 55,
+      "comments": 7
     },
     {
-      "title": "C++ Details of Asymmetric Fences",
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48777488",
-      "score": 5,
-      "comments": 0
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "hnUrl": "https://news.ycombinator.com/item?id=48825749",
+      "score": 265,
+      "comments": 89
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48809877",
-      "score": 566,
-      "comments": 347
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "url": "https://www.digipres.org/the-floppy-guide/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48827092",
+      "score": 116,
+      "comments": 33
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "hnUrl": "https://news.ycombinator.com/item?id=48812156",
-      "score": 302,
-      "comments": 110
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "hnUrl": "https://news.ycombinator.com/item?id=48818311",
+      "score": 744,
+      "comments": 301
     },
     {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "hnUrl": "https://news.ycombinator.com/item?id=48812055",
-      "score": 198,
-      "comments": 67
-    },
-    {
-      "title": "Microsoft Can Track Users via a Windows Device ID",
-      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-      "hnUrl": "https://news.ycombinator.com/item?id=48815196",
-      "score": 190,
-      "comments": 88
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "hnUrl": "https://news.ycombinator.com/item?id=48811591",
-      "score": 552,
-      "comments": 342
-    },
-    {
-      "title": "The Art of Computer Programming by Donald E. Knuth",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48813929",
-      "score": 87,
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48825664",
+      "score": 210,
       "comments": 28
     },
     {
-      "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
-      "url": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48817191",
-      "score": 58,
-      "comments": 45
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "hnUrl": "https://news.ycombinator.com/item?id=48824826",
+      "score": 228,
+      "comments": 105
     },
     {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48811644",
-      "score": 278,
-      "comments": 60
+      "title": "Canada's only watchmaking school still ticking after 80 years",
+      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+      "hnUrl": "https://news.ycombinator.com/item?id=48786789",
+      "score": 173,
+      "comments": 89
     },
     {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "hnUrl": "https://news.ycombinator.com/item?id=48808002",
-      "score": 413,
-      "comments": 158
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48821576",
+      "score": 447,
+      "comments": 84
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48819608",
+      "score": 576,
+      "comments": 90
     }
   ]
 }
