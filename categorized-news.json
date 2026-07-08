@@ -1,10 +1,31 @@
 {
-  "updated": "2026-07-07T04:50:52.968Z",
+  "updated": "2026-07-08T04:12:49.663Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+          "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+          "date": "2026-07-07T22:18:10.000Z",
+          "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Why the rise of open source AI isnt hurting Anthropic  yet",
+          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "date": "2026-07-07T20:04:32.000Z",
+          "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+          "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+          "date": "2026-07-07T19:58:20.000Z",
+          "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
           "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
@@ -18,13 +39,6 @@
           "date": "2026-07-06T17:04:58.000Z",
           "description": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” t...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-          "date": "2026-07-04T15:51:32.000Z",
-          "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -32,6 +46,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Why the rise of open source AI isnt hurting Anthropic  yet",
+          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "date": "2026-07-07T20:04:32.000Z",
+          "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+          "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+          "date": "2026-07-07T19:28:38.000Z",
+          "description": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude Cowork expands to mobile and web",
+          "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+          "date": "2026-07-07T16:27:18.000Z",
+          "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "date": "2026-07-07T08:54:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\"&gt;We’re announcing new capabilities in Managed Agents in Gem...",
+          "source": "Google AI Blog"
+        },
         {
           "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
           "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
@@ -50,7 +92,7 @@
           "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
           "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
           "date": "2026-07-06T15:32:43.000Z",
-          "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday ��� the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial s...",
+          "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal...",
           "source": "TechCrunch"
         },
         {
@@ -73,34 +115,6 @@
           "date": "2026-07-04T18:00:05.000Z",
           "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Alibaba reportedly bans employees from using Claude Code",
-          "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-          "date": "2026-07-04T16:32:08.000Z",
-          "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-          "date": "2026-07-04T15:51:32.000Z",
-          "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The only AI glossary youll need this year",
-          "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "date": "2026-07-03T21:20:00.000Z",
-          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The browser wars arent about search anymore — here are the best alternatives to Chrome and Safari",
-          "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-          "date": "2026-07-03T18:43:00.000Z",
-          "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -108,6 +122,20 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+          "date": "2026-07-07T09:00:00.000Z",
+          "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "date": "2026-07-07T08:54:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\"&gt;We’re announcing new capabilities in Managed Agents in Gem...",
+          "source": "Google AI Blog"
+        },
         {
           "title": "The first AI-run ransomware attack still needed a human",
           "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
@@ -121,13 +149,6 @@
           "date": "2026-07-06T19:49:10.000Z",
           "description": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Mark Zuckerberg tells staff that AI agents havent progressed as quickly as hed hoped",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-          "date": "2026-07-02T23:38:10.000Z",
-          "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -135,6 +156,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Savis app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+          "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+          "date": "2026-07-07T12:00:00.000Z",
+          "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
           "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
@@ -148,20 +176,6 @@
           "date": "2026-07-05T17:43:36.000Z",
           "description": "These may be the last days of Amazon’s Mechanical Turk.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-          "date": "2026-07-04T15:51:32.000Z",
-          "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-          "date": "2026-06-30T06:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -189,20 +203,6 @@
           "date": "2026-07-04T16:32:08.000Z",
           "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Meta quietly launches vibe-coded gaming app Pocket",
-          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-          "date": "2026-07-02T18:44:02.000Z",
-          "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-          "date": "2026-06-30T06:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\"&gt;Google UK shares its latest Economic Impact Report and how...",
-          "source": "Google AI Blog"
         }
       ]
     }
