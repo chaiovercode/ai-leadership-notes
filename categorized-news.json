@@ -1,64 +1,43 @@
 {
-  "updated": "2026-07-09T04:55:44.685Z",
+  "updated": "2026-07-10T04:50:09.354Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an Opus-class model",
-          "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-          "date": "2026-07-08T19:30:16.000Z",
-          "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+          "title": "OpenAI says GPT 5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter",
+          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "date": "2026-07-10T00:16:54.000Z",
+          "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
           "source": "TechCrunch"
         },
         {
-          "title": "This startup thinks robotics is about to have its ChatGPT moment",
-          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-          "date": "2026-07-08T19:19:15.000Z",
-          "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "title": "OpenAI launches its new family of models with GPT-5.6",
+          "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "date": "2026-07-09T22:24:24.000Z",
+          "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
           "source": "TechCrunch"
         },
         {
-          "title": "Why this CEO thinks video games make better training data than the internet",
-          "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-          "date": "2026-07-08T17:47:55.000Z",
-          "description": "When it comes to achieving artificial general intelligence (AGI), large language models justdon’thave what it takes. Models like ChatGPT and Claudeare great at text, buttheyreless skilled at understan...",
+          "title": "Elon Musk praises Mythos/Fable, promises not to cut off Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+          "date": "2026-07-09T21:57:42.000Z",
+          "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI releases new voice models for more natural live conversations",
-          "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-          "date": "2026-07-08T17:00:00.000Z",
-          "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+          "title": "How did the government decide OpenAIs frontier model was safe to release?",
+          "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+          "date": "2026-07-09T18:22:39.000Z",
+          "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
           "source": "TechCrunch"
         },
         {
-          "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-          "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-          "date": "2026-07-08T13:00:00.000Z",
-          "description": "When it comes to achieving artificial general intelligence (AGI), large language models justdon’thave what it takes. Models like ChatGPT and Claudeare great at text, buttheyreless skilled at understan...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-          "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-          "date": "2026-07-07T22:18:10.000Z",
-          "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Why the rise of open source AI isnt hurting Anthropic  yet",
-          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-          "date": "2026-07-07T20:04:32.000Z",
-          "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-          "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-          "date": "2026-07-07T19:58:20.000Z",
-          "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "date": "2026-07-09T13:00:00.000Z",
+          "description": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
           "source": "TechCrunch"
         }
       ]
@@ -68,73 +47,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Googles deepfake detector system used to debunk McConnell hoax pic",
-          "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-          "date": "2026-07-08T20:37:03.000Z",
-          "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+          "title": "OpenAI says GPT 5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter",
+          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "date": "2026-07-10T00:16:54.000Z",
+          "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
           "source": "TechCrunch"
         },
         {
-          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an Opus-class model",
-          "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-          "date": "2026-07-08T19:30:16.000Z",
-          "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+          "title": "Fidji Simo steps down from OpenAIs no. 2 role",
+          "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+          "date": "2026-07-09T23:38:00.000Z",
+          "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes...",
           "source": "TechCrunch"
         },
         {
-          "title": "This startup thinks robotics is about to have its ChatGPT moment",
-          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-          "date": "2026-07-08T19:19:15.000Z",
-          "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "title": "OpenAI launches its new family of models with GPT-5.6",
+          "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "date": "2026-07-09T22:24:24.000Z",
+          "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
           "source": "TechCrunch"
         },
         {
-          "title": "Google Photos adds a new AI Video Remix tool",
-          "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-          "date": "2026-07-08T18:30:08.000Z",
-          "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "date": "2026-07-09T22:03:54.000Z",
+          "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
           "source": "TechCrunch"
         },
         {
-          "title": "Why this CEO thinks video games make better training data than the internet",
-          "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-          "date": "2026-07-08T17:47:55.000Z",
-          "description": "When it comes to achieving artificial general intelligence (AGI), large language models justdon’thave what it takes. Models like ChatGPT and Claudeare great at text, buttheyreless skilled at understan...",
+          "title": "Elon Musk praises Mythos/Fable, promises not to cut off Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+          "date": "2026-07-09T21:57:42.000Z",
+          "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-          "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-          "date": "2026-07-08T17:11:18.000Z",
-          "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect...",
+          "title": "Can AI answer the $3 trillion question?",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+          "date": "2026-07-09T21:47:50.000Z",
+          "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI releases new voice models for more natural live conversations",
-          "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-          "date": "2026-07-08T17:00:00.000Z",
-          "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+          "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+          "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+          "date": "2026-07-09T19:05:58.000Z",
+          "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
           "source": "TechCrunch"
         },
         {
-          "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-          "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-          "date": "2026-07-08T13:00:00.000Z",
-          "description": "When it comes to achieving artificial general intelligence (AGI), large language models justdon’thave what it takes. Models like ChatGPT and Claudeare great at text, buttheyreless skilled at understan...",
+          "title": "Google will now disclose which ads are made with AI",
+          "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+          "date": "2026-07-09T18:40:51.000Z",
+          "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required electio...",
           "source": "TechCrunch"
         },
         {
-          "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-          "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-          "date": "2026-07-08T12:00:00.000Z",
-          "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+          "title": "How did the government decide OpenAIs frontier model was safe to release?",
+          "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+          "date": "2026-07-09T18:22:39.000Z",
+          "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
           "source": "TechCrunch"
         },
         {
-          "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-          "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-          "date": "2026-07-08T08:00:00.000Z",
-          "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+          "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+          "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+          "date": "2026-07-09T17:56:47.000Z",
+          "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an...",
           "source": "TechCrunch"
         }
       ]
@@ -144,10 +123,24 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-          "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-          "date": "2026-07-08T16:22:38.000Z",
-          "description": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+          "title": "An AI agent startup just let its agent run its $100M fundraise",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "date": "2026-07-09T22:08:58.000Z",
+          "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "date": "2026-07-09T22:03:54.000Z",
+          "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+          "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+          "date": "2026-07-09T19:40:45.000Z",
+          "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa...",
           "source": "TechCrunch"
         },
         {
@@ -164,59 +157,45 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-          "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-          "date": "2026-07-08T22:41:33.000Z",
-          "description": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+          "title": "OpenAI says GPT 5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter",
+          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "date": "2026-07-10T00:16:54.000Z",
+          "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
           "source": "TechCrunch"
         },
         {
-          "title": "This startup thinks robotics is about to have its ChatGPT moment",
-          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-          "date": "2026-07-08T19:19:15.000Z",
-          "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "title": "An AI agent startup just let its agent run its $100M fundraise",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "date": "2026-07-09T22:08:58.000Z",
+          "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
           "source": "TechCrunch"
         },
         {
-          "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-          "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-          "date": "2026-07-08T16:22:38.000Z",
-          "description": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+          "title": "Elon Musk praises Mythos/Fable, promises not to cut off Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+          "date": "2026-07-09T21:57:42.000Z",
+          "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
           "source": "TechCrunch"
         },
         {
-          "title": "These AI startups are growing  revenue at faster and faster rates",
-          "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-          "date": "2026-07-08T15:41:06.000Z",
-          "description": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+          "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+          "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+          "date": "2026-07-09T19:40:45.000Z",
+          "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa...",
           "source": "TechCrunch"
         },
         {
-          "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-          "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-          "date": "2026-07-08T13:00:00.000Z",
-          "description": "When it comes to achieving artificial general intelligence (AGI), large language models justdon’thave what it takes. Models like ChatGPT and Claudeare great at text, buttheyreless skilled at understan...",
+          "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+          "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+          "date": "2026-07-09T18:34:35.000Z",
+          "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
           "source": "TechCrunch"
         },
         {
-          "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-          "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-          "date": "2026-07-08T08:00:00.000Z",
-          "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-          "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-          "date": "2026-07-08T07:16:00.000Z",
-          "description": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Savis app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-          "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-          "date": "2026-07-07T12:00:00.000Z",
-          "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+          "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+          "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+          "date": "2026-07-09T12:00:00.000Z",
+          "description": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
           "source": "TechCrunch"
         }
       ]
@@ -224,7 +203,36 @@
     {
       "id": "ethics",
       "name": "Ethics & Safety",
-      "articles": []
+      "articles": [
+        {
+          "title": "An AI agent startup just let its agent run its $100M fundraise",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "date": "2026-07-09T22:08:58.000Z",
+          "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+          "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+          "date": "2026-07-09T19:05:58.000Z",
+          "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "How did the government decide OpenAIs frontier model was safe to release?",
+          "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+          "date": "2026-07-09T18:22:39.000Z",
+          "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Character.AI enters the microdrama arena with its own productions, but theres a twist",
+          "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+          "date": "2026-07-09T13:00:00.000Z",
+          "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+          "source": "TechCrunch"
+        }
+      ]
     }
   ]
 }
