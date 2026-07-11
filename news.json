@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-10T13:54:23.887Z",
+  "updated": "2026-07-11T12:51:28.050Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "hnUrl": "https://news.ycombinator.com/item?id=48859701",
-      "score": 14,
-      "comments": 4
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "hnUrl": "https://news.ycombinator.com/item?id=48866134",
+      "score": 296,
+      "comments": 115
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48849066",
-      "score": 1401,
-      "comments": 975
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48861717",
+      "score": 626,
+      "comments": 206
     },
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "hnUrl": "https://news.ycombinator.com/item?id=48842459",
-      "score": 766,
-      "comments": 186
-    },
-    {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48843923",
-      "score": 1505,
-      "comments": 747
-    },
-    {
-      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
-      "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "hnUrl": "https://news.ycombinator.com/item?id=48858292",
-      "score": 106,
-      "comments": 76
-    },
-    {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "hnUrl": "https://news.ycombinator.com/item?id=48792383",
-      "score": 711,
-      "comments": 269
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48845049",
-      "score": 1047,
-      "comments": 336
-    },
-    {
-      "title": "How do you use Vim in the era of AI?",
-      "url": "https://news.ycombinator.com/item?id=48859439",
-      "hnUrl": "https://news.ycombinator.com/item?id=48859439",
-      "score": 13,
+      "title": "Google Search lets creators know more about their reach",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "hnUrl": "https://news.ycombinator.com/item?id=48825612",
+      "score": 29,
       "comments": 12
     },
     {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "hnUrl": "https://news.ycombinator.com/item?id=48841676",
-      "score": 748,
-      "comments": 634
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48830556",
+      "score": 43,
+      "comments": 1
     },
     {
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48805598",
-      "score": 126,
-      "comments": 172
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48865019",
+      "score": 1199,
+      "comments": 628
     },
     {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48856904",
-      "score": 143,
-      "comments": 143
+      "title": "Your code is fast – if you're lucky",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48870799",
+      "score": 4,
+      "comments": 0
     },
     {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48849292",
-      "score": 298,
-      "comments": 147
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48864252",
+      "score": 232,
+      "comments": 239
     },
     {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "hnUrl": "https://news.ycombinator.com/item?id=48847552",
-      "score": 520,
-      "comments": 106
+      "title": "An iroh powered smart fan",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "hnUrl": "https://news.ycombinator.com/item?id=48817539",
+      "score": 123,
+      "comments": 35
     },
     {
-      "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
-      "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48858997",
-      "score": 20,
-      "comments": 14
+      "title": "Show HN: HTMLDrive – serve HTML files from your Google Drive",
+      "url": "https://html-drive.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=48821052",
+      "score": 8,
+      "comments": 8
     },
     {
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48845442",
-      "score": 412,
-      "comments": 545
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48863064",
+      "score": 215,
+      "comments": 706
+    },
+    {
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48868996",
+      "score": 135,
+      "comments": 46
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48858121",
+      "score": 475,
+      "comments": 217
+    },
+    {
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48848425",
+      "score": 300,
+      "comments": 314
+    },
+    {
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48858737",
+      "score": 384,
+      "comments": 266
+    },
+    {
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48862365",
+      "score": 227,
+      "comments": 78
     }
   ]
 }
