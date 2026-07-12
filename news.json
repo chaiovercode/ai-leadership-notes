@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-11T12:51:28.050Z",
+  "updated": "2026-07-12T12:52:36.921Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "hnUrl": "https://news.ycombinator.com/item?id=48866134",
-      "score": 296,
-      "comments": 115
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48880170",
+      "score": 65,
+      "comments": 11
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-      "score": 626,
-      "comments": 206
+      "title": "Vint Cerf, a “father of the Internet”, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48854168",
+      "score": 141,
+      "comments": 86
     },
     {
-      "title": "Google Search lets creators know more about their reach",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "hnUrl": "https://news.ycombinator.com/item?id=48825612",
-      "score": 29,
-      "comments": 12
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "hnUrl": "https://news.ycombinator.com/item?id=48878682",
+      "score": 97,
+      "comments": 42
     },
     {
-      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
-      "url": "https://alexandrepoupeau.com/otary/learn/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48830556",
-      "score": 43,
-      "comments": 1
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "hnUrl": "https://news.ycombinator.com/item?id=48876505",
+      "score": 277,
+      "comments": 64
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48865019",
-      "score": 1199,
-      "comments": 628
-    },
-    {
-      "title": "Your code is fast – if you're lucky",
-      "url": "https://tiki.li/blog/lucky_code.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48870799",
-      "score": 4,
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48880499",
+      "score": 7,
       "comments": 0
     },
     {
-      "title": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48864252",
-      "score": 232,
-      "comments": 239
+      "title": "Protobuf-py: Protobuf for Python, without compromises",
+      "url": "https://buf.build/blog/protobuf-py",
+      "hnUrl": "https://news.ycombinator.com/item?id=48827058",
+      "score": 75,
+      "comments": 16
     },
     {
-      "title": "An iroh powered smart fan",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "hnUrl": "https://news.ycombinator.com/item?id=48817539",
-      "score": 123,
-      "comments": 35
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "hnUrl": "https://news.ycombinator.com/item?id=48873836",
+      "score": 294,
+      "comments": 116
     },
     {
-      "title": "Show HN: HTMLDrive – serve HTML files from your Google Drive",
-      "url": "https://html-drive.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=48821052",
-      "score": 8,
-      "comments": 8
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48823981",
+      "score": 179,
+      "comments": 49
     },
     {
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48863064",
-      "score": 215,
-      "comments": 706
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "hnUrl": "https://news.ycombinator.com/item?id=48875377",
+      "score": 288,
+      "comments": 129
     },
     {
-      "title": "The vintage beauty of Soviet control rooms (2018)",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48868996",
-      "score": 135,
-      "comments": 46
+      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "hnUrl": "https://news.ycombinator.com/item?id=48879950",
+      "score": 30,
+      "comments": 21
     },
     {
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48858121",
-      "score": 475,
-      "comments": 217
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "hnUrl": "https://news.ycombinator.com/item?id=48876245",
+      "score": 162,
+      "comments": 21
     },
     {
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48848425",
-      "score": 300,
-      "comments": 314
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48873457",
+      "score": 207,
+      "comments": 92
     },
     {
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48858737",
-      "score": 384,
-      "comments": 266
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48873424",
+      "score": 212,
+      "comments": 220
     },
     {
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48862365",
-      "score": 227,
-      "comments": 78
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "url": "https://arxiv.org/abs/2607.07267",
+      "hnUrl": "https://news.ycombinator.com/item?id=48849744",
+      "score": 110,
+      "comments": 18
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "hnUrl": "https://news.ycombinator.com/item?id=48872874",
+      "score": 222,
+      "comments": 53
     }
   ]
 }
