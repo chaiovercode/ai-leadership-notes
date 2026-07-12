@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T04:11:08.847Z",
+  "updated": "2026-07-12T04:23:29.522Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -53,6 +53,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+          "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "date": "2026-07-11T14:13:00.000Z",
+          "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Meta removes controversial AI feature on Instagram after backlash",
           "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
@@ -114,13 +121,6 @@
           "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
           "date": "2026-07-09T19:05:58.000Z",
           "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google will now disclose which ads are made with AI",
-          "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-          "date": "2026-07-09T18:40:51.000Z",
-          "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required electio...",
           "source": "TechCrunch"
         }
       ]
