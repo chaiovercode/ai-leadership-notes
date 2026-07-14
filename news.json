@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-13T14:00:38.645Z",
+  "updated": "2026-07-14T13:03:30.424Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48889637",
-      "score": 814,
-      "comments": 404
+      "title": "Codex starts encrypting sub-agent prompts",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "hnUrl": "https://news.ycombinator.com/item?id=48905028",
+      "score": 155,
+      "comments": 102
     },
     {
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "url": "https://jivx.com/densha",
-      "hnUrl": "https://news.ycombinator.com/item?id=48890959",
-      "score": 106,
+      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "hnUrl": "https://news.ycombinator.com/item?id=48905091",
+      "score": 55,
+      "comments": 30
+    },
+    {
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48901569",
+      "score": 601,
+      "comments": 160
+    },
+    {
+      "title": "Coding agents think ahead of time",
+      "url": "https://arxiv.org/abs/2607.05188",
+      "hnUrl": "https://news.ycombinator.com/item?id=48905764",
+      "score": 9,
+      "comments": 1
+    },
+    {
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "hnUrl": "https://news.ycombinator.com/item?id=48905919",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48869989",
+      "score": 140,
+      "comments": 93
+    },
+    {
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48902320",
+      "score": 154,
+      "comments": 243
+    },
+    {
+      "title": "The git history command",
+      "url": "https://lalitm.com/post/git-history/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48901010",
+      "score": 348,
+      "comments": 221
+    },
+    {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "hnUrl": "https://news.ycombinator.com/item?id=48903082",
+      "score": 103,
       "comments": 10
     },
     {
-      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-      "url": "https://github.com/floodtide/dom-docx",
-      "hnUrl": "https://news.ycombinator.com/item?id=48891267",
-      "score": 39,
-      "comments": 14
+      "title": "Dmars – A modern Core Wars toolchain",
+      "url": "https://dmars.drpz.xyz/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48847365",
+      "score": 10,
+      "comments": 4
     },
     {
-      "title": "Control the Ideas, Not the Code",
-      "url": "https://antirez.com/news/169",
-      "hnUrl": "https://news.ycombinator.com/item?id=48891184",
-      "score": 88,
-      "comments": 46
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "hnUrl": "https://news.ycombinator.com/item?id=48902026",
+      "score": 145,
+      "comments": 45
     },
     {
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "hnUrl": "https://news.ycombinator.com/item?id=48892512",
-      "score": 33,
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48896665",
+      "score": 510,
+      "comments": 216
+    },
+    {
+      "title": "How to build a circular LCD clock",
+      "url": "https://blinry.org/lcd-clock/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48872833",
+      "score": 101,
+      "comments": 39
+    },
+    {
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48901454",
+      "score": 151,
       "comments": 7
     },
     {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48889350",
-      "score": 144,
-      "comments": 86
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "hnUrl": "https://news.ycombinator.com/item?id=48888518",
-      "score": 142,
-      "comments": 62
-    },
-    {
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48834309",
-      "score": 339,
-      "comments": 147
-    },
-    {
-      "title": "The 'absolute magic' of Morse code that still connects people globally",
-      "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
-      "hnUrl": "https://news.ycombinator.com/item?id=48832329",
-      "score": 16,
-      "comments": 3
-    },
-    {
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48885643",
-      "score": 245,
-      "comments": 100
-    },
-    {
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48884395",
-      "score": 298,
-      "comments": 25
-    },
-    {
-      "title": "An Infuriating Goodbye to Photoshop",
-      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
-      "hnUrl": "https://news.ycombinator.com/item?id=48891200",
-      "score": 111,
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "url": "https://elasticity.institute/rsi-paper.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=48901224",
+      "score": 118,
       "comments": 58
-    },
-    {
-      "title": "So you want to learn physics (second edition, 2021)",
-      "url": "https://www.susanrigetti.com/physics",
-      "hnUrl": "https://news.ycombinator.com/item?id=48827126",
-      "score": 270,
-      "comments": 49
-    },
-    {
-      "title": "The Graph That Should Be Front-Page News",
-      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "hnUrl": "https://news.ycombinator.com/item?id=48888331",
-      "score": 266,
-      "comments": 163
-    },
-    {
-      "title": "How to read more books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48882056",
-      "score": 449,
-      "comments": 227
     }
   ]
 }
