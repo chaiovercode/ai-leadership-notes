@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-15T13:07:14.154Z",
+  "updated": "2026-07-16T13:15:40.798Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "hnUrl": "https://news.ycombinator.com/item?id=48919363",
-      "score": 140,
-      "comments": 55
+      "title": "OnePlus halts operations in USA and Europe",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "hnUrl": "https://news.ycombinator.com/item?id=48932539",
+      "score": 179,
+      "comments": 94
     },
     {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48915709",
-      "score": 601,
-      "comments": 146
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "hnUrl": "https://news.ycombinator.com/item?id=48933344",
+      "score": 108,
+      "comments": 35
     },
     {
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48918575",
-      "score": 43,
-      "comments": 19
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "hnUrl": "https://news.ycombinator.com/item?id=48930454",
+      "score": 482,
+      "comments": 299
     },
     {
-      "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
-      "hnUrl": "https://news.ycombinator.com/item?id=48919191",
-      "score": 17,
-      "comments": 20
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "url": "https://joinedanthropic.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=48931588",
+      "score": 129,
+      "comments": 49
     },
     {
-      "title": "Societal Impacts: Claude's values across models and languages",
-      "url": "https://www.anthropic.com/research/claude-values-models-languages",
-      "hnUrl": "https://news.ycombinator.com/item?id=48918956",
-      "score": 17,
-      "comments": 6
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48933310",
+      "score": 58,
+      "comments": 59
     },
     {
-      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "url": "https://jiga.io/about-us/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48919510",
-      "score": 1,
-      "comments": 0
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48924912",
+      "score": 1066,
+      "comments": 262
     },
     {
-      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
-      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48901083",
-      "score": 20,
-      "comments": 0
+      "title": "A Beautiful Theory Falls to Ugly Data",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48884068",
+      "score": 46,
+      "comments": 24
     },
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48914644",
-      "score": 311,
-      "comments": 123
-    },
-    {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "hnUrl": "https://news.ycombinator.com/item?id=48910545",
-      "score": 642,
-      "comments": 227
-    },
-    {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "hnUrl": "https://news.ycombinator.com/item?id=48915004",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48930136",
       "score": 180,
-      "comments": 103
-    },
-    {
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48909785",
-      "score": 505,
-      "comments": 233
-    },
-    {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48913050",
-      "score": 193,
-      "comments": 124
-    },
-    {
-      "title": "How I use HTMX with Go",
-      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "hnUrl": "https://news.ycombinator.com/item?id=48912175",
-      "score": 284,
       "comments": 84
     },
     {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "hnUrl": "https://news.ycombinator.com/item?id=48910676",
-      "score": 404,
-      "comments": 191
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48883036",
+      "score": 111,
+      "comments": 47
     },
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "hnUrl": "https://news.ycombinator.com/item?id=48916975",
-      "score": 449,
-      "comments": 214
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48929945",
+      "score": 145,
+      "comments": 26
+    },
+    {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "hnUrl": "https://news.ycombinator.com/item?id=48926590",
+      "score": 500,
+      "comments": 546
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=48927095",
+      "score": 236,
+      "comments": 82
+    },
+    {
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48915953",
+      "score": 466,
+      "comments": 273
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48928135",
+      "score": 307,
+      "comments": 140
+    },
+    {
+      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+      "url": "https://github.com/minh-ton/reynard-browser",
+      "hnUrl": "https://news.ycombinator.com/item?id=48930397",
+      "score": 91,
+      "comments": 27
     }
   ]
 }
