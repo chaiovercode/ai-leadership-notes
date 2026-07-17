@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-16T13:15:40.798Z",
+  "updated": "2026-07-17T13:00:02.839Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "hnUrl": "https://news.ycombinator.com/item?id=48932539",
-      "score": 179,
-      "comments": 94
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "hnUrl": "https://news.ycombinator.com/item?id=48946010",
+      "score": 197,
+      "comments": 92
     },
     {
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "hnUrl": "https://news.ycombinator.com/item?id=48933344",
-      "score": 108,
-      "comments": 35
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "hnUrl": "https://news.ycombinator.com/item?id=48935342",
+      "score": 1768,
+      "comments": 1038
     },
     {
-      "title": "The lost joy of music piracy",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "hnUrl": "https://news.ycombinator.com/item?id=48930454",
-      "score": 482,
-      "comments": 299
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "hnUrl": "https://news.ycombinator.com/item?id=48943745",
+      "score": 159,
+      "comments": 92
     },
     {
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "url": "https://joinedanthropic.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=48931588",
-      "score": 129,
-      "comments": 49
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=48943174",
+      "score": 161,
+      "comments": 74
     },
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48933310",
-      "score": 58,
-      "comments": 59
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48943142",
+      "score": 175,
+      "comments": 127
     },
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48924912",
-      "score": 1066,
-      "comments": 262
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "hnUrl": "https://news.ycombinator.com/item?id=48946303",
+      "score": 32,
+      "comments": 15
     },
     {
-      "title": "A Beautiful Theory Falls to Ugly Data",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48884068",
-      "score": 46,
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48936426",
+      "score": 723,
+      "comments": 159
+    },
+    {
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "hnUrl": "https://news.ycombinator.com/item?id=48936584",
+      "score": 601,
+      "comments": 139
+    },
+    {
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "hnUrl": "https://news.ycombinator.com/item?id=48862165",
+      "score": 207,
       "comments": 24
     },
     {
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48930136",
-      "score": 180,
-      "comments": 84
+      "title": "Solod: Go can be a better C",
+      "url": "https://solod.dev",
+      "hnUrl": "https://news.ycombinator.com/item?id=48895199",
+      "score": 163,
+      "comments": 86
     },
     {
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48883036",
-      "score": 111,
-      "comments": 47
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "hnUrl": "https://news.ycombinator.com/item?id=48939662",
+      "score": 282,
+      "comments": 101
     },
     {
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48929945",
-      "score": 145,
-      "comments": 26
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "hnUrl": "https://news.ycombinator.com/item?id=48939524",
+      "score": 309,
+      "comments": 410
     },
     {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "hnUrl": "https://news.ycombinator.com/item?id=48926590",
-      "score": 500,
-      "comments": 546
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48941104",
+      "score": 166,
+      "comments": 19
     },
     {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=48927095",
-      "score": 236,
-      "comments": 82
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48936451",
+      "score": 332,
+      "comments": 161
     },
     {
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48915953",
-      "score": 466,
-      "comments": 273
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48928135",
-      "score": 307,
-      "comments": 140
-    },
-    {
-      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
-      "url": "https://github.com/minh-ton/reynard-browser",
-      "hnUrl": "https://news.ycombinator.com/item?id=48930397",
-      "score": 91,
-      "comments": 27
+      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "url": "https://immersivemath.com/ila/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48935951",
+      "score": 248,
+      "comments": 28
     }
   ]
 }
