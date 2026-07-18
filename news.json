@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-17T13:00:02.839Z",
+  "updated": "2026-07-18T12:47:05.404Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "hnUrl": "https://news.ycombinator.com/item?id=48946010",
-      "score": 197,
-      "comments": 92
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "hnUrl": "https://news.ycombinator.com/item?id=48956688",
+      "score": 221,
+      "comments": 113
     },
     {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-      "score": 1768,
-      "comments": 1038
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48954851",
+      "score": 445,
+      "comments": 45
     },
     {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "hnUrl": "https://news.ycombinator.com/item?id=48943745",
-      "score": 159,
-      "comments": 92
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48956879",
+      "score": 20,
+      "comments": 8
     },
     {
-      "title": "Pebble Mega Update – July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "hnUrl": "https://news.ycombinator.com/item?id=48943174",
-      "score": 161,
-      "comments": 74
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "hnUrl": "https://news.ycombinator.com/item?id=48945241",
+      "score": 1222,
+      "comments": 716
     },
     {
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48943142",
-      "score": 175,
-      "comments": 127
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "hnUrl": "https://news.ycombinator.com/item?id=48949551",
+      "score": 665,
+      "comments": 76
     },
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "hnUrl": "https://news.ycombinator.com/item?id=48946303",
-      "score": 32,
-      "comments": 15
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48907063",
+      "score": 144,
+      "comments": 90
     },
     {
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48936426",
-      "score": 723,
-      "comments": 159
+      "title": "Qubes OS Security in the Public Record",
+      "url": "https://arxiv.org/abs/2607.14587",
+      "hnUrl": "https://news.ycombinator.com/item?id=48956307",
+      "score": 33,
+      "comments": 4
     },
     {
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "hnUrl": "https://news.ycombinator.com/item?id=48936584",
-      "score": 601,
-      "comments": 139
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "hnUrl": "https://news.ycombinator.com/item?id=48956949",
+      "score": 72,
+      "comments": 82
     },
     {
-      "title": "An Engineer's Guide to USB Typе-С (2024)",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "hnUrl": "https://news.ycombinator.com/item?id=48862165",
-      "score": 207,
-      "comments": 24
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "hnUrl": "https://news.ycombinator.com/item?id=48947560",
+      "score": 473,
+      "comments": 279
     },
     {
-      "title": "Solod: Go can be a better C",
-      "url": "https://solod.dev",
-      "hnUrl": "https://news.ycombinator.com/item?id=48895199",
-      "score": 163,
-      "comments": 86
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48951461",
+      "score": 242,
+      "comments": 95
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "hnUrl": "https://news.ycombinator.com/item?id=48939662",
-      "score": 282,
-      "comments": 101
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "url": "https://in-toto.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48942603",
+      "score": 47,
+      "comments": 5
     },
     {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "hnUrl": "https://news.ycombinator.com/item?id=48939524",
-      "score": 309,
-      "comments": 410
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "hnUrl": "https://news.ycombinator.com/item?id=48952565",
+      "score": 155,
+      "comments": 53
     },
     {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48941104",
-      "score": 166,
-      "comments": 19
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48950122",
+      "score": 273,
+      "comments": 73
     },
     {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48936451",
-      "score": 332,
-      "comments": 161
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48947717",
+      "score": 361,
+      "comments": 189
     },
     {
-      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "url": "https://immersivemath.com/ila/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48935951",
-      "score": 248,
-      "comments": 28
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48951898",
+      "score": 148,
+      "comments": 9
     }
   ]
 }
