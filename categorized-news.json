@@ -1,10 +1,17 @@
 {
-  "updated": "2026-07-18T03:53:06.551Z",
+  "updated": "2026-07-19T04:20:05.635Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Kimi: Threat or menace?",
+          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "date": "2026-07-18T18:51:07.000Z",
+          "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+          "source": "TechCrunch"
+        },
         {
           "title": "Databricks hits $188B valuation, extending its run as AIs favorite second act",
           "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
@@ -61,6 +68,20 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Kimi: Threat or menace?",
+          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "date": "2026-07-18T18:51:07.000Z",
+          "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Neil Rimer thinks the AI money is coming back out",
+          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+          "date": "2026-07-18T04:47:25.000Z",
+          "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "AI-driven memory crunch jolts Indias smartphone market",
           "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
           "date": "2026-07-17T20:09:27.000Z",
@@ -114,20 +135,6 @@
           "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
           "date": "2026-07-16T15:31:09.000Z",
           "description": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-          "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-          "date": "2026-07-16T15:02:00.000Z",
-          "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Moonshots upcoming Kimi 3 is expected to close the gap with Anthropics Opus 4.8",
-          "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-          "date": "2026-07-16T14:26:29.000Z",
-          "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
           "source": "TechCrunch"
         }
       ]
