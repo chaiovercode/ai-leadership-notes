@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T04:20:05.635Z",
+  "updated": "2026-07-20T04:34:16.508Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -41,20 +41,6 @@
           "source": "VentureBeat"
         },
         {
-          "title": "Why AMI Labs’ Alexandre LeBrun wont call his AI AGI or superintelligence",
-          "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-          "date": "2026-07-16T14:40:00.000Z",
-          "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Moonshots upcoming Kimi 3 is expected to close the gap with Anthropics Opus 4.8",
-          "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-          "date": "2026-07-16T14:26:29.000Z",
-          "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
           "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
           "date": "2026-07-15T22:24:17.000Z",
@@ -67,6 +53,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "What to watch for after Jensen Huangs Japan visit",
+          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "date": "2026-07-19T21:16:07.000Z",
+          "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "date": "2026-07-19T19:24:45.000Z",
+          "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "date": "2026-07-19T14:52:08.000Z",
+          "description": "\"Everybody knows the Greeks are inside.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+          "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+          "date": "2026-07-19T14:00:00.000Z",
+          "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Kimi: Threat or menace?",
           "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
@@ -107,34 +121,6 @@
           "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
           "date": "2026-07-17T12:00:00.000Z",
           "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google Vids now lets you star in your own AI videos",
-          "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-          "date": "2026-07-16T18:32:54.000Z",
-          "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-          "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-          "date": "2026-07-16T18:22:06.000Z",
-          "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Create, edit and star in videos with two Google Vids updates",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-          "date": "2026-07-16T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp\"&gt;Gemini Omni and personal avatars in Google Vids make video creati...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Why is OpenAI selling a ChatGPT basketball?",
-          "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-          "date": "2026-07-16T15:31:09.000Z",
-          "description": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
           "source": "TechCrunch"
         }
       ]
@@ -227,20 +213,6 @@
           "source": "VentureBeat"
         },
         {
-          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-          "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-          "date": "2026-07-16T15:02:00.000Z",
-          "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Why AMI Labs’ Alexandre LeBrun wont call his AI AGI or superintelligence",
-          "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-          "date": "2026-07-16T14:40:00.000Z",
-          "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
           "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
           "date": "2026-07-15T22:24:17.000Z",
@@ -253,6 +225,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "date": "2026-07-19T19:24:45.000Z",
+          "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Vertu wants executives to pay $6,880 for an AI agent — heres how it actually performs",
           "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
