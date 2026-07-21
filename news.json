@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-20T13:44:58.549Z",
+  "updated": "2026-07-21T13:13:01.699Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48976846",
-      "score": 187,
-      "comments": 51
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "hnUrl": "https://news.ycombinator.com/item?id=48989701",
+      "score": 259,
+      "comments": 120
     },
     {
-      "title": "Stop Using OpenCode",
-      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48978112",
-      "score": 80,
-      "comments": 49
-    },
-    {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48975665",
-      "score": 253,
-      "comments": 132
-    },
-    {
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48978605",
-      "score": 6,
-      "comments": 0
-    },
-    {
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48977711",
-      "score": 137,
-      "comments": 81
-    },
-    {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "hnUrl": "https://news.ycombinator.com/item?id=48968606",
-      "score": 2593,
-      "comments": 289
-    },
-    {
-      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-      "url": "https://yang-ai-lab.github.io/Inertia-1/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48978388",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "hnUrl": "https://news.ycombinator.com/item?id=48972970",
+      "title": "Incremental – A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "hnUrl": "https://news.ycombinator.com/item?id=48987822",
       "score": 264,
-      "comments": 109
+      "comments": 50
     },
     {
-      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "hnUrl": "https://news.ycombinator.com/item?id=48974325",
-      "score": 109,
-      "comments": 22
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48977128",
+      "score": 752,
+      "comments": 565
     },
     {
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48917906",
-      "score": 80,
+      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48918140",
+      "score": 31,
+      "comments": 0
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48981620",
+      "score": 562,
+      "comments": 167
+    },
+    {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "hnUrl": "https://news.ycombinator.com/item?id=48981703",
+      "score": 608,
+      "comments": 250
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48983382",
+      "score": 392,
+      "comments": 180
+    },
+    {
+      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48954668",
+      "score": 42,
+      "comments": 15
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48982681",
+      "score": 311,
+      "comments": 105
+    },
+    {
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48984254",
+      "score": 208,
+      "comments": 45
+    },
+    {
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48987831",
+      "score": 48,
+      "comments": 38
+    },
+    {
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48984270",
+      "score": 160,
+      "comments": 148
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "hnUrl": "https://news.ycombinator.com/item?id=48982535",
+      "score": 229,
+      "comments": 103
+    },
+    {
+      "title": "The Psychology of Software Teams",
+      "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
+      "hnUrl": "https://news.ycombinator.com/item?id=48923130",
+      "score": 123,
+      "comments": 37
+    },
+    {
+      "title": "You only need the frontier model for one single edit",
+      "url": "https://stencil.so/blog/prewalk",
+      "hnUrl": "https://news.ycombinator.com/item?id=48916512",
+      "score": 187,
       "comments": 57
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48966569",
-      "score": 571,
-      "comments": 759
-    },
-    {
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48970894",
-      "score": 254,
-      "comments": 214
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "hnUrl": "https://news.ycombinator.com/item?id=48966713",
-      "score": 519,
-      "comments": 237
-    },
-    {
-      "title": "Xiaomi-Robotics-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48974454",
-      "score": 321,
-      "comments": 218
-    },
-    {
-      "title": "1-Bit LLM in the Browser",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "hnUrl": "https://news.ycombinator.com/item?id=48936994",
-      "score": 70,
-      "comments": 28
     }
   ]
 }
