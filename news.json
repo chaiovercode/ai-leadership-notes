@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-22T13:18:37.273Z",
+  "updated": "2026-07-23T13:21:01.854Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "OverpAId – Fire your CEO. Hire the future",
-      "url": "https://overpaid.lol",
-      "hnUrl": "https://news.ycombinator.com/item?id=49004663",
-      "score": 285,
-      "comments": 126
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49021006",
+      "score": 26,
+      "comments": 6
     },
     {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48997548",
-      "score": 1344,
-      "comments": 898
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "hnUrl": "https://news.ycombinator.com/item?id=49010345",
+      "score": 978,
+      "comments": 557
     },
     {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49005747",
-      "score": 68,
-      "comments": 26
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "hnUrl": "https://news.ycombinator.com/item?id=49007247",
+      "score": 416,
+      "comments": 187
     },
     {
-      "title": "Introduction to Formal Verification with Lean Part 1",
-      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-      "hnUrl": "https://news.ycombinator.com/item?id=48969200",
-      "score": 105,
-      "comments": 10
+      "title": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "hnUrl": "https://news.ycombinator.com/item?id=49010648",
+      "score": 505,
+      "comments": 183
     },
     {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
-      "hnUrl": "https://news.ycombinator.com/item?id=48999291",
-      "score": 745,
-      "comments": 392
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49008211",
+      "score": 904,
+      "comments": 206
     },
     {
-      "title": "Intel Starts Shipping High-NA EUV Silicon",
-      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-      "hnUrl": "https://news.ycombinator.com/item?id=48961698",
-      "score": 140,
-      "comments": 51
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49010167",
+      "score": 551,
+      "comments": 113
     },
     {
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "hnUrl": "https://news.ycombinator.com/item?id=49002166",
-      "score": 107,
-      "comments": 31
-    },
-    {
-      "title": "Advertise in ChatGPT",
-      "url": "https://ads.openai.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48996571",
-      "score": 906,
-      "comments": 695
-    },
-    {
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49005973",
-      "score": 4,
+      "title": "Test-time training 3D reconstruction",
+      "url": "https://github.com/Inception3D/TTT3R",
+      "hnUrl": "https://news.ycombinator.com/item?id=48928909",
+      "score": 10,
       "comments": 0
     },
     {
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "url": "https://freeink.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48996318",
-      "score": 627,
-      "comments": 131
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49010129",
+      "score": 593,
+      "comments": 229
     },
     {
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "hnUrl": "https://news.ycombinator.com/item?id=48996652",
-      "score": 446,
-      "comments": 407
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=48990219",
+      "score": 102,
+      "comments": 89
     },
     {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48993414",
-      "score": 720,
-      "comments": 542
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "hnUrl": "https://news.ycombinator.com/item?id=49020868",
+      "score": 8,
+      "comments": 3
     },
     {
-      "title": "Late.sh – a command-line Clubhouse for computer people",
-      "url": "https://late.sh/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49001127",
-      "score": 234,
-      "comments": 81
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49015635",
+      "score": 116,
+      "comments": 53
     },
     {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48998362",
-      "score": 280,
-      "comments": 114
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48989006",
+      "score": 33,
+      "comments": 16
     },
     {
-      "title": "Ten Steps Towards Happiness (2015)",
-      "url": "http://hintjens.com/blog:99",
-      "hnUrl": "https://news.ycombinator.com/item?id=49000600",
-      "score": 172,
-      "comments": 69
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49008440",
+      "score": 394,
+      "comments": 154
+    },
+    {
+      "title": "EU fines Google €890M for competition breaches over search and apps",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "hnUrl": "https://news.ycombinator.com/item?id=49019220",
+      "score": 107,
+      "comments": 108
+    },
+    {
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49017265",
+      "score": 115,
+      "comments": 107
     }
   ]
 }
