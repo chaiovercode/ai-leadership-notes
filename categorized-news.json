@@ -1,10 +1,38 @@
 {
-  "updated": "2026-07-22T04:14:51.189Z",
+  "updated": "2026-07-23T04:13:52.955Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropics Fable",
+          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "date": "2026-07-22T20:49:03.000Z",
+          "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Monday.com lays off hundreds to focus on AI",
+          "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+          "date": "2026-07-22T17:54:14.000Z",
+          "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+          "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+          "date": "2026-07-22T16:24:08.000Z",
+          "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+          "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+          "date": "2026-07-22T08:00:00.000Z",
+          "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI says Hugging Face was breached by its pre-release models",
           "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
@@ -13,52 +41,10 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Google releases three new Gemini models — but no 3.5 Pro",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-          "date": "2026-07-21T17:11:50.000Z",
-          "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "US threatens sanctions against Chinese AI models over IP theft",
-          "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-          "date": "2026-07-21T15:37:05.000Z",
-          "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics landmark $1.5B copyright settlement is approved",
-          "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-          "date": "2026-07-21T00:12:24.000Z",
-          "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-          "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-          "date": "2026-07-20T21:21:15.000Z",
-          "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI is scared of open-weight models. Should the US be?",
-          "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-          "date": "2026-07-20T19:33:25.000Z",
-          "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
           "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
           "date": "2026-07-16T19:16:48.000Z",
           "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-          "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-          "date": "2026-07-15T22:24:17.000Z",
-          "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re...",
           "source": "VentureBeat"
         }
       ]
@@ -67,6 +53,62 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "After shocking quarter, IBM insists that AI isnt killing the mainframe",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "date": "2026-07-22T23:47:54.000Z",
+          "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropics Fable",
+          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "date": "2026-07-22T20:49:03.000Z",
+          "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+          "date": "2026-07-22T19:11:46.000Z",
+          "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Travis Kalanicks robotics company raises $1.7B, led by a16z",
+          "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+          "date": "2026-07-22T18:50:44.000Z",
+          "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Substacks new tool tells you whos been writing their newsletters with AI",
+          "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+          "date": "2026-07-22T16:23:09.000Z",
+          "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAIs AI spending spree has ballooned to $750B",
+          "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+          "date": "2026-07-22T16:13:30.000Z",
+          "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "date": "2026-07-22T14:00:00.000Z",
+          "description": "Anthropicleaped toa$47 billionrevenue run rateby May,compared to$9 billionin 2025.It’sthe kind of growth thatMenlo VenturesMatt Murphysayshesnever seen in 25 years of investing, not in the internet wa...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The browser wars arent about search anymore — here are the best alternatives to Chrome and Safari",
+          "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "date": "2026-07-22T13:20:35.000Z",
+          "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
           "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
@@ -80,62 +122,6 @@
           "date": "2026-07-21T23:55:10.000Z",
           "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI says Hugging Face was breached by its pre-release models",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-          "date": "2026-07-21T20:56:55.000Z",
-          "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI and the rise of the universal entertainment app",
-          "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-          "date": "2026-07-21T19:39:30.000Z",
-          "description": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Data centers expected to use 4x more electricity by 2035",
-          "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-          "date": "2026-07-21T18:06:38.000Z",
-          "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google releases three new Gemini models — but no 3.5 Pro",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-          "date": "2026-07-21T17:11:50.000Z",
-          "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-          "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-          "date": "2026-07-21T13:27:42.000Z",
-          "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-          "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-          "date": "2026-07-21T10:00:00.000Z",
-          "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics landmark $1.5B copyright settlement is approved",
-          "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-          "date": "2026-07-21T00:12:24.000Z",
-          "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Trumps latest AI czar has already resigned",
-          "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-          "date": "2026-07-20T22:21:04.000Z",
-          "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -143,6 +129,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+          "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+          "date": "2026-07-22T10:00:00.000Z",
+          "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
           "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
@@ -170,13 +163,6 @@
           "date": "2026-07-16T16:40:48.000Z",
           "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna...",
           "source": "VentureBeat"
-        },
-        {
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-          "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-          "date": "2026-07-15T22:24:17.000Z",
-          "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -185,24 +171,59 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Google justifies its massive AI spending with a booming cloud business",
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "date": "2026-07-22T22:01:52.000Z",
+          "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+          "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+          "date": "2026-07-22T18:13:58.000Z",
+          "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "date": "2026-07-22T14:00:00.000Z",
+          "description": "Anthropicleaped toa$47 billionrevenue run rateby May,compared to$9 billionin 2025.It’sthe kind of growth thatMenlo VenturesMatt Murphysayshesnever seen in 25 years of investing, not in the internet wa...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+          "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+          "date": "2026-07-22T13:00:00.000Z",
+          "description": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+          "date": "2026-07-22T13:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp\"&gt;We shared how Samsung users can boost productivity and get time back on new ...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+          "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+          "date": "2026-07-22T10:00:00.000Z",
+          "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+          "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+          "date": "2026-07-22T08:00:00.000Z",
+          "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
           "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
           "date": "2026-07-22T03:20:57.000Z",
           "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI is scared of open-weight models. Should the US be?",
-          "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-          "date": "2026-07-20T19:33:25.000Z",
-          "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "YouTube clarifies policies around AI slop and upsetting videos",
-          "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-          "date": "2026-07-20T15:23:06.000Z",
-          "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
           "source": "TechCrunch"
         },
         {
@@ -218,27 +239,6 @@
           "date": "2026-07-16T19:02:38.000Z",
           "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide...",
           "source": "VentureBeat"
-        },
-        {
-          "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-          "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-          "date": "2026-07-16T17:06:08.000Z",
-          "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "date": "2026-07-16T16:40:48.000Z",
-          "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-          "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-          "date": "2026-07-15T22:24:17.000Z",
-          "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -247,10 +247,17 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-          "date": "2026-07-19T19:24:45.000Z",
-          "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+          "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+          "date": "2026-07-22T10:00:00.000Z",
+          "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+          "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+          "date": "2026-07-22T08:00:00.000Z",
+          "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...",
           "source": "TechCrunch"
         },
         {
