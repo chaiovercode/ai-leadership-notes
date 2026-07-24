@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-23T13:21:01.854Z",
+  "updated": "2026-07-24T13:14:40.755Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49021006",
-      "score": 26,
-      "comments": 6
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "hnUrl": "https://news.ycombinator.com/item?id=49033127",
+      "score": 173,
+      "comments": 24
     },
     {
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "hnUrl": "https://news.ycombinator.com/item?id=49010345",
-      "score": 978,
-      "comments": 557
+      "title": "It's getting harder to focus every day",
+      "url": "https://glyphack.com/attention/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49032660",
+      "score": 250,
+      "comments": 128
     },
     {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "hnUrl": "https://news.ycombinator.com/item?id=49007247",
-      "score": 416,
-      "comments": 187
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "hnUrl": "https://news.ycombinator.com/item?id=49031796",
+      "score": 409,
+      "comments": 101
     },
     {
-      "title": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "hnUrl": "https://news.ycombinator.com/item?id=49010648",
-      "score": 505,
-      "comments": 183
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49008211",
-      "score": 904,
-      "comments": 206
-    },
-    {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49010167",
-      "score": 551,
-      "comments": 113
-    },
-    {
-      "title": "Test-time training 3D reconstruction",
-      "url": "https://github.com/Inception3D/TTT3R",
-      "hnUrl": "https://news.ycombinator.com/item?id=48928909",
-      "score": 10,
-      "comments": 0
-    },
-    {
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49010129",
-      "score": 593,
-      "comments": 229
-    },
-    {
-      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=48990219",
-      "score": 102,
-      "comments": 89
-    },
-    {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "hnUrl": "https://news.ycombinator.com/item?id=49020868",
-      "score": 8,
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49034342",
+      "score": 16,
       "comments": 3
     },
     {
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49015635",
-      "score": 116,
-      "comments": 53
+      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49033240",
+      "score": 32,
+      "comments": 11
     },
     {
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-      "hnUrl": "https://news.ycombinator.com/item?id=48989006",
-      "score": 33,
-      "comments": 16
+      "title": "Claude Cookbook",
+      "url": "https://platform.claude.com/cookbook/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49031409",
+      "score": 148,
+      "comments": 73
     },
     {
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49008440",
-      "score": 394,
-      "comments": 154
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "hnUrl": "https://news.ycombinator.com/item?id=48973835",
+      "score": 17,
+      "comments": 1
     },
     {
-      "title": "EU fines Google €890M for competition breaches over search and apps",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "hnUrl": "https://news.ycombinator.com/item?id=49019220",
-      "score": 107,
-      "comments": 108
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49034673",
+      "score": 6,
+      "comments": 2
     },
     {
-      "title": "Amiga 1000: Ten years ahead of its time",
-      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49017265",
-      "score": 115,
-      "comments": 107
+      "title": "Nothing works and everyone is euphoric",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49033004",
+      "score": 161,
+      "comments": 125
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49034292",
+      "score": 5,
+      "comments": 3
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "hnUrl": "https://news.ycombinator.com/item?id=49026810",
+      "score": 417,
+      "comments": 200
+    },
+    {
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49007221",
+      "score": 438,
+      "comments": 87
+    },
+    {
+      "title": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
+      "url": "https://github.com/43081j/tangleflow",
+      "hnUrl": "https://news.ycombinator.com/item?id=49001498",
+      "score": 13,
+      "comments": 5
+    },
+    {
+      "title": "Why is programming so captivating, yet so agonizing?",
+      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+      "hnUrl": "https://news.ycombinator.com/item?id=49034468",
+      "score": 5,
+      "comments": 1
+    },
+    {
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "hnUrl": "https://news.ycombinator.com/item?id=49022152",
+      "score": 1362,
+      "comments": 620
     }
   ]
 }
