@@ -1,10 +1,38 @@
 {
-  "updated": "2026-07-23T04:13:52.955Z",
+  "updated": "2026-07-24T04:12:09.050Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Anthropic updates Claude voice mode with more capable models",
+          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+          "date": "2026-07-23T19:00:00.000Z",
+          "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Runway launches AI model router as generative media gets crowded",
+          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+          "date": "2026-07-23T17:07:35.000Z",
+          "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "date": "2026-07-23T15:00:00.000Z",
+          "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Experts say exploiting Anthropics Fable isnt how Kimi K3 got so good",
+          "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+          "date": "2026-07-23T11:00:00.000Z",
+          "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropics Fable",
           "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
@@ -25,27 +53,6 @@
           "date": "2026-07-22T16:24:08.000Z",
           "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-          "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-          "date": "2026-07-22T08:00:00.000Z",
-          "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI says Hugging Face was breached by its pre-release models",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-          "date": "2026-07-21T20:56:55.000Z",
-          "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-          "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-          "date": "2026-07-16T19:16:48.000Z",
-          "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -53,6 +60,55 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+          "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "date": "2026-07-24T01:00:00.000Z",
+          "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic updates Claude voice mode with more capable models",
+          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+          "date": "2026-07-23T19:00:00.000Z",
+          "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI makes ChatGPT Health available to all US users",
+          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+          "date": "2026-07-23T17:00:00.000Z",
+          "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+          "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+          "date": "2026-07-23T16:28:50.000Z",
+          "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia is sending GPUs to the moon",
+          "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+          "date": "2026-07-23T15:00:00.000Z",
+          "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles Gemini nears billion-user milestone",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+          "date": "2026-07-23T14:52:44.000Z",
+          "description": "Gemini had over 750 million monthly users in February.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Experts say exploiting Anthropics Fable isnt how Kimi K3 got so good",
+          "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+          "date": "2026-07-23T11:00:00.000Z",
+          "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+          "source": "TechCrunch"
+        },
         {
           "title": "After shocking quarter, IBM insists that AI isnt killing the mainframe",
           "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
@@ -73,55 +129,6 @@
           "date": "2026-07-22T19:11:46.000Z",
           "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Travis Kalanicks robotics company raises $1.7B, led by a16z",
-          "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-          "date": "2026-07-22T18:50:44.000Z",
-          "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Substacks new tool tells you whos been writing their newsletters with AI",
-          "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-          "date": "2026-07-22T16:23:09.000Z",
-          "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs AI spending spree has ballooned to $750B",
-          "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-          "date": "2026-07-22T16:13:30.000Z",
-          "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-          "date": "2026-07-22T14:00:00.000Z",
-          "description": "Anthropicleaped toa$47 billionrevenue run rateby May,compared to$9 billionin 2025.It’sthe kind of growth thatMenlo VenturesMatt Murphysayshesnever seen in 25 years of investing, not in the internet wa...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The browser wars arent about search anymore — here are the best alternatives to Chrome and Safari",
-          "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-          "date": "2026-07-22T13:20:35.000Z",
-          "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-          "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-          "date": "2026-07-22T03:20:57.000Z",
-          "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta is testing an AI bedtime story app for people with no imagination",
-          "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-          "date": "2026-07-21T23:55:10.000Z",
-          "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -130,39 +137,11 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-          "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-          "date": "2026-07-22T10:00:00.000Z",
-          "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+          "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+          "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+          "date": "2026-07-23T18:38:34.000Z",
+          "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-          "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-          "date": "2026-07-21T19:43:41.000Z",
-          "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "date": "2026-07-16T19:02:38.000Z",
-          "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-          "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-          "date": "2026-07-16T17:06:08.000Z",
-          "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "date": "2026-07-16T16:40:48.000Z",
-          "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -170,6 +149,27 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "date": "2026-07-23T20:33:02.000Z",
+          "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "date": "2026-07-23T15:00:00.000Z",
+          "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+          "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+          "date": "2026-07-23T06:09:13.000Z",
+          "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Google justifies its massive AI spending with a booming cloud business",
           "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
@@ -185,96 +185,18 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-          "date": "2026-07-22T14:00:00.000Z",
-          "description": "Anthropicleaped toa$47 billionrevenue run rateby May,compared to$9 billionin 2025.It’sthe kind of growth thatMenlo VenturesMatt Murphysayshesnever seen in 25 years of investing, not in the internet wa...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-          "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-          "date": "2026-07-22T13:00:00.000Z",
-          "description": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "3 Google updates from Galaxy Unpacked 2026",
           "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
           "date": "2026-07-22T13:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp\"&gt;We shared how Samsung users can boost productivity and get time back on new ...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-          "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-          "date": "2026-07-22T10:00:00.000Z",
-          "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-          "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-          "date": "2026-07-22T08:00:00.000Z",
-          "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-          "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-          "date": "2026-07-22T03:20:57.000Z",
-          "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-          "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-          "date": "2026-07-16T19:16:48.000Z",
-          "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "date": "2026-07-16T19:02:38.000Z",
-          "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide...",
-          "source": "VentureBeat"
         }
       ]
     },
     {
       "id": "ethics",
       "name": "Ethics & Safety",
-      "articles": [
-        {
-          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-          "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-          "date": "2026-07-22T10:00:00.000Z",
-          "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-          "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-          "date": "2026-07-22T08:00:00.000Z",
-          "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-          "date": "2026-07-16T16:40:48.000Z",
-          "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "Connect more of your apps to Search",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-          "date": "2026-07-16T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp\"&gt;You’ll be able to securely link and interact with your go-to services di...",
-          "source": "Google AI Blog"
-        }
-      ]
+      "articles": []
     }
   ]
 }
