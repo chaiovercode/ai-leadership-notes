@@ -1,10 +1,31 @@
 {
-  "updated": "2026-07-24T04:12:09.050Z",
+  "updated": "2026-07-25T04:08:16.582Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "date": "2026-07-24T18:07:32.000Z",
+          "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "date": "2026-07-24T15:51:49.000Z",
+          "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+          "date": "2026-07-24T14:00:00.000Z",
+          "description": "Chinese AI lab Moonshotsopen model Kimi went viral this weekfor reasons that had less to do with the model itself and more to do withhow the U.S. AI industry reacted to it. Meanwhile, an unreleased Op...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropic updates Claude voice mode with more capable models",
           "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
@@ -32,27 +53,6 @@
           "date": "2026-07-23T11:00:00.000Z",
           "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropics Fable",
-          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-          "date": "2026-07-22T20:49:03.000Z",
-          "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Monday.com lays off hundreds to focus on AI",
-          "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-          "date": "2026-07-22T17:54:14.000Z",
-          "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-          "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-          "date": "2026-07-22T16:24:08.000Z",
-          "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -60,6 +60,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "I tried out OpenAIs new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "date": "2026-07-25T00:23:11.000Z",
+          "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "date": "2026-07-24T22:25:58.000Z",
+          "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic launches Opus 5",
+          "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+          "date": "2026-07-24T17:00:00.000Z",
+          "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "date": "2026-07-24T15:51:49.000Z",
+          "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Midjourney acquired the astrology app Co-Star",
+          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+          "date": "2026-07-24T15:09:55.000Z",
+          "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAIs new voice mode makes it to the ChatGPT desktop app",
+          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+          "date": "2026-07-24T13:36:42.000Z",
+          "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+          "source": "TechCrunch"
+        },
         {
           "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
           "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
@@ -87,48 +129,6 @@
           "date": "2026-07-23T16:28:50.000Z",
           "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Nvidia is sending GPUs to the moon",
-          "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-          "date": "2026-07-23T15:00:00.000Z",
-          "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Googles Gemini nears billion-user milestone",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-          "date": "2026-07-23T14:52:44.000Z",
-          "description": "Gemini had over 750 million monthly users in February.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Experts say exploiting Anthropics Fable isnt how Kimi K3 got so good",
-          "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-          "date": "2026-07-23T11:00:00.000Z",
-          "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "After shocking quarter, IBM insists that AI isnt killing the mainframe",
-          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-          "date": "2026-07-22T23:47:54.000Z",
-          "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropics Fable",
-          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-          "date": "2026-07-22T20:49:03.000Z",
-          "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-          "date": "2026-07-22T19:11:46.000Z",
-          "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -136,6 +136,27 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "date": "2026-07-24T18:07:32.000Z",
+          "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+          "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+          "date": "2026-07-24T15:13:57.000Z",
+          "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAIs new voice mode makes it to the ChatGPT desktop app",
+          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+          "date": "2026-07-24T13:36:42.000Z",
+          "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+          "source": "TechCrunch"
+        },
         {
           "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
           "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
@@ -149,6 +170,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "date": "2026-07-24T18:07:32.000Z",
+          "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
+          "source": "TechCrunch"
+        },
         {
           "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
           "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
@@ -164,27 +192,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-          "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-          "date": "2026-07-23T06:09:13.000Z",
-          "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google justifies its massive AI spending with a booming cloud business",
-          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-          "date": "2026-07-22T22:01:52.000Z",
-          "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-          "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-          "date": "2026-07-22T18:13:58.000Z",
-          "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha...",
-          "source": "TechCrunch"
-        },
-        {
           "title": "3 Google updates from Galaxy Unpacked 2026",
           "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
           "date": "2026-07-22T13:00:00.000Z",
@@ -196,7 +203,29 @@
     {
       "id": "ethics",
       "name": "Ethics & Safety",
-      "articles": []
+      "articles": [
+        {
+          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "date": "2026-07-24T18:07:32.000Z",
+          "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "date": "2026-07-24T15:51:49.000Z",
+          "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+          "date": "2026-07-24T14:00:00.000Z",
+          "description": "Chinese AI lab Moonshotsopen model Kimi went viral this weekfor reasons that had less to do with the model itself and more to do withhow the U.S. AI industry reacted to it. Meanwhile, an unreleased Op...",
+          "source": "TechCrunch"
+        }
+      ]
     }
   ]
 }
