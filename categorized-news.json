@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T04:08:16.582Z",
+  "updated": "2026-07-26T04:23:45.940Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -39,20 +39,6 @@
           "date": "2026-07-23T17:07:35.000Z",
           "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-          "date": "2026-07-23T15:00:00.000Z",
-          "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Experts say exploiting Anthropics Fable isnt how Kimi K3 got so good",
-          "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-          "date": "2026-07-23T11:00:00.000Z",
-          "description": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -60,6 +46,20 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Librarians are hosting viral Avoiding AI workshops for people who are fed up with Big Tech",
+          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+          "date": "2026-07-25T16:00:00.000Z",
+          "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "One fallen power line exposed a growing AI data center problem. Heres how to fix it.",
+          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+          "date": "2026-07-25T13:05:00.000Z",
+          "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+          "source": "TechCrunch"
+        },
         {
           "title": "I tried out OpenAIs new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
           "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
@@ -114,20 +114,6 @@
           "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
           "date": "2026-07-23T19:00:00.000Z",
           "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI makes ChatGPT Health available to all US users",
-          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-          "date": "2026-07-23T17:00:00.000Z",
-          "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-          "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-          "date": "2026-07-23T16:28:50.000Z",
-          "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
           "source": "TechCrunch"
         }
       ]
@@ -185,13 +171,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-          "date": "2026-07-23T15:00:00.000Z",
-          "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "3 Google updates from Galaxy Unpacked 2026",
           "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
           "date": "2026-07-22T13:00:00.000Z",
@@ -204,6 +183,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "date": "2026-07-26T01:30:00.000Z",
+          "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
           "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
