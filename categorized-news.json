@@ -1,15 +1,36 @@
 {
-  "updated": "2026-07-27T04:35:13.527Z",
+  "updated": "2026-07-28T04:06:40.050Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Anthropics Dario Amodei responds: doesnt oppose open-weight models, but fears Chinese AI",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "date": "2026-07-28T00:13:33.000Z",
+          "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "date": "2026-07-27T21:17:11.000Z",
+          "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "date": "2026-07-27T18:32:11.000Z",
+          "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Are brain waves the next unlock for physical AI?",
           "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
           "date": "2026-07-27T00:19:14.000Z",
-          "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+          "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
           "source": "TechCrunch"
         },
         {
@@ -17,34 +38,6 @@
           "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
           "date": "2026-07-24T18:07:32.000Z",
           "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-          "date": "2026-07-24T15:51:49.000Z",
-          "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-          "date": "2026-07-24T14:00:00.000Z",
-          "description": "Chinese AI lab Moonshotsopen model Kimi went viral this weekfor reasons that had less to do with the model itself and more to do withhow the U.S. AI industry reacted to it. Meanwhile, an unreleased Op...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic updates Claude voice mode with more capable models",
-          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-          "date": "2026-07-23T19:00:00.000Z",
-          "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Runway launches AI model router as generative media gets crowded",
-          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-          "date": "2026-07-23T17:07:35.000Z",
-          "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
           "source": "TechCrunch"
         }
       ]
@@ -54,73 +47,73 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Anthropics Dario Amodei responds: doesnt oppose open-weight models, but fears Chinese AI",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "date": "2026-07-28T00:13:33.000Z",
+          "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "date": "2026-07-27T21:17:11.000Z",
+          "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+          "date": "2026-07-27T20:19:42.000Z",
+          "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+          "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+          "date": "2026-07-27T17:28:42.000Z",
+          "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Threads users can now chat with Meta AI in their DMs",
+          "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+          "date": "2026-07-27T16:45:24.000Z",
+          "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles AI search is rapidly becoming the default, new data shows",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+          "date": "2026-07-27T15:57:12.000Z",
+          "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+          "date": "2026-07-27T15:30:00.000Z",
+          "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+          "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+          "date": "2026-07-27T15:01:50.000Z",
+          "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+          "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+          "date": "2026-07-27T13:00:00.000Z",
+          "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Making sense of the panic over Chinese AI",
           "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
           "date": "2026-07-26T19:40:57.000Z",
           "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-          "date": "2026-07-26T16:33:13.000Z",
-          "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Librarians are hosting viral Avoiding AI workshops for people who are fed up with Big Tech",
-          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-          "date": "2026-07-25T16:00:00.000Z",
-          "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "One fallen power line exposed a growing AI data center problem. Heres how to fix it.",
-          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-          "date": "2026-07-25T13:05:00.000Z",
-          "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "I tried out OpenAIs new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-          "date": "2026-07-25T00:23:11.000Z",
-          "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-          "date": "2026-07-24T22:25:58.000Z",
-          "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic launches Opus 5",
-          "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-          "date": "2026-07-24T17:00:00.000Z",
-          "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-          "date": "2026-07-24T15:51:49.000Z",
-          "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Midjourney acquired the astrology app Co-Star",
-          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-          "date": "2026-07-24T15:09:55.000Z",
-          "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs new voice mode makes it to the ChatGPT desktop app",
-          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-          "date": "2026-07-24T13:36:42.000Z",
-          "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
           "source": "TechCrunch"
         }
       ]
@@ -129,6 +122,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "date": "2026-07-27T18:32:11.000Z",
+          "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
           "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
@@ -141,27 +141,6 @@
           "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
           "date": "2026-07-24T18:07:32.000Z",
           "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-          "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-          "date": "2026-07-24T15:13:57.000Z",
-          "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs new voice mode makes it to the ChatGPT desktop app",
-          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-          "date": "2026-07-24T13:36:42.000Z",
-          "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-          "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-          "date": "2026-07-23T18:38:34.000Z",
-          "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
           "source": "TechCrunch"
         }
       ]
@@ -178,13 +157,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-          "date": "2026-07-23T20:33:02.000Z",
-          "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "3 Google updates from Galaxy Unpacked 2026",
           "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
           "date": "2026-07-22T13:00:00.000Z",
@@ -198,6 +170,27 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+          "date": "2026-07-27T20:19:42.000Z",
+          "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+          "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+          "date": "2026-07-27T17:28:42.000Z",
+          "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "This $9 key physically locks your most addictive apps",
+          "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+          "date": "2026-07-27T15:25:37.000Z",
+          "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
           "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
           "date": "2026-07-26T01:30:00.000Z",
@@ -209,20 +202,6 @@
           "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
           "date": "2026-07-24T18:07:32.000Z",
           "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-          "date": "2026-07-24T15:51:49.000Z",
-          "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-          "date": "2026-07-24T14:00:00.000Z",
-          "description": "Chinese AI lab Moonshotsopen model Kimi went viral this weekfor reasons that had less to do with the model itself and more to do withhow the U.S. AI industry reacted to it. Meanwhile, an unreleased Op...",
           "source": "TechCrunch"
         }
       ]
