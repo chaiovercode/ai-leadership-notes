@@ -1,10 +1,24 @@
 {
-  "updated": "2026-07-29T04:10:05.747Z",
+  "updated": "2026-07-30T03:54:34.671Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "date": "2026-07-30T00:21:06.000Z",
+          "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+          "date": "2026-07-29T11:00:00.000Z",
+          "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
           "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
@@ -18,27 +32,6 @@
           "date": "2026-07-28T00:13:33.000Z",
           "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-          "date": "2026-07-27T21:17:11.000Z",
-          "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-          "date": "2026-07-27T18:32:11.000Z",
-          "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Are brain waves the next unlock for physical AI?",
-          "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-          "date": "2026-07-27T00:19:14.000Z",
-          "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -46,6 +39,41 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "date": "2026-07-30T00:21:06.000Z",
+          "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "date": "2026-07-29T22:46:03.000Z",
+          "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+          "date": "2026-07-29T21:07:48.000Z",
+          "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+          "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+          "date": "2026-07-29T19:44:49.000Z",
+          "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+          "date": "2026-07-29T18:45:27.000Z",
+          "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Sam Altman is ready to decelerate",
           "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
@@ -80,41 +108,6 @@
           "date": "2026-07-28T13:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp\"&gt;These AI features can help you craft a menu, design a tablescape, and handl...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Anthropics Dario Amodei responds: doesnt oppose open-weight models, but fears Chinese AI",
-          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-          "date": "2026-07-28T00:13:33.000Z",
-          "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-          "date": "2026-07-27T21:17:11.000Z",
-          "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-          "date": "2026-07-27T20:19:42.000Z",
-          "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-          "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-          "date": "2026-07-27T17:28:42.000Z",
-          "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Threads users can now chat with Meta AI in their DMs",
-          "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-          "date": "2026-07-27T16:45:24.000Z",
-          "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -122,6 +115,34 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "date": "2026-07-29T23:00:11.000Z",
+          "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Zuckerberg says Metas enterprise AI opportunity extends beyond agents",
+          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "date": "2026-07-29T22:23:12.000Z",
+          "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Discover whats next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "date": "2026-07-29T21:16:39.000Z",
+          "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+          "date": "2026-07-29T14:41:06.000Z",
+          "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
           "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
@@ -142,13 +163,6 @@
           "date": "2026-07-28T16:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\"&gt;We’re announcing even more new capabilities in Managed Agents in Gemini ...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-          "date": "2026-07-27T18:32:11.000Z",
-          "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -156,6 +170,41 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Zuckerberg says Metas enterprise AI opportunity extends beyond agents",
+          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "date": "2026-07-29T22:23:12.000Z",
+          "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Discover whats next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "date": "2026-07-29T21:16:39.000Z",
+          "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+          "date": "2026-07-29T15:35:09.000Z",
+          "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+          "date": "2026-07-29T14:41:06.000Z",
+          "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+          "date": "2026-07-29T11:00:00.000Z",
+          "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
           "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
@@ -190,13 +239,6 @@
           "date": "2026-07-28T04:30:00.000Z",
           "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "3 Google updates from Galaxy Unpacked 2026",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-          "date": "2026-07-22T13:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp\"&gt;We shared how Samsung users can boost productivity and get time back on new ...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -205,32 +247,18 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+          "date": "2026-07-29T21:07:48.000Z",
+          "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "5 ways AI Mode in Search helps you enjoy the real world",
           "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
           "date": "2026-07-28T13:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp\"&gt;It might sound counterintuitive, but Search's AI tools can actually hel...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-          "date": "2026-07-27T20:19:42.000Z",
-          "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-          "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-          "date": "2026-07-27T17:28:42.000Z",
-          "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "This $9 key physically locks your most addictive apps",
-          "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-          "date": "2026-07-27T15:25:37.000Z",
-          "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-          "source": "TechCrunch"
         }
       ]
     }
