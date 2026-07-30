@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-29T13:42:31.225Z",
+  "updated": "2026-07-30T13:23:45.860Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "KOReader",
-      "url": "https://koreader.rocks/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49095865",
-      "score": 213,
-      "comments": 79
-    },
-    {
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "url": "https://arxiv.org/abs/2607.25398",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096969",
-      "score": 26,
-      "comments": 3
-    },
-    {
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096188",
-      "score": 119,
-      "comments": 98
-    },
-    {
-      "title": "After the AI Crash",
-      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096953",
-      "score": 17,
-      "comments": 3
-    },
-    {
-      "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096917",
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "hnUrl": "https://news.ycombinator.com/item?id=49109165",
       "score": 19,
-      "comments": 1
+      "comments": 7
     },
     {
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "hnUrl": "https://news.ycombinator.com/item?id=49093569",
-      "score": 283,
-      "comments": 92
-    },
-    {
-      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096427",
-      "score": 14,
-      "comments": 3
-    },
-    {
-      "title": "User Interfaces of the Demo Scene",
-      "url": "https://www.datagubbe.se/scenegui/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49093434",
-      "score": 289,
-      "comments": 48
-    },
-    {
-      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-      "hnUrl": "https://news.ycombinator.com/item?id=49094346",
-      "score": 130,
-      "comments": 49
-    },
-    {
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "hnUrl": "https://news.ycombinator.com/item?id=49089755",
-      "score": 545,
-      "comments": 196
-    },
-    {
-      "title": "French musician Kavinsky found dead",
-      "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096290",
-      "score": 110,
-      "comments": 27
-    },
-    {
-      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-      "url": "https://echologue.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096767",
-      "score": 6,
-      "comments": 5
-    },
-    {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "hnUrl": "https://news.ycombinator.com/item?id=49090607",
-      "score": 364,
-      "comments": 100
-    },
-    {
-      "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
-      "url": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
-      "hnUrl": "https://news.ycombinator.com/item?id=49012754",
-      "score": 40,
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49107246",
+      "score": 85,
       "comments": 30
     },
     {
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49086788",
-      "score": 592,
-      "comments": 313
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "hnUrl": "https://news.ycombinator.com/item?id=49103285",
+      "score": 541,
+      "comments": 279
+    },
+    {
+      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49107713",
+      "score": 40,
+      "comments": 27
+    },
+    {
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "hnUrl": "https://news.ycombinator.com/item?id=49107749",
+      "score": 45,
+      "comments": 31
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "hnUrl": "https://news.ycombinator.com/item?id=49108840",
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49102774",
+      "score": 747,
+      "comments": 286
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49108685",
+      "score": 118,
+      "comments": 116
+    },
+    {
+      "title": "What it means for an API to be RESTful",
+      "url": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49108966",
+      "score": 8,
+      "comments": 2
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49104117",
+      "score": 328,
+      "comments": 92
+    },
+    {
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
+      "hnUrl": "https://news.ycombinator.com/item?id=49108778",
+      "score": 12,
+      "comments": 0
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49104335",
+      "score": 296,
+      "comments": 131
+    },
+    {
+      "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+      "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+      "hnUrl": "https://news.ycombinator.com/item?id=49108963",
+      "score": 5,
+      "comments": 1
+    },
+    {
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49107950",
+      "score": 157,
+      "comments": 187
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "hnUrl": "https://news.ycombinator.com/item?id=49099715",
+      "score": 410,
+      "comments": 169
     }
   ]
 }
