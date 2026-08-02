@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-01T12:52:40.826Z",
+  "updated": "2026-08-02T12:54:58.464Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
-      "url": "https://freeaipromptgen.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49133672",
-      "score": 9,
-      "comments": 1
+      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "url": "https://website-auditor.io/ai-visibility-index",
+      "hnUrl": "https://news.ycombinator.com/item?id=49143630",
+      "score": 21,
+      "comments": 15
     },
     {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-      "score": 1384,
-      "comments": 335
-    },
-    {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49130604",
-      "score": 152,
-      "comments": 55
-    },
-    {
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "hnUrl": "https://news.ycombinator.com/item?id=49126604",
-      "score": 592,
-      "comments": 123
-    },
-    {
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49129990",
-      "score": 248,
-      "comments": 140
-    },
-    {
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "hnUrl": "https://news.ycombinator.com/item?id=49130726",
-      "score": 100,
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "hnUrl": "https://news.ycombinator.com/item?id=49143414",
+      "score": 110,
       "comments": 43
     },
     {
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49132460",
-      "score": 118,
-      "comments": 65
-    },
-    {
-      "title": "Software for One",
-      "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "hnUrl": "https://news.ycombinator.com/item?id=49096605",
-      "score": 141,
-      "comments": 132
-    },
-    {
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49132130",
-      "score": 199,
-      "comments": 178
-    },
-    {
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "hnUrl": "https://news.ycombinator.com/item?id=49117089",
-      "score": 146,
-      "comments": 65
-    },
-    {
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "hnUrl": "https://news.ycombinator.com/item?id=49123386",
-      "score": 269,
-      "comments": 115
-    },
-    {
-      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49077646",
-      "score": 48,
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49143001",
+      "score": 39,
       "comments": 4
     },
     {
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49126765",
-      "score": 166,
-      "comments": 50
+      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "url": "https://github.com/syncular/syncular",
+      "hnUrl": "https://news.ycombinator.com/item?id=49142794",
+      "score": 31,
+      "comments": 12
     },
     {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49125034",
-      "score": 200,
+      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49095763",
+      "score": 22,
+      "comments": 16
+    },
+    {
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49140218",
+      "score": 253,
       "comments": 102
     },
     {
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49121196",
-      "score": 161,
-      "comments": 35
+      "title": "Show HN: Fuse – statically typed functional programming language",
+      "url": "https://fuselang.org",
+      "hnUrl": "https://news.ycombinator.com/item?id=49143412",
+      "score": 10,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "hnUrl": "https://news.ycombinator.com/item?id=49140396",
+      "score": 194,
+      "comments": 58
+    },
+    {
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "hnUrl": "https://news.ycombinator.com/item?id=49138302",
+      "score": 378,
+      "comments": 197
+    },
+    {
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49138188",
+      "score": 393,
+      "comments": 49
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49140702",
+      "score": 66,
+      "comments": 3
+    },
+    {
+      "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "url": "https://github.com/kamalfarahani/katharos",
+      "hnUrl": "https://news.ycombinator.com/item?id=49143179",
+      "score": 5,
+      "comments": 1
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "hnUrl": "https://news.ycombinator.com/item?id=49141073",
+      "score": 153,
+      "comments": 67
+    },
+    {
+      "title": "IBM i (OS/400) the Database Operating System",
+      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49141937",
+      "score": 24,
+      "comments": 12
+    },
+    {
+      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+      "hnUrl": "https://news.ycombinator.com/item?id=49143688",
+      "score": 22,
+      "comments": 1
     }
   ]
 }
