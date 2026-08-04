@@ -1,10 +1,24 @@
 {
-  "updated": "2026-08-03T04:27:59.990Z",
+  "updated": "2026-08-04T04:11:10.361Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "date": "2026-08-03T20:00:00.000Z",
+          "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "date": "2026-08-03T19:28:57.000Z",
+          "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Sam Altman isnt the only one who wants to pump the brakes on AI",
           "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
@@ -18,20 +32,6 @@
           "date": "2026-07-31T14:47:11.000Z",
           "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-          "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-          "date": "2026-07-31T14:00:00.000Z",
-          "description": "After years of pushing full speed ahead on AI,OpenAI CEOSam Altman saysmaybe it’stime for the AI industry to “pace” itself. The comments camejust days after one of OpenAIs own models broke out of its ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic says its own AI models breached three companies during security tests",
-          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-          "date": "2026-07-31T01:06:54.000Z",
-          "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -40,10 +40,24 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Influencers draw backlash for attending OpenAIs first luxury trip",
+          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "date": "2026-08-03T19:09:56.000Z",
+          "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Congress favorite AI tool? ChatGPT",
+          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "date": "2026-08-03T16:40:55.000Z",
+          "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Sam Altman and AI’s decel debate",
           "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
           "date": "2026-08-02T20:54:22.000Z",
-          "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
           "source": "TechCrunch"
         },
         {
@@ -57,7 +71,7 @@
           "title": "Sam Altman is still making the case for parenting via ChatGPT",
           "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
           "date": "2026-08-01T17:07:34.000Z",
-          "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+          "description": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
           "source": "TechCrunch"
         },
         {
@@ -94,20 +108,6 @@
           "date": "2026-07-31T16:49:08.000Z",
           "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Siri AI could come with a paywall for power users",
-          "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-          "date": "2026-07-31T16:08:18.000Z",
-          "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-          "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-          "date": "2026-07-31T15:16:17.000Z",
-          "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -136,6 +136,34 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry Marxist",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "date": "2026-08-03T23:19:50.000Z",
+          "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "date": "2026-08-03T20:00:00.000Z",
+          "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "date": "2026-08-03T19:28:57.000Z",
+          "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+          "date": "2026-08-03T10:00:00.000Z",
+          "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
           "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
           "date": "2026-07-31T14:47:11.000Z",
@@ -148,6 +176,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+          "date": "2026-08-03T18:43:43.000Z",
+          "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
           "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -167,20 +202,6 @@
           "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
           "date": "2026-08-01T15:58:17.000Z",
           "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Reddit reports a solid quarter but shows signs of AIs impact",
-          "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-          "date": "2026-07-30T23:08:58.000Z",
-          "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-          "date": "2026-07-30T20:26:38.000Z",
-          "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
           "source": "TechCrunch"
         },
         {
