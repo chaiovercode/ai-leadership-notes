@@ -1,10 +1,17 @@
 {
-  "updated": "2026-08-04T04:11:10.361Z",
+  "updated": "2026-08-05T03:58:21.558Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "date": "2026-08-04T20:05:26.000Z",
+          "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and...",
+          "source": "TechCrunch"
+        },
         {
           "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
           "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
@@ -18,20 +25,6 @@
           "date": "2026-08-03T19:28:57.000Z",
           "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Sam Altman isnt the only one who wants to pump the brakes on AI",
-          "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-          "date": "2026-07-31T17:26:32.000Z",
-          "description": "After years of pushing full speed ahead on AI,OpenAI CEOSam Altman saysmaybe it’stime for the AI industry to “pace” itself. The comments camejust days after one of OpenAIs own models broke out of its ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-          "date": "2026-07-31T14:47:11.000Z",
-          "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -39,6 +32,55 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+          "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+          "date": "2026-08-04T21:07:26.000Z",
+          "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "date": "2026-08-04T19:48:40.000Z",
+          "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Spotify expands AI remix and covers project with Merlin partnership",
+          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+          "date": "2026-08-04T15:50:06.000Z",
+          "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "date": "2026-08-04T14:03:01.000Z",
+          "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Is the future of data centers portable? Runware builds a pod to find out",
+          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+          "date": "2026-08-04T13:00:00.000Z",
+          "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The latest AI news we announced in July 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+          "date": "2026-08-04T13:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from July 2026",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+          "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+          "date": "2026-08-04T12:00:00.000Z",
+          "description": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Influencers draw backlash for attending OpenAIs first luxury trip",
           "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
@@ -59,55 +101,6 @@
           "date": "2026-08-02T20:54:22.000Z",
           "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
           "source": "TechCrunch"
-        },
-        {
-          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-          "date": "2026-08-01T19:45:45.000Z",
-          "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sam Altman is still making the case for parenting via ChatGPT",
-          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-          "date": "2026-08-01T17:07:34.000Z",
-          "description": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-          "date": "2026-07-31T22:47:26.000Z",
-          "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "India is starting to pay for apps, not just download them",
-          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-          "date": "2026-07-31T21:07:45.000Z",
-          "description": "India's app market generated a record $345 million in Q2.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-          "date": "2026-07-31T19:47:28.000Z",
-          "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sam Altman isnt the only one who wants to pump the brakes on AI",
-          "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-          "date": "2026-07-31T17:26:32.000Z",
-          "description": "After years of pushing full speed ahead on AI,OpenAI CEOSam Altman saysmaybe it’stime for the AI industry to “pace” itself. The comments camejust days after one of OpenAIs own models broke out of its ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-          "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-          "date": "2026-07-31T16:49:08.000Z",
-          "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -116,17 +109,17 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-          "date": "2026-07-31T22:47:26.000Z",
-          "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+          "title": "Nvidia doesnt mess around: A week after open AI industry group formed, its already showing progress",
+          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+          "date": "2026-08-04T19:28:49.000Z",
+          "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
           "source": "TechCrunch"
         },
         {
-          "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-          "date": "2026-07-28T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\"&gt;We’re announcing even more new capabilities in Managed Agents in Gemini ...",
+          "title": "Inside our 353,000-person vibe coding course",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+          "date": "2026-08-03T15:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp\"&gt;Kaggle’s AI Agents Intensive with Google brought learners together...",
           "source": "Google AI Blog"
         }
       ]
@@ -135,6 +128,20 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "date": "2026-08-04T19:48:40.000Z",
+          "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+          "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+          "date": "2026-08-04T15:20:06.000Z",
+          "description": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+          "source": "TechCrunch"
+        },
         {
           "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry Marxist",
           "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -162,13 +169,6 @@
           "date": "2026-08-03T10:00:00.000Z",
           "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-          "date": "2026-07-31T14:47:11.000Z",
-          "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -176,6 +176,27 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "date": "2026-08-04T20:05:26.000Z",
+          "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+          "date": "2026-08-04T19:34:34.000Z",
+          "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Texas halts new data centers as governor calls for audits",
+          "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+          "date": "2026-08-04T15:42:35.000Z",
+          "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
           "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
@@ -189,27 +210,6 @@
           "date": "2026-08-01T20:26:04.000Z",
           "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-          "date": "2026-08-01T19:45:45.000Z",
-          "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "This $9 key physically locks your most addictive apps",
-          "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-          "date": "2026-08-01T15:58:17.000Z",
-          "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "5 ways AI Mode in Search helps you enjoy the real world",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-          "date": "2026-07-28T13:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp\"&gt;It might sound counterintuitive, but Search's AI tools can actually hel...",
-          "source": "Google AI Blog"
         }
       ]
     }
