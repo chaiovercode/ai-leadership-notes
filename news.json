@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-07T12:37:11.873Z",
+  "updated": "2026-08-08T12:23:12.726Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "hnUrl": "https://news.ycombinator.com/item?id=49208314",
-      "score": 308,
-      "comments": 274
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49220609",
+      "score": 37,
+      "comments": 37
     },
     {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "hnUrl": "https://news.ycombinator.com/item?id=49204352",
-      "score": 385,
-      "comments": 238
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "hnUrl": "https://news.ycombinator.com/item?id=49219508",
+      "score": 162,
+      "comments": 51
     },
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "hnUrl": "https://news.ycombinator.com/item?id=49201970",
-      "score": 732,
-      "comments": 546
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49220126",
+      "score": 29,
+      "comments": 4
     },
     {
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "hnUrl": "https://news.ycombinator.com/item?id=49199346",
-      "score": 489,
-      "comments": 353
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49189457",
+      "score": 262,
+      "comments": 58
     },
     {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49184355",
-      "score": 251,
-      "comments": 53
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "hnUrl": "https://news.ycombinator.com/item?id=49214008",
+      "score": 663,
+      "comments": 399
     },
     {
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "hnUrl": "https://news.ycombinator.com/item?id=49202716",
-      "score": 148,
-      "comments": 43
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49216946",
+      "score": 260,
+      "comments": 93
     },
     {
-      "title": "São Paulo resident transforms degraded area into urban forest",
-      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49138446",
-      "score": 179,
-      "comments": 69
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49209539",
+      "score": 736,
+      "comments": 821
     },
     {
-      "title": "What is a product?",
-      "url": "https://roge.onwrite.app/what-is-a-product",
-      "hnUrl": "https://news.ycombinator.com/item?id=49202690",
-      "score": 75,
-      "comments": 46
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "hnUrl": "https://news.ycombinator.com/item?id=49214098",
+      "score": 360,
+      "comments": 91
     },
     {
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "hnUrl": "https://news.ycombinator.com/item?id=49198302",
-      "score": 426,
-      "comments": 350
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49214770",
+      "score": 214,
+      "comments": 70
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49199357",
-      "score": 259,
-      "comments": 202
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "hnUrl": "https://news.ycombinator.com/item?id=49218179",
+      "score": 268,
+      "comments": 50
     },
     {
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=49198464",
-      "score": 209,
-      "comments": 148
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "hnUrl": "https://news.ycombinator.com/item?id=49135261",
+      "score": 122,
+      "comments": 26
     },
     {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49203105",
-      "score": 171,
-      "comments": 27
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49220350",
+      "score": 94,
+      "comments": 89
     },
     {
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49201003",
-      "score": 227,
-      "comments": 161
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "hnUrl": "https://news.ycombinator.com/item?id=49207236",
+      "score": 398,
+      "comments": 373
     },
     {
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49152255",
-      "score": 220,
-      "comments": 183
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "hnUrl": "https://news.ycombinator.com/item?id=49214468",
+      "score": 256,
+      "comments": 217
     },
     {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49195468",
-      "score": 316,
-      "comments": 223
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49220390",
+      "score": 15,
+      "comments": 22
     }
   ]
 }
