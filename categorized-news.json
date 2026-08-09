@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T02:52:56.543Z",
+  "updated": "2026-08-09T03:00:46.785Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -18,6 +18,20 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "date": "2026-08-08T21:24:02.000Z",
+          "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "date": "2026-08-08T19:41:13.000Z",
+          "description": "NextSlide says its team members are now working on ChatGPT.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI says it slowed Astra model development over security concerns",
           "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -73,20 +87,6 @@
           "date": "2026-08-06T15:10:32.000Z",
           "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Amid legal battles, Suno says it will start watermarking songs",
-          "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-          "date": "2026-08-06T13:31:57.000Z",
-          "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-          "date": "2026-08-06T13:00:00.000Z",
-          "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -136,6 +136,13 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "date": "2026-08-08T19:41:13.000Z",
+          "description": "NextSlide says its team members are now working on ChatGPT.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
           "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
           "date": "2026-08-06T17:00:37.000Z",
@@ -154,13 +161,6 @@
           "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
           "date": "2026-08-06T12:00:00.000Z",
           "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-          "date": "2026-08-05T19:30:19.000Z",
-          "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
           "source": "TechCrunch"
         }
       ]
