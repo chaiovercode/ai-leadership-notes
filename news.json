@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-08T12:23:12.726Z",
+  "updated": "2026-08-09T12:25:31.751Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49220609",
-      "score": 37,
-      "comments": 37
+      "title": "My server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49226636",
+      "score": 369,
+      "comments": 155
     },
     {
-      "title": "Hardware backdoors in some x86 CPUs",
-      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "hnUrl": "https://news.ycombinator.com/item?id=49219508",
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "url": "https://github.com/jmarshall23/msword",
+      "hnUrl": "https://news.ycombinator.com/item?id=49228663",
+      "score": 97,
+      "comments": 43
+    },
+    {
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "url": "https://os8088.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49226923",
+      "score": 190,
+      "comments": 116
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49223082",
+      "score": 444,
+      "comments": 238
+    },
+    {
+      "title": "Improving Heuristics for A* Pathfinding",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49079995",
+      "score": 272,
+      "comments": 28
+    },
+    {
+      "title": "Dithered QR Codes",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49226742",
+      "score": 245,
+      "comments": 20
+    },
+    {
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "hnUrl": "https://news.ycombinator.com/item?id=49226536",
+      "score": 237,
+      "comments": 150
+    },
+    {
+      "title": "You might want to build your WebApp in Canvas instead of HTML",
+      "url": "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49154190",
+      "score": 18,
+      "comments": 15
+    },
+    {
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "url": "http://longbets.org/601/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49228458",
       "score": 162,
+      "comments": 73
+    },
+    {
+      "title": "_for-sale DNS records",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49221668",
+      "score": 406,
+      "comments": 157
+    },
+    {
+      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "hnUrl": "https://news.ycombinator.com/item?id=49227365",
+      "score": 147,
+      "comments": 140
+    },
+    {
+      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+      "url": "https://airy.so",
+      "hnUrl": "https://news.ycombinator.com/item?id=49229848",
+      "score": 5,
+      "comments": 3
+    },
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "hnUrl": "https://news.ycombinator.com/item?id=49225139",
+      "score": 165,
+      "comments": 44
+    },
+    {
+      "title": "Making difficulty curves in games",
+      "url": "http://www.davetech.co.uk/difficultycurves",
+      "hnUrl": "https://news.ycombinator.com/item?id=49180649",
+      "score": 130,
       "comments": 51
     },
     {
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49220126",
-      "score": 29,
-      "comments": 4
-    },
-    {
-      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
-      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49189457",
-      "score": 262,
-      "comments": 58
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "hnUrl": "https://news.ycombinator.com/item?id=49214008",
-      "score": 663,
-      "comments": 399
-    },
-    {
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49216946",
-      "score": 260,
-      "comments": 93
-    },
-    {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49209539",
-      "score": 736,
-      "comments": 821
-    },
-    {
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "hnUrl": "https://news.ycombinator.com/item?id=49214098",
-      "score": 360,
-      "comments": 91
-    },
-    {
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49214770",
-      "score": 214,
-      "comments": 70
-    },
-    {
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "hnUrl": "https://news.ycombinator.com/item?id=49218179",
-      "score": 268,
-      "comments": 50
-    },
-    {
-      "title": "SupererDuperer",
-      "url": "https://www.shirtpocket.com/blog/supererduperer",
-      "hnUrl": "https://news.ycombinator.com/item?id=49135261",
-      "score": 122,
-      "comments": 26
-    },
-    {
-      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49220350",
-      "score": 94,
-      "comments": 89
-    },
-    {
-      "title": "2027 memory capacity is reportedly sold out",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "hnUrl": "https://news.ycombinator.com/item?id=49207236",
-      "score": 398,
-      "comments": 373
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "hnUrl": "https://news.ycombinator.com/item?id=49214468",
-      "score": 256,
-      "comments": 217
-    },
-    {
-      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49220390",
-      "score": 15,
-      "comments": 22
+      "title": "Why MySpace fans want it back as relaunch hinted",
+      "url": "https://www.bbc.com/news/articles/c4g64152v71o",
+      "hnUrl": "https://news.ycombinator.com/item?id=49228426",
+      "score": 22,
+      "comments": 24
     }
   ]
 }
