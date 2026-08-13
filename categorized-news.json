@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T03:21:26.181Z",
+  "updated": "2026-08-13T03:25:15.935Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -18,20 +18,6 @@
           "date": "2026-08-11T12:13:47.000Z",
           "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-          "date": "2026-08-10T23:56:15.000Z",
-          "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-          "date": "2026-08-10T16:20:13.000Z",
-          "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -39,6 +25,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Some Claude users are mad that Anthropics new watermarks will catch them using it at their jobs, classes",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "date": "2026-08-12T22:26:37.000Z",
+          "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon will train on Twitch streamers content by default, unless they opt out",
+          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "date": "2026-08-12T20:10:40.000Z",
+          "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "date": "2026-08-12T17:41:29.000Z",
+          "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+          "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+          "date": "2026-08-12T16:46:02.000Z",
+          "description": "AI notetaking hardware has taken offoverthe pastcouple of years, with credit-card-sized devices, pendants, pins,andeven transcribing earbuds all promising to capture your meetings and turn them into s...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+          "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+          "date": "2026-08-12T14:22:00.000Z",
+          "description": "AI notetaking hardware has taken offoverthe pastcouple of years, with credit-card-sized devices, pendants, pins,andeven transcribing earbuds all promising to capture your meetings and turn them into s...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Everything announced at Made by Google 26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+          "date": "2026-08-12T14:20:33.000Z",
+          "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
           "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
@@ -66,48 +94,6 @@
           "date": "2026-08-11T17:41:34.000Z",
           "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-          "date": "2026-08-11T17:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp\"&gt;Google introduces AMIE for real-time clinical video consultati...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "An unreleased Anthropic model made progress on one of maths biggest unsolved problems",
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-          "date": "2026-08-11T16:25:20.000Z",
-          "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Spotify will label AI Persona profiles and exclude their music from recommendations",
-          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-          "date": "2026-08-11T13:00:00.000Z",
-          "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic says it will watermark text generated by its AI models",
-          "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-          "date": "2026-08-11T12:13:47.000Z",
-          "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-          "date": "2026-08-11T00:03:18.000Z",
-          "description": "San Francisco's housing market is in trouble again.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-          "date": "2026-08-10T23:56:15.000Z",
-          "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -123,25 +109,11 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-          "date": "2026-08-10T20:04:24.000Z",
-          "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Evolve your marketing with new AI tools",
           "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
           "date": "2026-08-10T14:30:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp\"&gt;Learn how new AI and agentic experiences across Google Ads and Google Analy...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "date": "2026-08-09T14:30:00.000Z",
-          "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with ...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -150,24 +122,45 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "date": "2026-08-12T18:19:12.000Z",
+          "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "date": "2026-08-12T17:41:29.000Z",
+          "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+          "date": "2026-08-12T16:04:27.000Z",
+          "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+          "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+          "date": "2026-08-12T15:44:56.000Z",
+          "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI code-testing startup Blacksmiths valuation jumps almost 10x in less than a year",
+          "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+          "date": "2026-08-12T11:00:00.000Z",
+          "description": "Blacksmith says revenue has grown more than tenfold over the past year.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
           "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
           "date": "2026-08-11T17:41:22.000Z",
           "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-          "date": "2026-08-09T20:35:17.000Z",
-          "description": "The AI-focused hedge fund is still making some big bets.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI acquires presentation startup NextSlide",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-          "date": "2026-08-08T19:41:13.000Z",
-          "description": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
           "source": "TechCrunch"
         }
       ]
@@ -177,38 +170,24 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+          "date": "2026-08-12T17:51:00.000Z",
+          "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Mesh, Automattics CRM for everyone, comes to Android",
+          "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+          "date": "2026-08-12T16:57:58.000Z",
+          "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Google’s Gemini app surges to 1 billion users",
           "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
           "date": "2026-08-11T18:49:12.000Z",
           "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Mark Zuckerbergs AI manifesto is exactly why people dont like AI",
-          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-          "date": "2026-08-10T20:53:02.000Z",
-          "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-          "date": "2026-08-10T20:04:24.000Z",
-          "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "date": "2026-08-09T14:30:00.000Z",
-          "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-          "date": "2026-08-08T21:24:02.000Z",
-          "description": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040...",
           "source": "TechCrunch"
         }
       ]
