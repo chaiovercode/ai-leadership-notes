@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-13T12:41:57.668Z",
+  "updated": "2026-08-14T12:37:34.588Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49281916",
-      "score": 245,
-      "comments": 159
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "hnUrl": "https://news.ycombinator.com/item?id=49294997",
+      "score": 637,
+      "comments": 309
     },
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-      "score": 967,
-      "comments": 418
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49296627",
+      "score": 80,
+      "comments": 36
     },
     {
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-      "score": 1097,
-      "comments": 205
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49289112",
+      "score": 887,
+      "comments": 451
     },
     {
-      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-      "url": "https://atg.science/careers",
-      "hnUrl": "https://news.ycombinator.com/item?id=49284697",
-      "score": 1,
-      "comments": 0
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "hnUrl": "https://news.ycombinator.com/item?id=49289844",
+      "score": 640,
+      "comments": 252
     },
     {
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "hnUrl": "https://news.ycombinator.com/item?id=49273478",
-      "score": 660,
-      "comments": 154
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49290166",
+      "score": 270,
+      "comments": 145
     },
     {
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "hnUrl": "https://news.ycombinator.com/item?id=49276574",
-      "score": 593,
-      "comments": 220
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49296740",
+      "score": 148,
+      "comments": 136
     },
     {
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49279928",
-      "score": 197,
-      "comments": 91
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "hnUrl": "https://news.ycombinator.com/item?id=49295238",
+      "score": 48,
+      "comments": 11
     },
     {
-      "title": "Antiqua–Fraktur dispute",
-      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-      "hnUrl": "https://news.ycombinator.com/item?id=49242698",
-      "score": 120,
-      "comments": 35
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49285244",
+      "score": 686,
+      "comments": 279
     },
     {
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49270726",
-      "score": 585,
-      "comments": 701
+      "title": "We're not done with point clouds",
+      "url": "https://claytonwramsey.com/blog/mvt/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49247628",
+      "score": 21,
+      "comments": 2
     },
     {
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49270953",
-      "score": 499,
-      "comments": 134
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "hnUrl": "https://news.ycombinator.com/item?id=49286341",
+      "score": 656,
+      "comments": 167
     },
     {
-      "title": "Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "hnUrl": "https://news.ycombinator.com/item?id=49280061",
-      "score": 143,
-      "comments": 156
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "hnUrl": "https://news.ycombinator.com/item?id=49288889",
+      "score": 376,
+      "comments": 152
     },
     {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49269429",
-      "score": 124,
-      "comments": 102
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "url": "https://github.com/JustVugg/lumabri",
+      "hnUrl": "https://news.ycombinator.com/item?id=49293523",
+      "score": 37,
+      "comments": 12
     },
     {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "hnUrl": "https://news.ycombinator.com/item?id=49274027",
-      "score": 584,
-      "comments": 532
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "hnUrl": "https://news.ycombinator.com/item?id=49293324",
+      "score": 177,
+      "comments": 46
     },
     {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49272655",
-      "score": 282,
-      "comments": 35
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "hnUrl": "https://news.ycombinator.com/item?id=49290299",
+      "score": 365,
+      "comments": 196
     },
     {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49275335",
-      "score": 221,
-      "comments": 153
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "hnUrl": "https://news.ycombinator.com/item?id=49289512",
+      "score": 374,
+      "comments": 200
     }
   ]
 }
