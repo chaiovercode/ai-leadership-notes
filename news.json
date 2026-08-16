@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-15T12:14:49.744Z",
+  "updated": "2026-08-16T12:16:04.705Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49309549",
-      "score": 19,
-      "comments": 1
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49268580",
+      "score": 463,
+      "comments": 301
     },
     {
-      "title": "The other Sean Byrne doesn't exist",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49307592",
-      "score": 234,
-      "comments": 114
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "hnUrl": "https://news.ycombinator.com/item?id=49316271",
+      "score": 120,
+      "comments": 67
     },
     {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-      "score": 1194,
-      "comments": 715
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "hnUrl": "https://news.ycombinator.com/item?id=49243061",
+      "score": 186,
+      "comments": 21
     },
     {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49304447",
-      "score": 365,
-      "comments": 170
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49314902",
+      "score": 187,
+      "comments": 118
     },
     {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49307700",
-      "score": 50,
-      "comments": 14
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49313428",
+      "score": 278,
+      "comments": 174
     },
     {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49300314",
-      "score": 420,
-      "comments": 255
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "hnUrl": "https://news.ycombinator.com/item?id=49311651",
+      "score": 440,
+      "comments": 319
     },
     {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49303202",
-      "score": 1184,
-      "comments": 459
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "hnUrl": "https://news.ycombinator.com/item?id=49314235",
+      "score": 192,
+      "comments": 47
     },
     {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49300759",
-      "score": 310,
-      "comments": 129
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49317760",
+      "score": 152,
+      "comments": 116
     },
     {
-      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "hnUrl": "https://news.ycombinator.com/item?id=49306577",
-      "score": 206,
-      "comments": 51
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49310682",
+      "score": 264,
+      "comments": 100
     },
     {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49300568",
-      "score": 323,
-      "comments": 23
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "hnUrl": "https://news.ycombinator.com/item?id=49313367",
+      "score": 148,
+      "comments": 81
     },
     {
-      "title": "eigendrum",
-      "url": "https://eigendrum.com/#p=circle",
-      "hnUrl": "https://news.ycombinator.com/item?id=49305250",
-      "score": 179,
-      "comments": 49
+      "title": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "hnUrl": "https://news.ycombinator.com/item?id=49298035",
+      "score": 331,
+      "comments": 378
     },
     {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "hnUrl": "https://news.ycombinator.com/item?id=49300800",
-      "score": 251,
-      "comments": 134
+      "title": "A fortuitous decade as an indie software developer",
+      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49244872",
+      "score": 100,
+      "comments": 11
     },
     {
-      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-      "url": "https://arxiv.org/abs/1811.03459",
-      "hnUrl": "https://news.ycombinator.com/item?id=49306196",
-      "score": 102,
-      "comments": 53
+      "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
+      "url": "https://notebook.link/blog/numba-in-the-browser/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49269451",
+      "score": 53,
+      "comments": 9
     },
     {
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49309050",
-      "score": 32,
-      "comments": 20
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49310926",
+      "score": 235,
+      "comments": 91
     },
     {
-      "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
-      "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
-      "hnUrl": "https://news.ycombinator.com/item?id=49272784",
-      "score": 102,
-      "comments": 22
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49314579",
+      "score": 85,
+      "comments": 31
     }
   ]
 }
