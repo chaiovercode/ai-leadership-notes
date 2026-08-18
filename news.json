@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-16T12:16:04.705Z",
+  "updated": "2026-08-18T12:20:49.215Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Asus Bike Booster",
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49268580",
-      "score": 463,
-      "comments": 301
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49342719",
+      "score": 244,
+      "comments": 74
     },
     {
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "hnUrl": "https://news.ycombinator.com/item?id=49316271",
-      "score": 120,
-      "comments": 67
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49338459",
+      "score": 573,
+      "comments": 373
     },
     {
-      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "hnUrl": "https://news.ycombinator.com/item?id=49243061",
-      "score": 186,
-      "comments": 21
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "hnUrl": "https://news.ycombinator.com/item?id=49343559",
+      "score": 130,
+      "comments": 69
     },
     {
-      "title": "Software Engineering fundamentals matter more",
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49314902",
-      "score": 187,
-      "comments": 118
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "hnUrl": "https://news.ycombinator.com/item?id=49337602",
+      "score": 507,
+      "comments": 326
     },
     {
-      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49313428",
-      "score": 278,
-      "comments": 174
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49338328",
+      "score": 386,
+      "comments": 169
     },
     {
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "hnUrl": "https://news.ycombinator.com/item?id=49311651",
-      "score": 440,
-      "comments": 319
-    },
-    {
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "hnUrl": "https://news.ycombinator.com/item?id=49314235",
-      "score": 192,
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "hnUrl": "https://news.ycombinator.com/item?id=49342530",
+      "score": 99,
       "comments": 47
     },
     {
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49317760",
-      "score": 152,
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49337392",
+      "score": 652,
+      "comments": 385
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "hnUrl": "https://news.ycombinator.com/item?id=49338285",
+      "score": 236,
+      "comments": 53
+    },
+    {
+      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+      "hnUrl": "https://news.ycombinator.com/item?id=49313360",
+      "score": 49,
+      "comments": 15
+    },
+    {
+      "title": "Ranking the Most Brilliantly Colored Birds with Data",
+      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49311115",
+      "score": 40,
+      "comments": 3
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "hnUrl": "https://news.ycombinator.com/item?id=49330781",
+      "score": 662,
       "comments": 116
     },
     {
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49310682",
-      "score": 264,
-      "comments": 100
+      "title": "The Benchmarkpocalypse",
+      "url": "https://danluu.com/benchpocalypse/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49340299",
+      "score": 129,
+      "comments": 37
     },
     {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "hnUrl": "https://news.ycombinator.com/item?id=49313367",
-      "score": 148,
-      "comments": 81
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "hnUrl": "https://news.ycombinator.com/item?id=49331423",
+      "score": 390,
+      "comments": 149
     },
     {
-      "title": "RISC-V: They Should Have Known Better",
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "hnUrl": "https://news.ycombinator.com/item?id=49298035",
-      "score": 331,
-      "comments": 378
+      "title": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "hnUrl": "https://news.ycombinator.com/item?id=49270194",
+      "score": 478,
+      "comments": 85
     },
     {
-      "title": "A fortuitous decade as an indie software developer",
-      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49244872",
-      "score": 100,
-      "comments": 11
-    },
-    {
-      "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
-      "url": "https://notebook.link/blog/numba-in-the-browser/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49269451",
-      "score": 53,
-      "comments": 9
-    },
-    {
-      "title": "A spectre is haunting Unicode",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49310926",
-      "score": 235,
-      "comments": 91
-    },
-    {
-      "title": "Tracking down a Zsh history data loss bug",
-      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49314579",
-      "score": 85,
-      "comments": 31
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "hnUrl": "https://news.ycombinator.com/item?id=49272631",
+      "score": 6,
+      "comments": 0
     }
   ]
 }
