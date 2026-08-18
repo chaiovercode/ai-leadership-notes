@@ -1,10 +1,24 @@
 {
-  "updated": "2026-08-17T02:18:07.484Z",
+  "updated": "2026-08-18T02:13:54.997Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Anthropics annualized revenue surges to $65B",
+          "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "date": "2026-08-17T23:56:26.000Z",
+          "description": "The model maker added $18 billion in annualized revenue in two months.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+          "date": "2026-08-17T16:38:44.000Z",
+          "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Google will now allow users to remove visible watermark from its AI generations",
           "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
@@ -32,13 +46,6 @@
           "date": "2026-08-13T21:13:24.000Z",
           "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI introduces Ultrafast, a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-          "date": "2026-08-13T19:22:40.000Z",
-          "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -46,6 +53,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Anthropics annualized revenue surges to $65B",
+          "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "date": "2026-08-17T23:56:26.000Z",
+          "description": "The model maker added $18 billion in annualized revenue in two months.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+          "date": "2026-08-17T16:38:44.000Z",
+          "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+          "date": "2026-08-17T15:16:24.000Z",
+          "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Get closer to the game with Gemini and Pixel",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+          "date": "2026-08-17T08:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\"&gt;Google Gemini and Pixel partner with five global football ...",
+          "source": "Google AI Blog"
+        },
         {
           "title": "Why people arent buying Mark Zuckerberg’s AI future",
           "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
@@ -75,45 +110,17 @@
           "source": "TechCrunch"
         },
         {
+          "title": "How to tell if your AI platforms’ accounts have been hacked",
+          "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+          "date": "2026-08-15T16:10:00.000Z",
+          "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
           "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
           "date": "2026-08-14T14:05:00.000Z",
           "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-          "date": "2026-08-13T21:13:24.000Z",
-          "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI introduces Ultrafast, a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-          "date": "2026-08-13T19:22:40.000Z",
-          "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "IBM partners with OpenAI to bolster enterprise AI push",
-          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-          "date": "2026-08-13T19:19:49.000Z",
-          "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-          "date": "2026-08-13T18:28:14.000Z",
-          "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI hires new CRO as executive shake-up continues",
-          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-          "date": "2026-08-13T17:07:13.000Z",
-          "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
           "source": "TechCrunch"
         }
       ]
@@ -123,25 +130,18 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "AI automation startup Relay shuts down, staff joins Googles Chrome team",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "date": "2026-08-17T21:27:05.000Z",
+          "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Kog is going deeper to squeeze more inference out of GPUs",
           "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
           "date": "2026-08-14T14:50:11.000Z",
           "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-          "date": "2026-08-13T18:28:14.000Z",
-          "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Evolve your marketing with new AI tools",
-          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-          "date": "2026-08-10T14:30:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp\"&gt;Learn how new AI and agentic experiences across Google Ads and Google Analy...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -149,6 +149,34 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Anthropics annualized revenue surges to $65B",
+          "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "date": "2026-08-17T23:56:26.000Z",
+          "description": "The model maker added $18 billion in annualized revenue in two months.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI automation startup Relay shuts down, staff joins Googles Chrome team",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "date": "2026-08-17T21:27:05.000Z",
+          "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "date": "2026-08-17T16:15:12.000Z",
+          "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+          "date": "2026-08-17T13:10:05.000Z",
+          "description": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
           "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -176,34 +204,6 @@
           "date": "2026-08-13T20:14:39.000Z",
           "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI introduces Ultrafast, a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-          "date": "2026-08-13T19:22:40.000Z",
-          "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "IBM partners with OpenAI to bolster enterprise AI push",
-          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-          "date": "2026-08-13T19:19:49.000Z",
-          "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI hires new CRO as executive shake-up continues",
-          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-          "date": "2026-08-13T17:07:13.000Z",
-          "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-          "date": "2026-08-13T15:30:52.000Z",
-          "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -219,32 +219,11 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-          "date": "2026-08-13T18:28:14.000Z",
-          "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Bring your spreadsheet data to life with Sheets canvas",
           "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
           "date": "2026-08-13T16:45:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp\"&gt;Sheets canvas turns data into interactive dashboards, cust...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-          "date": "2026-08-13T15:30:52.000Z",
-          "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nvidias new $500B plan is risky but brilliant, especially for aging GPUs",
-          "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-          "date": "2026-08-13T15:08:00.000Z",
-          "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-          "source": "TechCrunch"
         }
       ]
     }
