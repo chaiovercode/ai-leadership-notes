@@ -1,10 +1,24 @@
 {
-  "updated": "2026-08-19T02:16:49.084Z",
+  "updated": "2026-08-20T02:15:42.227Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Stripe didnt really buy OpenRouter because of the singularity",
+          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "date": "2026-08-19T23:32:00.000Z",
+          "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+          "date": "2026-08-19T18:46:14.000Z",
+          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI institutes new safeguards after Hugging Face breach",
           "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -17,13 +31,6 @@
           "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
           "date": "2026-08-17T23:56:26.000Z",
           "description": "The model maker added $18 billion in annualized revenue in two months.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-          "date": "2026-08-17T16:38:44.000Z",
-          "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
           "source": "TechCrunch"
         }
       ]
@@ -33,73 +40,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-          "date": "2026-08-18T22:14:25.000Z",
-          "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+          "title": "Stripe didnt really buy OpenRouter because of the singularity",
+          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "date": "2026-08-19T23:32:00.000Z",
+          "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI institutes new safeguards after Hugging Face breach",
-          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-          "date": "2026-08-18T18:00:00.000Z",
-          "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "date": "2026-08-19T22:10:46.000Z",
+          "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-          "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-          "date": "2026-08-18T13:50:30.000Z",
-          "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "date": "2026-08-19T21:51:23.000Z",
+          "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropics annualized revenue surges to $65B",
-          "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-          "date": "2026-08-17T23:56:26.000Z",
-          "description": "The model maker added $18 billion in annualized revenue in two months.",
+          "title": "AI was supposed to win people over by now  it hasnt",
+          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+          "date": "2026-08-19T19:11:40.000Z",
+          "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
           "source": "TechCrunch"
         },
         {
-          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-          "date": "2026-08-17T16:38:44.000Z",
-          "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+          "date": "2026-08-19T19:00:00.000Z",
+          "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA...",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-          "date": "2026-08-17T15:16:24.000Z",
-          "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Get closer to the game with Gemini and Pixel",
-          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-          "date": "2026-08-17T08:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\"&gt;Google Gemini and Pixel partner with five global football ...",
+          "title": "5 new ways to level up your learning with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+          "date": "2026-08-19T19:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\"&gt;Here’s how you can use Google Search tools to study for classes and ...",
           "source": "Google AI Blog"
         },
         {
-          "title": "Why people arent buying Mark Zuckerberg’s AI future",
-          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-          "date": "2026-08-16T20:32:01.000Z",
-          "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+          "date": "2026-08-19T18:46:14.000Z",
+          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-          "date": "2026-08-16T16:53:51.000Z",
-          "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "date": "2026-08-19T15:00:00.000Z",
+          "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
           "source": "TechCrunch"
         },
         {
-          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-          "date": "2026-08-15T21:29:19.000Z",
-          "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "title": "Calendly throws its hat into meeting note-taker circus",
+          "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+          "date": "2026-08-19T14:09:39.000Z",
+          "description": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+          "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+          "date": "2026-08-19T10:00:00.000Z",
+          "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
           "source": "TechCrunch"
         }
       ]
@@ -107,20 +114,54 @@
     {
       "id": "agents",
       "name": "AI Agents & Automation",
-      "articles": [
-        {
-          "title": "AI automation startup Relay shuts down, staff joins Googles Chrome team",
-          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-          "date": "2026-08-17T21:27:05.000Z",
-          "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-          "source": "TechCrunch"
-        }
-      ]
+      "articles": []
     },
     {
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Stripe didnt really buy OpenRouter because of the singularity",
+          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "date": "2026-08-19T23:32:00.000Z",
+          "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "date": "2026-08-19T22:10:46.000Z",
+          "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "date": "2026-08-19T21:51:23.000Z",
+          "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meet the startup helping Wall Street put a price on AI compute",
+          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "date": "2026-08-19T17:26:48.000Z",
+          "description": "The AI buildout shows no signs of slowing. Andwithhundreds ofbillions of dollars a year going into data centers and GPUs,compute hasbecome the single biggest cost for anyone building AI products. But ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+          "date": "2026-08-19T14:18:12.000Z",
+          "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "AI isnt close to curing cancer. This startup says it knows what it will take.",
+          "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+          "date": "2026-08-19T12:00:00.000Z",
+          "description": "It's the data, stupid.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Etcheds valuation doubles to $21B in a month",
           "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
@@ -141,41 +182,6 @@
           "date": "2026-08-17T23:56:26.000Z",
           "description": "The model maker added $18 billion in annualized revenue in two months.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AI automation startup Relay shuts down, staff joins Googles Chrome team",
-          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-          "date": "2026-08-17T21:27:05.000Z",
-          "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-          "date": "2026-08-17T16:15:12.000Z",
-          "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-          "date": "2026-08-17T13:10:05.000Z",
-          "description": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-          "date": "2026-08-16T20:57:04.000Z",
-          "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SpaceX officially closes its Cursor acquisition",
-          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-          "date": "2026-08-15T16:30:00.000Z",
-          "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -183,6 +189,27 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "date": "2026-08-19T22:10:46.000Z",
+          "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+          "date": "2026-08-19T18:46:14.000Z",
+          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+          "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+          "date": "2026-08-19T15:44:53.000Z",
+          "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI institutes new safeguards after Hugging Face breach",
           "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -209,13 +236,6 @@
           "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
           "date": "2026-08-18T13:50:30.000Z",
           "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-          "date": "2026-08-15T18:58:39.000Z",
-          "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
           "source": "TechCrunch"
         },
         {
