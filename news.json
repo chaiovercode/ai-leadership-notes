@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-21T12:22:24.564Z",
+  "updated": "2026-08-22T12:15:57.169Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49386163",
-      "score": 148,
-      "comments": 31
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "hnUrl": "https://news.ycombinator.com/item?id=49398304",
+      "score": 280,
+      "comments": 153
     },
     {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49385994",
-      "score": 84,
-      "comments": 23
-    },
-    {
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49384896",
-      "score": 136,
-      "comments": 67
-    },
-    {
-      "title": "Small, native web tricks worth remembering",
-      "url": "https://htmlcat.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49385860",
-      "score": 77,
-      "comments": 18
-    },
-    {
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "hnUrl": "https://news.ycombinator.com/item?id=49384716",
-      "score": 107,
-      "comments": 50
-    },
-    {
-      "title": "The August 17 outage",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49378957",
-      "score": 571,
-      "comments": 628
-    },
-    {
-      "title": "I like 'em thick: an apology to my English teachers",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "hnUrl": "https://news.ycombinator.com/item?id=49347543",
-      "score": 774,
-      "comments": 319
-    },
-    {
-      "title": "Flat Chair by Sara Paculdo",
-      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49331084",
-      "score": 43,
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49398152",
+      "score": 38,
       "comments": 15
     },
     {
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49362689",
-      "score": 875,
-      "comments": 199
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49393052",
+      "score": 289,
+      "comments": 54
     },
     {
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49374269",
-      "score": 517,
-      "comments": 445
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49389430",
+      "score": 748,
+      "comments": 280
     },
     {
-      "title": "Ox Alpha",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "hnUrl": "https://news.ycombinator.com/item?id=49381896",
-      "score": 183,
-      "comments": 142
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49390427",
+      "score": 576,
+      "comments": 191
     },
     {
-      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
-      "url": "https://github.com/yaroslav/kino",
-      "hnUrl": "https://news.ycombinator.com/item?id=49386383",
-      "score": 4,
-      "comments": 1
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49386895",
+      "score": 848,
+      "comments": 976
     },
     {
-      "title": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49377853",
-      "score": 300,
-      "comments": 113
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49395628",
+      "score": 467,
+      "comments": 334
     },
     {
-      "title": "Why aren't smart people happier? (2022)",
-      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "hnUrl": "https://news.ycombinator.com/item?id=49378446",
-      "score": 210,
-      "comments": 295
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "hnUrl": "https://news.ycombinator.com/item?id=49387570",
+      "score": 576,
+      "comments": 70
     },
     {
-      "title": "Japan tried to build an operating system for the world, the US intervened",
-      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49384180",
-      "score": 248,
-      "comments": 133
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "hnUrl": "https://news.ycombinator.com/item?id=49388154",
+      "score": 1154,
+      "comments": 370
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49394496",
+      "score": 163,
+      "comments": 74
+    },
+    {
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49384210",
+      "score": 186,
+      "comments": 257
+    },
+    {
+      "title": "OTel isn’t going well",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49391553",
+      "score": 143,
+      "comments": 57
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49392200",
+      "score": 217,
+      "comments": 57
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "hnUrl": "https://news.ycombinator.com/item?id=49357530",
+      "score": 321,
+      "comments": 327
+    },
+    {
+      "title": "How Thailand Resisted Colonization",
+      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49392099",
+      "score": 36,
+      "comments": 9
     }
   ]
 }
