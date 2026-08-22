@@ -1,10 +1,24 @@
 {
-  "updated": "2026-08-21T02:21:43.904Z",
+  "updated": "2026-08-22T02:14:07.778Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "date": "2026-08-21T23:07:25.000Z",
+          "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "date": "2026-08-21T19:43:39.000Z",
+          "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+          "source": "TechCrunch"
+        },
         {
           "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
           "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -20,7 +34,7 @@
           "source": "TechCrunch"
         },
         {
-          "title": "A third of web pages published since ChatGPTs launch show signs of AI authorship, study finds",
+          "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
           "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
           "date": "2026-08-20T17:18:58.000Z",
           "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
@@ -39,13 +53,6 @@
           "date": "2026-08-19T23:32:00.000Z",
           "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-          "date": "2026-08-19T18:46:14.000Z",
-          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -53,6 +60,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "date": "2026-08-21T23:07:25.000Z",
+          "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "date": "2026-08-21T22:37:38.000Z",
+          "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "date": "2026-08-21T14:00:00.000Z",
+          "description": "Andreessen Horowitz has two partners sitting on the boards of companies that nowcompete with each other: Ben Horowitz at Databricks and Martin Casado atFivetran. Nothing too scandalous on the surface,...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "date": "2026-08-21T14:00:00.000Z",
+          "description": "There's about to be a big fight to secure access to space.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
           "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -89,38 +124,10 @@
           "source": "TechCrunch"
         },
         {
-          "title": "A third of web pages published since ChatGPTs launch show signs of AI authorship, study finds",
+          "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
           "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
           "date": "2026-08-20T17:18:58.000Z",
           "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Ramp launches its own AI model router, called Router",
-          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-          "date": "2026-08-20T16:46:00.000Z",
-          "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta AIs new Mac app wants you to talk to your apps",
-          "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-          "date": "2026-08-20T12:11:57.000Z",
-          "description": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-          "date": "2026-08-20T09:30:00.000Z",
-          "description": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Stripe didnt really buy OpenRouter because of the singularity",
-          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-          "date": "2026-08-19T23:32:00.000Z",
-          "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
           "source": "TechCrunch"
         }
       ]
@@ -129,6 +136,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "date": "2026-08-21T19:43:39.000Z",
+          "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
           "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
@@ -171,20 +185,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-          "date": "2026-08-19T22:10:46.000Z",
-          "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-          "date": "2026-08-19T21:51:23.000Z",
-          "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
           "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
           "date": "2026-08-19T14:18:12.000Z",
@@ -216,20 +216,6 @@
           "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
           "date": "2026-08-20T16:07:26.000Z",
           "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-          "date": "2026-08-19T22:10:46.000Z",
-          "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-          "date": "2026-08-19T18:46:14.000Z",
-          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...",
           "source": "TechCrunch"
         }
       ]
