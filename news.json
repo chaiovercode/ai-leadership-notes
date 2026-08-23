@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-22T12:15:57.169Z",
+  "updated": "2026-08-23T12:16:33.229Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-      "hnUrl": "https://news.ycombinator.com/item?id=49398304",
-      "score": 280,
-      "comments": 153
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49406333",
+      "score": 122,
+      "comments": 36
     },
     {
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49398152",
-      "score": 38,
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49405870",
+      "score": 218,
+      "comments": 137
+    },
+    {
+      "title": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49406387",
+      "score": 85,
+      "comments": 49
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49405816",
+      "score": 130,
+      "comments": 43
+    },
+    {
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49406285",
+      "score": 51,
       "comments": 15
     },
     {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49393052",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "hnUrl": "https://news.ycombinator.com/item?id=49402232",
+      "score": 384,
+      "comments": 145
+    },
+    {
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49407507",
+      "score": 34,
+      "comments": 4
+    },
+    {
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49405331",
+      "score": 101,
+      "comments": 42
+    },
+    {
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "hnUrl": "https://news.ycombinator.com/item?id=49402189",
+      "score": 382,
+      "comments": 199
+    },
+    {
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49351802",
+      "score": 379,
+      "comments": 85
+    },
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49400408",
+      "score": 415,
+      "comments": 128
+    },
+    {
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49402202",
+      "score": 201,
+      "comments": 37
+    },
+    {
+      "title": "typ.ing",
+      "url": "https://typ.ing/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49346854",
       "score": 289,
-      "comments": 54
+      "comments": 92
     },
     {
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-      "score": 748,
-      "comments": 280
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49355659",
+      "score": 213,
+      "comments": 37
     },
     {
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49390427",
-      "score": 576,
-      "comments": 191
-    },
-    {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49386895",
-      "score": 848,
-      "comments": 976
-    },
-    {
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49395628",
-      "score": 467,
-      "comments": 334
-    },
-    {
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "hnUrl": "https://news.ycombinator.com/item?id=49387570",
-      "score": 576,
-      "comments": 70
-    },
-    {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "hnUrl": "https://news.ycombinator.com/item?id=49388154",
-      "score": 1154,
-      "comments": 370
-    },
-    {
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49394496",
-      "score": 163,
-      "comments": 74
-    },
-    {
-      "title": "Stop Making TUIs",
-      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49384210",
-      "score": 186,
-      "comments": 257
-    },
-    {
-      "title": "OTel isn’t going well",
-      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49391553",
-      "score": 143,
-      "comments": 57
-    },
-    {
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49392200",
-      "score": 217,
-      "comments": 57
-    },
-    {
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "hnUrl": "https://news.ycombinator.com/item?id=49357530",
-      "score": 321,
-      "comments": 327
-    },
-    {
-      "title": "How Thailand Resisted Colonization",
-      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49392099",
-      "score": 36,
-      "comments": 9
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "hnUrl": "https://news.ycombinator.com/item?id=49404380",
+      "score": 114,
+      "comments": 28
     }
   ]
 }
