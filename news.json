@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-23T12:16:33.229Z",
+  "updated": "2026-08-24T12:23:11.362Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49406333",
-      "score": 122,
-      "comments": 36
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "hnUrl": "https://news.ycombinator.com/item?id=49418255",
+      "score": 17,
+      "comments": 0
     },
     {
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49405870",
-      "score": 218,
-      "comments": 137
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "hnUrl": "https://news.ycombinator.com/item?id=49412396",
+      "score": 228,
+      "comments": 319
     },
     {
-      "title": "JIT Compiling Code in 5μs",
-      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49406387",
-      "score": 85,
-      "comments": 49
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49413320",
+      "score": 1055,
+      "comments": 289
     },
     {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49405816",
-      "score": 130,
-      "comments": 43
-    },
-    {
-      "title": "Fast and Hard Code",
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49406285",
-      "score": 51,
+      "title": "Omacom Foundation funding hits $10M",
+      "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49418032",
+      "score": 26,
       "comments": 15
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "hnUrl": "https://news.ycombinator.com/item?id=49402232",
-      "score": 384,
-      "comments": 145
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49415893",
+      "score": 72,
+      "comments": 25
     },
     {
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49407507",
-      "score": 34,
-      "comments": 4
+      "title": "Executable Is a SQLite Database",
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "hnUrl": "https://news.ycombinator.com/item?id=49415271",
+      "score": 157,
+      "comments": 18
     },
     {
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49405331",
-      "score": 101,
-      "comments": 42
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "hnUrl": "https://news.ycombinator.com/item?id=49411102",
+      "score": 586,
+      "comments": 523
     },
     {
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "hnUrl": "https://news.ycombinator.com/item?id=49402189",
-      "score": 382,
-      "comments": 199
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "hnUrl": "https://news.ycombinator.com/item?id=49415852",
+      "score": 68,
+      "comments": 11
     },
     {
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49351802",
-      "score": 379,
-      "comments": 85
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49411643",
+      "score": 442,
+      "comments": 136
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49400408",
-      "score": 415,
-      "comments": 128
+      "title": "Andreessen Horowitz is investing billions into a bleak future",
+      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+      "hnUrl": "https://news.ycombinator.com/item?id=49416055",
+      "score": 271,
+      "comments": 94
     },
     {
-      "title": "Thinking in Python",
-      "url": "https://thinkinginpython.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49402202",
-      "score": 201,
-      "comments": 37
+      "title": "Agent Is Not the Model",
+      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49418163",
+      "score": 4,
+      "comments": 0
     },
     {
-      "title": "typ.ing",
-      "url": "https://typ.ing/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49346854",
-      "score": 289,
-      "comments": 92
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49413561",
+      "score": 203,
+      "comments": 41
     },
     {
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49355659",
-      "score": 213,
-      "comments": 37
+      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+      "hnUrl": "https://news.ycombinator.com/item?id=49417394",
+      "score": 76,
+      "comments": 60
     },
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "hnUrl": "https://news.ycombinator.com/item?id=49404380",
-      "score": 114,
-      "comments": 28
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49411717",
+      "score": 328,
+      "comments": 110
+    },
+    {
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49409092",
+      "score": 477,
+      "comments": 157
     }
   ]
 }
