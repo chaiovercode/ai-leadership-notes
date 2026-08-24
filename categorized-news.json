@@ -1,10 +1,24 @@
 {
-  "updated": "2026-08-23T02:22:29.349Z",
+  "updated": "2026-08-24T02:21:01.170Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Whos behind the new ‘stealth model’ Ox Alpha?",
+          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "date": "2026-08-23T20:01:36.000Z",
+          "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+          "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+          "date": "2026-08-23T15:00:00.000Z",
+          "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+          "source": "TechCrunch"
+        },
         {
           "title": "Frontier AI labs still wont say how theyd contain a rogue model",
           "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
@@ -39,20 +53,6 @@
           "date": "2026-08-20T22:36:37.000Z",
           "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-          "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-          "date": "2026-08-20T17:18:58.000Z",
-          "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Ramp launches its own AI model router, called Router",
-          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-          "date": "2026-08-20T16:46:00.000Z",
-          "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -60,6 +60,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "date": "2026-08-23T19:14:08.000Z",
+          "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Inherent, founded by DeepMind alumni, says its AI teammate just outperformed Anthropic and OpenAI at replicating research",
           "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -121,13 +128,6 @@
           "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
           "date": "2026-08-20T19:18:21.000Z",
           "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-          "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-          "date": "2026-08-20T18:20:35.000Z",
-          "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
           "source": "TechCrunch"
         }
       ]
@@ -191,6 +191,13 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Flock CEO calls for ‘compromise�� as surveillance company faces growing backlash",
+          "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+          "date": "2026-08-23T15:30:00.000Z",
+          "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
           "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
           "date": "2026-08-22T21:46:56.000Z",
@@ -216,13 +223,6 @@
           "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
           "date": "2026-08-20T19:15:05.000Z",
           "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-          "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-          "date": "2026-08-20T16:07:26.000Z",
-          "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
           "source": "TechCrunch"
         }
       ]
