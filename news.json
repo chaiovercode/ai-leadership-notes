@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-27T21:24:04.435Z",
+  "updated": "2026-08-28T21:34:19.902Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49468083",
-      "score": 327,
-      "comments": 90
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49479837",
+      "score": 439,
+      "comments": 230
     },
     {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "hnUrl": "https://news.ycombinator.com/item?id=49466917",
-      "score": 311,
-      "comments": 137
+      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49483182",
+      "score": 132,
+      "comments": 87
     },
     {
-      "title": "507 Mechanical Movements",
-      "url": "https://507movements.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49465169",
-      "score": 402,
-      "comments": 60
+      "title": "Stopping the smart TV from being used against you",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49483816",
+      "score": 32,
+      "comments": 19
     },
     {
-      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-      "hnUrl": "https://news.ycombinator.com/item?id=49469249",
-      "score": 77,
-      "comments": 33
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "hnUrl": "https://news.ycombinator.com/item?id=49478178",
+      "score": 397,
+      "comments": 99
     },
     {
-      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-      "hnUrl": "https://news.ycombinator.com/item?id=49468642",
-      "score": 105,
-      "comments": 75
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "hnUrl": "https://news.ycombinator.com/item?id=49480466",
+      "score": 183,
+      "comments": 62
     },
     {
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49467922",
-      "score": 148,
-      "comments": 90
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49477854",
+      "score": 401,
+      "comments": 353
     },
     {
-      "title": "Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49462763",
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49477564",
+      "score": 356,
+      "comments": 123
+    },
+    {
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "hnUrl": "https://news.ycombinator.com/item?id=49481455",
+      "score": 58,
+      "comments": 10
+    },
+    {
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "hnUrl": "https://news.ycombinator.com/item?id=49479878",
+      "score": 482,
+      "comments": 175
+    },
+    {
+      "title": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49472216",
+      "score": 187,
+      "comments": 96
+    },
+    {
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49473522",
       "score": 434,
-      "comments": 166
+      "comments": 325
     },
     {
-      "title": "Decompiling a Nintendo 64 game in 84 days",
-      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49466006",
-      "score": 140,
-      "comments": 65
-    },
-    {
-      "title": "M5Stack Launches PaperMono",
-      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
-      "hnUrl": "https://news.ycombinator.com/item?id=49468593",
-      "score": 63,
-      "comments": 21
-    },
-    {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-      "hnUrl": "https://news.ycombinator.com/item?id=49447057",
-      "score": 138,
-      "comments": 409
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "hnUrl": "https://news.ycombinator.com/item?id=49468834",
-      "score": 45,
-      "comments": 22
-    },
-    {
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49468818",
-      "score": 43,
-      "comments": 11
-    },
-    {
-      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
-      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
-      "hnUrl": "https://news.ycombinator.com/item?id=49464543",
-      "score": 133,
-      "comments": 55
-    },
-    {
-      "title": "Bild AI (YC W25) is hiring product and AI engineers",
-      "url": "https://www.bild.ai/jobs",
-      "hnUrl": "https://news.ycombinator.com/item?id=49467837",
+      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
+      "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
+      "hnUrl": "https://news.ycombinator.com/item?id=49481423",
       "score": 1,
       "comments": 0
     },
     {
-      "title": "Suica, Japan's First IC Transit Card",
-      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
-      "hnUrl": "https://news.ycombinator.com/item?id=49466894",
-      "score": 135,
-      "comments": 105
+      "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+      "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49479072",
+      "score": 90,
+      "comments": 52
+    },
+    {
+      "title": "The Analytical AI Handbook",
+      "url": "https://handbook.sutro.sh",
+      "hnUrl": "https://news.ycombinator.com/item?id=49482925",
+      "score": 36,
+      "comments": 2
+    },
+    {
+      "title": "Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention",
+      "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49415923",
+      "score": 14,
+      "comments": 0
     }
   ]
 }
