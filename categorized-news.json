@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T10:53:58.233Z",
+  "updated": "2026-08-28T12:29:29.781Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -25,13 +25,6 @@
           "date": "2026-08-26T14:30:00.000Z",
           "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t...",
           "source": "VentureBeat"
-        },
-        {
-          "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-          "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-          "date": "2026-08-26T14:19:29.000Z",
-          "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -40,73 +33,73 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+          "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "date": "2026-08-28T12:21:06.000Z",
+          "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "date": "2026-08-27T23:16:45.000Z",
+          "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "date": "2026-08-27T19:52:52.000Z",
+          "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "date": "2026-08-27T17:43:24.000Z",
+          "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "3 new ways to plan and book travel in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "date": "2026-08-27T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\"&gt;Book hotels and track airfares, plus view miles and rewards w...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+          "date": "2026-08-27T14:56:52.000Z",
+          "description": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AIs memory crunch is coming for Android apps",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "date": "2026-08-27T14:27:04.000Z",
+          "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Here’s all the times AI has gone rogue and hacked other companies",
+          "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+          "date": "2026-08-27T14:01:42.000Z",
+          "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI to start showing ads on ChatGPTs free and Go tiers in India",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "date": "2026-08-27T11:35:59.000Z",
+          "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Amazon just tripled its order of Nvidia chips over surging demand",
           "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
           "date": "2026-08-26T23:47:18.000Z",
           "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-          "date": "2026-08-26T21:37:39.000Z",
-          "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Googles Gemini has a branding problem, and so does the rest of AI",
-          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-          "date": "2026-08-26T19:37:34.000Z",
-          "description": "Consumer AI apps need to stop making users learn their product architecture.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How do we explain OpenAIs executive exodus?",
-          "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-          "date": "2026-08-26T19:34:04.000Z",
-          "description": "Was Greg Brockman the right executive all along?",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI releases its official report on the Hugging Face breach",
-          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-          "date": "2026-08-26T19:05:22.000Z",
-          "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Robot brain builders are pushing out of their GPT-2 era",
-          "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-          "date": "2026-08-26T13:30:00.000Z",
-          "description": "Robot bodies are waiting for their AI brains to catch up.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "QueryStory wants you to believe what AI is telling you",
-          "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-          "date": "2026-08-26T13:00:00.000Z",
-          "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-          "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-          "date": "2026-08-26T11:00:00.000Z",
-          "description": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Indias Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-          "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-          "date": "2026-08-26T03:30:00.000Z",
-          "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-          "date": "2026-08-26T00:06:20.000Z",
-          "description": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
           "source": "TechCrunch"
         }
       ]
@@ -115,6 +108,34 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Googles AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "date": "2026-08-27T16:00:00.000Z",
+          "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+          "date": "2026-08-27T14:01:00.000Z",
+          "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Plauds new earphones come with an eSIM-enabled case for talking to AI agents",
+          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+          "date": "2026-08-27T13:00:00.000Z",
+          "description": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "When agents act on their own, governance has to live in the data layer",
+          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+          "date": "2026-08-27T12:01:00.000Z",
+          "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
+          "source": "VentureBeat"
+        },
         {
           "title": "Radar makes podcasts searchable — and usable by AI agents",
           "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
@@ -128,20 +149,6 @@
           "date": "2026-08-26T14:30:00.000Z",
           "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t...",
           "source": "VentureBeat"
-        },
-        {
-          "title": "Arga Labs is building a better way to train enterprise AI agents",
-          "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-          "date": "2026-08-26T12:55:28.000Z",
-          "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-          "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-          "date": "2026-08-26T11:00:00.000Z",
-          "description": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -150,10 +157,45 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "date": "2026-08-27T23:16:45.000Z",
+          "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "date": "2026-08-27T19:52:52.000Z",
+          "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "date": "2026-08-27T17:43:24.000Z",
+          "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+          "date": "2026-08-27T14:01:00.000Z",
+          "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "When agents act on their own, governance has to live in the data layer",
+          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+          "date": "2026-08-27T12:01:00.000Z",
+          "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
+          "source": "VentureBeat"
+        },
+        {
           "title": "Nvidia closes in on Hugging Face acquisition",
           "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
           "date": "2026-08-27T06:32:51.000Z",
-          "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
           "source": "TechCrunch"
         },
         {
@@ -169,48 +211,6 @@
           "date": "2026-08-26T14:30:00.000Z",
           "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t...",
           "source": "VentureBeat"
-        },
-        {
-          "title": "QueryStory wants you to believe what AI is telling you",
-          "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-          "date": "2026-08-26T13:00:00.000Z",
-          "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Arga Labs is building a better way to train enterprise AI agents",
-          "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-          "date": "2026-08-26T12:55:28.000Z",
-          "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-          "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-          "date": "2026-08-26T12:00:00.000Z",
-          "description": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-          "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-          "date": "2026-08-26T11:00:00.000Z",
-          "description": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-          "date": "2026-08-26T00:40:59.000Z",
-          "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-          "date": "2026-08-25T19:03:47.000Z",
-          "description": "The company's new fundraising total now stands at $232 million.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -218,6 +218,41 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "date": "2026-08-27T17:43:24.000Z",
+          "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "date": "2026-08-27T16:00:00.000Z",
+          "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+          "date": "2026-08-27T14:01:00.000Z",
+          "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "When agents act on their own, governance has to live in the data layer",
+          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+          "date": "2026-08-27T12:01:00.000Z",
+          "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "OpenAI to start showing ads on ChatGPTs free and Go tiers in India",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "date": "2026-08-27T11:35:59.000Z",
+          "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
           "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
