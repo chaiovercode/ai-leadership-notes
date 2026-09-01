@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-31T18:21:43.948Z",
+  "updated": "2026-09-01T15:41:49.526Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49511856",
-      "score": 101,
-      "comments": 36
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "hnUrl": "https://news.ycombinator.com/item?id=49520022",
+      "score": 520,
+      "comments": 140
+    },
+    {
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49519939",
+      "score": 237,
+      "comments": 67
+    },
+    {
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49493468",
+      "score": 236,
+      "comments": 95
+    },
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49517448",
+      "score": 659,
+      "comments": 419
+    },
+    {
+      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+      "hnUrl": "https://news.ycombinator.com/item?id=49522374",
+      "score": 41,
+      "comments": 17
+    },
+    {
+      "title": "Tmp.0ut Volume 5",
+      "url": "https://tmpout.sh/5/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49516059",
+      "score": 153,
+      "comments": 32
+    },
+    {
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=49517624",
+      "score": 260,
+      "comments": 58
+    },
+    {
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49517584",
+      "score": 341,
+      "comments": 205
     },
     {
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
       "hnUrl": "https://news.ycombinator.com/item?id=49510514",
-      "score": 270,
-      "comments": 113
+      "score": 704,
+      "comments": 220
     },
     {
-      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49511534",
-      "score": 69,
-      "comments": 39
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49511856",
+      "score": 569,
+      "comments": 150
     },
     {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "hnUrl": "https://news.ycombinator.com/item?id=49512895",
-      "score": 1,
-      "comments": 0
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "hnUrl": "https://news.ycombinator.com/item?id=49503521",
+      "score": 542,
+      "comments": 72
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49510000",
-      "score": 116,
-      "comments": 43
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "url": "https://github.com/fregacmols/RotaryCell",
+      "hnUrl": "https://news.ycombinator.com/item?id=49517297",
+      "score": 127,
+      "comments": 34
     },
     {
-      "title": "The Safest Job from AI May Be Writing",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49512856",
-      "score": 9,
-      "comments": 0
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "hnUrl": "https://news.ycombinator.com/item?id=49512975",
+      "score": 371,
+      "comments": 55
     },
     {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49511007",
-      "score": 23,
-      "comments": 28
-    },
-    {
-      "title": "Konrad Zuse Museum shutting down due to lack of funding",
-      "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49511917",
-      "score": 70,
-      "comments": 26
-    },
-    {
-      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "hnUrl": "https://news.ycombinator.com/item?id=49510632",
-      "score": 26,
-      "comments": 9
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "hnUrl": "https://news.ycombinator.com/item?id=49467636",
+      "score": 474,
+      "comments": 216
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "hnUrl": "https://news.ycombinator.com/item?id=49508982",
-      "score": 85,
-      "comments": 107
-    },
-    {
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49455557",
-      "score": 42,
-      "comments": 9
-    },
-    {
-      "title": "OpenShot 4.0 – Open-source video editor",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49507822",
-      "score": 446,
-      "comments": 101
-    },
-    {
-      "title": "Agent memory as a file format",
-      "url": "https://calpaterson.com/memoryfields.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49508317",
-      "score": 128,
-      "comments": 63
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49506819",
-      "score": 299,
-      "comments": 98
-    },
-    {
-      "title": "The broadcast squeezeback, rebuilt with CSS Grid and WebVTT",
-      "url": "https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt",
-      "hnUrl": "https://news.ycombinator.com/item?id=49466902",
-      "score": 22,
-      "comments": 10
+      "score": 471,
+      "comments": 539
     }
   ]
 }
