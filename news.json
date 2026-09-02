@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-01T15:41:49.526Z",
+  "updated": "2026-09-02T15:31:24.642Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "hnUrl": "https://news.ycombinator.com/item?id=49520022",
-      "score": 520,
-      "comments": 140
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49535752",
+      "score": 358,
+      "comments": 66
     },
     {
-      "title": "44% on ARC-AGI-1 in 67 cents",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49519939",
-      "score": 237,
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49536375",
+      "score": 106,
+      "comments": 51
+    },
+    {
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "hnUrl": "https://news.ycombinator.com/item?id=49535284",
+      "score": 119,
       "comments": 67
     },
     {
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49493468",
-      "score": 236,
-      "comments": 95
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "hnUrl": "https://news.ycombinator.com/item?id=49536411",
+      "score": 16,
+      "comments": 7
     },
     {
-      "title": "Fastpotify",
-      "url": "https://fastpotify.rocks/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49517448",
-      "score": 659,
-      "comments": 419
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49533497",
+      "score": 224,
+      "comments": 115
     },
     {
-      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-      "hnUrl": "https://news.ycombinator.com/item?id=49522374",
-      "score": 41,
-      "comments": 17
+      "title": "Gemini 3.8 Flash",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49537553",
+      "score": 14,
+      "comments": 4
     },
     {
-      "title": "Tmp.0ut Volume 5",
-      "url": "https://tmpout.sh/5/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49516059",
-      "score": 153,
-      "comments": 32
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49535548",
+      "score": 52,
+      "comments": 19
     },
     {
-      "title": "Restroom Archive",
-      "url": "https://restroomarchive.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=49517624",
-      "score": 260,
-      "comments": 58
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "hnUrl": "https://news.ycombinator.com/item?id=49536114",
+      "score": 62,
+      "comments": 22
     },
     {
-      "title": "GPU World",
-      "url": "https://www.gpuworld.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49517584",
-      "score": 341,
-      "comments": 205
+      "title": "A third of Perplexity's citations don't contain the number they're cited for",
+      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49536201",
+      "score": 22,
+      "comments": 2
     },
     {
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49510514",
-      "score": 704,
-      "comments": 220
+      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "hnUrl": "https://news.ycombinator.com/item?id=49535526",
+      "score": 132,
+      "comments": 109
     },
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49511856",
-      "score": 569,
-      "comments": 150
+      "title": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "hnUrl": "https://news.ycombinator.com/item?id=49535201",
+      "score": 44,
+      "comments": 35
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "hnUrl": "https://news.ycombinator.com/item?id=49503521",
-      "score": 542,
-      "comments": 72
+      "title": "LLMs: Intelligence vs. Cost",
+      "url": "https://openteams.com/intelligence-vs-cost/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49535586",
+      "score": 28,
+      "comments": 13
     },
     {
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "url": "https://github.com/fregacmols/RotaryCell",
-      "hnUrl": "https://news.ycombinator.com/item?id=49517297",
-      "score": 127,
-      "comments": 34
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "hnUrl": "https://news.ycombinator.com/item?id=49531651",
+      "score": 232,
+      "comments": 78
     },
     {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "hnUrl": "https://news.ycombinator.com/item?id=49512975",
-      "score": 371,
-      "comments": 55
+      "title": "It's OK to hardcode feature flags (2025)",
+      "url": "https://code.mendhak.com/hardcode-feature-flags/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49534524",
+      "score": 55,
+      "comments": 31
     },
     {
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "hnUrl": "https://news.ycombinator.com/item?id=49467636",
-      "score": 474,
-      "comments": 216
-    },
-    {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49508982",
-      "score": 471,
-      "comments": 539
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "hnUrl": "https://news.ycombinator.com/item?id=49534132",
+      "score": 101,
+      "comments": 84
     }
   ]
 }
