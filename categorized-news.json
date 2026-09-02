@@ -1,23 +1,37 @@
 {
-  "updated": "2026-09-01T06:00:14.966Z",
+  "updated": "2026-09-02T05:26:05.773Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-          "date": "2026-08-28T19:30:38.000Z",
-          "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+          "title": "AfterQuery reportedly becomes Y Combinators fastest-ever unicorn, now valued at $3.2B",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "date": "2026-09-01T22:08:24.000Z",
+          "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
           "source": "TechCrunch"
         },
         {
-          "title": "Open-weight AI companies are the Valleys hottest acquisition targets",
-          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-          "date": "2026-08-28T18:19:40.000Z",
-          "description": "There's a lot of capital pouring into the business of giving models away.",
+          "title": "OpenAIs Astra model is on the way — and very good at breaking into computer systems",
+          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "date": "2026-09-01T21:06:24.000Z",
+          "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
           "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropics new Fable release is cheaper, less restrictive",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "date": "2026-09-01T19:39:22.000Z",
+          "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+          "date": "2026-09-01T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\"&gt;Built on our latest Nano Banana model, Google Pics — our image creation an...",
+          "source": "Google AI Blog"
         },
         {
           "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -33,6 +47,62 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "OpenAIs Astra model is on the way — and very good at breaking into computer systems",
+          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "date": "2026-09-01T21:06:24.000Z",
+          "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles Android update tackles motion sickness, accessibility, and more",
+          "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+          "date": "2026-09-01T20:53:05.000Z",
+          "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The latest AI news we announced in August 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "date": "2026-09-01T20:45:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from August 2026",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Anthropics new Fable release is cheaper, less restrictive",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "date": "2026-09-01T19:39:22.000Z",
+          "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles answer to Canva is an AI tool where you prompt instead of design",
+          "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+          "date": "2026-09-01T17:35:37.000Z",
+          "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "date": "2026-09-01T17:00:00.000Z",
+          "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+          "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+          "date": "2026-09-01T15:51:55.000Z",
+          "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Fambot introduces an AI chief of staff for families",
+          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+          "date": "2026-09-01T15:10:58.000Z",
+          "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Apple shares shocking evidence against former employee accused of stealing company data for OpenAI",
           "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
           "date": "2026-09-01T00:13:00.000Z",
@@ -45,62 +115,6 @@
           "date": "2026-08-31T20:13:45.000Z",
           "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Instagram puts new limits on undisclosed AI profiles",
-          "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-          "date": "2026-08-31T19:16:59.000Z",
-          "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Techs AI chip buildout",
-          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-          "date": "2026-08-31T15:15:25.000Z",
-          "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-          "date": "2026-08-31T02:34:00.000Z",
-          "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Musks faster path to more gas turbines comes with pollution problem",
-          "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-          "date": "2026-08-30T16:54:25.000Z",
-          "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sony Music, Warner sue Anthropic, alleging a brazen campaign of intellectual property theft",
-          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-          "date": "2026-08-29T18:41:59.000Z",
-          "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nvidia’s AI advantage is moving beyond the GPU",
-          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-          "date": "2026-08-29T13:00:00.000Z",
-          "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-          "date": "2026-08-28T20:24:11.000Z",
-          "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-          "date": "2026-08-28T19:30:38.000Z",
-          "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -108,6 +122,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "date": "2026-09-01T15:45:51.000Z",
+          "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
           "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
@@ -143,6 +164,20 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "AfterQuery reportedly becomes Y Combinators fastest-ever unicorn, now valued at $3.2B",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "date": "2026-09-01T22:08:24.000Z",
+          "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+          "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+          "date": "2026-09-01T16:31:04.000Z",
+          "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
           "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
           "date": "2026-08-31T16:00:00.000Z",
@@ -154,13 +189,6 @@
           "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
           "date": "2026-08-31T12:56:46.000Z",
           "description": "Circleback is also introducing new pricing plans starting from $14 per month.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Open-weight AI companies are the Valleys hottest acquisition targets",
-          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-          "date": "2026-08-28T18:19:40.000Z",
-          "description": "There's a lot of capital pouring into the business of giving models away.",
           "source": "TechCrunch"
         },
         {
@@ -202,34 +230,6 @@
           "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
           "date": "2026-08-31T12:56:46.000Z",
           "description": "Circleback is also introducing new pricing plans starting from $14 per month.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sony Music, Warner sue Anthropic, alleging a brazen campaign of intellectual property theft",
-          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-          "date": "2026-08-29T18:41:59.000Z",
-          "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "At TechBBQ, Europes AI conversations kept coming back to: Whos actually in control?",
-          "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-          "date": "2026-08-29T17:51:10.000Z",
-          "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Were not doing 30 bets a year: Vijay Pande on betting small after running $4B at a16z",
-          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-          "date": "2026-08-29T17:36:47.000Z",
-          "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-          "date": "2026-08-28T12:46:12.000Z",
-          "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
           "source": "TechCrunch"
         },
         {
