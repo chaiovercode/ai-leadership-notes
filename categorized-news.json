@@ -1,10 +1,52 @@
 {
-  "updated": "2026-09-03T05:27:42.190Z",
+  "updated": "2026-09-04T05:29:29.510Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "date": "2026-09-03T18:37:57.000Z",
+          "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "date": "2026-09-03T18:19:56.000Z",
+          "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "date": "2026-09-03T18:01:45.000Z",
+          "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+          "date": "2026-09-03T16:09:01.000Z",
+          "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles latest AI weather model gives you no excuse to forget your umbrella",
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+          "date": "2026-09-03T15:00:00.000Z",
+          "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+          "date": "2026-09-03T12:42:45.000Z",
+          "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI’s new reasoning technique alarms AI safety experts",
           "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
@@ -20,27 +62,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "AfterQuery reportedly becomes Y Combinators fastest-ever unicorn, now valued at $3.2B",
-          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-          "date": "2026-09-01T22:08:24.000Z",
-          "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs Astra model is on the way — and very good at breaking into computer systems",
-          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-          "date": "2026-09-01T21:06:24.000Z",
-          "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropics new Fable release is cheaper, less restrictive",
-          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-          "date": "2026-09-01T19:39:22.000Z",
-          "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
           "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
           "date": "2026-09-01T16:00:00.000Z",
@@ -53,6 +74,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "date": "2026-09-03T18:01:45.000Z",
+          "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+          "source": "TechCrunch"
+        },
         {
           "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
           "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
@@ -103,25 +131,11 @@
           "source": "Google AI Blog"
         },
         {
-          "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-          "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-          "date": "2026-09-02T12:09:42.000Z",
-          "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs Astra model is on the way — and very good at breaking into computer systems",
-          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-          "date": "2026-09-01T21:06:24.000Z",
-          "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Googles Android update tackles motion sickness, accessibility, and more",
-          "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-          "date": "2026-09-01T20:53:05.000Z",
-          "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-          "source": "TechCrunch"
+          "title": "The latest AI news we announced in August 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "date": "2026-09-01T20:45:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from August 2026",
+          "source": "Google AI Blog"
         }
       ]
     },
@@ -129,6 +143,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "date": "2026-09-03T18:19:56.000Z",
+          "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
           "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
@@ -142,20 +163,6 @@
           "date": "2026-09-02T15:01:23.000Z",
           "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-          "date": "2026-08-27T14:01:00.000Z",
-          "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "When agents act on their own, governance has to live in the data layer",
-          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-          "date": "2026-08-27T12:01:00.000Z",
-          "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -163,6 +170,34 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "The sameness problem behind those unappetizing AI-generated menus",
+          "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+          "date": "2026-09-04T04:21:03.000Z",
+          "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "date": "2026-09-04T00:48:42.000Z",
+          "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+          "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+          "date": "2026-09-03T19:36:29.000Z",
+          "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "date": "2026-09-03T18:37:57.000Z",
+          "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -197,41 +232,6 @@
           "date": "2026-09-02T15:01:23.000Z",
           "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Adobe acquires Indian market intelligence startup Rilo",
-          "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-          "date": "2026-09-02T14:03:57.000Z",
-          "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AfterQuery reportedly becomes Y Combinators fastest-ever unicorn, now valued at $3.2B",
-          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-          "date": "2026-09-01T22:08:24.000Z",
-          "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-          "date": "2026-09-01T16:31:04.000Z",
-          "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-          "date": "2026-08-27T14:01:00.000Z",
-          "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "When agents act on their own, governance has to live in the data layer",
-          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-          "date": "2026-08-27T12:01:00.000Z",
-          "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
-          "source": "VentureBeat"
         }
       ]
     },
@@ -239,6 +239,34 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "date": "2026-09-04T00:48:42.000Z",
+          "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "date": "2026-09-03T18:37:57.000Z",
+          "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "date": "2026-09-03T18:01:45.000Z",
+          "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+          "date": "2026-09-03T16:09:01.000Z",
+          "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -273,34 +301,6 @@
           "date": "2026-09-02T15:40:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"&gt;The Fairwind Program is a limited access program for gover...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "PSA: Amazons shopping AI can now tell you if that message is a scam",
-          "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-          "date": "2026-09-02T14:56:34.000Z",
-          "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-          "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-          "date": "2026-09-02T12:09:42.000Z",
-          "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-          "date": "2026-08-27T14:01:00.000Z",
-          "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch...",
-          "source": "VentureBeat"
-        },
-        {
-          "title": "When agents act on their own, governance has to live in the data layer",
-          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-          "date": "2026-08-27T12:01:00.000Z",
-          "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar...",
-          "source": "VentureBeat"
         }
       ]
     }
