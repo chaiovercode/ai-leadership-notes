@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T05:29:29.510Z",
+  "updated": "2026-09-05T05:14:50.536Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -48,20 +48,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-          "date": "2026-09-02T20:19:14.000Z",
-          "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-          "date": "2026-09-02T17:09:06.000Z",
-          "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t...",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
           "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
           "date": "2026-09-01T16:00:00.000Z",
@@ -75,52 +61,59 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
+          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+          "date": "2026-09-04T23:15:11.000Z",
+          "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+          "date": "2026-09-04T21:12:11.000Z",
+          "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "What will Apples John Ternus era look like?",
+          "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+          "date": "2026-09-04T17:18:00.000Z",
+          "description": "Itsofficially the Ternus era at Apple. Tim Cook stepped downas CEO this week, handing the company to former hardware chief John Ternus, whose first memopromised a “huge launch next week”— timing that ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Another swarm of OpenAI agents reached the open internet without the frontier labs knowledge",
+          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+          "date": "2026-09-04T16:21:11.000Z",
+          "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apples Ternus era begins as Nvidia bets on the whole AI stack",
+          "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+          "date": "2026-09-04T16:04:08.000Z",
+          "description": "Itsofficially the Ternus era at Apple. Tim Cook stepped downas CEO this week, handing the company to former hardware chief John Ternus, whose first memopromised a “huge launch next week”— timing that ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Googles Gemini Spark can now manage your Google Photos library",
+          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+          "date": "2026-09-04T14:47:11.000Z",
+          "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+          "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+          "date": "2026-09-04T14:00:00.000Z",
+          "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "OpenAI launches Astra, its powerful (and controversial) new model",
           "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
           "date": "2026-09-03T18:01:45.000Z",
           "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-          "date": "2026-09-02T22:24:09.000Z",
-          "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-          "date": "2026-09-02T20:19:14.000Z",
-          "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Pangrams Max Spero on why AI detection is harder than Real or Fake",
-          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-          "date": "2026-09-02T17:18:13.000Z",
-          "description": "The internet has a trust problem, andit’snot just because social media feeds are filling up with AIslop. AI-generated text and images are now making their way into job applications, product reviews,an...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Were ‘dangerously close’ to dead internet theory, says Pangrams CEO",
-          "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-          "date": "2026-09-02T17:09:57.000Z",
-          "description": "The internet has a trust problem, andit’snot just because social media feeds are filling up with AIslop. AI-generated text and images are now making their way into job applications, product reviews,an...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-          "date": "2026-09-02T17:09:06.000Z",
-          "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Indias richest man now wants to turn aging computers into AI-ready PCs",
-          "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-          "date": "2026-09-02T16:01:48.000Z",
-          "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
           "source": "TechCrunch"
         },
         {
@@ -144,6 +137,20 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
+          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+          "date": "2026-09-04T23:15:11.000Z",
+          "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Another swarm of OpenAI agents reached the open internet without the frontier labs knowledge",
+          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+          "date": "2026-09-04T16:21:11.000Z",
+          "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Meta is paying to peek at how you use their latest AI model",
           "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
           "date": "2026-09-03T18:19:56.000Z",
@@ -156,13 +163,6 @@
           "date": "2026-09-02T22:44:56.000Z",
           "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-          "date": "2026-09-02T15:01:23.000Z",
-          "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -170,6 +170,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "date": "2026-09-04T23:36:14.000Z",
+          "description": "The round is being raised just months after the robot data startup exited from stealth.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The sameness problem behind those unappetizing AI-generated menus",
           "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
@@ -213,25 +220,11 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-          "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-          "date": "2026-09-02T16:04:10.000Z",
-          "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Proactive cyber defense for governments and enterprises",
           "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
           "date": "2026-09-02T15:40:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"&gt;The Fairwind Program is a limited access program for gover...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-          "date": "2026-09-02T15:01:23.000Z",
-          "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -239,6 +232,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
+          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+          "date": "2026-09-04T23:15:11.000Z",
+          "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Crusoe reportedly raises $3B at a  $30B valuation",
           "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -279,20 +279,6 @@
           "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
           "date": "2026-09-02T22:44:56.000Z",
           "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-          "date": "2026-09-02T20:19:14.000Z",
-          "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-          "date": "2026-09-02T17:09:06.000Z",
-          "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t...",
           "source": "TechCrunch"
         },
         {
