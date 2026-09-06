@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-05T14:08:39.964Z",
+  "updated": "2026-09-06T14:32:59.616Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "hnUrl": "https://news.ycombinator.com/item?id=49570669",
-      "score": 610,
-      "comments": 340
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49585644",
+      "score": 181,
+      "comments": 101
+    },
+    {
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "hnUrl": "https://news.ycombinator.com/item?id=49585627",
+      "score": 125,
+      "comments": 67
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "hnUrl": "https://news.ycombinator.com/item?id=49584083",
+      "score": 357,
+      "comments": 101
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "hnUrl": "https://news.ycombinator.com/item?id=49582000",
+      "score": 503,
+      "comments": 255
+    },
+    {
+      "title": "The pencil case model of creativity",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "hnUrl": "https://news.ycombinator.com/item?id=49585703",
+      "score": 26,
+      "comments": 3
+    },
+    {
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49580939",
+      "score": 461,
+      "comments": 214
+    },
+    {
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "hnUrl": "https://news.ycombinator.com/item?id=49541888",
+      "score": 230,
+      "comments": 128
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "hnUrl": "https://news.ycombinator.com/item?id=49582656",
+      "score": 103,
+      "comments": 45
+    },
+    {
+      "title": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49585161",
+      "score": 107,
+      "comments": 122
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "hnUrl": "https://news.ycombinator.com/item?id=49563355",
-      "score": 1837,
-      "comments": 1405
+      "score": 2226,
+      "comments": 1564
     },
     {
-      "title": "Nitter has more working instances than before the takedowns",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "hnUrl": "https://news.ycombinator.com/item?id=49571634",
-      "score": 378,
-      "comments": 142
+      "title": "Fileregister: Tagging and reference layer for your files, in plain text",
+      "url": "https://github.com/rhsev/fileregister",
+      "hnUrl": "https://news.ycombinator.com/item?id=49522942",
+      "score": 8,
+      "comments": 1
     },
     {
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "hnUrl": "https://news.ycombinator.com/item?id=49568506",
-      "score": 665,
-      "comments": 418
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49578280",
+      "score": 288,
+      "comments": 119
     },
     {
-      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "hnUrl": "https://news.ycombinator.com/item?id=49575034",
-      "score": 153,
-      "comments": 92
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "hnUrl": "https://news.ycombinator.com/item?id=49580164",
+      "score": 330,
+      "comments": 222
     },
     {
-      "title": "Statichost.eu – European static site hosting",
-      "url": "https://www.statichost.eu/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49569896",
-      "score": 352,
-      "comments": 156
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49576386",
+      "score": 361,
+      "comments": 106
     },
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "hnUrl": "https://news.ycombinator.com/item?id=49574167",
-      "score": 237,
-      "comments": 207
-    },
-    {
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "hnUrl": "https://news.ycombinator.com/item?id=49570545",
-      "score": 260,
-      "comments": 165
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49569366",
-      "score": 296,
-      "comments": 177
-    },
-    {
-      "title": "Git hosting that never leaves Europe",
-      "url": "https://pushin.eu",
-      "hnUrl": "https://news.ycombinator.com/item?id=49573680",
-      "score": 145,
-      "comments": 84
-    },
-    {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "hnUrl": "https://news.ycombinator.com/item?id=49571465",
-      "score": 180,
-      "comments": 89
-    },
-    {
-      "title": "Ask HN: Resources to get good at soldering?",
-      "url": "https://news.ycombinator.com/item?id=49533840",
-      "hnUrl": "https://news.ycombinator.com/item?id=49533840",
-      "score": 165,
-      "comments": 96
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "url": "https://opentrailpaper.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=49567437",
-      "score": 325,
-      "comments": 108
-    },
-    {
-      "title": "Shutting down our public encrypted DNS",
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "hnUrl": "https://news.ycombinator.com/item?id=49568579",
-      "score": 381,
-      "comments": 178
-    },
-    {
-      "title": "IBM Bob",
-      "url": "https://bob.ibm.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49563851",
-      "score": 297,
-      "comments": 305
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49581870",
+      "score": 498,
+      "comments": 87
     }
   ]
 }
