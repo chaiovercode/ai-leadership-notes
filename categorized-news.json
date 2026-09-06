@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T05:14:50.536Z",
+  "updated": "2026-09-06T05:29:21.342Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -41,13 +41,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-          "date": "2026-09-03T12:42:45.000Z",
-          "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
           "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
           "date": "2026-09-01T16:00:00.000Z",
@@ -60,6 +53,27 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "date": "2026-09-05T22:49:55.000Z",
+          "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "date": "2026-09-05T19:35:24.000Z",
+          "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "date": "2026-09-05T18:05:27.000Z",
+          "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
           "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
@@ -108,27 +122,6 @@
           "date": "2026-09-04T14:00:00.000Z",
           "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-          "date": "2026-09-03T18:01:45.000Z",
-          "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Proactive cyber defense for governments and enterprises",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-          "date": "2026-09-02T15:40:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"&gt;The Fairwind Program is a limited access program for gover...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "The latest AI news we announced in August 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-          "date": "2026-09-01T20:45:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from August 2026",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -136,6 +129,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "date": "2026-09-05T18:05:27.000Z",
+          "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
           "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
@@ -155,13 +155,6 @@
           "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
           "date": "2026-09-03T18:19:56.000Z",
           "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-          "date": "2026-09-02T22:44:56.000Z",
-          "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
           "source": "TechCrunch"
         }
       ]
@@ -203,20 +196,6 @@
           "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
           "date": "2026-09-03T18:37:57.000Z",
           "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-          "date": "2026-09-02T23:01:00.000Z",
-          "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-          "date": "2026-09-02T22:44:56.000Z",
-          "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
           "source": "TechCrunch"
         },
         {
@@ -265,20 +244,6 @@
           "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
           "date": "2026-09-03T16:09:01.000Z",
           "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-          "date": "2026-09-02T23:01:00.000Z",
-          "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-          "date": "2026-09-02T22:44:56.000Z",
-          "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
           "source": "TechCrunch"
         },
         {
