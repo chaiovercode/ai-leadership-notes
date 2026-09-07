@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T05:29:21.342Z",
+  "updated": "2026-09-07T05:41:23.010Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -27,20 +27,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-          "date": "2026-09-03T16:09:01.000Z",
-          "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Googles latest AI weather model gives you no excuse to forget your umbrella",
-          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-          "date": "2026-09-03T15:00:00.000Z",
-          "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an...",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
           "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
           "date": "2026-09-01T16:00:00.000Z",
@@ -53,6 +39,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "date": "2026-09-06T20:47:37.000Z",
+          "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
           "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -115,13 +108,6 @@
           "date": "2026-09-04T14:47:11.000Z",
           "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-          "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-          "date": "2026-09-04T14:00:00.000Z",
-          "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -129,6 +115,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "date": "2026-09-06T20:47:37.000Z",
+          "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
           "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -163,6 +156,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+          "date": "2026-09-06T16:45:00.000Z",
+          "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+          "source": "TechCrunch"
+        },
         {
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
           "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -237,13 +237,6 @@
           "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
           "date": "2026-09-03T18:01:45.000Z",
           "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-          "date": "2026-09-03T16:09:01.000Z",
-          "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
           "source": "TechCrunch"
         },
         {
