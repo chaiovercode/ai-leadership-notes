@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-07T16:47:50.383Z",
+  "updated": "2026-09-08T15:34:39.866Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49597907",
-      "score": 333,
-      "comments": 137
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "hnUrl": "https://news.ycombinator.com/item?id=49610181",
+      "score": 145,
+      "comments": 55
     },
     {
-      "title": "bzip3",
-      "url": "https://github.com/iczelia/bzip3",
-      "hnUrl": "https://news.ycombinator.com/item?id=49598291",
-      "score": 162,
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49611251",
+      "score": 45,
+      "comments": 4
+    },
+    {
+      "title": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49611051",
+      "score": 38,
+      "comments": 4
+    },
+    {
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49610538",
+      "score": 307,
+      "comments": 95
+    },
+    {
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "url": "https://copperhead.sh/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49610059",
+      "score": 92,
+      "comments": 34
+    },
+    {
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "hnUrl": "https://news.ycombinator.com/item?id=49610229",
+      "score": 213,
+      "comments": 22
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "hnUrl": "https://news.ycombinator.com/item?id=49610631",
+      "score": 19,
+      "comments": 5
+    },
+    {
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "hnUrl": "https://news.ycombinator.com/item?id=49607443",
+      "score": 333,
+      "comments": 290
+    },
+    {
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "hnUrl": "https://news.ycombinator.com/item?id=49607991",
+      "score": 160,
       "comments": 51
     },
     {
-      "title": "Keep Our Servers Running",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49593563",
-      "score": 777,
-      "comments": 197
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49604637",
+      "score": 439,
+      "comments": 98
     },
     {
-      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-      "url": "https://mathathonchallenge.com/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49596055",
-      "score": 139,
-      "comments": 29
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "hnUrl": "https://news.ycombinator.com/item?id=49604870",
+      "score": 386,
+      "comments": 155
     },
     {
-      "title": "Live map of public transport in Belgium",
-      "url": "https://openbaarvervoerbelgie.be/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49595865",
-      "score": 136,
-      "comments": 61
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49611128",
+      "score": 4,
+      "comments": 0
     },
     {
-      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49594878",
-      "score": 841,
-      "comments": 414
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "url": "https://news.ycombinator.com/item?id=49555592",
+      "hnUrl": "https://news.ycombinator.com/item?id=49555592",
+      "score": 170,
+      "comments": 72
     },
     {
-      "title": "Splash-free urinals (2025)",
-      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-      "hnUrl": "https://news.ycombinator.com/item?id=49597895",
-      "score": 157,
-      "comments": 87
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "url": "https://docs.appliedcompute.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=49570411",
+      "score": 52,
+      "comments": 11
     },
     {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "hnUrl": "https://news.ycombinator.com/item?id=49596054",
-      "score": 92,
-      "comments": 31
-    },
-    {
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "hnUrl": "https://news.ycombinator.com/item?id=49597189",
-      "score": 189,
-      "comments": 110
-    },
-    {
-      "title": "The Dataflow Model Revisited",
-      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-      "hnUrl": "https://news.ycombinator.com/item?id=49589190",
-      "score": 6,
-      "comments": 1
-    },
-    {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49591876",
-      "score": 287,
-      "comments": 100
-    },
-    {
-      "title": "Tiny $70 Xteink X3 e-reader",
-      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49596629",
-      "score": 146,
-      "comments": 145
-    },
-    {
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49590611",
-      "score": 332,
-      "comments": 168
-    },
-    {
-      "title": "Ask HN: How do you manage skills files?",
-      "url": "https://news.ycombinator.com/item?id=49589914",
-      "hnUrl": "https://news.ycombinator.com/item?id=49589914",
-      "score": 244,
-      "comments": 230
-    },
-    {
-      "title": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
-      "hnUrl": "https://news.ycombinator.com/item?id=49577129",
-      "score": 232,
-      "comments": 137
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49604150",
+      "score": 284,
+      "comments": 23
     }
   ]
 }
