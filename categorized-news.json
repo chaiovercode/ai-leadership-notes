@@ -1,83 +1,105 @@
 {
-  "updated": "2026-09-09T05:42:39.356Z",
+  "updated": "2026-09-10T05:36:05.532Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": []
+      "articles": [
+        {
+          "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+          "date": "2026-09-09T17:36:05.000Z",
+          "description": "The company also argued that its on-device models offer consumers more privacy.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+          "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+          "date": "2026-09-09T14:18:34.000Z",
+          "description": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+          "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+          "date": "2026-09-09T12:05:34.000Z",
+          "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Hackers are stealing Claude tokens from subscribers",
-          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-          "date": "2026-09-08T21:10:27.000Z",
-          "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+          "date": "2026-09-09T22:25:22.000Z",
+          "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-          "date": "2026-09-08T17:32:15.000Z",
-          "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+          "title": "Massachusetts hits data centers with new clean power rules",
+          "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+          "date": "2026-09-09T21:43:34.000Z",
+          "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
           "source": "TechCrunch"
         },
         {
-          "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-          "date": "2026-09-08T15:04:09.000Z",
-          "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+          "date": "2026-09-09T20:03:43.000Z",
+          "description": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
           "source": "TechCrunch"
         },
         {
-          "title": "Mistral raises €3B as sovereign AI becomes big business",
-          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-          "date": "2026-09-08T14:17:48.000Z",
-          "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+          "title": "Apples revamped Health app will calculate your health age and readiness score",
+          "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+          "date": "2026-09-09T18:16:29.000Z",
+          "description": "The update uses Apple Intelligence to make better sense of your health data.",
           "source": "TechCrunch"
         },
         {
-          "title": "Opaque recurrence, and other AI terms that you should probably know",
-          "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "date": "2026-09-07T19:24:00.000Z",
-          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+          "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+          "date": "2026-09-09T18:08:35.000Z",
+          "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
           "source": "TechCrunch"
         },
         {
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-          "date": "2026-09-06T20:47:37.000Z",
-          "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "title": "Superintelligence is coming. Should we let it?",
+          "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+          "date": "2026-09-09T16:05:35.000Z",
+          "description": "AI companies have been talking about superintelligent AI likeitsinevitable, but recentsafety incidentslikeOpenAIsHugging Face breacharedemonstratingthe potential dangers of deploying AI systems that a...",
           "source": "TechCrunch"
         },
         {
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-          "date": "2026-09-05T22:49:55.000Z",
-          "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "title": "Get ready for the game with new football features in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+          "date": "2026-09-09T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\"&gt;Track live game feeds, explore detailed stats, and get cust...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "Recreating a 70-year love story frame by frame",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+          "date": "2026-09-09T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp\"&gt;Discover how filmmakers and Google DeepMind used AI to rec...",
+          "source": "Google AI Blog"
+        },
+        {
+          "title": "ControlAIs Connor Leahy on why superintelligence is ‘not a weapon, its an adversary’",
+          "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+          "date": "2026-09-09T15:50:13.000Z",
+          "description": "AI companies have been talking about superintelligent AI likeitsinevitable, but recentsafety incidentslikeOpenAIsHugging Face breacharedemonstratingthe potential dangers of deploying AI systems that a...",
           "source": "TechCrunch"
         },
         {
-          "title": "Hikers rescued after using Google Gemini for planning",
-          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-          "date": "2026-09-05T19:35:24.000Z",
-          "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-          "date": "2026-09-05T18:05:27.000Z",
-          "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
-          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-          "date": "2026-09-04T23:15:11.000Z",
-          "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+          "title": "Gambling with our lives: Anthropic researcher quits, warns against self-improving AI",
+          "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+          "date": "2026-09-09T15:02:47.000Z",
+          "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
           "source": "TechCrunch"
         }
       ]
@@ -87,38 +109,17 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-          "date": "2026-09-08T19:00:00.000Z",
-          "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t...",
+          "title": "Viral AI assistant Instinct now has its own email address",
+          "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+          "date": "2026-09-09T15:13:12.000Z",
+          "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
           "source": "TechCrunch"
         },
         {
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-          "date": "2026-09-06T20:47:37.000Z",
-          "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-          "date": "2026-09-05T18:05:27.000Z",
-          "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
-          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-          "date": "2026-09-04T23:15:11.000Z",
-          "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Another swarm of OpenAI agents reached the open internet without the frontier labs knowledge",
-          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-          "date": "2026-09-04T16:21:11.000Z",
-          "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "date": "2026-09-09T13:00:00.000Z",
+          "description": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
           "source": "TechCrunch"
         }
       ]
@@ -128,46 +129,32 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-          "date": "2026-09-08T21:04:06.000Z",
-          "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "date": "2026-09-10T00:00:37.000Z",
+          "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
           "source": "TechCrunch"
         },
         {
-          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-          "date": "2026-09-08T16:20:31.000Z",
-          "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+          "title": "Viral AI assistant Instinct now has its own email address",
+          "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+          "date": "2026-09-09T15:13:12.000Z",
+          "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
           "source": "TechCrunch"
         },
         {
-          "title": "Mistral raises €3B as sovereign AI becomes big business",
-          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-          "date": "2026-09-08T14:17:48.000Z",
-          "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "date": "2026-09-09T13:00:00.000Z",
+          "description": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
           "source": "TechCrunch"
         },
         {
-          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-          "date": "2026-09-06T16:45:00.000Z",
-          "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+          "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+          "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+          "date": "2026-09-09T12:30:00.000Z",
+          "description": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-          "date": "2026-09-04T23:36:14.000Z",
-          "description": "The round is being raised just months after the robot data startup exited from stealth.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Proactive cyber defense for governments and enterprises",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-          "date": "2026-09-02T15:40:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"&gt;The Fairwind Program is a limited access program for gover...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -176,18 +163,74 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "OpenAIs rogue agents keep escaping, with no formal process to investigate them",
-          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-          "date": "2026-09-04T23:15:11.000Z",
-          "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+          "date": "2026-09-09T22:25:22.000Z",
+          "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
           "source": "TechCrunch"
         },
         {
-          "title": "Proactive cyber defense for governments and enterprises",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-          "date": "2026-09-02T15:40:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\"&gt;The Fairwind Program is a limited access program for gover...",
-          "source": "Google AI Blog"
+          "title": "Apple Watchs new AI features are normalizing the idea that technology is always listening",
+          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+          "date": "2026-09-09T20:24:48.000Z",
+          "description": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The hinge for Apples new foldable phone was built with AI",
+          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+          "date": "2026-09-09T19:21:48.000Z",
+          "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+          "date": "2026-09-09T17:36:05.000Z",
+          "description": "The company also argued that its on-device models offer consumers more privacy.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Superintelligence is coming. Should we let it?",
+          "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+          "date": "2026-09-09T16:05:35.000Z",
+          "description": "AI companies have been talking about superintelligent AI likeitsinevitable, but recentsafety incidentslikeOpenAIsHugging Face breacharedemonstratingthe potential dangers of deploying AI systems that a...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ControlAIs Connor Leahy on why superintelligence is ‘not a weapon, its an adversary’",
+          "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+          "date": "2026-09-09T15:50:13.000Z",
+          "description": "AI companies have been talking about superintelligent AI likeitsinevitable, but recentsafety incidentslikeOpenAIsHugging Face breacharedemonstratingthe potential dangers of deploying AI systems that a...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Viral AI assistant Instinct now has its own email address",
+          "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+          "date": "2026-09-09T15:13:12.000Z",
+          "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "date": "2026-09-09T13:00:00.000Z",
+          "description": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+          "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+          "date": "2026-09-09T12:30:00.000Z",
+          "description": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+          "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+          "date": "2026-09-09T12:05:34.000Z",
+          "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+          "source": "TechCrunch"
         }
       ]
     }
