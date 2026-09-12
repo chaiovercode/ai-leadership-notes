@@ -1,15 +1,29 @@
 {
-  "updated": "2026-09-11T05:36:44.517Z",
+  "updated": "2026-09-12T05:24:04.723Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
-          "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-          "date": "2026-09-09T17:36:05.000Z",
-          "description": "The company also argued that its on-device models offer consumers more privacy.",
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "date": "2026-09-11T22:58:17.000Z",
+          "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Y Combinators Garry Tan wants US open-weight AI labs to distill frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "date": "2026-09-11T20:59:47.000Z",
+          "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "date": "2026-09-11T19:35:54.000Z",
+          "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
           "source": "TechCrunch"
         }
       ]
@@ -18,6 +32,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "OpenAIs feud with mathematicians is only escalating",
+          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "date": "2026-09-11T20:57:36.000Z",
+          "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+          "date": "2026-09-11T20:33:18.000Z",
+          "description": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+          "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+          "date": "2026-09-11T20:30:17.000Z",
+          "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "date": "2026-09-11T19:35:54.000Z",
+          "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "date": "2026-09-11T18:41:49.000Z",
+          "description": "An Anthropic researcher resigned this week,warning in a post on Xthat the company is “racing straight to self-improving superintelligence and gambling with our lives”.The companys own alignmentleadeve...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+          "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+          "date": "2026-09-11T16:46:25.000Z",
+          "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
           "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
@@ -44,48 +100,6 @@
           "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
           "date": "2026-09-10T17:54:44.000Z",
           "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "3 ways to prep for your next big race with Search",
-          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-          "date": "2026-09-10T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp\"&gt;Search can help runners get race-day ready with registration aler...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "OpenAI adds a prominent AI doomer to its board of directors",
-          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-          "date": "2026-09-09T22:25:22.000Z",
-          "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Massachusetts hits data centers with new clean power rules",
-          "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-          "date": "2026-09-09T21:43:34.000Z",
-          "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-          "date": "2026-09-09T20:03:43.000Z",
-          "description": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apples revamped Health app will calculate your health age and readiness score",
-          "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-          "date": "2026-09-09T18:16:29.000Z",
-          "description": "The update uses Apple Intelligence to make better sense of your health data.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-          "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-          "date": "2026-09-09T18:08:35.000Z",
-          "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
           "source": "TechCrunch"
         }
       ]
@@ -122,10 +136,24 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "date": "2026-09-11T22:58:17.000Z",
+          "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "date": "2026-09-11T19:35:54.000Z",
+          "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
           "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
           "date": "2026-09-10T21:35:00.000Z",
-          "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+          "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
           "source": "TechCrunch"
         },
         {
@@ -149,6 +177,13 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "date": "2026-09-11T18:41:49.000Z",
+          "description": "An Anthropic researcher resigned this week,warning in a post on Xthat the company is “racing straight to self-improving superintelligence and gambling with our lives”.The companys own alignmentleadeve...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Maven Robotics wants to steal your robot deployment deal",
           "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
           "date": "2026-09-10T14:17:37.000Z",
@@ -160,34 +195,6 @@
           "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
           "date": "2026-09-09T22:25:22.000Z",
           "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple Watchs new AI features are normalizing the idea that technology is always listening",
-          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-          "date": "2026-09-09T20:24:48.000Z",
-          "description": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The hinge for Apples new foldable phone was built with AI",
-          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-          "date": "2026-09-09T19:21:48.000Z",
-          "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-          "date": "2026-09-09T17:36:05.000Z",
-          "description": "The company also argued that its on-device models offer consumers more privacy.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Superintelligence is coming. Should we let it?",
-          "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-          "date": "2026-09-09T16:05:35.000Z",
-          "description": "AI companies have been talking about superintelligent AI likeitsinevitable, but recentsafety incidentslikeOpenAIsHugging Face breacharedemonstratingthe potential dangers of deploying AI systems that a...",
           "source": "TechCrunch"
         }
       ]
