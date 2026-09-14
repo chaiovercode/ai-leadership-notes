@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T05:39:24.268Z",
+  "updated": "2026-09-14T05:46:57.596Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -32,6 +32,13 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Whats behind the AI industry’s latest warnings of doom?",
+          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "date": "2026-09-13T19:40:15.000Z",
+          "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI’s Sam Altman says it would be ill-advised to go public in 2026",
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
@@ -94,13 +101,6 @@
           "date": "2026-09-10T21:51:59.000Z",
           "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-          "date": "2026-09-10T20:59:51.000Z",
-          "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -120,13 +120,6 @@
           "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
           "date": "2026-09-10T17:54:44.000Z",
           "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI agents are flooding public services with new requests",
-          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-          "date": "2026-09-10T14:53:50.000Z",
-          "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
           "source": "TechCrunch"
         }
       ]
@@ -170,6 +163,13 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "date": "2026-09-13T16:30:00.000Z",
+          "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Anthropic CEO outlines plan to slow AI development",
           "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
           "date": "2026-09-12T19:34:44.000Z",
@@ -181,13 +181,6 @@
           "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
           "date": "2026-09-11T18:41:49.000Z",
           "description": "An Anthropic researcher resigned this week,warning in a post on Xthat the company is “racing straight to self-improving superintelligence and gambling with our lives”.The companys own alignmentleadeve...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Maven Robotics wants to steal your robot deployment deal",
-          "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-          "date": "2026-09-10T14:17:37.000Z",
-          "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
           "source": "TechCrunch"
         }
       ]
