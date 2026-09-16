@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-15T15:51:05.885Z",
+  "updated": "2026-09-16T15:42:35.449Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49727627",
+      "score": 187,
+      "comments": 97
+    },
+    {
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "hnUrl": "https://news.ycombinator.com/item?id=49725800",
+      "score": 71,
+      "comments": 13
+    },
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49723408",
+      "score": 305,
+      "comments": 97
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "url": "https://status.salesforce.com/products/all",
+      "hnUrl": "https://news.ycombinator.com/item?id=49724488",
+      "score": 194,
+      "comments": 108
+    },
+    {
+      "title": "Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
+      "url": "https://news.ycombinator.com/item?id=49728159",
+      "hnUrl": "https://news.ycombinator.com/item?id=49728159",
+      "score": 9,
+      "comments": 11
+    },
+    {
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "hnUrl": "https://news.ycombinator.com/item?id=49724927",
+      "score": 232,
+      "comments": 201
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "hnUrl": "https://news.ycombinator.com/item?id=49717558",
+      "score": 1645,
+      "comments": 455
+    },
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "hnUrl": "https://news.ycombinator.com/item?id=49711544",
-      "score": 474,
-      "comments": 83
+      "score": 1831,
+      "comments": 218
     },
     {
-      "title": "I can't stop thinking about Papua New Guinea",
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "hnUrl": "https://news.ycombinator.com/item?id=49708431",
-      "score": 657,
-      "comments": 283
+      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49726586",
+      "score": 175,
+      "comments": 77
     },
     {
-      "title": "Java 27 Released",
-      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49712041",
-      "score": 197,
-      "comments": 154
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49726343",
+      "score": 23,
+      "comments": 17
     },
     {
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "hnUrl": "https://news.ycombinator.com/item?id=49713999",
-      "score": 9,
-      "comments": 0
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49721322",
+      "score": 393,
+      "comments": 256
     },
     {
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49712278",
-      "score": 92,
-      "comments": 42
+      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "url": "https://www.cloudx.ai/posts/setup-go",
+      "hnUrl": "https://news.ycombinator.com/item?id=49726350",
+      "score": 38,
+      "comments": 3
     },
     {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49710883",
-      "score": 410,
-      "comments": 118
-    },
-    {
-      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-      "url": "https://github.com/greentfrapp/panel",
-      "hnUrl": "https://news.ycombinator.com/item?id=49712621",
-      "score": 21,
-      "comments": 4
-    },
-    {
-      "title": "Alternatives to MinIO for single-node local S3",
-      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49709381",
-      "score": 155,
-      "comments": 71
-    },
-    {
-      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-      "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49712746",
-      "score": 89,
-      "comments": 74
-    },
-    {
-      "title": "CSS-Tricks in Limbo",
-      "url": "https://vale.rocks/micros/20260915-0135",
-      "hnUrl": "https://news.ycombinator.com/item?id=49708993",
-      "score": 180,
-      "comments": 68
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "hnUrl": "https://news.ycombinator.com/item?id=49710253",
-      "score": 329,
-      "comments": 312
-    },
-    {
-      "title": "OpenArm: An open-source 7DOF humanoid arm",
-      "url": "https://github.com/enactic/OpenArm",
-      "hnUrl": "https://news.ycombinator.com/item?id=49684289",
-      "score": 180,
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "hnUrl": "https://news.ycombinator.com/item?id=49725356",
+      "score": 137,
       "comments": 37
     },
     {
-      "title": "AI is breaking our proxies for expertise",
-      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49712416",
-      "score": 48,
-      "comments": 19
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49716176",
+      "score": 627,
+      "comments": 337
     },
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49711240",
-      "score": 99,
-      "comments": 62
-    },
-    {
-      "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-      "url": "https://github.com/ordewell/ordewell",
-      "hnUrl": "https://news.ycombinator.com/item?id=49712276",
-      "score": 18,
-      "comments": 15
+      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+      "url": "https://github.com/officefloor/ImpactGate",
+      "hnUrl": "https://news.ycombinator.com/item?id=49726329",
+      "score": 33,
+      "comments": 38
     }
   ]
 }
