@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-18T15:22:00.416Z",
+  "updated": "2026-09-19T14:58:49.446Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "url": "https://arxiv.org/abs/2609.20804",
-      "hnUrl": "https://news.ycombinator.com/item?id=49753878",
-      "score": 110,
-      "comments": 15
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49765348",
+      "score": 338,
+      "comments": 67
     },
     {
-      "title": "AI Protest in Montreal",
-      "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49755162",
-      "score": 20,
-      "comments": 11
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49766637",
+      "score": 39,
+      "comments": 19
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49764791",
+      "score": 578,
+      "comments": 349
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49763697",
+      "score": 429,
+      "comments": 161
+    },
+    {
+      "title": "“The Secret Life of Circuits” is here",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "hnUrl": "https://news.ycombinator.com/item?id=49720143",
+      "score": 152,
+      "comments": 34
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "hnUrl": "https://news.ycombinator.com/item?id=49758736",
+      "score": 940,
+      "comments": 515
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49763296",
+      "score": 267,
+      "comments": 91
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49763928",
+      "score": 202,
+      "comments": 161
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "hnUrl": "https://news.ycombinator.com/item?id=49763987",
+      "score": 217,
+      "comments": 119
     },
     {
       "title": "Cloudflare Quick Tunnels",
       "url": "https://try.cloudflare.com/",
       "hnUrl": "https://news.ycombinator.com/item?id=49754785",
-      "score": 10,
-      "comments": 8
+      "score": 763,
+      "comments": 299
     },
     {
-      "title": "Bend 2 and the Vibe-Coding Trap",
-      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49753179",
-      "score": 258,
-      "comments": 178
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "hnUrl": "https://news.ycombinator.com/item?id=49766821",
+      "score": 17,
+      "comments": 1
     },
     {
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49752041",
-      "score": 318,
-      "comments": 185
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49747070",
+      "score": 543,
+      "comments": 356
     },
     {
-      "title": "I don't like passkeys",
-      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "hnUrl": "https://news.ycombinator.com/item?id=49753211",
-      "score": 354,
-      "comments": 334
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49762744",
+      "score": 105,
+      "comments": 21
     },
     {
-      "title": "NATS publishes preliminary report on technical incident of 8 September",
-      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49754064",
-      "score": 12,
-      "comments": 4
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49758580",
+      "score": 403,
+      "comments": 87
     },
     {
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49752614",
-      "score": 175,
-      "comments": 114
-    },
-    {
-      "title": "Jemalloc 5.4.0",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "hnUrl": "https://news.ycombinator.com/item?id=49750152",
-      "score": 258,
-      "comments": 62
-    },
-    {
-      "title": "The scourge of x86 emulation",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49750094",
-      "score": 223,
-      "comments": 57
-    },
-    {
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49752056",
-      "score": 599,
-      "comments": 495
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "hnUrl": "https://news.ycombinator.com/item?id=49746618",
-      "score": 522,
-      "comments": 170
-    },
-    {
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49755095",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49745940",
-      "score": 549,
-      "comments": 645
-    },
-    {
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "hnUrl": "https://news.ycombinator.com/item?id=49752422",
-      "score": 223,
-      "comments": 50
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49762687",
+      "score": 123,
+      "comments": 46
     }
   ]
 }
