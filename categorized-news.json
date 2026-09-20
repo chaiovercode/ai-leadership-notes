@@ -1,10 +1,31 @@
 {
-  "updated": "2026-09-19T05:29:01.544Z",
+  "updated": "2026-09-20T05:42:30.084Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "date": "2026-09-19T17:30:00.000Z",
+          "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "date": "2026-09-19T15:00:00.000Z",
+          "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+          "date": "2026-09-19T13:00:00.000Z",
+          "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+          "source": "TechCrunch"
+        },
         {
           "title": "World model companies are keeping a lot of secrets",
           "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
@@ -32,6 +53,34 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "date": "2026-09-19T20:39:13.000Z",
+          "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trump says its time to rebrand AI with a new name — and hes also creating an AI Force",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "date": "2026-09-19T19:57:47.000Z",
+          "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "date": "2026-09-19T17:30:00.000Z",
+          "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+          "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+          "date": "2026-09-19T14:00:00.000Z",
+          "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+          "source": "TechCrunch"
+        },
         {
           "title": "India forces caller-ID apps to feed spam reports to telcos",
           "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -73,34 +122,6 @@
           "date": "2026-09-18T18:49:30.000Z",
           "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Dario Amodei and other AI leaders want to Pace the Frontier but…how?",
-          "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-          "date": "2026-09-18T17:09:56.000Z",
-          "description": "A week after an Anthropic researchers doomsday warning rattled the AI world, the companys CEO Dario Amodei hasoutlined his plan to “pace the frontier”of AI development. The proposal leans on independe...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Automattics 33-Hour Coup, and can AI labs police themselves?",
-          "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-          "date": "2026-09-18T17:06:32.000Z",
-          "description": "A week after an Anthropic researchers doomsday warning rattled the AI world, the companys CEO Dario Amodei hasoutlined his plan to “pace the frontier”of AI development. The proposal leans on independe...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-18T15:00:00.000Z",
-          "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Researchers used Anthropics Claude to hack into OpenAI",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-          "date": "2026-09-18T14:00:14.000Z",
-          "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -141,20 +162,6 @@
           "date": "2026-09-18T16:35:49.000Z",
           "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Open or closed AI? Nvidias Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-18T15:30:00.000Z",
-          "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-18T14:00:00.000Z",
-          "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -162,6 +169,27 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "date": "2026-09-19T17:30:00.000Z",
+          "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "date": "2026-09-19T15:00:00.000Z",
+          "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI safety conversations have gotten unbelievable",
+          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+          "date": "2026-09-19T15:00:00.000Z",
+          "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropics first embedded evaluator is … Accenture?",
           "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
@@ -181,27 +209,6 @@
           "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
           "date": "2026-09-18T17:59:53.000Z",
           "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Metas Muse hits Mac, letting the AI take actions on your computer",
-          "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-          "date": "2026-09-18T15:22:48.000Z",
-          "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Researchers used Anthropics Claude to hack into OpenAI",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-          "date": "2026-09-18T14:00:14.000Z",
-          "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Crusoe raises $3.9B to build massive data centers and small modular AI factories",
-          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-          "date": "2026-09-17T23:25:52.000Z",
-          "description": "The round values the data center giant at $30.9 billion.",
           "source": "TechCrunch"
         },
         {
