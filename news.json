@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-21T17:20:11.381Z",
+  "updated": "2026-09-22T15:53:25.262Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49787436",
-      "score": 271,
-      "comments": 138
+      "title": "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49802871",
+      "score": 35,
+      "comments": 23
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49801324",
+      "score": 213,
+      "comments": 213
+    },
+    {
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "hnUrl": "https://news.ycombinator.com/item?id=49801939",
+      "score": 187,
+      "comments": 119
+    },
+    {
+      "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49802161",
+      "score": 79,
+      "comments": 60
+    },
+    {
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49797323",
+      "score": 306,
+      "comments": 119
+    },
+    {
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "hnUrl": "https://news.ycombinator.com/item?id=49792730",
+      "score": 1020,
+      "comments": 455
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49794615",
+      "score": 599,
+      "comments": 144
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49802030",
+      "score": 34,
+      "comments": 9
     },
     {
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
       "hnUrl": "https://news.ycombinator.com/item?id=49787726",
-      "score": 174,
-      "comments": 40
+      "score": 978,
+      "comments": 295
     },
     {
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "hnUrl": "https://news.ycombinator.com/item?id=49788838",
-      "score": 168,
-      "comments": 106
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49792342",
+      "score": 550,
+      "comments": 80
     },
     {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49787142",
-      "score": 57,
-      "comments": 4
-    },
-    {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "hnUrl": "https://news.ycombinator.com/item?id=49783999",
-      "score": 302,
-      "comments": 144
-    },
-    {
-      "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
-      "url": "https://github.com/naw103/foremerge",
-      "hnUrl": "https://news.ycombinator.com/item?id=49789356",
-      "score": 12,
+      "title": "The Economics of Open-Weight Inference",
+      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+      "hnUrl": "https://news.ycombinator.com/item?id=49801218",
+      "score": 6,
       "comments": 0
     },
     {
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=49783495",
-      "score": 317,
-      "comments": 70
-    },
-    {
-      "title": "M5 Ultra Mac Studio Review",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49787313",
-      "score": 132,
-      "comments": 101
-    },
-    {
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "hnUrl": "https://news.ycombinator.com/item?id=49780820",
-      "score": 603,
-      "comments": 421
-    },
-    {
-      "title": "Whirlpool Washer Transmission Repair (2007)",
-      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49780226",
+      "title": "Solitaire Alone Together",
+      "url": "https://solitairealonetogether.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49794193",
       "score": 15,
-      "comments": 10
+      "comments": 2
     },
     {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "hnUrl": "https://news.ycombinator.com/item?id=49780797",
-      "score": 598,
-      "comments": 278
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49787436",
+      "score": 651,
+      "comments": 375
     },
     {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49787535",
-      "score": 109,
-      "comments": 42
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49797982",
+      "score": 588,
+      "comments": 470
     },
     {
-      "title": "Raspberry Pi blocks changing RAM chips",
-      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-      "hnUrl": "https://news.ycombinator.com/item?id=49786689",
-      "score": 134,
-      "comments": 118
-    },
-    {
-      "title": "Apple Mac mini review",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49787548",
-      "score": 57,
-      "comments": 28
-    },
-    {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "hnUrl": "https://news.ycombinator.com/item?id=49778029",
-      "score": 536,
-      "comments": 411
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49794330",
+      "score": 899,
+      "comments": 381
     }
   ]
 }
