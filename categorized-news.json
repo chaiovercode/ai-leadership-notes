@@ -1,51 +1,51 @@
 {
-  "updated": "2026-09-22T05:51:09.397Z",
+  "updated": "2026-09-23T05:28:59.884Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "date": "2026-09-22T21:56:43.000Z",
+          "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "date": "2026-09-22T20:00:00.000Z",
+          "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "date": "2026-09-22T18:00:00.000Z",
+          "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+          "date": "2026-09-22T16:30:07.000Z",
+          "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AstroForge is putting AI in command of its next spacecraft",
+          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+          "date": "2026-09-22T15:00:00.000Z",
+          "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Metas AI agent has been blocked from using Amazon.com",
           "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
           "date": "2026-09-21T17:55:18.000Z",
           "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-21T15:00:00.000Z",
-          "description": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "World model companies are keeping a lot of secrets",
-          "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-          "date": "2026-09-20T20:29:07.000Z",
-          "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google’s Gemini is the latest AI model to hack other companies",
-          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-          "date": "2026-09-19T17:30:00.000Z",
-          "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-          "date": "2026-09-19T15:00:00.000Z",
-          "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI for everyone in every language",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-          "date": "2026-09-15T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp\"&gt;We’re moving beyond traditional text translation to build models ...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -54,73 +54,73 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Were already fighting yesterdays battle: Greeces prime minister gets candid about AI",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+          "date": "2026-09-23T04:59:08.000Z",
+          "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+          "date": "2026-09-22T23:21:49.000Z",
+          "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "date": "2026-09-22T18:00:00.000Z",
+          "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+          "date": "2026-09-22T16:30:07.000Z",
+          "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+          "date": "2026-09-22T15:00:00.000Z",
+          "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+          "date": "2026-09-22T14:30:00.000Z",
+          "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a se...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+          "date": "2026-09-22T14:00:00.000Z",
+          "description": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Everyone can find a reason to dislike data center construction",
+          "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+          "date": "2026-09-22T13:00:00.000Z",
+          "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nscale’s IPO will test Wall Streets appetite for concentrated AI bets once again",
+          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+          "date": "2026-09-22T12:23:05.000Z",
+          "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "The man who built Apples stores doesnt buy Silicon Valleys bet on AI shopping",
           "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
           "date": "2026-09-21T23:44:28.000Z",
           "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-          "date": "2026-09-21T20:15:58.000Z",
-          "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-          "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-          "date": "2026-09-21T19:25:00.000Z",
-          "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Metas Muse is outpacing ChatGPT’s early mobile launch",
-          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-          "date": "2026-09-21T19:19:21.000Z",
-          "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Googles $899 Googlebook is a bet that youll buy a new laptop for Gemini",
-          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-          "date": "2026-09-21T14:39:22.000Z",
-          "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-          "date": "2026-09-21T14:30:00.000Z",
-          "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-20T21:41:08.000Z",
-          "description": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Is the AI industry really ready to slow down?",
-          "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-          "date": "2026-09-20T18:56:04.000Z",
-          "description": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-          "date": "2026-09-19T20:39:13.000Z",
-          "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Trump says its time to rebrand AI with a new name — and hes also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-          "date": "2026-09-19T19:57:47.000Z",
-          "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
           "source": "TechCrunch"
         }
       ]
@@ -150,31 +150,31 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "date": "2026-09-22T21:56:43.000Z",
+          "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+          "date": "2026-09-22T14:15:00.000Z",
+          "description": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nscale’s IPO will test Wall Streets appetite for concentrated AI bets once again",
+          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+          "date": "2026-09-22T12:23:05.000Z",
+          "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
           "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
           "date": "2026-09-21T16:38:51.000Z",
           "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-21T15:00:00.000Z",
-          "description": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-21T14:15:00.000Z",
-          "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "ScrollEd wants to turn textbooks into TikTok",
-          "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-          "date": "2026-09-20T18:00:00.000Z",
-          "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche...",
           "source": "TechCrunch"
         }
       ]
@@ -184,67 +184,25 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Meta admits Muses likeness to OpenClaw isnt a coincidence",
+          "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+          "date": "2026-09-22T19:09:11.000Z",
+          "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+          "date": "2026-09-22T15:00:00.000Z",
+          "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Metas Muse is outpacing ChatGPT’s early mobile launch",
           "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
           "date": "2026-09-21T19:19:21.000Z",
           "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "World model companies are keeping a lot of secrets",
-          "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-          "date": "2026-09-20T20:29:07.000Z",
-          "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Voccis ring adds a new form factor to meeting note-taking",
-          "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-          "date": "2026-09-20T18:32:52.000Z",
-          "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google’s Gemini is the latest AI model to hack other companies",
-          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-          "date": "2026-09-19T17:30:00.000Z",
-          "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-          "date": "2026-09-19T15:00:00.000Z",
-          "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI safety conversations have gotten unbelievable",
-          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-          "date": "2026-09-19T15:00:00.000Z",
-          "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI for Societal Impact",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-          "date": "2026-09-15T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\"&gt;Explore this collection to see how experts and local leaders are using AI breakthroughs to e...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "Building AI to accelerate science and improve lives",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-          "date": "2026-09-15T16:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp\"&gt;The true measure of AI is who it helps. Here’s how it’s impacting live...",
-          "source": "Google AI Blog"
-        },
-        {
-          "title": "New insights from Google’s AI &amp; Economy ATLAS",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-          "date": "2026-09-15T13:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp\"&gt;We’ve translated ATLAS’s millions of global data points into an interactive, op...",
-          "source": "Google AI Blog"
         }
       ]
     }
