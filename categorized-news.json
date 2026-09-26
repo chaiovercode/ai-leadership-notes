@@ -1,83 +1,105 @@
 {
-  "updated": "2026-09-25T05:48:09.882Z",
+  "updated": "2026-09-26T05:50:39.656Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": []
+      "articles": [
+        {
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+          "date": "2026-09-25T18:22:47.000Z",
+          "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”maybe someoneshould have asked: what pace?Nowit’sturned into model drop week for both companies asAnthropic rolled o...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Astra and Opus just passed Turings other test",
+          "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+          "date": "2026-09-25T17:24:36.000Z",
+          "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta’s AI Tamagotchi bet is…working?",
+          "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+          "date": "2026-09-25T16:00:00.000Z",
+          "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”maybe someoneshould have asked: what pace?Nowit’sturned into model drop week for both companies asAnthropic rolled o...",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-          "date": "2026-09-25T05:00:00.000Z",
-          "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "title": "At Meta Connect, the companys smart glasses were everywhere",
+          "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+          "date": "2026-09-26T01:08:57.000Z",
+          "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
           "source": "TechCrunch"
         },
         {
-          "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-          "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-          "date": "2026-09-24T19:15:00.000Z",
-          "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+          "date": "2026-09-25T23:11:10.000Z",
+          "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
           "source": "TechCrunch"
         },
         {
-          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-          "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-          "date": "2026-09-24T19:00:42.000Z",
-          "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the labs knowledge",
+          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+          "date": "2026-09-25T22:20:47.000Z",
+          "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
           "source": "TechCrunch"
         },
         {
-          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-          "date": "2026-09-24T18:11:44.000Z",
-          "description": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+          "title": "Meta opens early access program for new Muse features",
+          "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+          "date": "2026-09-25T20:34:53.000Z",
+          "description": "Anyone interested in joining has to ask Muse to put them on the list.",
           "source": "TechCrunch"
         },
         {
-          "title": "Google Photos Clueless-inspired virtual closet is now available on Android and iOS",
-          "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-          "date": "2026-09-24T17:00:00.000Z",
-          "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+          "date": "2026-09-25T19:13:38.000Z",
+          "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a...",
           "source": "TechCrunch"
         },
         {
-          "title": "Google tests letting Gemini call businesses for you",
-          "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-          "date": "2026-09-24T16:00:00.000Z",
-          "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+          "date": "2026-09-25T18:22:47.000Z",
+          "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”maybe someoneshould have asked: what pace?Nowit’sturned into model drop week for both companies asAnthropic rolled o...",
           "source": "TechCrunch"
         },
         {
-          "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-24T15:00:00.000Z",
-          "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50...",
+          "title": "Meta’s AI Tamagotchi bet is…working?",
+          "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+          "date": "2026-09-25T16:00:00.000Z",
+          "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”maybe someoneshould have asked: what pace?Nowit’sturned into model drop week for both companies asAnthropic rolled o...",
           "source": "TechCrunch"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-          "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-          "date": "2026-09-24T14:30:00.000Z",
-          "description": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+          "title": "For months, OpenAIs agent swarms have been attacking online databases to find obscure facts",
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+          "date": "2026-09-25T15:48:14.000Z",
+          "description": "The latest unauthorized agent swarms were discovered by researchers.",
           "source": "TechCrunch"
         },
         {
-          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-          "date": "2026-09-24T12:54:19.000Z",
-          "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+          "title": "Anthropics founders seek voting control ahead of IPO",
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+          "date": "2026-09-25T15:40:03.000Z",
+          "description": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta introduces camera-free AI glasses",
-          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-          "date": "2026-09-23T23:39:44.000Z",
-          "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
+          "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+          "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+          "date": "2026-09-25T15:00:00.000Z",
+          "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20...",
           "source": "TechCrunch"
         }
       ]
@@ -87,24 +109,24 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
-          "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-          "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-          "date": "2026-09-24T14:31:00.000Z",
-          "description": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the labs knowledge",
+          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+          "date": "2026-09-25T22:20:47.000Z",
+          "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
           "source": "TechCrunch"
         },
         {
-          "title": "Everything new coming to Metas AI agent Muse",
-          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-          "date": "2026-09-24T01:13:32.000Z",
-          "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass...",
+          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+          "date": "2026-09-25T16:16:52.000Z",
+          "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-          "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-          "date": "2026-09-24T00:46:17.000Z",
-          "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+          "title": "For months, OpenAIs agent swarms have been attacking online databases to find obscure facts",
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+          "date": "2026-09-25T15:48:14.000Z",
+          "description": "The latest unauthorized agent swarms were discovered by researchers.",
           "source": "TechCrunch"
         }
       ]
@@ -114,31 +136,31 @@
       "name": "Business Applications",
       "articles": [
         {
-          "title": "ElevenLabs CEO on margins, IPO timing, and telling customers theyre talking to a bot",
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-          "date": "2026-09-24T16:35:13.000Z",
-          "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is wh...",
+          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+          "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+          "date": "2026-09-25T18:48:33.000Z",
+          "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
           "source": "TechCrunch"
         },
         {
-          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-          "date": "2026-09-24T16:03:36.000Z",
-          "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-...",
+          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+          "date": "2026-09-25T18:33:59.000Z",
+          "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
           "source": "TechCrunch"
         },
         {
-          "title": "Google tests letting Gemini call businesses for you",
-          "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-          "date": "2026-09-24T16:00:00.000Z",
-          "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+          "title": "Some Supabase customers are publicly exposing reams of peoples data to the web",
+          "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+          "date": "2026-09-25T17:29:46.000Z",
+          "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
           "source": "TechCrunch"
         },
         {
-          "title": "Lovables annualized revenue crosses $600M as vibe coding takes off",
-          "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-          "date": "2026-09-24T14:43:25.000Z",
-          "description": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+          "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+          "date": "2026-09-25T14:00:00.000Z",
+          "description": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl...",
           "source": "TechCrunch"
         },
         {
@@ -155,31 +177,10 @@
       "name": "Ethics & Safety",
       "articles": [
         {
-          "title": "Metas Muse Charm looks like a Tamagotchi, but its tapping into a much newer trend",
-          "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-          "date": "2026-09-24T17:39:24.000Z",
-          "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-          "date": "2026-09-24T16:46:47.000Z",
-          "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-          "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-          "date": "2026-09-24T14:00:00.000Z",
-          "description": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% of...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-          "date": "2026-09-24T12:54:19.000Z",
-          "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+          "title": "For months, OpenAIs agent swarms have been attacking online databases to find obscure facts",
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+          "date": "2026-09-25T15:48:14.000Z",
+          "description": "The latest unauthorized agent swarms were discovered by researchers.",
           "source": "TechCrunch"
         }
       ]
