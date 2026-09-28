@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T06:12:25.379Z",
+  "updated": "2026-09-28T06:18:42.763Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -39,6 +39,27 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "date": "2026-09-27T20:34:28.000Z",
+          "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "date": "2026-09-27T19:57:30.000Z",
+          "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropics Dario Amodei gets the SNL treatment",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+          "date": "2026-09-27T16:30:00.000Z",
+          "description": "\"AI is the devil and I its maker.\"",
+          "source": "TechCrunch"
+        },
         {
           "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
           "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -86,27 +107,6 @@
           "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
           "date": "2026-09-25T19:13:38.000Z",
           "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-          "date": "2026-09-25T18:22:47.000Z",
-          "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”maybe someoneshould have asked: what pace?Nowit’sturned into model drop week for both companies asAnthropic rolled o...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta’s AI Tamagotchi bet is…working?",
-          "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-          "date": "2026-09-25T16:00:00.000Z",
-          "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”maybe someoneshould have asked: what pace?Nowit’sturned into model drop week for both companies asAnthropic rolled o...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "For months, OpenAIs agent swarms have been attacking online databases to find obscure facts",
-          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-          "date": "2026-09-25T15:48:14.000Z",
-          "description": "The latest unauthorized agent swarms were discovered by researchers.",
           "source": "TechCrunch"
         }
       ]
@@ -161,13 +161,6 @@
           "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
           "date": "2026-09-25T17:29:46.000Z",
           "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-          "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-          "date": "2026-09-25T14:00:00.000Z",
-          "description": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl...",
           "source": "TechCrunch"
         },
         {
