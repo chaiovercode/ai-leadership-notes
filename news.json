@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-30T17:09:33.937Z",
+  "updated": "2026-10-01T17:39:12.446Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "You Said No MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49906637",
-      "score": 446,
-      "comments": 244
+      "title": "Clef: our open-source decision models",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49923692",
+      "score": 136,
+      "comments": 48
     },
     {
-      "title": "The AI Race Just Got Awkward",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49910553",
-      "score": 299,
-      "comments": 264
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "hnUrl": "https://news.ycombinator.com/item?id=49923466",
+      "score": 85,
+      "comments": 19
     },
     {
-      "title": "I Could've Accessed 17T Microsoft Records",
-      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-      "hnUrl": "https://news.ycombinator.com/item?id=49883970",
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "hnUrl": "https://news.ycombinator.com/item?id=49920160",
+      "score": 398,
+      "comments": 86
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49920896",
+      "score": 172,
+      "comments": 83
+    },
+    {
+      "title": "Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49921923",
+      "score": 75,
+      "comments": 24
+    },
+    {
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=49922736",
+      "score": 42,
+      "comments": 6
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49913571",
+      "score": 1590,
+      "comments": 1060
+    },
+    {
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "url": "https://www.polyedergarten.de/e_index.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=49922594",
+      "score": 24,
+      "comments": 2
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "hnUrl": "https://news.ycombinator.com/item?id=49919910",
+      "score": 133,
+      "comments": 73
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "hnUrl": "https://news.ycombinator.com/item?id=49906100",
+      "score": 211,
+      "comments": 101
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=49920932",
+      "score": 213,
+      "comments": 256
+    },
+    {
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "hnUrl": "https://news.ycombinator.com/item?id=49922729",
       "score": 103,
       "comments": 50
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-      "hnUrl": "https://news.ycombinator.com/item?id=49911531",
-      "score": 1,
-      "comments": 0
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49922278",
+      "score": 134,
+      "comments": 83
     },
     {
-      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-      "hnUrl": "https://news.ycombinator.com/item?id=49890707",
-      "score": 100,
-      "comments": 22
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49921050",
+      "score": 151,
+      "comments": 96
     },
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "hnUrl": "https://news.ycombinator.com/item?id=49901736",
-      "score": 811,
-      "comments": 338
-    },
-    {
-      "title": "Solving Factorio Quality",
-      "url": "https://exyr.org/2026/solving-factorio-quality/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49887343",
-      "score": 212,
-      "comments": 78
-    },
-    {
-      "title": "Getting out of the way: my robotics crash course",
-      "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49879346",
-      "score": 32,
-      "comments": 7
-    },
-    {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49896604",
-      "score": 715,
-      "comments": 598
-    },
-    {
-      "title": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "hnUrl": "https://news.ycombinator.com/item?id=49897993",
-      "score": 323,
-      "comments": 247
-    },
-    {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "hnUrl": "https://news.ycombinator.com/item?id=49890733",
-      "score": 274,
-      "comments": 303
-    },
-    {
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49893509",
-      "score": 723,
-      "comments": 646
-    },
-    {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49899090",
-      "score": 261,
-      "comments": 155
-    },
-    {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49898778",
-      "score": 343,
-      "comments": 92
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49880411",
-      "score": 325,
-      "comments": 48
+      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "url": "https://bookofshapes.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49894430",
+      "score": 204,
+      "comments": 14
     }
   ]
 }
