@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-01T17:39:12.446Z",
+  "updated": "2026-10-02T16:58:28.368Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Clef: our open-source decision models",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=49933235",
+      "score": 136,
+      "comments": 77
+    },
+    {
+      "title": "Giving friends custom text buzzes based on Morse code",
+      "url": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49925653",
+      "score": 28,
+      "comments": 9
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "hnUrl": "https://news.ycombinator.com/item?id=49927754",
+      "score": 22,
+      "comments": 0
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49930047",
+      "score": 255,
+      "comments": 59
+    },
+    {
+      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+      "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49933251",
+      "score": 46,
+      "comments": 31
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49928121",
+      "score": 496,
+      "comments": 356
+    },
+    {
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "hnUrl": "https://news.ycombinator.com/item?id=49931031",
+      "score": 108,
+      "comments": 38
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49928566",
+      "score": 37,
+      "comments": 11
+    },
+    {
+      "title": "The Four Horsemen of Agentic Coding",
+      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "hnUrl": "https://news.ycombinator.com/item?id=49934511",
+      "score": 50,
+      "comments": 18
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49927747",
+      "score": 8,
+      "comments": 10
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49927760",
+      "score": 463,
+      "comments": 105
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "hnUrl": "https://news.ycombinator.com/item?id=49923692",
-      "score": 136,
-      "comments": 48
+      "score": 593,
+      "comments": 212
     },
     {
-      "title": "RIP, vector database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "hnUrl": "https://news.ycombinator.com/item?id=49923466",
-      "score": 85,
-      "comments": 19
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "url": "https://innerloop.works/breadcrumb",
+      "hnUrl": "https://news.ycombinator.com/item?id=49924943",
+      "score": 21,
+      "comments": 4
     },
     {
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "hnUrl": "https://news.ycombinator.com/item?id=49920160",
-      "score": 398,
-      "comments": 86
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "hnUrl": "https://news.ycombinator.com/item?id=49926536",
+      "score": 372,
+      "comments": 159
     },
     {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49920896",
-      "score": 172,
-      "comments": 83
-    },
-    {
-      "title": "Cloudflare K2: serverless event streams",
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49921923",
-      "score": 75,
-      "comments": 24
-    },
-    {
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=49922736",
-      "score": 42,
-      "comments": 6
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49913571",
-      "score": 1590,
-      "comments": 1060
-    },
-    {
-      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-      "url": "https://www.polyedergarten.de/e_index.htm",
-      "hnUrl": "https://news.ycombinator.com/item?id=49922594",
-      "score": 24,
-      "comments": 2
-    },
-    {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "hnUrl": "https://news.ycombinator.com/item?id=49919910",
-      "score": 133,
-      "comments": 73
-    },
-    {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "hnUrl": "https://news.ycombinator.com/item?id=49906100",
-      "score": 211,
-      "comments": 101
-    },
-    {
-      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-      "hnUrl": "https://news.ycombinator.com/item?id=49920932",
-      "score": 213,
-      "comments": 256
-    },
-    {
-      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-      "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
-      "hnUrl": "https://news.ycombinator.com/item?id=49922729",
-      "score": 103,
-      "comments": 50
-    },
-    {
-      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
-      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49922278",
-      "score": 134,
-      "comments": 83
-    },
-    {
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49921050",
-      "score": 151,
-      "comments": 96
-    },
-    {
-      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-      "url": "https://bookofshapes.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49894430",
-      "score": 204,
-      "comments": 14
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://www.kapa.ai/blog/company-knowledge-bench",
+      "hnUrl": "https://news.ycombinator.com/item?id=49933381",
+      "score": 16,
+      "comments": 0
     }
   ]
 }
