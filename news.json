@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-04T16:06:30.445Z",
+  "updated": "2026-10-05T20:02:47.316Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "hnUrl": "https://news.ycombinator.com/item?id=49953495",
-      "score": 232,
-      "comments": 114
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "hnUrl": "https://news.ycombinator.com/item?id=49969183",
+      "score": 81,
+      "comments": 20
     },
     {
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "hnUrl": "https://news.ycombinator.com/item?id=49949438",
-      "score": 665,
-      "comments": 132
+      "title": "Why Plain Text Is Still One of the Best Technologies We Have",
+      "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49968906",
+      "score": 45,
+      "comments": 10
     },
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "hnUrl": "https://news.ycombinator.com/item?id=49952111",
-      "score": 56,
-      "comments": 36
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49963171",
+      "score": 388,
+      "comments": 188
     },
     {
-      "title": "Why don't more developers “use the platform”?",
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49950554",
-      "score": 222,
-      "comments": 218
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49968105",
+      "score": 181,
+      "comments": 112
     },
     {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "hnUrl": "https://news.ycombinator.com/item?id=49946895",
-      "score": 381,
-      "comments": 67
+      "title": "The future of independence is interdependence",
+      "url": "https://onlys.ky/independence-is-interdependence/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49966163",
+      "score": 110,
+      "comments": 71
     },
     {
-      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-      "url": "https://github.com/PowderworksCode/headstart",
-      "hnUrl": "https://news.ycombinator.com/item?id=49951218",
-      "score": 63,
-      "comments": 12
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49965308",
+      "score": 108,
+      "comments": 19
     },
     {
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "hnUrl": "https://news.ycombinator.com/item?id=49945933",
-      "score": 279,
-      "comments": 161
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "hnUrl": "https://news.ycombinator.com/item?id=49962012",
+      "score": 424,
+      "comments": 305
     },
     {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "hnUrl": "https://news.ycombinator.com/item?id=49946355",
-      "score": 260,
-      "comments": 130
+      "title": "Linux containers in 500 lines of code",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49965118",
+      "score": 58,
+      "comments": 11
     },
     {
-      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
-      "hnUrl": "https://news.ycombinator.com/item?id=49935038",
-      "score": 38,
-      "comments": 12
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49961057",
+      "score": 308,
+      "comments": 239
     },
     {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49946228",
-      "score": 261,
-      "comments": 406
+      "title": "Huawei and Qualcomm announce broad patent license agreement",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "hnUrl": "https://news.ycombinator.com/item?id=49961861",
+      "score": 159,
+      "comments": 95
     },
     {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49946393",
-      "score": 327,
-      "comments": 80
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49956290",
+      "score": 199,
+      "comments": 149
     },
     {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49923873",
-      "score": 232,
-      "comments": 58
+      "title": "Differences Between `Foldl` and `Foldr`",
+      "url": "https://blog.haskell.org/foldl-and-foldr/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49917900",
+      "score": 115,
+      "comments": 25
     },
     {
-      "title": "We're working on a new RuneScape MMO",
-      "url": "https://play.runescape.com/4",
-      "hnUrl": "https://news.ycombinator.com/item?id=49949588",
-      "score": 131,
-      "comments": 69
+      "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+      "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+      "hnUrl": "https://news.ycombinator.com/item?id=49967444",
+      "score": 169,
+      "comments": 144
     },
     {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49949235",
-      "score": 533,
-      "comments": 278
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "hnUrl": "https://news.ycombinator.com/item?id=49964303",
+      "score": 362,
+      "comments": 200
     },
     {
-      "title": "So you think you could be an electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "hnUrl": "https://news.ycombinator.com/item?id=49910462",
-      "score": 378,
-      "comments": 312
+      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "hnUrl": "https://news.ycombinator.com/item?id=49963385",
+      "score": 202,
+      "comments": 116
     }
   ]
 }
