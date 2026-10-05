@@ -1,23 +1,22 @@
 {
-  "updated": "2026-10-04T06:36:57.450Z",
+  "updated": "2026-10-05T06:32:39.719Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": [
-        {
-          "title": "Amazon releases its own Jev clone as decision models flood the web",
-          "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-          "date": "2026-10-01T16:49:22.000Z",
-          "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-          "source": "TechCrunch"
-        }
-      ]
+      "articles": []
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Google froze its open source bug bounty program due to a significant rise in AI submissions",
+          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "date": "2026-10-04T20:31:07.000Z",
+          "description": "AI slop seems to be overwhelming bug bounty programs.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
           "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
@@ -80,13 +79,6 @@
           "date": "2026-10-02T17:00:00.000Z",
           "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve th...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Pope Leo XIV is not a fan of AI-generated art",
-          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-          "date": "2026-10-02T15:39:41.000Z",
-          "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -120,6 +112,20 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "date": "2026-10-04T20:08:34.000Z",
+          "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trump unveils his new Super Intelligence Force",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "date": "2026-10-04T15:15:10.000Z",
+          "description": "This new task force is Trump's latest response to the debate over AI safety.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
           "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
           "date": "2026-10-03T16:30:01.000Z",
@@ -145,13 +151,6 @@
           "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
           "date": "2026-10-02T17:48:16.000Z",
           "description": "This week, the White House gotnearly everymajor tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —to sign an AI safety pledgethat PresidentDonaldTrump called “mo...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-          "date": "2026-10-01T18:14:42.000Z",
-          "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
           "source": "TechCrunch"
         }
       ]
