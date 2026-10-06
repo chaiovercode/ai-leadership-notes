@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-05T20:02:47.316Z",
+  "updated": "2026-10-06T17:32:35.342Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "hnUrl": "https://news.ycombinator.com/item?id=49977979",
+      "score": 954,
+      "comments": 640
+    },
+    {
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "hnUrl": "https://news.ycombinator.com/item?id=49980715",
+      "score": 86,
+      "comments": 51
+    },
+    {
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49976265",
+      "score": 363,
+      "comments": 112
+    },
+    {
+      "title": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49977177",
+      "score": 281,
+      "comments": 47
+    },
+    {
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49978563",
+      "score": 86,
+      "comments": 26
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "hnUrl": "https://news.ycombinator.com/item?id=49977072",
+      "score": 475,
+      "comments": 452
+    },
+    {
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49977588",
+      "score": 270,
+      "comments": 170
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49975619",
+      "score": 211,
+      "comments": 94
+    },
+    {
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49981197",
+      "score": 24,
+      "comments": 19
+    },
+    {
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=49976823",
+      "score": 213,
+      "comments": 96
+    },
     {
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
       "hnUrl": "https://news.ycombinator.com/item?id=49969183",
-      "score": 81,
-      "comments": 20
+      "score": 514,
+      "comments": 163
     },
     {
-      "title": "Why Plain Text Is Still One of the Best Technologies We Have",
-      "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49968906",
-      "score": 45,
-      "comments": 10
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "url": "https://www.parseable.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=49978171",
+      "score": 41,
+      "comments": 9
     },
     {
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49963171",
-      "score": 388,
-      "comments": 188
-    },
-    {
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49968105",
-      "score": 181,
-      "comments": 112
-    },
-    {
-      "title": "The future of independence is interdependence",
-      "url": "https://onlys.ky/independence-is-interdependence/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49966163",
-      "score": 110,
-      "comments": 71
-    },
-    {
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49965308",
-      "score": 108,
-      "comments": 19
-    },
-    {
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "hnUrl": "https://news.ycombinator.com/item?id=49962012",
-      "score": 424,
-      "comments": 305
-    },
-    {
-      "title": "Linux containers in 500 lines of code",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49965118",
-      "score": 58,
-      "comments": 11
-    },
-    {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49961057",
-      "score": 308,
-      "comments": 239
-    },
-    {
-      "title": "Huawei and Qualcomm announce broad patent license agreement",
-      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-      "hnUrl": "https://news.ycombinator.com/item?id=49961861",
-      "score": 159,
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49971230",
+      "score": 273,
       "comments": 95
     },
     {
-      "title": "The technology to eradicate mosquito-borne disease exists",
-      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49956290",
-      "score": 199,
-      "comments": 149
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "hnUrl": "https://news.ycombinator.com/item?id=49970871",
+      "score": 251,
+      "comments": 68
     },
     {
-      "title": "Differences Between `Foldl` and `Foldr`",
-      "url": "https://blog.haskell.org/foldl-and-foldr/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49917900",
-      "score": 115,
-      "comments": 25
-    },
-    {
-      "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
-      "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
-      "hnUrl": "https://news.ycombinator.com/item?id=49967444",
-      "score": 169,
-      "comments": 144
-    },
-    {
-      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-      "hnUrl": "https://news.ycombinator.com/item?id=49964303",
-      "score": 362,
-      "comments": 200
-    },
-    {
-      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
-      "hnUrl": "https://news.ycombinator.com/item?id=49963385",
-      "score": 202,
-      "comments": 116
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49976993",
+      "score": 112,
+      "comments": 44
     }
   ]
 }
