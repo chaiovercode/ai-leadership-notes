@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-06T17:32:35.342Z",
+  "updated": "2026-10-07T18:04:38.008Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "hnUrl": "https://news.ycombinator.com/item?id=49977979",
-      "score": 954,
-      "comments": 640
+      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "hnUrl": "https://news.ycombinator.com/item?id=49993914",
+      "score": 230,
+      "comments": 105
     },
     {
-      "title": "AI is now capable of developing its own inference hardware",
-      "url": "https://github.com/FeSens/openTPU",
-      "hnUrl": "https://news.ycombinator.com/item?id=49980715",
-      "score": 86,
-      "comments": 51
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49993857",
+      "score": 131,
+      "comments": 28
     },
     {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49976265",
-      "score": 363,
-      "comments": 112
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "hnUrl": "https://news.ycombinator.com/item?id=49996437",
+      "score": 14,
+      "comments": 1
     },
     {
-      "title": "Release of Polars 2.0",
-      "url": "https://pola.rs/posts/release-polars-2/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49977177",
-      "score": 281,
-      "comments": 47
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "hnUrl": "https://news.ycombinator.com/item?id=49991227",
+      "score": 373,
+      "comments": 230
     },
     {
-      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49978563",
-      "score": 86,
-      "comments": 26
+      "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+      "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+      "hnUrl": "https://news.ycombinator.com/item?id=49994027",
+      "score": 208,
+      "comments": 160
     },
     {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "hnUrl": "https://news.ycombinator.com/item?id=49977072",
-      "score": 475,
-      "comments": 452
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49990224",
+      "score": 315,
+      "comments": 55
     },
     {
-      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49977588",
-      "score": 270,
-      "comments": 170
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "hnUrl": "https://news.ycombinator.com/item?id=49993121",
+      "score": 76,
+      "comments": 35
     },
     {
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49975619",
-      "score": 211,
-      "comments": 94
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49990470",
+      "score": 240,
+      "comments": 38
     },
     {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49981197",
-      "score": 24,
-      "comments": 19
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49992257",
+      "score": 110,
+      "comments": 42
     },
     {
-      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
-      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=49976823",
-      "score": 213,
-      "comments": 96
+      "title": "Open source 160 sound visualization experiments",
+      "url": "https://www.kagan.in/iwrzwr/visual-archive/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49994481",
+      "score": 25,
+      "comments": 5
     },
     {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "hnUrl": "https://news.ycombinator.com/item?id=49969183",
-      "score": 514,
-      "comments": 163
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "hnUrl": "https://news.ycombinator.com/item?id=49991243",
+      "score": 79,
+      "comments": 41
     },
     {
-      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-      "url": "https://www.parseable.com",
-      "hnUrl": "https://news.ycombinator.com/item?id=49978171",
-      "score": 41,
-      "comments": 9
+      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+      "url": "https://artmuseum.artfrompixels.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49992057",
+      "score": 102,
+      "comments": 48
     },
     {
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49971230",
-      "score": 273,
-      "comments": 95
+      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "hnUrl": "https://news.ycombinator.com/item?id=49994746",
+      "score": 65,
+      "comments": 17
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "hnUrl": "https://news.ycombinator.com/item?id=49970871",
-      "score": 251,
-      "comments": 68
+      "title": "3D-printing platform rapidly produces complex electric machines",
+      "url": "https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218",
+      "hnUrl": "https://news.ycombinator.com/item?id=49970459",
+      "score": 13,
+      "comments": 7
     },
     {
-      "title": "World's First enhanced geothermal power plant completed in just 23 months",
-      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49976993",
-      "score": 112,
-      "comments": 44
+      "title": "Rust's derive often implies inline",
+      "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+      "hnUrl": "https://news.ycombinator.com/item?id=49949680",
+      "score": 94,
+      "comments": 22
     }
   ]
 }
