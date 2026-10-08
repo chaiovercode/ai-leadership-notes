@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-07T06:50:27.770Z",
+  "updated": "2026-10-08T06:59:17.522Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+          "date": "2026-10-07T20:22:37.000Z",
+          "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+          "source": "TechCrunch"
+        },
         {
           "title": "How AI decision models could change content moderation",
           "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -25,20 +32,6 @@
           "date": "2026-10-06T16:00:00.000Z",
           "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-          "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-          "date": "2026-10-06T14:33:16.000Z",
-          "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-          "date": "2026-10-05T19:33:53.000Z",
-          "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -47,66 +40,73 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-          "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-          "date": "2026-10-06T22:34:03.000Z",
-          "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+          "date": "2026-10-07T18:15:28.000Z",
+          "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...",
           "source": "TechCrunch"
         },
         {
-          "title": "Mirror Particle is building a ‘world model’ of human behavior",
-          "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-          "date": "2026-10-06T16:35:00.000Z",
-          "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research ...",
+          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+          "date": "2026-10-07T18:00:19.000Z",
+          "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-          "date": "2026-10-06T16:00:00.000Z",
-          "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+          "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+          "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+          "date": "2026-10-07T16:53:46.000Z",
+          "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
           "source": "TechCrunch"
         },
         {
-          "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-          "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-          "date": "2026-10-06T14:33:16.000Z",
-          "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+          "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+          "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+          "date": "2026-10-07T15:07:08.000Z",
+          "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
           "source": "TechCrunch"
         },
         {
-          "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-          "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-          "date": "2026-10-06T14:00:00.000Z",
-          "description": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $...",
+          "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+          "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+          "date": "2026-10-07T14:41:38.000Z",
+          "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI will start watermarking ChatGPTs text in the EU",
-          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-          "date": "2026-10-05T20:36:48.000Z",
-          "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+          "title": "Google experiments with an AI-powered gaming platform",
+          "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+          "date": "2026-10-07T14:36:23.000Z",
+          "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
           "source": "TechCrunch"
         },
         {
-          "title": "HackerRanks AI interviewer offers a glimpse into what job interviews could become",
-          "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-          "date": "2026-10-05T16:43:35.000Z",
-          "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+          "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+          "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+          "date": "2026-10-07T14:30:00.000Z",
+          "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up ...",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI launches visual ads that appear alongside image generation results",
-          "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-          "date": "2026-10-05T15:14:24.000Z",
-          "description": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+          "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+          "date": "2026-10-07T14:15:00.000Z",
+          "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
           "source": "TechCrunch"
         },
         {
-          "title": "The latest AI news we announced in September 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-          "date": "2026-10-02T15:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp\"&gt;Here are Google’s latest AI updates from September 2026",
+          "title": "Googles new SynthID website can identify AI-generated media",
+          "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+          "date": "2026-10-07T14:00:00.000Z",
+          "description": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "date": "2026-10-07T12:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp\"&gt;Playground is a new experimental gaming platform that lets you create, play...",
           "source": "Google AI Blog"
         }
       ]
@@ -116,24 +116,31 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+          "date": "2026-10-07T20:48:45.000Z",
+          "description": "The developer of Hermes Agent raised a $90 million Series B.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+          "date": "2026-10-07T20:22:37.000Z",
+          "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Metas Muse launches on iPad just a month after its mobile debut",
+          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+          "date": "2026-10-07T18:30:57.000Z",
+          "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "The next hurdle for AI agents: getting websites to let them in",
           "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
           "date": "2026-10-06T19:56:50.000Z",
           "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-          "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-          "date": "2026-10-05T18:54:30.000Z",
-          "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain sepa...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-          "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-          "date": "2026-10-05T18:29:00.000Z",
-          "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
           "source": "TechCrunch"
         }
       ]
@@ -142,6 +149,20 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+          "date": "2026-10-07T20:48:45.000Z",
+          "description": "The developer of Hermes Agent raised a $90 million Series B.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+          "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+          "date": "2026-10-07T14:00:00.000Z",
+          "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist...",
+          "source": "TechCrunch"
+        },
         {
           "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
           "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
@@ -162,13 +183,6 @@
           "date": "2026-10-06T16:00:00.000Z",
           "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-          "date": "2026-10-05T19:33:53.000Z",
-          "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -176,6 +190,20 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+          "date": "2026-10-07T18:00:19.000Z",
+          "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+          "date": "2026-10-07T14:15:00.000Z",
+          "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+          "source": "TechCrunch"
+        },
         {
           "title": "How AI decision models could change content moderation",
           "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -188,41 +216,6 @@
           "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
           "date": "2026-10-06T18:22:45.000Z",
           "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "LibreOffice says no AI is now a software feature",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-          "date": "2026-10-06T15:25:00.000Z",
-          "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Pinterests AI now turns beauty Pins into action plans",
-          "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-          "date": "2026-10-06T14:00:49.000Z",
-          "description": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI will start watermarking ChatGPTs text in the EU",
-          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-          "date": "2026-10-05T20:36:48.000Z",
-          "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-          "date": "2026-10-05T19:33:53.000Z",
-          "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hot Girl Hotline is like Dear Abby for the AI era",
-          "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-          "date": "2026-10-05T17:29:22.000Z",
-          "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
           "source": "TechCrunch"
         }
       ]
