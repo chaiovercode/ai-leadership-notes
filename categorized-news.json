@@ -1,36 +1,50 @@
 {
-  "updated": "2026-10-08T06:59:17.522Z",
+  "updated": "2026-10-09T07:07:31.503Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+          "date": "2026-10-08T18:20:32.000Z",
+          "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+          "date": "2026-10-08T18:19:45.000Z",
+          "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "date": "2026-10-08T18:18:00.000Z",
+          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic changes usage policy to ban model abuse and election interference",
+          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "date": "2026-10-08T18:16:24.000Z",
+          "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "date": "2026-10-08T16:00:00.000Z",
+          "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
           "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
           "date": "2026-10-07T20:22:37.000Z",
           "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How AI decision models could change content moderation",
-          "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-          "date": "2026-10-06T20:35:20.000Z",
-          "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Mirror Particle is building a ‘world model’ of human behavior",
-          "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-          "date": "2026-10-06T16:35:00.000Z",
-          "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-          "date": "2026-10-06T16:00:00.000Z",
-          "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
           "source": "TechCrunch"
         }
       ]
@@ -40,74 +54,74 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Pretend youre sitting at Elizabeth Holmes desk on this weirdly detailed website",
+          "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+          "date": "2026-10-08T21:00:00.000Z",
+          "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "date": "2026-10-08T20:04:26.000Z",
+          "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAIs revenue is reportedly $20 billion less than previously projected",
+          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+          "date": "2026-10-08T18:19:42.000Z",
+          "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "date": "2026-10-08T18:18:00.000Z",
+          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic changes usage policy to ban model abuse and election interference",
+          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "date": "2026-10-08T18:16:24.000Z",
+          "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAIs math solutions arent meeting the fields standards yet",
+          "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+          "date": "2026-10-08T18:10:55.000Z",
+          "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+          "date": "2026-10-08T15:00:00.000Z",
+          "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+          "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+          "date": "2026-10-08T14:00:00.000Z",
+          "description": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google releases a new local-first Granola competitor",
+          "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+          "date": "2026-10-08T13:28:39.000Z",
+          "description": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
           "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
           "date": "2026-10-07T18:15:28.000Z",
           "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-          "date": "2026-10-07T18:00:19.000Z",
-          "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-          "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-          "date": "2026-10-07T16:53:46.000Z",
-          "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-          "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-          "date": "2026-10-07T15:07:08.000Z",
-          "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-          "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-          "date": "2026-10-07T14:41:38.000Z",
-          "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google experiments with an AI-powered gaming platform",
-          "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-          "date": "2026-10-07T14:36:23.000Z",
-          "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-          "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-          "date": "2026-10-07T14:30:00.000Z",
-          "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-          "date": "2026-10-07T14:15:00.000Z",
-          "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Googles new SynthID website can identify AI-generated media",
-          "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-          "date": "2026-10-07T14:00:00.000Z",
-          "description": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Introducing Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-          "date": "2026-10-07T12:00:00.000Z",
-          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp\"&gt;Playground is a new experimental gaming platform that lets you create, play...",
-          "source": "Google AI Blog"
         }
       ]
     },
@@ -115,6 +129,34 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "date": "2026-10-08T18:18:00.000Z",
+          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Natura’s $99 smart ring puts AI agents on your finger",
+          "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+          "date": "2026-10-08T16:00:00.000Z",
+          "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "date": "2026-10-08T16:00:00.000Z",
+          "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cal AIs 19-year-old founder just raised $10M for his new AI startup",
+          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "date": "2026-10-08T14:00:00.000Z",
+          "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
           "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
@@ -135,13 +177,6 @@
           "date": "2026-10-07T18:30:57.000Z",
           "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "The next hurdle for AI agents: getting websites to let them in",
-          "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-          "date": "2026-10-06T19:56:50.000Z",
-          "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -150,38 +185,52 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+          "date": "2026-10-08T18:20:32.000Z",
+          "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+          "date": "2026-10-08T18:19:45.000Z",
+          "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAIs revenue is reportedly $20 billion less than previously projected",
+          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+          "date": "2026-10-08T18:19:42.000Z",
+          "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "date": "2026-10-08T18:18:00.000Z",
+          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cal AIs 19-year-old founder just raised $10M for his new AI startup",
+          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "date": "2026-10-08T14:00:00.000Z",
+          "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Chinas Manus raises over $500M in first funding round since split with Meta",
+          "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+          "date": "2026-10-08T13:20:32.000Z",
+          "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
           "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
           "date": "2026-10-07T20:48:45.000Z",
           "description": "The developer of Hermes Agent raised a $90 million Series B.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-          "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-          "date": "2026-10-07T14:00:00.000Z",
-          "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-          "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-          "date": "2026-10-06T20:00:30.000Z",
-          "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Mirror Particle is building a ‘world model’ of human behavior",
-          "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-          "date": "2026-10-06T16:35:00.000Z",
-          "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-          "date": "2026-10-06T16:00:00.000Z",
-          "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
           "source": "TechCrunch"
         }
       ]
@@ -191,31 +240,45 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "date": "2026-10-08T20:04:26.000Z",
+          "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+          "date": "2026-10-08T18:20:32.000Z",
+          "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+          "date": "2026-10-08T18:19:45.000Z",
+          "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic changes usage policy to ban model abuse and election interference",
+          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "date": "2026-10-08T18:16:24.000Z",
+          "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "date": "2026-10-08T16:00:00.000Z",
+          "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
           "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
           "date": "2026-10-07T18:00:19.000Z",
           "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-          "date": "2026-10-07T14:15:00.000Z",
-          "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How AI decision models could change content moderation",
-          "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-          "date": "2026-10-06T20:35:20.000Z",
-          "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hark releases an AI personal assistant with a focus on privacy",
-          "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-          "date": "2026-10-06T18:22:45.000Z",
-          "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
           "source": "TechCrunch"
         }
       ]
