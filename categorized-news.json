@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-09T07:07:31.503Z",
+  "updated": "2026-10-10T06:40:40.888Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "date": "2026-10-09T21:41:29.000Z",
+          "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "date": "2026-10-09T19:36:56.000Z",
+          "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Ben Affleck is an AI nerd, and the internet is impressed",
           "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
@@ -39,13 +53,6 @@
           "date": "2026-10-08T16:00:00.000Z",
           "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-          "date": "2026-10-07T20:22:37.000Z",
-          "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -53,6 +60,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Anthropic cant reliably control its AI agents. Its cutting off its internal evals from the live internet instead",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "date": "2026-10-10T00:18:32.000Z",
+          "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "date": "2026-10-09T21:41:29.000Z",
+          "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "date": "2026-10-09T19:36:56.000Z",
+          "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+          "date": "2026-10-09T16:56:42.000Z",
+          "description": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI in...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Danu Robotics fight to build a better recycling robot",
+          "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+          "date": "2026-10-09T16:45:00.000Z",
+          "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+          "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+          "date": "2026-10-09T14:00:00.000Z",
+          "description": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50%...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Pretend youre sitting at Elizabeth Holmes desk on this weirdly detailed website",
           "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
@@ -80,48 +129,6 @@
           "date": "2026-10-08T18:18:00.000Z",
           "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic changes usage policy to ban model abuse and election interference",
-          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-          "date": "2026-10-08T18:16:24.000Z",
-          "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs math solutions arent meeting the fields standards yet",
-          "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-          "date": "2026-10-08T18:10:55.000Z",
-          "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-          "date": "2026-10-08T15:00:00.000Z",
-          "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-          "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-          "date": "2026-10-08T14:00:00.000Z",
-          "description": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google releases a new local-first Granola competitor",
-          "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-          "date": "2026-10-08T13:28:39.000Z",
-          "description": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-          "date": "2026-10-07T18:15:28.000Z",
-          "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -129,6 +136,20 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "Anthropic cant reliably control its AI agents. Its cutting off its internal evals from the live internet instead",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "date": "2026-10-10T00:18:32.000Z",
+          "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+          "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+          "date": "2026-10-09T16:53:02.000Z",
+          "description": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI in...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Google brings agentic AI to Gemini, starting with businesses",
           "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
@@ -149,34 +170,6 @@
           "date": "2026-10-08T16:00:00.000Z",
           "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Cal AIs 19-year-old founder just raised $10M for his new AI startup",
-          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-          "date": "2026-10-08T14:00:00.000Z",
-          "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-          "date": "2026-10-07T20:48:45.000Z",
-          "description": "The developer of Hermes Agent raised a $90 million Series B.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-          "date": "2026-10-07T20:22:37.000Z",
-          "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Metas Muse launches on iPad just a month after its mobile debut",
-          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-          "date": "2026-10-07T18:30:57.000Z",
-          "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -184,6 +177,20 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Anthropic cant reliably control its AI agents. Its cutting off its internal evals from the live internet instead",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "date": "2026-10-10T00:18:32.000Z",
+          "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "a16z’s Olivia Moore on the state of consumer AI",
+          "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+          "date": "2026-10-09T15:43:33.000Z",
+          "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Ben Affleck is an AI nerd, and the internet is impressed",
           "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
@@ -211,27 +218,6 @@
           "date": "2026-10-08T18:18:00.000Z",
           "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Cal AIs 19-year-old founder just raised $10M for his new AI startup",
-          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-          "date": "2026-10-08T14:00:00.000Z",
-          "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Chinas Manus raises over $500M in first funding round since split with Meta",
-          "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-          "date": "2026-10-08T13:20:32.000Z",
-          "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-          "date": "2026-10-07T20:48:45.000Z",
-          "description": "The developer of Hermes Agent raised a $90 million Series B.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -239,6 +225,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "We cant help treating AI like its human. But should we?",
+          "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+          "date": "2026-10-09T16:40:14.000Z",
+          "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+          "source": "TechCrunch"
+        },
         {
           "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
           "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
@@ -272,13 +265,6 @@
           "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
           "date": "2026-10-08T16:00:00.000Z",
           "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-          "date": "2026-10-07T18:00:19.000Z",
-          "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
           "source": "TechCrunch"
         }
       ]
