@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-10T06:40:40.888Z",
+  "updated": "2026-10-11T06:47:53.193Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "date": "2026-10-10T21:47:51.000Z",
+          "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
           "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -45,13 +52,6 @@
           "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
           "date": "2026-10-08T18:16:24.000Z",
           "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-          "date": "2026-10-08T16:00:00.000Z",
-          "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
           "source": "TechCrunch"
         }
       ]
@@ -137,6 +137,13 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "date": "2026-10-10T14:00:00.000Z",
+          "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Anthropic cant reliably control its AI agents. Its cutting off its internal evals from the live internet instead",
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
           "date": "2026-10-10T00:18:32.000Z",
@@ -156,20 +163,6 @@
           "date": "2026-10-08T18:18:00.000Z",
           "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Natura’s $99 smart ring puts AI agents on your finger",
-          "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-          "date": "2026-10-08T16:00:00.000Z",
-          "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-          "date": "2026-10-08T16:00:00.000Z",
-          "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -177,6 +170,20 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "date": "2026-10-10T19:50:00.000Z",
+          "description": "Is Apple hoping to get into the AI-generated podcast business?",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "date": "2026-10-10T15:00:00.000Z",
+          "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropic cant reliably control its AI agents. Its cutting off its internal evals from the live internet instead",
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -258,13 +265,6 @@
           "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
           "date": "2026-10-08T18:16:24.000Z",
           "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-          "date": "2026-10-08T16:00:00.000Z",
-          "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o...",
           "source": "TechCrunch"
         }
       ]
