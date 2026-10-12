@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-11T16:56:34.878Z",
+  "updated": "2026-10-12T20:32:37.819Z",
   "source": "Hacker News",
   "stories": [
     {
-      "title": "I paid people to try and follow my README",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50042219",
-      "score": 232,
-      "comments": 122
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "hnUrl": "https://news.ycombinator.com/item?id=50060694",
+      "score": 274,
+      "comments": 165
     },
     {
-      "title": "The tilde in your PATH may not be your HOME",
-      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50042425",
-      "score": 123,
-      "comments": 70
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "hnUrl": "https://news.ycombinator.com/item?id=50058507",
+      "score": 315,
+      "comments": 174
     },
     {
-      "title": "Bot traffic from Yandex",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "hnUrl": "https://news.ycombinator.com/item?id=50041619",
-      "score": 489,
-      "comments": 186
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "hnUrl": "https://news.ycombinator.com/item?id=50058528",
+      "score": 242,
+      "comments": 100
     },
     {
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/Changelog-32/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50040276",
-      "score": 293,
-      "comments": 105
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50059523",
+      "score": 195,
+      "comments": 161
     },
     {
-      "title": "Why Texas Is Making Data Centers Wait",
-      "url": "https://a16z.com/why-texas-is-making-data-centers-wait/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50043603",
-      "score": 26,
-      "comments": 35
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "hnUrl": "https://news.ycombinator.com/item?id=50059096",
+      "score": 60,
+      "comments": 44
     },
     {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "url": "https://nitter.net",
-      "hnUrl": "https://news.ycombinator.com/item?id=50041682",
-      "score": 316,
-      "comments": 154
+      "title": "Hackers activate automatic defrosting accross European supermarket fridges",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "hnUrl": "https://news.ycombinator.com/item?id=50055304",
+      "score": 236,
+      "comments": 392
     },
     {
-      "title": "The RAM shortage is bringing back DDR4",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "hnUrl": "https://news.ycombinator.com/item?id=50028647",
-      "score": 176,
-      "comments": 162
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "hnUrl": "https://news.ycombinator.com/item?id=50055593",
+      "score": 177,
+      "comments": 48
     },
     {
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "hnUrl": "https://news.ycombinator.com/item?id=49991852",
-      "score": 573,
-      "comments": 109
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "hnUrl": "https://news.ycombinator.com/item?id=50055220",
+      "score": 205,
+      "comments": 229
     },
     {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50037949",
-      "score": 421,
-      "comments": 95
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "hnUrl": "https://news.ycombinator.com/item?id=50059115",
+      "score": 401,
+      "comments": 195
     },
     {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "hnUrl": "https://news.ycombinator.com/item?id=50042330",
-      "score": 1,
-      "comments": 0
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50036287",
+      "score": 190,
+      "comments": 74
     },
     {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50036864",
-      "score": 467,
-      "comments": 155
+      "title": "Thinking will become a hobby",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "hnUrl": "https://news.ycombinator.com/item?id=50059204",
+      "score": 136,
+      "comments": 163
     },
     {
-      "title": "IRCv3",
-      "url": "https://ircv3.net/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50041540",
-      "score": 226,
-      "comments": 206
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "hnUrl": "https://news.ycombinator.com/item?id=50037711",
+      "score": 192,
+      "comments": 161
     },
     {
-      "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
-      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50043682",
-      "score": 308,
-      "comments": 151
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "hnUrl": "https://news.ycombinator.com/item?id=50057668",
+      "score": 85,
+      "comments": 18
     },
     {
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50029487",
-      "score": 533,
-      "comments": 86
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "hnUrl": "https://news.ycombinator.com/item?id=50052251",
+      "score": 238,
+      "comments": 123
     },
     {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "hnUrl": "https://news.ycombinator.com/item?id=50038623",
-      "score": 122,
-      "comments": 12
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "hnUrl": "https://news.ycombinator.com/item?id=50048642",
+      "score": 676,
+      "comments": 325
     }
   ]
 }
