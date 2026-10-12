@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T06:47:53.193Z",
+  "updated": "2026-10-12T06:57:56.259Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -32,27 +32,6 @@
           "date": "2026-10-08T18:20:32.000Z",
           "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-          "date": "2026-10-08T18:19:45.000Z",
-          "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google brings agentic AI to Gemini, starting with businesses",
-          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-          "date": "2026-10-08T18:18:00.000Z",
-          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic changes usage policy to ban model abuse and election interference",
-          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-          "date": "2026-10-08T18:16:24.000Z",
-          "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -60,6 +39,27 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Will the HomeView be Apple’s first smart home success?",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "date": "2026-10-11T21:14:40.000Z",
+          "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "date": "2026-10-11T19:00:00.000Z",
+          "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "These execs think voice AI hasnt reached its ChatGPT moment yet",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "date": "2026-10-11T14:00:00.000Z",
+          "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropic cant reliably control its AI agents. Its cutting off its internal evals from the live internet instead",
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -108,27 +108,6 @@
           "date": "2026-10-08T21:00:00.000Z",
           "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-          "date": "2026-10-08T20:04:26.000Z",
-          "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs revenue is reportedly $20 billion less than previously projected",
-          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-          "date": "2026-10-08T18:19:42.000Z",
-          "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google brings agentic AI to Gemini, starting with businesses",
-          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-          "date": "2026-10-08T18:18:00.000Z",
-          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -155,13 +134,6 @@
           "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
           "date": "2026-10-09T16:53:02.000Z",
           "description": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI in...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google brings agentic AI to Gemini, starting with businesses",
-          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-          "date": "2026-10-08T18:18:00.000Z",
-          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
           "source": "TechCrunch"
         }
       ]
@@ -204,27 +176,6 @@
           "date": "2026-10-08T18:20:32.000Z",
           "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-          "date": "2026-10-08T18:19:45.000Z",
-          "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAIs revenue is reportedly $20 billion less than previously projected",
-          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-          "date": "2026-10-08T18:19:42.000Z",
-          "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google brings agentic AI to Gemini, starting with businesses",
-          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-          "date": "2026-10-08T18:18:00.000Z",
-          "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -232,6 +183,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+          "date": "2026-10-11T16:52:33.000Z",
+          "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+          "source": "TechCrunch"
+        },
         {
           "title": "We cant help treating AI like its human. But should we?",
           "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
@@ -251,20 +209,6 @@
           "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
           "date": "2026-10-08T18:20:32.000Z",
           "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-          "date": "2026-10-08T18:19:45.000Z",
-          "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic changes usage policy to ban model abuse and election interference",
-          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-          "date": "2026-10-08T18:16:24.000Z",
-          "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele...",
           "source": "TechCrunch"
         }
       ]
