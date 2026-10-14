@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-13T18:36:59.031Z",
+  "updated": "2026-10-14T16:06:30.296Z",
   "source": "Hacker News",
   "stories": [
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50084240",
+      "score": 461,
+      "comments": 184
+    },
+    {
+      "title": "Passkeys Are Not a Trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50088935",
+      "score": 178,
+      "comments": 185
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "hnUrl": "https://news.ycombinator.com/item?id=50086165",
+      "score": 114,
+      "comments": 34
+    },
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50088430",
+      "score": 82,
+      "comments": 62
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50084757",
+      "score": 410,
+      "comments": 400
+    },
+    {
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50088534",
+      "score": 27,
+      "comments": 7
+    },
+    {
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50045147",
+      "score": 231,
+      "comments": 24
+    },
+    {
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=50055632",
+      "score": 29,
+      "comments": 4
+    },
+    {
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "url": "https://museumofages.org/w/vinci",
+      "hnUrl": "https://news.ycombinator.com/item?id=50085022",
+      "score": 61,
+      "comments": 28
+    },
+    {
+      "title": "The Origin Story of Kid Pix",
+      "url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "hnUrl": "https://news.ycombinator.com/item?id=50064673",
+      "score": 111,
+      "comments": 20
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "hnUrl": "https://news.ycombinator.com/item?id=50085323",
+      "score": 89,
+      "comments": 56
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50077020",
+      "score": 529,
+      "comments": 147
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=50053487",
+      "score": 238,
+      "comments": 40
+    },
+    {
+      "title": "Apple Keynote now showing ads in its UI",
+      "url": "https://mastodon.social/@marioguzman/117436264149891011",
+      "hnUrl": "https://news.ycombinator.com/item?id=50087524",
+      "score": 44,
+      "comments": 6
+    },
     {
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
       "hnUrl": "https://news.ycombinator.com/item?id=50073879",
-      "score": 518,
-      "comments": 402
-    },
-    {
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50071017",
-      "score": 487,
-      "comments": 614
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50074869",
-      "score": 61,
-      "comments": 12
-    },
-    {
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50072913",
-      "score": 181,
-      "comments": 69
-    },
-    {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "hnUrl": "https://news.ycombinator.com/item?id=50069499",
-      "score": 569,
-      "comments": 329
-    },
-    {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "hnUrl": "https://news.ycombinator.com/item?id=50073221",
-      "score": 124,
-      "comments": 74
-    },
-    {
-      "title": "Firefox Enterprise",
-      "url": "https://www.firefox.com/en-US/enterprise/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50070302",
-      "score": 434,
-      "comments": 175
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "hnUrl": "https://news.ycombinator.com/item?id=50073633",
-      "score": 136,
-      "comments": 105
-    },
-    {
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50069971",
-      "score": 320,
-      "comments": 79
-    },
-    {
-      "title": "New Apple TV 4K",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50071310",
-      "score": 176,
-      "comments": 348
-    },
-    {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "hnUrl": "https://news.ycombinator.com/item?id=50070593",
-      "score": 182,
-      "comments": 79
-    },
-    {
-      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-      "url": "https://news.ycombinator.com/item?id=50073471",
-      "hnUrl": "https://news.ycombinator.com/item?id=50073471",
-      "score": 25,
-      "comments": 12
-    },
-    {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50072286",
-      "score": 43,
-      "comments": 66
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50068036",
-      "score": 194,
-      "comments": 215
-    },
-    {
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "hnUrl": "https://news.ycombinator.com/item?id=50072120",
-      "score": 46,
-      "comments": 18
+      "score": 1394,
+      "comments": 999
     }
   ]
 }
