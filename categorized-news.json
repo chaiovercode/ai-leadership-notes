@@ -1,20 +1,70 @@
 {
-  "updated": "2026-10-15T05:33:16.725Z",
+  "updated": "2026-10-16T05:26:16.592Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
-      "articles": []
+      "articles": [
+        {
+          "title": "Meta launches an open-weight AI model that runs on Macs",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "date": "2026-10-15T20:04:53.000Z",
+          "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+          "date": "2026-10-15T19:14:26.000Z",
+          "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+          "source": "TechCrunch"
+        }
+      ]
     },
     {
       "id": "genai",
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+          "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+          "date": "2026-10-15T19:55:25.000Z",
+          "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+          "date": "2026-10-15T19:14:26.000Z",
+          "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+          "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+          "date": "2026-10-15T18:00:00.000Z",
+          "description": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google’s Universal Cart shopping tool launches in the US",
+          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "date": "2026-10-15T14:29:33.000Z",
+          "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Last day",
+          "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+          "date": "2026-10-15T14:00:00.000Z",
+          "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
           "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
           "date": "2026-10-15T00:00:00.000Z",
-          "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ...",
+          "description": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it...",
           "source": "TechCrunch"
         },
         {
@@ -39,46 +89,11 @@
           "source": "TechCrunch"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Day 2",
-          "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-          "date": "2026-10-14T14:30:00.000Z",
-          "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-          "date": "2026-10-13T23:13:31.000Z",
-          "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Cerebras CEO says were nearing a future where everyone has a personal AI assistant at home",
-          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-          "date": "2026-10-13T23:05:34.000Z",
-          "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-          "date": "2026-10-13T20:36:44.000Z",
-          "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-          "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-          "date": "2026-10-13T18:30:00.000Z",
-          "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Facebook is giving users more control over their algorithm",
-          "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-          "date": "2026-10-13T18:05:24.000Z",
-          "description": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-          "source": "TechCrunch"
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "date": "2026-10-13T16:00:00.000Z",
+          "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp\"&gt;We’re giving developers, enterprises, scientists, and cons...",
+          "source": "Google AI Blog"
         }
       ]
     },
@@ -86,6 +101,13 @@
       "id": "agents",
       "name": "AI Agents & Automation",
       "articles": [
+        {
+          "title": "AI agents are coming to Rivians cars",
+          "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+          "date": "2026-10-15T15:02:36.000Z",
+          "description": "We'll likely learn more about how this will work at the company's upcoming \"AI  Autonomy Day\" event in December.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Figma announces new features to define how agents work on its platform",
           "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
@@ -106,13 +128,6 @@
           "date": "2026-10-14T15:00:00.000Z",
           "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "date": "2026-10-13T17:30:00.000Z",
-          "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -120,6 +135,20 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "When it came to Cal AIs viral success, a small army of influencers paid off",
+          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+          "date": "2026-10-15T23:44:56.000Z",
+          "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazons Bee launches two new personal AI devices, starting at $75",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "date": "2026-10-15T12:00:00.000Z",
+          "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...",
+          "source": "TechCrunch"
+        },
         {
           "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
           "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
@@ -142,20 +171,6 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Scimplify raises $25M to challenge Chinas grip on critical materials with AI",
-          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-          "date": "2026-10-14T11:00:00.000Z",
-          "description": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "date": "2026-10-13T17:30:00.000Z",
-          "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ...",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Gemini 4 Argon: Built to solve your hardest problems",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
           "date": "2026-10-13T16:00:00.000Z",
@@ -169,31 +184,24 @@
       "name": "Ethics & Safety",
       "articles": [
         {
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+          "date": "2026-10-15T19:14:26.000Z",
+          "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+          "date": "2026-10-15T18:56:46.000Z",
+          "description": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a...",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Flock CEO says its microphones detect just gunshots — its website says different",
           "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
           "date": "2026-10-14T21:30:33.000Z",
           "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-          "date": "2026-10-13T23:00:00.000Z",
-          "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Cerebras CEO pushes back on AI doomsday warnings",
-          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-          "date": "2026-10-13T22:36:59.000Z",
-          "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "date": "2026-10-13T17:30:00.000Z",
-          "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ...",
           "source": "TechCrunch"
         }
       ]
