@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-17T05:18:54.403Z",
+  "updated": "2026-10-18T05:25:19.382Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "date": "2026-10-17T21:31:32.000Z",
+          "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "date": "2026-10-17T18:48:08.000Z",
+          "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Elorian’s first AI model wants to reason with images, not just about them",
           "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
@@ -40,10 +54,17 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "date": "2026-10-16T21:22:28.000Z",
-          "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ...",
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "date": "2026-10-17T20:21:19.000Z",
+          "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "date": "2026-10-17T18:48:08.000Z",
+          "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
           "source": "TechCrunch"
         },
         {
@@ -128,13 +149,6 @@
           "date": "2026-10-15T15:02:36.000Z",
           "description": "We'll likely learn more about how this will work at the company's upcoming \"AI  Autonomy Day\" event in December.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Figma announces new features to define how agents work on its platform",
-          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-          "date": "2026-10-15T04:30:00.000Z",
-          "description": "Figma is also releasing its code layers feature in open beta.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -142,6 +156,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "date": "2026-10-17T18:48:08.000Z",
+          "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Elorian’s first AI model wants to reason with images, not just about them",
           "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
@@ -161,13 +182,6 @@
           "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
           "date": "2026-10-15T23:44:56.000Z",
           "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazons Bee launches two new personal AI devices, starting at $75",
-          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-          "date": "2026-10-15T12:00:00.000Z",
-          "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...",
           "source": "TechCrunch"
         },
         {
