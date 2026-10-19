@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T05:25:19.382Z",
+  "updated": "2026-10-19T05:42:53.299Z",
   "categories": [
     {
       "id": "ai-ml",
@@ -54,6 +54,13 @@
       "name": "Generative AI",
       "articles": [
         {
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "date": "2026-10-18T20:37:40.000Z",
+          "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
           "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
           "date": "2026-10-17T20:21:19.000Z",
@@ -100,20 +107,6 @@
           "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
           "date": "2026-10-15T18:00:00.000Z",
           "description": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa ...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google’s Universal Cart shopping tool launches in the US",
-          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-          "date": "2026-10-15T14:29:33.000Z",
-          "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Last day",
-          "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-          "date": "2026-10-15T14:00:00.000Z",
-          "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
           "source": "TechCrunch"
         },
         {
@@ -197,6 +190,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "date": "2026-10-18T16:30:00.000Z",
+          "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with...",
+          "source": "TechCrunch"
+        },
         {
           "title": "India becomes the latest country to report rogue AI agent activity",
           "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
