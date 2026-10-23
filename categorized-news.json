@@ -1,36 +1,43 @@
 {
-  "updated": "2026-10-22T05:44:52.670Z",
+  "updated": "2026-10-23T05:43:30.473Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
         {
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "date": "2026-10-22T19:00:00.000Z",
+          "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Canva releases its first image generation model",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "date": "2026-10-22T19:00:00.000Z",
+          "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+          "date": "2026-10-22T18:43:53.000Z",
+          "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+          "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+          "date": "2026-10-21T22:45:34.000Z",
+          "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
           "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
           "date": "2026-10-21T20:27:41.000Z",
           "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-          "date": "2026-10-20T23:01:23.000Z",
-          "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-          "date": "2026-10-20T20:35:10.000Z",
-          "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-          "date": "2026-10-20T16:00:00.000Z",
-          "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
           "source": "TechCrunch"
         }
       ]
@@ -39,6 +46,48 @@
       "id": "genai",
       "name": "Generative AI",
       "articles": [
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "date": "2026-10-23T04:00:00.000Z",
+          "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "date": "2026-10-22T22:08:24.000Z",
+          "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "date": "2026-10-22T19:00:00.000Z",
+          "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Uber puts all 30,000 employees on ChatGPT Work",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "date": "2026-10-22T16:00:00.000Z",
+          "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude Duet app is Anthropics bet on agents",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "date": "2026-10-22T13:53:26.000Z",
+          "description": "Claude Duet is available through waitlist for Pro and Max plan users.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nirva raises $33M for a pendant that only listens to you",
+          "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+          "date": "2026-10-22T13:26:52.000Z",
+          "description": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Blackstones Jas Khaira says fears over AI-buildout debt are overblown",
           "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -59,55 +108,6 @@
           "date": "2026-10-21T04:00:00.000Z",
           "description": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\"&gt;Widespread AI adoption is propelling Southeast Asia's digital economy to...",
           "source": "Google AI Blog"
-        },
-        {
-          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-          "date": "2026-10-20T23:01:23.000Z",
-          "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Hugging Face CEO warns that Netflixs OpenAI hack documentary isnt accurate",
-          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-          "date": "2026-10-20T22:24:02.000Z",
-          "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic’s cloud partnerships are getting messy",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-          "date": "2026-10-20T21:25:22.000Z",
-          "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-          "date": "2026-10-20T20:35:10.000Z",
-          "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google has joined Amazon in attacking Nvidias stronghold with AI app developers",
-          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-          "date": "2026-10-20T18:38:24.000Z",
-          "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "ChatGPT now lets you lock your chats",
-          "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-          "date": "2026-10-20T18:36:53.000Z",
-          "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-          "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-          "date": "2026-10-20T17:55:12.000Z",
-          "description": "Eric Schmidt’s fortune is about to get even bigger.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -116,17 +116,52 @@
       "name": "AI Agents & Automation",
       "articles": [
         {
+          "title": "Left alone with nothing to do, AI agents started playing",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "date": "2026-10-23T00:45:37.000Z",
+          "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "date": "2026-10-22T19:07:09.000Z",
+          "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+          "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+          "date": "2026-10-22T16:47:17.000Z",
+          "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Uber puts all 30,000 employees on ChatGPT Work",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "date": "2026-10-22T16:00:00.000Z",
+          "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Spotifys current AI bet is about being the music service that agents choose",
+          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+          "date": "2026-10-22T15:03:58.000Z",
+          "description": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude Duet app is Anthropics bet on agents",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "date": "2026-10-22T13:53:26.000Z",
+          "description": "Claude Duet is available through waitlist for Pro and Max plan users.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
           "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
           "date": "2026-10-21T19:30:00.000Z",
           "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-          "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-          "date": "2026-10-20T14:13:32.000Z",
-          "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
           "source": "TechCrunch"
         }
       ]
@@ -136,10 +171,45 @@
       "name": "Business Applications",
       "articles": [
         {
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "date": "2026-10-22T22:08:24.000Z",
+          "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "date": "2026-10-22T19:07:09.000Z",
+          "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+          "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+          "date": "2026-10-22T16:47:17.000Z",
+          "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Uber puts all 30,000 employees on ChatGPT Work",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "date": "2026-10-22T16:00:00.000Z",
+          "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DeepSeek reportedly raises $15B days after US restrictions",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "date": "2026-10-22T13:11:13.000Z",
+          "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Meta says Muse has over 10M users, with shopping a top activity",
           "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
           "date": "2026-10-21T21:14:19.000Z",
-          "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+          "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
           "source": "TechCrunch"
         },
         {
@@ -154,41 +224,6 @@
           "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
           "date": "2026-10-21T19:30:00.000Z",
           "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-          "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-          "date": "2026-10-21T17:18:27.000Z",
-          "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI promises productivity, but for managers, its mostly a headache for now",
-          "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-          "date": "2026-10-21T14:00:00.000Z",
-          "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SpaceXs AI business is beating expectations",
-          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-          "date": "2026-10-20T20:40:41.000Z",
-          "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-          "date": "2026-10-20T20:35:10.000Z",
-          "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher...",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-          "date": "2026-10-20T16:00:00.000Z",
-          "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
           "source": "TechCrunch"
         }
       ]
@@ -208,7 +243,7 @@
           "title": "Meta says Muse has over 10M users, with shopping a top activity",
           "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
           "date": "2026-10-21T21:14:19.000Z",
-          "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+          "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
           "source": "TechCrunch"
         },
         {
@@ -216,13 +251,6 @@
           "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
           "date": "2026-10-21T17:59:12.000Z",
           "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-          "date": "2026-10-20T23:01:23.000Z",
-          "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
           "source": "TechCrunch"
         }
       ]
