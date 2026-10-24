@@ -1,0 +1,52 @@
+name: Morning Edition
+
+on:
+  schedule:
+    # 02:30 UTC = 08:00 IST, after the RSS (01:00 UTC) and Hacker News (02:00 UTC) pulls
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Rewrite today''s edition if it already exists'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: edition
+  cancel-in-progress: false
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install editor
+        run: pip install -r editor/requirements.txt
+
+      - name: Edit today's paper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE: ${{ inputs.force && '1' || '' }}
+        run: python editor/editor.py
+
+      - name: Commit edition
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add editions/
+          if git diff --staged --quiet; then
+            echo "No new edition"
+          else
+            git commit -m "Edition for $(date -u +%F)"
+            git pull --rebase
+            git push
+          fi

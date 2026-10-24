@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "date": "2026-10-25",
+    "number": 0,
+    "preview": true
+  },
+  "front_page": [
+    {
+      "headline": "Decision models are now a category, not a curiosity",
+      "dek": "TypeSafe’s Jev started it in September. This week OpenAI shipped a competitor to everyone.",
+      "body": "Most AI models you use are writers: you ask, they reply in sentences, and your code has to fish the answer out of the prose. A decision model skips the essay. You hand it messy input and it returns a typed answer, such as a category, a score or a route, plus how confident it is.\n\nThink of a chat model as a consultant who writes you a memo, and a decision model as a referee who raises a flag and tells you how sure he is. For software that has to make thousands of calls a minute, the referee is what you want.\n\nTypeSafe AI, founded by a former OpenAI researcher, came out of stealth on 16 September with Jev, pitched at high-volume work like classifying service requests, triaging alerts and reviewing AI agents’ output. On 22 October, TechCrunch reported that OpenAI has made its own decision model widely available.\n\nWhy it matters: the interesting number is the confidence score. It tells you when to let the model act alone and when to hand the case to a person, which is the hard part of every triage system.",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch",
+      "stamp": "usable_today",
+      "fits": "Fraud and outlier triage: classify, score, and route uncertain cases to a human.",
+      "verified": true
+    },
+    {
+      "headline": "Block’s Dessa learned to talk without ever reading",
+      "dek": "A voice model trained only on recorded conversations, small enough to run on a MacBook.",
+      "body": "Almost every voice assistant is a text model wearing a microphone. Dessa, from a small research lab at Block, was trained on recorded human conversations alone: no text and no pretrained model underneath.\n\nIt is full-duplex, meaning it listens while it talks, so it can be interrupted, say “yeah” while you speak, and match your timing, like a phone call rather than a walkie-talkie. Jack Dorsey announced it on 23 October.\n\nYou can’t use it yet. There is a waitlist, early access is going to AI safety researchers, and there are no weights, benchmarks or pricing. If you want to try a full-duplex model today, Kyutai’s Moshi has open weights.",
+      "url": "https://cellcog.ai/blog/block-dessa/",
+      "source": "CellCog",
+      "stamp": "demo_only",
+      "fits": null,
+      "verified": false
+    }
+  ],
+  "my_stack": [
+    {
+      "headline": "Claude Haiku 5.5 launches with very low prices for short prompts",
+      "dek": "Two price bands: cheap under 100,000 tokens, more above it.",
+      "body": "Reported pricing is $0.10 per million input tokens and $0.50 per million output tokens for prompts up to 100,000 tokens, rising above that. The same report says Sonnet 5.5 cache reads were cut too.\n\nFor high-volume steps like scoring, routing and summarizing, this changes which model is worth using. Check Anthropic’s pricing page before you budget.",
+      "url": "https://techenclave.com/news/items/claude-haiku-5-5-launches-with-0-10-input-pricing-for-shorter-prompts",
+      "source": "TechEnclave",
+      "stamp": "usable_today",
+      "fits": "Cheap high-volume classification steps inside agents.",
+      "verified": false
+    },
+    {
+      "headline": "Claude Duet opens a waitlist",
+      "dek": "Anthropic’s new agents app is available to Pro and Max users by waitlist.",
+      "body": "TechCrunch describes Duet as Anthropic’s bet on agents. Access is waitlist only for now, so there is nothing to test yet.",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch",
+      "stamp": "waitlist",
+      "fits": "Agentic engineering: worth reading how Anthropic packages agents for users.",
+      "verified": true
+    },
+    {
+      "headline": "uv and ty are coming together",
+      "dek": "Astral is joining its Python package manager and its type checker.",
+      "body": "If you already use uv, this is the one to read: one tool that installs, runs and type-checks your Python. Details are in Astral’s post.",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "source": "Astral",
+      "stamp": "usable_today",
+      "fits": "Python tooling for every project in the plan.",
+      "verified": true
+    }
+  ],
+  "models_labs": [
+    {
+      "headline": "Kimi K3.1 Pro and a faster Highspeed variant",
+      "dek": "The most-discussed AI launch on Hacker News this weekend.",
+      "body": "Moonshot’s new models drew close to a thousand points on Hacker News. The editor will check access and pricing against the primary source in the first real edition.",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Kimi",
+      "stamp": null,
+      "fits": null,
+      "verified": false
+    },
+    {
+      "headline": "Canva ships its first image model",
+      "dek": "Available to all Canva users, with a pitch of lower cost and more control.",
+      "body": "Another product company building its own model instead of renting one. Worth watching as a pattern more than as a tool.",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "stamp": "usable_today",
+      "fits": null,
+      "verified": true
+    }
+  ],
+  "tools": [
+    {
+      "headline": "1Password lets agents log in without seeing passwords",
+      "dek": "Agents can use your accounts while the credential stays hidden from them.",
+      "body": "Credentials are one of the hardest parts of letting an agent act on its own. This is one concrete design for keeping secrets out of the model’s context entirely.",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch",
+      "stamp": "usable_today",
+      "fits": "Agent guardrails: keep secrets out of context.",
+      "verified": true
+    },
+    {
+      "headline": "A practical guide to AI image generation",
+      "dek": "From diffusion basics to agent workflows, in one long read.",
+      "body": "Your image and video topic is a “know well” one. This is a good single read to cover it.",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "source": "Daniel Ball",
+      "stamp": null,
+      "fits": null,
+      "verified": true
+    }
+  ],
+  "paper_of_the_day": {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "authors": "MIT researchers, as reported by TechCrunch",
+    "summary": "Researchers left 13 AI agents on a virtual island with no assigned task. The agents invented games and rituals, and, according to the report, got better at their actual jobs afterwards.\n\nThe preview links the news coverage. Real editions link the paper itself.",
+    "why_it_matters": "Multi-agent systems behave differently over long runs than in short tests. If you run agents for hours, evaluate them over hours."
+  },
+  "try_this_today": {
+    "title": "Price your classification step on a cheaper model",
+    "minutes": 30,
+    "why": "Cheap models change the math for any agent step that sorts, scores or routes.",
+    "steps": [
+      "Pick one classification step in an agent you run, and 100 real examples with known right answers.",
+      "Run them through the model you use now and record accuracy, tokens and cost.",
+      "Run the same 100 through the cheapest current model.",
+      "Write down one line: accuracy change, cost change. That line is a post for your site."
+    ]
+  },
+  "hype_check": [
+    {
+      "claim": "TypeSafe says Jev is far faster and cheaper than general LLMs on business workflows.",
+      "verdict": "Vendor-run test",
+      "explanation": "TypeSafe itself noted the workflows were designed by its own team. Promising, but test it on your own data before believing the multiplier.",
+      "url": "https://www.vktr.com/ai-platforms/chatgpt-cocreator-launches-typesafe-ai-with-jev/"
+    },
+    {
+      "claim": "Microsoft says its AI beat doctors on hard diagnostic cases.",
+      "verdict": "Read the fine print",
+      "explanation": "The study is in Science, but TechCrunch’s coverage questions where most of the improvement comes from. Read the details before quoting the headline.",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+    }
+  ],
+  "follow_ups": [],
+  "briefs": [
+    {
+      "headline": "OpenAI stops training on the live internet",
+      "one_line": "Frontier models will be cut off from the live web, citing significant risks.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "headline": "AI agents used in the ConnectWise breach",
+      "one_line": "Microsoft says a China-aligned group used agents to break into thousands of customers quickly.",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+    },
+    {
+      "headline": "HTTP2Shell widens a Python vulnerability",
+      "one_line": "The Node2Shell bug now affects many HTTP libraries and apps. Check your dependencies.",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+    },
+    {
+      "headline": "Uber puts 30,000 employees on ChatGPT Work",
+      "one_line": "A company-wide agent rollout after a smaller pilot.",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+    },
+    {
+      "headline": "Meta Muse passes 10 million users",
+      "one_line": "Shopping is one of the top uses, Meta said on its earnings call.",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+    },
+    {
+      "headline": "Twelve years of distributed SQLite",
+      "one_line": "A long look back at building distributed SQLite, popular on Hacker News.",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+    }
+  ]
+}

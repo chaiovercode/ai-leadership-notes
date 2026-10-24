@@ -2,8 +2,8 @@ name: Fetch Trending AI & Tech News
 
 on:
   schedule:
-    # Runs daily at 7:00 AM IST (adjust timezone as needed)
-    - cron: '0 12 * * *'
+    # 02:00 UTC, so the morning edition at 02:30 UTC sees fresh stories
+    - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
