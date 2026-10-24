@@ -149,7 +149,7 @@ export function Masthead({ edition }: { edition?: Edition }) {
             <br />
             {m?.preview ? <span className="italic">Free preview</span> : `$${m?.cost_usd?.toFixed(2)} to print`}
             <br />
-            <span className="italic">Edited by Claude</span>
+            <span className="italic">Reported and fact-checked by Claude</span>
           </Ear>
         )}
       </div>
@@ -169,7 +169,9 @@ export function EditionView({ edition }: { edition: Edition }) {
   const hasSports = !!(sp.scoreboard || sp.match_report || sp.transfers.length);
   const hasDesk = !!(edition.paper_of_the_day || edition.try_this_today);
   const hasNews = edition.my_stack.length + edition.models_labs.length + edition.tools.length > 0;
-  const hasBack = edition.obituaries.length + edition.follow_ups.length + edition.briefs.length > 0;
+  const fc = m.fact_check;
+  const fixes = (fc?.report ?? []).filter((r) => r.verdict === "corrected" || r.verdict === "removed");
+  const hasBack = edition.obituaries.length + edition.follow_ups.length + edition.briefs.length > 0 || !!fc;
 
   const inside = [
     hasNews && { id: "news", title: "News", note: "Your stack, models, tools" },
@@ -177,7 +179,7 @@ export function EditionView({ edition }: { edition: Edition }) {
     (edition.editorial || edition.hype_check.length > 0) && { id: "opinion", title: "Opinion", note: "The editorial, hype check" },
     hasDesk && { id: "desk", title: "The Desk", note: "Paper of the day, try this today" },
     hasSports && { id: "sports", title: "Sports", note: "Standings, match report, transfers" },
-    hasBack && { id: "back", title: "Back page", note: "Obituaries, follow-ups, briefs" },
+    hasBack && { id: "back", title: "Back page", note: "Corrections desk, obituaries, briefs" },
   ].filter(Boolean) as { id: string; title: string; note: string }[];
 
   return (
@@ -429,6 +431,35 @@ export function EditionView({ edition }: { edition: Edition }) {
       {hasBack && (
         <section>
           <PageHead id="back" title="Back page" note="Farewells, updates, and everything else." />
+          {fc && (
+            <div className="mb-10 border-2 border-ink">
+              <h3 className="bg-ink px-4 py-2 text-[1.15rem] font-bold text-paper">Corrections desk</h3>
+              <div className="px-4 py-4">
+                <p className="text-[1.0625rem] leading-relaxed">
+                  {m.preview
+                    ? "This preview was checked by hand. From Edition No. 1, every story is written by one agent and checked by another before printing."
+                    : "Every story in this paper was written by one agent and checked by another before printing."}{" "}
+                  {fc.confirmed !== undefined && (
+                    <>
+                      Today the fact-checker confirmed <b>{fc.confirmed}</b>, corrected <b>{fc.corrected ?? 0}</b>, removed{" "}
+                      <b>{fc.removed ?? 0}</b> and could not verify <b>{fc.unverified ?? 0}</b>
+                      {m.agents?.fact_checker?.usage.fetches ? <>, after reading {m.agents.fact_checker.usage.fetches} source pages</> : null}.
+                    </>
+                  )}
+                </p>
+                {fixes.length > 0 && (
+                  <ul className="mt-3 divide-y divide-hairline border-t border-hairline">
+                    {fixes.map((r, i) => (
+                      <li key={i} className="py-3 text-[1.0625rem] leading-relaxed">
+                        <Badge variant={r.verdict === "removed" ? "default" : "outline"}>{r.verdict === "removed" ? "Removed" : "Corrected"}</Badge>{" "}
+                        <span className="font-bold">{r.headline}.</span> {r.note}
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            </div>
+          )}
           <div className="grid gap-10 lg:grid-cols-12">
             {(edition.obituaries.length > 0 || edition.follow_ups.length > 0) && (
               <div className="space-y-10 lg:col-span-4">
@@ -492,7 +523,16 @@ export function EditionView({ edition }: { edition: Edition }) {
         ) : (
           <p>
             This edition cost ${m.cost_usd?.toFixed(2)} to print: {fmt(m.usage?.input)} tokens read, {fmt(m.usage?.output)} written,{" "}
-            {m.usage?.searches ?? 0} web searches, {m.seconds}s. Edited by {m.model} against READER.md.
+            {m.usage?.searches ?? 0} web searches, {m.seconds}s.
+            {m.agents ? (
+              <>
+                {" "}
+                Reporter ${m.agents.reporter.cost_usd.toFixed(2)}, fact-checker ${m.agents.fact_checker.cost_usd.toFixed(2)}. Both {m.model}, working from
+                READER.md.
+              </>
+            ) : (
+              <> Edited by {m.model} against READER.md.</>
+            )}
           </p>
         )}
       </footer>

@@ -2,7 +2,17 @@
   "meta": {
     "date": "2026-10-25",
     "number": 0,
-    "preview": true
+    "preview": true,
+    "fact_check": {
+      "report": [
+        {
+          "section": "front_page",
+          "headline": "Decision models are now a category, not a curiosity",
+          "verdict": "corrected",
+          "note": "Jev came out of stealth on 15 September, not the 16th; the launch was a Tuesday, as two reports confirm."
+        }
+      ]
+    }
   },
   "front_page": [
     {

@@ -15,6 +15,13 @@ export type Story = {
   image?: string;
 };
 
+export type AgentStats = {
+  model: string;
+  seconds: number;
+  cost_usd: number;
+  usage: { input: number; output: number; searches: number; fetches?: number };
+};
+
 export type Edition = {
   meta: {
     date: string;
@@ -25,6 +32,14 @@ export type Edition = {
     seconds?: number;
     usage?: { input: number; output: number; cache_write: number; cache_read: number; searches: number };
     cost_usd?: number;
+    agents?: Record<"reporter" | "fact_checker", AgentStats>;
+    fact_check?: {
+      confirmed?: number;
+      corrected?: number;
+      removed?: number;
+      unverified?: number;
+      report: { section: string; headline: string; verdict: "confirmed" | "corrected" | "removed" | "unverified"; note: string }[];
+    };
   };
   front_page: Story[];
   my_stack: Story[];

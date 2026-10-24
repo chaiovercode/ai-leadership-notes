@@ -21,7 +21,7 @@ concurrency:
 jobs:
   edit:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -32,7 +32,7 @@ jobs:
       - name: Install editor
         run: pip install -r editor/requirements.txt
 
-      - name: Edit today's paper
+      - name: Report and fact-check today's paper
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FORCE: ${{ inputs.force && '1' || '' }}

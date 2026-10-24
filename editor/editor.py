@@ -1,10 +1,12 @@
-"""The Chai Times editor.
+"""The Chai Times newsroom: two agents.
 
-Reads READER.md, the raw feeds (news.json, categorized-news.json) and recent
-editions, asks Claude to edit today's paper, and writes editions/YYYY-MM-DD.json.
+1. The reporter reads READER.md, the raw feeds (news.json, categorized-news.json)
+   and recent headlines, searches the web, and writes a draft edition.
+2. The fact-checker opens every story's source, fixes what's wrong, removes what
+   it can't support, and files a report.
 
-v0 is a single Claude call with server-side web search. Swap it for your own
-harness once that exists.
+The checked edition is written to editions/YYYY-MM-DD.json with each agent's
+cost and the fact-check report. Swap these calls for your own harness later.
 """
 
 import json
@@ -23,8 +25,11 @@ import anthropic
 ROOT = Path(__file__).resolve().parent.parent
 EDITIONS = ROOT / "editions"
 
-MODEL = os.environ.get("EDITOR_MODEL", "claude-sonnet-5-5")
-MAX_SEARCHES = int(os.environ.get("EDITOR_MAX_SEARCHES", "12"))
+REPORTER_MODEL = os.environ.get("REPORTER_MODEL", "claude-sonnet-5-5")
+CHECKER_MODEL = os.environ.get("CHECKER_MODEL", "claude-sonnet-5-5")
+REPORTER_SEARCHES = int(os.environ.get("REPORTER_SEARCHES", "12"))
+CHECKER_SEARCHES = int(os.environ.get("CHECKER_SEARCHES", "10"))
+CHECKER_FETCHES = int(os.environ.get("CHECKER_FETCHES", "25"))
 RECENT_DAYS = 14
 
 # USD per million tokens, and per web search. Check current rates at
@@ -92,6 +97,13 @@ def add_usage(total, u):
     total["cache_read"] += getattr(u, "cache_read_input_tokens", 0) or 0
     stu = getattr(u, "server_tool_use", None)
     total["searches"] += (getattr(stu, "web_search_requests", 0) or 0) if stu else 0
+    total["fetches"] += (getattr(stu, "web_fetch_requests", 0) or 0) if stu else 0
+
+
+def cost_of(u):
+    return round((u["input"] * PRICE["input"] + u["output"] * PRICE["output"]
+                  + u["cache_write"] * PRICE["cache_write"] + u["cache_read"] * PRICE["cache_read"]) / 1e6
+                 + u["searches"] * PRICE["search"], 4)
 
 
 def extract_json(text):
@@ -137,6 +149,66 @@ def add_images(edition):
     return sum(1 for s in stories if s.get("image"))
 
 
+def run_agent(client, name, model, system, user, tools):
+    """One agent turn with server-side tools. Returns (parsed JSON, stats)."""
+    usage = {"input": 0, "output": 0, "cache_write": 0, "cache_read": 0, "searches": 0, "fetches": 0}
+    started = datetime.now(timezone.utc)
+    messages = [{"role": "user", "content": user}]
+    # The API runs the tool loop itself; pause_turn means "send it back to continue".
+    for _ in range(8):
+        resp = client.messages.create(model=model, max_tokens=20000, system=system, tools=tools, messages=messages)
+        add_usage(usage, resp.usage)
+        if resp.stop_reason != "pause_turn":
+            break
+        messages = [messages[0], {"role": "assistant", "content": resp.content}]
+
+    text = "".join(b.text for b in resp.content if b.type == "text")
+    try:
+        data = extract_json(text)
+    except (json.JSONDecodeError, ValueError):
+        fix = client.messages.create(
+            model=model, max_tokens=20000,
+            messages=[{"role": "user", "content": "Fix this into valid JSON. Return only the JSON.\n\n" + text}])
+        add_usage(usage, fix.usage)
+        data = extract_json("".join(b.text for b in fix.content if b.type == "text"))
+
+    stats = {"model": model, "seconds": round((datetime.now(timezone.utc) - started).total_seconds()),
+             "usage": usage, "cost_usd": cost_of(usage)}
+    print(f"{name}: ${stats['cost_usd']:.3f}, {usage['searches']} searches, {usage['fetches']} fetches, {stats['seconds']}s")
+    return data, stats
+
+
+def write_draft(client, today):
+    system = [
+        {"type": "text", "text": (ROOT / "editor" / "reporter.md").read_text()},
+        {"type": "text", "text": "# READER.md\n\n" + (ROOT / "READER.md").read_text(),
+         "cache_control": {"type": "ephemeral"}},
+    ]
+    user = (
+        f"Today is {today.strftime('%A, %d %B %Y')} (UTC).\n\n"
+        f"## Candidate stories from the feeds\n{json.dumps(candidates(), ensure_ascii=False)}\n\n"
+        f"## Headlines already published in the last {RECENT_DAYS} days\n"
+        f"{json.dumps(recent_headlines(today), ensure_ascii=False)}\n\n"
+        "Write today's paper. Return only the JSON object."
+    )
+    tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": REPORTER_SEARCHES}]
+    return run_agent(client, "Reporter", REPORTER_MODEL, system, user, tools)
+
+
+def fact_check(client, today, draft):
+    system = [{"type": "text", "text": (ROOT / "editor" / "fact_checker.md").read_text()}]
+    user = (
+        f"Today is {today.strftime('%A, %d %B %Y')} (UTC).\n\n"
+        f"## Draft edition from the reporter\n{json.dumps(draft, ensure_ascii=False)}\n\n"
+        "Check it. Return only the JSON object with edition and report."
+    )
+    tools = [
+        {"type": "web_fetch_20250910", "name": "web_fetch", "max_uses": CHECKER_FETCHES},
+        {"type": "web_search_20250305", "name": "web_search", "max_uses": CHECKER_SEARCHES},
+    ]
+    return run_agent(client, "Fact-checker", CHECKER_MODEL, system, user, tools)
+
+
 def main():
     if not os.environ.get("ANTHROPIC_API_KEY"):
         sys.exit("ANTHROPIC_API_KEY is not set.")
@@ -149,62 +221,31 @@ def main():
         return
 
     client = anthropic.Anthropic()
-    system = [
-        {"type": "text", "text": (ROOT / "editor" / "prompt.md").read_text()},
-        {"type": "text", "text": "# READER.md\n\n" + (ROOT / "READER.md").read_text(),
-         "cache_control": {"type": "ephemeral"}},
-    ]
-    user = (
-        f"Today is {today.strftime('%A, %d %B %Y')} (UTC).\n\n"
-        f"## Candidate stories from the feeds\n{json.dumps(candidates(), ensure_ascii=False)}\n\n"
-        f"## Headlines already published in the last {RECENT_DAYS} days\n"
-        f"{json.dumps(recent_headlines(today), ensure_ascii=False)}\n\n"
-        "Edit today's paper. Return only the JSON object."
-    )
-    tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": MAX_SEARCHES}]
-    messages = [{"role": "user", "content": user}]
-    usage = {"input": 0, "output": 0, "cache_write": 0, "cache_read": 0, "searches": 0}
-    started = datetime.now(timezone.utc)
-
-    # The server runs the search loop itself; pause_turn means "send it back to continue".
-    for _ in range(6):
-        resp = client.messages.create(model=MODEL, max_tokens=16000, system=system,
-                                      tools=tools, messages=messages)
-        add_usage(usage, resp.usage)
-        if resp.stop_reason != "pause_turn":
-            break
-        messages = [messages[0], {"role": "assistant", "content": resp.content}]
-
-    text = "".join(b.text for b in resp.content if b.type == "text")
-    try:
-        edition = extract_json(text)
-    except (json.JSONDecodeError, ValueError):
-        fix = client.messages.create(
-            model=MODEL, max_tokens=16000,
-            messages=[{"role": "user", "content": "Fix this into valid JSON. Return only the JSON.\n\n" + text}])
-        add_usage(usage, fix.usage)
-        edition = extract_json("".join(b.text for b in fix.content if b.type == "text"))
+    draft, reporter_stats = write_draft(client, today)
+    checked, checker_stats = fact_check(client, today, draft)
+    edition = checked.get("edition") or draft
+    report = checked.get("report") or []
 
     found = add_images(edition)
     print(f"Found pictures for {found} stories")
 
-    cost = (usage["input"] * PRICE["input"] + usage["output"] * PRICE["output"]
-            + usage["cache_write"] * PRICE["cache_write"] + usage["cache_read"] * PRICE["cache_read"]) / 1e6 \
-        + usage["searches"] * PRICE["search"]
-
+    counts = {v: sum(1 for r in report if r.get("verdict") == v) for v in ("confirmed", "corrected", "removed", "unverified")}
+    total_usage = {k: reporter_stats["usage"][k] + checker_stats["usage"][k] for k in reporter_stats["usage"]}
     edition["meta"] = {
         "date": today.isoformat(),
         "number": next_edition_number(),
         "generated_at": now.isoformat(timespec="seconds"),
-        "model": MODEL,
-        "seconds": round((datetime.now(timezone.utc) - started).total_seconds()),
-        "usage": usage,
-        "cost_usd": round(cost, 3),
+        "model": REPORTER_MODEL if REPORTER_MODEL == CHECKER_MODEL else f"{REPORTER_MODEL} and {CHECKER_MODEL}",
+        "seconds": reporter_stats["seconds"] + checker_stats["seconds"],
+        "usage": total_usage,
+        "cost_usd": round(reporter_stats["cost_usd"] + checker_stats["cost_usd"], 3),
+        "agents": {"reporter": reporter_stats, "fact_checker": checker_stats},
+        "fact_check": {**counts, "report": report},
     }
     EDITIONS.mkdir(exist_ok=True)
     out_path.write_text(json.dumps(edition, indent=2, ensure_ascii=False))
-    print(f"Wrote {out_path.name}: edition {edition['meta']['number']}, ${cost:.3f}, "
-          f"{usage['searches']} searches, {edition['meta']['seconds']}s")
+    print(f"Wrote {out_path.name}: edition {edition['meta']['number']}, ${edition['meta']['cost_usd']:.3f}, "
+          f"fact-check {counts}")
 
 
 if __name__ == "__main__":
