@@ -173,14 +173,6 @@ export function EditionView({ edition }: { edition: Edition }) {
   const fixes = (fc?.report ?? []).filter((r) => r.verdict === "corrected" || r.verdict === "removed");
   const hasBack = edition.obituaries.length + edition.follow_ups.length + edition.briefs.length > 0 || !!fc;
 
-  const inside = [
-    hasNews && { id: "news", title: "News", note: "Your stack, models, tools" },
-    edition.business.length > 0 && { id: "business", title: "Business", note: "Deals, money, adoption" },
-    (edition.editorial || edition.hype_check.length > 0) && { id: "opinion", title: "Opinion", note: "The editorial, hype check" },
-    hasDesk && { id: "desk", title: "The Desk", note: "Paper of the day, try this today" },
-    hasSports && { id: "sports", title: "Sports", note: "Match report, transfer window" },
-    hasBack && { id: "back", title: "Back page", note: "Corrections desk, obituaries, briefs" },
-  ].filter(Boolean) as { id: string; title: string; note: string }[];
 
   return (
     <main>
@@ -192,32 +184,19 @@ export function EditionView({ edition }: { edition: Edition }) {
 
       {lead && (
         <section className="grid gap-10 py-8 lg:grid-cols-12" aria-label="Front page">
-          <div className="lg:col-span-8">
+          <div className={cn(second.length ? "lg:col-span-8" : "lg:col-span-12")}>
             <p className="mb-2 text-[1rem] font-bold text-accent">Today’s lead</p>
             <StoryBlock story={lead} size="lg" />
           </div>
+          {second.length > 0 && (
           <div className="space-y-10 lg:col-span-4 lg:border-l lg:border-ink lg:pl-8">
             {second.map((s, i) => (
               <div key={i} className={cn(i > 0 && "border-t border-hairline pt-8")}>
                 <StoryBlock story={s} size="md" />
               </div>
             ))}
-            {inside.length > 0 && (
-              <nav aria-label="Inside today" className="border-2 border-ink">
-                <h2 className="bg-accent px-4 py-2 text-[1.15rem] font-bold text-paper">Inside today</h2>
-                <ul className="px-4 pb-2 pt-1">
-                  {inside.map((x) => (
-                    <li key={x.id} className="border-t border-hairline py-2 first:border-t-0">
-                      <a href={`#${x.id}`} className="font-bold no-underline hover:underline">
-                        {x.title}
-                      </a>
-                      <span className="block text-[0.95rem] italic text-muted">{x.note}</span>
-                    </li>
-                  ))}
-                </ul>
-              </nav>
-            )}
           </div>
+          )}
         </section>
       )}
 
