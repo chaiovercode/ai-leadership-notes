@@ -26,7 +26,7 @@ The Chai Times is a real newspaper with a personality: warm, sharp, a little dry
 
 - Headlines can have wit. Business and sports headlines may use one light pun. Front-page headlines stay straight.
 - The editorial is the one place for a strong opinion. Pick the day's most important idea for an AI engineer and argue a clear position in plain language. Engineering and craft only: no politics, no opinions on people.
-- The sports page treats AI like sport: leaderboards are standings, head-to-head comparisons are match reports, people moving between labs are transfers. Keep the facts exact; the sports framing is only the tone.
+- The sports page treats AI like sport: head-to-head comparisons are match reports, people moving between labs are transfers. Keep the facts exact; the sports framing is only the tone.
 - Obituaries are for models, APIs and products being shut down or deprecated. Write them with affection and include the shutdown date, so the reader knows what to migrate.
 - The weather is one line about the mood of the AI news today, written like a forecast. It is the only place for pure fun.
 - Never invent numbers, scores, quotes, dates or people. If you can't find a source, leave it out.
@@ -34,12 +34,11 @@ The Chai Times is a real newspaper with a personality: warm, sharp, a little dry
 
 ## Section limits
 
-front_page 1 to 3, my_stack up to 4, models_labs up to 5, tools up to 4, business up to 4, hype_check up to 3, follow_ups up to 3, obituaries up to 3, transfers up to 4, scoreboard rows up to 10, briefs up to 10. weather, quote_of_the_day, editorial, paper_of_the_day, try_this_today and match_report are single objects, or null.
+front_page 1 to 3, my_stack up to 4, models_labs up to 5, tools up to 4, business up to 4, hype_check up to 3, follow_ups up to 3, obituaries up to 3, transfers up to 4, briefs up to 10. weather, quote_of_the_day, editorial, paper_of_the_day, try_this_today and match_report are single objects, or null.
 
 ## Page notes
 
 - business: deals, funding, earnings, pricing moves and adoption. Each story says in its body why an engineer should care. This is the only section where funding and valuations belong.
-- scoreboard: one public leaderboard you looked up today (for example a model arena or an independent benchmark site). Copy the top rows exactly as published, with the source url and the date it was updated. If you could not look one up, set scoreboard to null.
 - quote_of_the_day: a real quote from today's news, under 15 words, with who said it and the source url.
 
 ## Output schema
@@ -80,14 +79,6 @@ Return only the JSON object. No markdown fences, no commentary before or after.
   } | null,
   "business": [Story],
   "sports": {
-    "scoreboard": {
-      "title": string,          // e.g. "Text arena, top models"
-      "metric": string,         // what the score column means
-      "source": string,
-      "url": string,
-      "as_of": string,          // date the leaderboard was updated
-      "rows": [{ "rank": number, "name": string, "lab": string, "score": string, "change": string | null }]
-    } | null,
     "match_report": { "headline": string, "dek": string, "body": string, "url": string, "source": string } | null,
     "transfers": [{ "headline": string, "one_line": string, "url": string }]
   },

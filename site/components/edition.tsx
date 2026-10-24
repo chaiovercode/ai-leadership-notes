@@ -166,7 +166,7 @@ export function EditionView({ edition }: { edition: Edition }) {
   const [lead, ...second] = edition.front_page;
   const m = edition.meta;
   const sp = edition.sports;
-  const hasSports = !!(sp.scoreboard || sp.match_report || sp.transfers.length);
+  const hasSports = !!(sp.match_report || sp.transfers.length);
   const hasDesk = !!(edition.paper_of_the_day || edition.try_this_today);
   const hasNews = edition.my_stack.length + edition.models_labs.length + edition.tools.length > 0;
   const fc = m.fact_check;
@@ -178,7 +178,7 @@ export function EditionView({ edition }: { edition: Edition }) {
     edition.business.length > 0 && { id: "business", title: "Business", note: "Deals, money, adoption" },
     (edition.editorial || edition.hype_check.length > 0) && { id: "opinion", title: "Opinion", note: "The editorial, hype check" },
     hasDesk && { id: "desk", title: "The Desk", note: "Paper of the day, try this today" },
-    hasSports && { id: "sports", title: "Sports", note: "Standings, match report, transfers" },
+    hasSports && { id: "sports", title: "Sports", note: "Match report, transfer window" },
     hasBack && { id: "back", title: "Back page", note: "Corrections desk, obituaries, briefs" },
   ].filter(Boolean) as { id: string; title: string; note: string }[];
 
@@ -350,66 +350,24 @@ export function EditionView({ edition }: { edition: Edition }) {
         <section>
           <PageHead id="sports" title="Sports" note="The model league, reported like it matters. Because it does." />
           <div className="grid gap-10 lg:grid-cols-12">
-            <div className="lg:col-span-7">
-              <h3 className="text-[1.3rem] font-bold text-accent">Standings</h3>
-              {sp.scoreboard ? (
-                <>
-                  <p className="text-[0.95rem] italic text-muted">
-                    {sp.scoreboard.title}. {sp.scoreboard.metric}. As of {sp.scoreboard.as_of}.
-                  </p>
-                  <div className="mt-4 overflow-x-auto">
-                    <table className="w-full border-collapse text-[1rem]">
-                      <thead>
-                        <tr className="border-y-2 border-ink text-left">
-                          <th className="py-2 pr-3">#</th>
-                          <th className="py-2 pr-3">Model</th>
-                          <th className="py-2 pr-3">Lab</th>
-                          <th className="py-2 pr-3 text-right">Score</th>
-                          <th className="py-2 text-right">Move</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        {sp.scoreboard.rows.map((r) => (
-                          <tr key={r.rank + r.name} className="border-b border-hairline">
-                            <td className="py-2 pr-3 tabular-nums">{r.rank}</td>
-                            <td className="py-2 pr-3 font-bold">{r.name}</td>
-                            <td className="py-2 pr-3">{r.lab}</td>
-                            <td className="py-2 pr-3 text-right tabular-nums">{r.score}</td>
-                            <td className="py-2 text-right tabular-nums">{r.change ?? ""}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                  <a href={sp.scoreboard.url} target="_blank" rel="noopener" className="mt-2 inline-block text-[0.95rem] underline">
-                    {sp.scoreboard.source}
-                  </a>
-                </>
-              ) : (
-                <p className="mt-3 border border-dashed border-ink p-4 italic">
-                  No standings today. The editor only prints a table it looked up the same morning.
-                </p>
-              )}
-            </div>
-            <div className="space-y-8 lg:col-span-5 lg:border-l lg:border-ink lg:pl-8">
-              {sp.match_report && (
-                <article>
+            {sp.match_report && (
+              <article className={cn(sp.transfers.length ? "lg:col-span-8" : "lg:col-span-12")}>
                   <p className="text-[1rem] font-bold text-accent">Match report</p>
-                  <h3 className="mt-1 text-[1.55rem] font-bold leading-[1.12] text-balance">
+                  <h3 className="mt-1 text-[clamp(1.8rem,3.4vw,2.6rem)] font-bold leading-[1.05] tracking-[-0.02em] text-balance">
                     <a href={sp.match_report.url} target="_blank" rel="noopener" className="no-underline hover:underline">
                       {sp.match_report.headline}
                     </a>
                   </h3>
                   <p className="mt-2 text-[1.05rem] italic text-muted">{sp.match_report.dek}</p>
                   {sp.match_report.image && <StoryImage src={sp.match_report.image} credit={sp.match_report.source} />}
-                  <Body text={sp.match_report.body} className="mt-3" />
+                  <Body text={sp.match_report.body} className={cn("mt-3", !sp.transfers.length && "lead-columns")} />
                   <a href={sp.match_report.url} target="_blank" rel="noopener" className="mt-2 inline-block text-[0.95rem] underline">
                     {sp.match_report.source}
                   </a>
-                </article>
-              )}
-              {sp.transfers.length > 0 && (
-                <div className={cn(sp.match_report && "border-t border-hairline pt-6")}>
+              </article>
+            )}
+            {sp.transfers.length > 0 && (
+                <div className={cn(sp.match_report ? "lg:col-span-4 lg:border-l lg:border-ink lg:pl-8" : "lg:col-span-12")}>
                   <h3 className="text-[1.3rem] font-bold text-accent">Transfer window</h3>
                   <ul className="mt-3 space-y-3">
                     {sp.transfers.map((t, i) => (
@@ -422,8 +380,7 @@ export function EditionView({ edition }: { edition: Edition }) {
                     ))}
                   </ul>
                 </div>
-              )}
-            </div>
+            )}
           </div>
         </section>
       )}

@@ -58,7 +58,7 @@ Also say in one line whether it fits something I actually build: agents, harness
 8. Follow-ups: updates on stories covered before
 9. Briefs: one line each for everything else
 
-Plus the inside pages: a weather line and quote of the day on the front, the business page, the editorial, the sports page (leaderboards, head-to-heads, people moving between labs) and obituaries for models and APIs being shut down.
+Plus the inside pages: a weather line and quote of the day on the front, the business page, the editorial, the sports page (head-to-heads and people moving between labs) and obituaries for models and APIs being shut down.
 
 ## Editorial rules
 
