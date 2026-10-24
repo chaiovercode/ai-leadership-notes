@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-23T05:43:30.473Z",
+  "updated": "2026-10-24T05:22:30.936Z",
   "categories": [
     {
       "id": "ai-ml",
       "name": "AI & Machine Learning",
       "articles": [
+        {
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "date": "2026-10-23T23:05:49.000Z",
+          "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
           "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
@@ -32,13 +39,6 @@
           "date": "2026-10-21T22:45:34.000Z",
           "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-          "date": "2026-10-21T20:27:41.000Z",
-          "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -47,10 +47,24 @@
       "name": "Generative AI",
       "articles": [
         {
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "date": "2026-10-23T23:05:49.000Z",
+          "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "date": "2026-10-23T21:59:19.000Z",
+          "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
           "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
           "date": "2026-10-23T04:00:00.000Z",
-          "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "description": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
           "source": "TechCrunch"
         },
         {
@@ -93,13 +107,6 @@
           "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
           "date": "2026-10-21T22:51:22.000Z",
           "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "PHP Armageddon: OpenAI, Googles Wiz find ancient holes, panicking the internet",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-          "date": "2026-10-21T17:59:12.000Z",
-          "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
           "source": "TechCrunch"
         },
         {
@@ -156,13 +163,6 @@
           "date": "2026-10-22T13:53:26.000Z",
           "description": "Claude Duet is available through waitlist for Pro and Max plan users.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-          "date": "2026-10-21T19:30:00.000Z",
-          "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -170,6 +170,13 @@
       "id": "business",
       "name": "Business Applications",
       "articles": [
+        {
+          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+          "date": "2026-10-23T19:06:23.000Z",
+          "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d...",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
           "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -211,20 +218,6 @@
           "date": "2026-10-21T21:14:19.000Z",
           "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-          "date": "2026-10-21T20:27:41.000Z",
-          "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-          "date": "2026-10-21T19:30:00.000Z",
-          "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp...",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -232,6 +225,13 @@
       "id": "ethics",
       "name": "Ethics & Safety",
       "articles": [
+        {
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "date": "2026-10-23T23:05:49.000Z",
+          "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "source": "TechCrunch"
+        },
         {
           "title": "TechCrunch Founder Summit 2026: Everything you need to know",
           "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
@@ -244,13 +244,6 @@
           "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
           "date": "2026-10-21T21:14:19.000Z",
           "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "PHP Armageddon: OpenAI, Googles Wiz find ancient holes, panicking the internet",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-          "date": "2026-10-21T17:59:12.000Z",
-          "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
           "source": "TechCrunch"
         }
       ]
