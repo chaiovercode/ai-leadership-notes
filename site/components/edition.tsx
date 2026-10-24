@@ -149,7 +149,7 @@ export function Masthead({ edition }: { edition?: Edition }) {
         <div className="flex items-baseline justify-between gap-4 border-y border-ink py-1.5 font-sans text-[0.72rem] font-bold uppercase tracking-[0.08em]">
           <span>{vol}</span>
           <span className="hidden text-center sm:block">{m ? longDate(m.date) : ""}</span>
-          <span>{m ? (m.preview ? "Free" : `$${m.cost_usd?.toFixed(2)}`) : ""}</span>
+          <span>{m ? (m.preview || !m.cost_usd ? "Free" : `$${m.cost_usd.toFixed(2)}`) : ""}</span>
         </div>
       </div>
       {m && <p className="mt-1 text-center font-sans text-[0.72rem] font-bold uppercase tracking-[0.08em] sm:hidden">{longDate(m.date)}</p>}
@@ -179,6 +179,17 @@ export function EditionView({ edition }: { edition: Edition }) {
       {m.preview && (
         <p className="mt-4 border border-ink px-4 py-2 font-sans text-[0.85rem]">
           This preview was assembled by hand from the feeds this repo already collects. From tomorrow, the reporter and fact-checker print a new edition every morning at 08:00 IST.
+        </p>
+      )}
+
+      {m.status === "feeds_only" && (
+        <p className="mt-4 border border-ink px-4 py-2 font-sans text-[0.85rem]">
+          The editors couldn’t reach any model this morning, so today’s paper is the raw wires, unedited and unchecked.
+        </p>
+      )}
+      {m.status === "unchecked" && (
+        <p className="mt-4 border border-ink px-4 py-2 font-sans text-[0.85rem]">
+          The fact-checker couldn’t run this morning. Every story below is the reporter’s draft and is marked unverified.
         </p>
       )}
 
@@ -406,7 +417,7 @@ export function EditionView({ edition }: { edition: Edition }) {
                     <>
                       Today the fact-checker confirmed <b>{fc.confirmed}</b>, corrected <b>{fc.corrected ?? 0}</b>, removed{" "}
                       <b>{fc.removed ?? 0}</b> and could not verify <b>{fc.unverified ?? 0}</b>
-                      {m.agents?.fact_checker?.usage.fetches ? <>, after reading {m.agents.fact_checker.usage.fetches} source pages</> : null}.
+                      {m.agents?.fact_checker?.fetches ? <>, after reading {m.agents.fact_checker.fetches} source pages</> : null}.
                     </>
                   )}
                 </p>
@@ -485,17 +496,11 @@ export function EditionView({ edition }: { edition: Edition }) {
           <p>Preview edition. Real editions print the cost of making them here.</p>
         ) : (
           <p>
-            This edition cost ${m.cost_usd?.toFixed(2)} to print: {fmt(m.usage?.input)} tokens read, {fmt(m.usage?.output)} written,{" "}
-            {m.usage?.searches ?? 0} web searches, {m.seconds}s.
-            {m.agents ? (
-              <>
-                {" "}
-                Reporter ${m.agents.reporter.cost_usd.toFixed(2)}, fact-checker ${m.agents.fact_checker.cost_usd.toFixed(2)}. Both {m.model}, working from
-                READER.md.
-              </>
-            ) : (
-              <> Edited by {m.model} against READER.md.</>
-            )}
+            {m.agents?.reporter ? `Reported by ${m.agents.reporter.provider} (${m.agents.reporter.model})` : "No reporter today"}
+            {m.agents?.fact_checker ? `, fact-checked by ${m.agents.fact_checker.provider} (${m.agents.fact_checker.model})` : ""}. {fmt(m.usage?.input)}{" "}
+            tokens read, {fmt(m.usage?.output)} written
+            {m.usage?.searches ? `, ${m.usage.searches} web searches` : ""}, {m.seconds}s.{" "}
+            {m.cost_usd ? `Cost to print: $${m.cost_usd.toFixed(2)}.` : "Printed on free tiers."} Edited against READER.md.
           </p>
         )}
       </footer>

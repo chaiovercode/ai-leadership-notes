@@ -1,12 +1,13 @@
-"""The Chai Times newsroom: two agents.
+"""The Chai Times newsroom: two agents on free models.
 
 1. The reporter reads READER.md, the raw feeds (news.json, categorized-news.json)
    and recent headlines, searches the web, and writes a draft edition.
-2. The fact-checker opens every story's source, fixes what's wrong, removes what
-   it can't support, and files a report.
+2. The script opens every story's page itself, and the fact-checker checks the
+   draft against those pages, fixes what's wrong and removes what it can't support.
 
-The checked edition is written to editions/YYYY-MM-DD.json with each agent's
-cost and the fact-check report. Swap these calls for your own harness later.
+Models come from llm.py: Gemini first, Groq if Gemini fails. If both fail the
+paper still prints, straight from the feeds. Swap these calls for your own
+harness later.
 """
 
 import json
@@ -20,28 +21,12 @@ from html import unescape
 from pathlib import Path
 from urllib.parse import urljoin
 
-import anthropic
+from llm import ProviderError, complete
 
 ROOT = Path(__file__).resolve().parent.parent
 EDITIONS = ROOT / "editions"
 
-REPORTER_MODEL = os.environ.get("REPORTER_MODEL", "claude-sonnet-5-5")
-CHECKER_MODEL = os.environ.get("CHECKER_MODEL", "claude-sonnet-5-5")
-REPORTER_SEARCHES = int(os.environ.get("REPORTER_SEARCHES", "12"))
-CHECKER_SEARCHES = int(os.environ.get("CHECKER_SEARCHES", "10"))
-CHECKER_FETCHES = int(os.environ.get("CHECKER_FETCHES", "25"))
 RECENT_DAYS = 14
-
-# USD per million tokens, and per web search. Check current rates at
-# https://platform.claude.com/docs/en/about-claude/pricing and update.
-PRICE = {
-    "input": float(os.environ.get("PRICE_INPUT", "2.00")),
-    "output": float(os.environ.get("PRICE_OUTPUT", "10.00")),
-    "cache_write": float(os.environ.get("PRICE_CACHE_WRITE", "2.50")),
-    "cache_read": float(os.environ.get("PRICE_CACHE_READ", "0.20")),
-    "search": float(os.environ.get("PRICE_SEARCH", "0.01")),
-}
-
 
 def load_json(path):
     try:
@@ -88,22 +73,6 @@ def recent_headlines(today):
 def next_edition_number():
     nums = [load_json(p).get("meta", {}).get("number", 0) for p in EDITIONS.glob("*.json") if load_json(p)]
     return max(nums, default=0) + 1
-
-
-def add_usage(total, u):
-    total["input"] += u.input_tokens or 0
-    total["output"] += u.output_tokens or 0
-    total["cache_write"] += getattr(u, "cache_creation_input_tokens", 0) or 0
-    total["cache_read"] += getattr(u, "cache_read_input_tokens", 0) or 0
-    stu = getattr(u, "server_tool_use", None)
-    total["searches"] += (getattr(stu, "web_search_requests", 0) or 0) if stu else 0
-    total["fetches"] += (getattr(stu, "web_fetch_requests", 0) or 0) if stu else 0
-
-
-def cost_of(u):
-    return round((u["input"] * PRICE["input"] + u["output"] * PRICE["output"]
-                  + u["cache_write"] * PRICE["cache_write"] + u["cache_read"] * PRICE["cache_read"]) / 1e6
-                 + u["searches"] * PRICE["search"], 4)
 
 
 def extract_json(text):
@@ -186,41 +155,47 @@ def pick_comic(pick, today):
     return latest
 
 
-def run_agent(client, name, model, system, user, tools):
-    """One agent turn with server-side tools. Returns (parsed JSON, stats)."""
-    usage = {"input": 0, "output": 0, "cache_write": 0, "cache_read": 0, "searches": 0, "fetches": 0}
-    started = datetime.now(timezone.utc)
-    messages = [{"role": "user", "content": user}]
-    # The API runs the tool loop itself; pause_turn means "send it back to continue".
-    for _ in range(8):
-        resp = client.messages.create(model=model, max_tokens=20000, system=system, tools=tools, messages=messages)
-        add_usage(usage, resp.usage)
-        if resp.stop_reason != "pause_turn":
-            break
-        messages = [messages[0], {"role": "assistant", "content": resp.content}]
-
-    text = "".join(b.text for b in resp.content if b.type == "text")
+def page_text(url, limit=4000):
+    """Fetch a page and return its final URL and readable text, roughly."""
     try:
-        data = extract_json(text)
-    except (json.JSONDecodeError, ValueError):
-        fix = client.messages.create(
-            model=model, max_tokens=20000,
-            messages=[{"role": "user", "content": "Fix this into valid JSON. Return only the JSON.\n\n" + text}])
-        add_usage(usage, fix.usage)
-        data = extract_json("".join(b.text for b in fix.content if b.type == "text"))
-
-    stats = {"model": model, "seconds": round((datetime.now(timezone.utc) - started).total_seconds()),
-             "usage": usage, "cost_usd": cost_of(usage)}
-    print(f"{name}: ${stats['cost_usd']:.3f}, {usage['searches']} searches, {usage['fetches']} fetches, {stats['seconds']}s")
-    return data, stats
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; ChaiTimesBot/1.0)"})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            final = r.geturl()
+            html = r.read(600_000).decode("utf-8", "ignore") if "html" in r.headers.get("Content-Type", "") else ""
+    except Exception as e:
+        return url, f"[could not open page: {e}]"
+    html = re.sub(r"(?is)<(script|style|nav|footer|header|noscript)[^>]*>.*?</\1>", " ", html)
+    text = unescape(re.sub(r"\s+", " ", re.sub(r"(?s)<[^>]+>", " ", html))).strip()
+    return final, text[:limit]
 
 
-def write_draft(client, today):
-    system = [
-        {"type": "text", "text": (ROOT / "editor" / "reporter.md").read_text()},
-        {"type": "text", "text": "# READER.md\n\n" + (ROOT / "READER.md").read_text(),
-         "cache_control": {"type": "ephemeral"}},
-    ]
+def all_items(edition):
+    """Every story-like object that carries a url, wherever it sits in the edition."""
+    items = [s for sec in ("front_page", "my_stack", "models_labs", "tools", "business", "follow_ups",
+                           "briefs", "hype_check", "obituaries") for s in edition.get(sec) or []]
+    sp = edition.get("sports") or {}
+    items += ([sp["match_report"]] if sp.get("match_report") else []) + (sp.get("transfers") or [])
+    for single in ("paper_of_the_day", "quote_of_the_day"):
+        if edition.get(single):
+            items.append(edition[single])
+    return [i for i in items if isinstance(i, dict) and i.get("url")]
+
+
+def gather_sources(edition):
+    """Open every story's page once. Search-redirect links are swapped for the real address."""
+    items = all_items(edition)
+    urls = sorted({i["url"] for i in items})
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        pages = dict(zip(urls, pool.map(page_text, urls)))
+    for i in items:
+        final, _ = pages[i["url"]]
+        if "grounding-api-redirect" in i["url"] and final:
+            i["url"] = final
+    return {final: text for final, text in pages.values()}
+
+
+def write_draft(today):
+    system = (ROOT / "editor" / "reporter.md").read_text() + "\n\n# READER.md\n\n" + (ROOT / "READER.md").read_text()
     user = (
         f"Today is {today.strftime('%A, %d %B %Y')} (UTC).\n\n"
         f"## Candidate stories from the feeds\n{json.dumps(candidates(), ensure_ascii=False)}\n\n"
@@ -228,28 +203,32 @@ def write_draft(client, today):
         f"{json.dumps(recent_headlines(today), ensure_ascii=False)}\n\n"
         "Write today's paper. Return only the JSON object."
     )
-    tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": REPORTER_SEARCHES}]
-    return run_agent(client, "Reporter", REPORTER_MODEL, system, user, tools)
+    return complete(system, user, search=True, parse=extract_json)
 
 
-def fact_check(client, today, draft):
-    system = [{"type": "text", "text": (ROOT / "editor" / "fact_checker.md").read_text()}]
+def fact_check(today, draft, sources):
+    system = (ROOT / "editor" / "fact_checker.md").read_text()
     user = (
         f"Today is {today.strftime('%A, %d %B %Y')} (UTC).\n\n"
         f"## Draft edition from the reporter\n{json.dumps(draft, ensure_ascii=False)}\n\n"
+        f"## Source pages, opened this morning (url, then the start of its text)\n"
+        f"{json.dumps(sources, ensure_ascii=False)}\n\n"
         "Check it. Return only the JSON object with edition and report."
     )
-    tools = [
-        {"type": "web_fetch_20250910", "name": "web_fetch", "max_uses": CHECKER_FETCHES},
-        {"type": "web_search_20250305", "name": "web_search", "max_uses": CHECKER_SEARCHES},
-    ]
-    return run_agent(client, "Fact-checker", CHECKER_MODEL, system, user, tools)
+    return complete(system, user, search=True, parse=extract_json)
+
+
+def feeds_only(today):
+    """The last resort: no model answered, so print the raw feeds as briefs."""
+    items = sorted(candidates(), key=lambda c: -(c.get("hn_points") or 0))[:20]
+    return {
+        "front_page": [], "briefs": [{"headline": c["title"], "one_line": c.get("summary") or c.get("source", ""),
+                                      "url": c["url"]} for c in items],
+        "weather": {"headline": "Editors off today", "detail": "Both newsrooms were unreachable, so here are the wires."},
+    }
 
 
 def main():
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        sys.exit("ANTHROPIC_API_KEY is not set.")
-
     now = datetime.now(timezone.utc)
     today = now.date()
     out_path = EDITIONS / f"{today.isoformat()}.json"
@@ -257,34 +236,52 @@ def main():
         print(f"{out_path.name} already exists. Set FORCE=1 to rewrite it.")
         return
 
-    client = anthropic.Anthropic()
-    draft, reporter_stats = write_draft(client, today)
-    checked, checker_stats = fact_check(client, today, draft)
-    edition = checked.get("edition") or draft
-    report = checked.get("report") or []
+    agents, report, status = {}, [], "checked"
+    try:
+        draft, agents["reporter"] = write_draft(today)
+        print(f"Reporter: {agents['reporter']['provider']}, {agents['reporter']['seconds']}s")
+    except ProviderError as e:
+        print(f"Every reporter failed ({e}). Printing the feeds instead.")
+        draft, status = feeds_only(today), "feeds_only"
+
+    edition = draft
+    if status == "checked":
+        sources = gather_sources(draft)
+        print(f"Opened {len(sources)} source pages")
+        try:
+            checked, agents["fact_checker"] = fact_check(today, draft, sources)
+            agents["fact_checker"]["fetches"] = len(sources)
+            edition, report = checked.get("edition") or draft, checked.get("report") or []
+            print(f"Fact-checker: {agents['fact_checker']['provider']}, {agents['fact_checker']['seconds']}s")
+        except ProviderError as e:
+            print(f"Every fact-checker failed ({e}). Printing the draft marked unchecked.")
+            status = "unchecked"
+            for item in all_items(edition):
+                if "verified" in item:
+                    item["verified"] = False
 
     edition["comic"] = pick_comic(edition.pop("xkcd_pick", None) or draft.get("xkcd_pick"), today)
-
     found = add_images(edition)
     print(f"Found pictures for {found} stories")
 
     counts = {v: sum(1 for r in report if r.get("verdict") == v) for v in ("confirmed", "corrected", "removed", "unverified")}
-    total_usage = {k: reporter_stats["usage"][k] + checker_stats["usage"][k] for k in reporter_stats["usage"]}
     edition["meta"] = {
         "date": today.isoformat(),
-        "number": next_edition_number(),
+        "number": (load_json(out_path) or {}).get("meta", {}).get("number") or next_edition_number(),
         "generated_at": now.isoformat(timespec="seconds"),
-        "model": REPORTER_MODEL if REPORTER_MODEL == CHECKER_MODEL else f"{REPORTER_MODEL} and {CHECKER_MODEL}",
-        "seconds": reporter_stats["seconds"] + checker_stats["seconds"],
-        "usage": total_usage,
-        "cost_usd": round(reporter_stats["cost_usd"] + checker_stats["cost_usd"], 3),
-        "agents": {"reporter": reporter_stats, "fact_checker": checker_stats},
-        "fact_check": {**counts, "report": report},
+        "status": status,
+        "model": " and ".join(sorted({f"{a['provider']} {a['model']}" for a in agents.values()})) or "no model",
+        "seconds": sum(a["seconds"] for a in agents.values()),
+        "usage": {"input": sum(a["input"] for a in agents.values()),
+                  "output": sum(a["output"] for a in agents.values()),
+                  "searches": sum(a["searches"] or 0 for a in agents.values())},
+        "cost_usd": 0.0,
+        "agents": agents,
+        "fact_check": {**counts, "report": report} if status == "checked" else None,
     }
     EDITIONS.mkdir(exist_ok=True)
     out_path.write_text(json.dumps(edition, indent=2, ensure_ascii=False))
-    print(f"Wrote {out_path.name}: edition {edition['meta']['number']}, ${edition['meta']['cost_usd']:.3f}, "
-          f"fact-check {counts}")
+    print(f"Wrote {out_path.name}: edition {edition['meta']['number']}, {status}, fact-check {counts}")
 
 
 if __name__ == "__main__":

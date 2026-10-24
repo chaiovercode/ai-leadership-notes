@@ -18,7 +18,7 @@ The newsroom (`editor/editor.py`) has two agents:
 1. **The reporter** reads `READER.md`, both feeds and the last 14 days of headlines, searches the web for anything the feeds missed, stamps every model or tool story *Usable today*, *Waitlist* or *Demo only*, and writes a draft.
 2. **The fact-checker** opens every story’s source, checks names, dates, numbers, quotes and stamps, corrects what’s wrong, removes what it can’t support, and files a report. Its corrections are printed on the back page.
 
-Each edition records what each agent cost and how long it took.
+Both agents run on free models through `editor/llm.py`: **Gemini 2.5 Flash** first, **Groq compound** if Gemini fails. If both fail, the paper still prints, straight from the feeds. Each edition records which model wrote and checked it, and how long it took.
 
 ## What to edit
 
@@ -29,7 +29,9 @@ Each edition records what each agent cost and how long it took.
 
 ## Setup
 
-1. Add your Claude API key as a repository secret named `ANTHROPIC_API_KEY` (Settings, Secrets and variables, Actions).
+1. Create two free keys and add them as repository secrets (Settings, Secrets and variables, Actions):
+   - `GEMINI_API_KEY` from https://aistudio.google.com/apikey
+   - `GROQ_API_KEY` from https://console.groq.com/keys
 2. Make sure Pages is set to deploy from GitHub Actions (Settings, Pages, Source).
 3. Run **Morning Edition** once from the Actions tab to print the first edition.
 
@@ -37,11 +39,10 @@ Each edition records what each agent cost and how long it took.
 
 ```bash
 # write today's edition
-pip install -r editor/requirements.txt
-ANTHROPIC_API_KEY=... python editor/editor.py      # FORCE=1 to rewrite today's
+GEMINI_API_KEY=... GROQ_API_KEY=... python editor/editor.py      # FORCE=1 to rewrite today's
 
 # view the paper
 cd site && npm install && npm run dev
 ```
 
-Prices used for the cost line live at the top of `editor/editor.py`. Check them against Anthropic’s pricing page now and then.
+The editor needs no packages beyond Python itself. To change or reorder models, edit `PROVIDERS` in `editor/llm.py`. Free tiers can change, so check the Actions tab if a morning looks thin.

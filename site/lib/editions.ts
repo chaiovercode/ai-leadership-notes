@@ -16,10 +16,14 @@ export type Story = {
 };
 
 export type AgentStats = {
+  provider: string;
   model: string;
   seconds: number;
+  input: number;
+  output: number;
+  searches: number | null;
+  fetches?: number;
   cost_usd: number;
-  usage: { input: number; output: number; searches: number; fetches?: number };
 };
 
 export type Edition = {
@@ -30,10 +34,11 @@ export type Edition = {
     generated_at?: string;
     model?: string;
     seconds?: number;
-    usage?: { input: number; output: number; cache_write: number; cache_read: number; searches: number };
+    usage?: { input: number; output: number; searches: number };
     cost_usd?: number;
-    agents?: Record<"reporter" | "fact_checker", AgentStats>;
-    fact_check?: {
+    status?: "checked" | "unchecked" | "feeds_only";
+    agents?: Partial<Record<"reporter" | "fact_checker", AgentStats>>;
+    fact_check?: null | {
       confirmed?: number;
       corrected?: number;
       removed?: number;
