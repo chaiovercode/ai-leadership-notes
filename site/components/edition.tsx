@@ -153,6 +153,11 @@ export function Masthead({ edition }: { edition?: Edition }) {
         </div>
       </div>
       {m && <p className="mt-1 text-center font-sans text-[0.72rem] font-bold uppercase tracking-[0.08em] sm:hidden">{longDate(m.date)}</p>}
+      {edition?.weather && (
+        <p className="mt-2 border-b border-hairline pb-2 text-center text-[0.9rem] leading-snug lg:hidden">
+          <span className="font-bold">{edition.weather.headline}.</span> {edition.weather.detail}
+        </p>
+      )}
     </header>
   );
 }

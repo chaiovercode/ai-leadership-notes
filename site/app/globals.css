@@ -81,8 +81,10 @@ a:hover {
 }
 
 
-/* Print-style justified columns on the lead */
-.justify-print {
-  text-align: justify;
-  hyphens: auto;
+/* Print-style justified columns on the lead, only where columns are wide enough */
+@media (min-width: 768px) {
+  .justify-print {
+    text-align: justify;
+    hyphens: auto;
+  }
 }
