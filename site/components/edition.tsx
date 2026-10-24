@@ -25,7 +25,7 @@ function Body({ text, className }: { text: string; className?: string }) {
 function StoryMeta({ story }: { story: Story }) {
   const stamp = story.stamp ? STAMP[story.stamp] : null;
   return (
-    <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-[0.92rem]">
+    <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-2 font-sans text-[0.75rem] uppercase tracking-[0.06em]">
       {stamp && <Badge variant={stamp.variant}>{stamp.label}</Badge>}
       {!story.verified && <Badge variant="muted">Unverified</Badge>}
       <a href={story.url} target="_blank" rel="noopener" className="underline">
@@ -37,7 +37,7 @@ function StoryMeta({ story }: { story: Story }) {
 
 function Fits({ fits }: { fits: string | null }) {
   if (!fits) return null;
-  return <p className="mt-2 text-[0.95rem] italic text-muted">Fits: {fits}</p>;
+  return <p className="mt-2 font-sans text-[0.8rem] text-muted">Fits: {fits}</p>;
 }
 
 function StoryBlock({ story, size = "md" }: { story: Story; size?: "lg" | "md" | "sm" }) {
@@ -61,7 +61,7 @@ function StoryBlock({ story, size = "md" }: { story: Story; size?: "lg" | "md" |
       </p>
       <StoryMeta story={story} />
       {story.image && size !== "sm" && <StoryImage src={story.image} credit={story.source} className={size === "lg" ? "mt-5" : undefined} />}
-      <Body text={story.body} className={cn("mt-4", size === "lg" && "lead-columns drop-cap")} />
+      <Body text={story.body} className={cn("mt-4", size === "lg" && "lead-columns justify-print")} />
       <Fits fits={story.fits} />
     </article>
   );
@@ -69,9 +69,9 @@ function StoryBlock({ story, size = "md" }: { story: Story; size?: "lg" | "md" |
 
 function SectionHead({ title, note }: { title: string; note?: string }) {
   return (
-    <div className="mb-6 border-t-2 border-ink pt-2">
-      <h2 className="text-[1.15rem] font-bold text-accent">{title}</h2>
-      {note && <p className="text-[0.95rem] italic text-muted">{note}</p>}
+    <div className="mb-6 border-t border-ink pt-2">
+      <h2 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">{title}</h2>
+      {note && <p className="font-sans text-[0.85rem] text-muted">{note}</p>}
     </div>
   );
 }
@@ -98,10 +98,10 @@ function StoryGrid({ stories }: { stories: Story[] }) {
 function PageHead({ id, title, note }: { id: string; title: string; note: string }) {
   return (
     <div id={id} className="mb-8 mt-12 scroll-mt-6">
-      <div className="h-[5px] bg-accent" />
+      <div className="border-t-[3px] border-ink" />
       <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-1 pt-3">
         <h2 className="text-[clamp(2rem,4.5vw,2.9rem)] font-bold leading-none tracking-[-0.02em]">{title}</h2>
-        <p className="text-[1rem] italic text-muted">{note}</p>
+        <p className="font-sans text-[0.85rem] text-muted">{note}</p>
       </div>
     </div>
   );
@@ -109,7 +109,7 @@ function PageHead({ id, title, note }: { id: string; title: string; note: string
 
 function Ear({ children, align }: { children: React.ReactNode; align: "left" | "right" }) {
   return (
-    <div className={cn("hidden w-44 shrink-0 border border-ink px-3 py-2 text-[0.88rem] leading-snug lg:block", align === "right" && "text-right")}>
+    <div className={cn("hidden w-48 shrink-0 border border-ink px-3 py-2 text-[0.82rem] leading-snug lg:block", align === "right" && "text-right")}>
       {children}
     </div>
   );
@@ -117,47 +117,42 @@ function Ear({ children, align }: { children: React.ReactNode; align: "left" | "
 
 export function Masthead({ edition }: { edition?: Edition }) {
   const m = edition?.meta;
+  const vol = m ? (m.preview ? "Preview edition" : `Vol. I . . . No. ${m.number}`) : "Vol. I";
   return (
-    <header className="pt-6">
-      <div className="flex items-baseline justify-between gap-4 border-b border-hairline pb-2 text-[0.95rem]">
-        <span>{m ? (m.preview ? "Preview edition" : `Edition No. ${m.number}`) : "Edition No. 1"}</span>
-        <span className="hidden text-center sm:block">{m ? longDate(m.date) : ""}</span>
-        <Link href="/archive/" className="underline">
+    <header className="pt-4">
+      <div className="flex justify-end pb-1">
+        <Link href="/archive/" className="font-sans text-[0.78rem] underline">
           Archive
         </Link>
       </div>
-      <div className="flex items-center justify-between gap-6 pt-4">
-        {edition && (
-          <Ear align="left">
-            <span className="font-bold text-accent">Weather</span>
-            <br />
-            {edition.weather ? (
-              <>
-                {edition.weather.headline}. <span className="italic">{edition.weather.detail}</span>
-              </>
-            ) : (
-              <span className="italic">No forecast today.</span>
-            )}
-          </Ear>
-        )}
+      <div className="flex items-center justify-between gap-6">
+        <Ear align="left">
+          <span className="italic">“AI, explained before your chai goes cold.”</span>
+        </Ear>
         <Link href="/" className="block min-w-0 flex-1 no-underline">
-          <h1 className="text-center font-masthead text-ink text-[clamp(3.2rem,10vw,7.5rem)] font-normal leading-[0.95] lg:whitespace-nowrap lg:text-[clamp(4rem,6.8vw,6.5rem)]">The Chai Times</h1>
+          <h1 className="text-center font-masthead text-ink text-[clamp(3rem,10vw,7.5rem)] font-normal leading-[0.95] lg:whitespace-nowrap lg:text-[clamp(4rem,6.8vw,6.75rem)]">
+            The Chai Times
+          </h1>
         </Link>
-        {edition && (
-          <Ear align="right">
-            <span className="font-bold text-accent">Price of this paper</span>
-            <br />
-            {m?.preview ? <span className="italic">Free preview</span> : `$${m?.cost_usd?.toFixed(2)} to print`}
-            <br />
-            <span className="italic">Reported and fact-checked by Claude</span>
-          </Ear>
-        )}
+        <Ear align="right">
+          {edition?.weather ? (
+            <>
+              <span className="font-bold">{edition.weather.headline}.</span> {edition.weather.detail}
+            </>
+          ) : (
+            <span className="italic">Late edition</span>
+          )}
+        </Ear>
       </div>
-      <p className="mt-2 text-center text-[1.15rem] italic">
-        AI, explained before your chai goes cold. <span className="not-italic text-accent">Morning edition</span>
-      </p>
-      {m && <p className="mt-1 text-center text-[0.95rem] sm:hidden">{longDate(m.date)}</p>}
-      <div className="rule-double mt-4" />
+      <p className="mt-2 text-center text-[1rem] italic lg:hidden">“AI, explained before your chai goes cold.”</p>
+      <div className="mt-3 border-y border-ink py-[3px]">
+        <div className="flex items-baseline justify-between gap-4 border-y border-ink py-1.5 font-sans text-[0.72rem] font-bold uppercase tracking-[0.08em]">
+          <span>{vol}</span>
+          <span className="hidden text-center sm:block">{m ? longDate(m.date) : ""}</span>
+          <span>{m ? (m.preview ? "Free" : `$${m.cost_usd?.toFixed(2)}`) : ""}</span>
+        </div>
+      </div>
+      {m && <p className="mt-1 text-center font-sans text-[0.72rem] font-bold uppercase tracking-[0.08em] sm:hidden">{longDate(m.date)}</p>}
     </header>
   );
 }
@@ -177,15 +172,15 @@ export function EditionView({ edition }: { edition: Edition }) {
   return (
     <main>
       {m.preview && (
-        <p className="mt-4 border border-ink px-4 py-2 text-[0.98rem]">
-          This preview was assembled by hand from the feeds this repo already collects. The first real edition is written by the editor at 08:00 IST.
+        <p className="mt-4 border border-ink px-4 py-2 font-sans text-[0.85rem]">
+          This preview was assembled by hand from the feeds this repo already collects. From tomorrow, the reporter and fact-checker print a new edition every morning at 08:00 IST.
         </p>
       )}
 
       {lead && (
         <section className="grid gap-10 py-8 lg:grid-cols-12" aria-label="Front page">
           <div className={cn(second.length ? "lg:col-span-8" : "lg:col-span-12")}>
-            <p className="mb-2 text-[1rem] font-bold text-accent">Today’s lead</p>
+            <p className="mb-2 font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Today’s lead</p>
             <StoryBlock story={lead} size="lg" />
           </div>
           {second.length > 0 && (
@@ -201,14 +196,12 @@ export function EditionView({ edition }: { edition: Edition }) {
       )}
 
       {edition.quote_of_the_day && (
-        <figure className="border-y-2 border-ink py-8 text-center">
-          <p className="mb-3 text-[1rem] font-bold text-accent">Quote of the day</p>
+        <figure className="border-y border-ink py-8 text-center">
+          <p className="mb-3 font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Quotation of the Day</p>
           <blockquote className="mx-auto max-w-[44rem] text-[clamp(1.5rem,3.2vw,2.25rem)] italic leading-tight text-balance">
-            <span className="text-accent">“</span>
-            {edition.quote_of_the_day.quote}
-            <span className="text-accent">”</span>
+            “{edition.quote_of_the_day.quote}”
           </blockquote>
-          <figcaption className="mt-3 text-[1rem]">
+          <figcaption className="mt-3 font-sans text-[0.85rem]">
             <a href={edition.quote_of_the_day.url} target="_blank" rel="noopener" className="underline">
               {edition.quote_of_the_day.who}
             </a>
@@ -240,7 +233,7 @@ export function EditionView({ edition }: { edition: Edition }) {
       )}
 
       {edition.business.length > 0 && (
-        <section className="salmon mt-12 pb-10 pt-1 [&>div:first-child]:mt-8">
+        <section>
           <PageHead id="business" title="Business" note="Follow the money, then ask what it means for your code." />
           <StoryGrid stories={edition.business} />
         </section>
@@ -252,7 +245,7 @@ export function EditionView({ edition }: { edition: Edition }) {
           <div className="grid gap-10 lg:grid-cols-12">
             {edition.editorial && (
               <article className={cn(edition.hype_check.length ? "lg:col-span-8" : "lg:col-span-12")}>
-                <p className="text-[1rem] font-bold text-accent">The editorial</p>
+                <p className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">The editorial</p>
                 <h3 className="mt-1 text-[clamp(1.8rem,3.4vw,2.6rem)] font-bold leading-[1.05] tracking-[-0.02em] text-balance">
                   {edition.editorial.headline}
                 </h3>
@@ -262,7 +255,7 @@ export function EditionView({ edition }: { edition: Edition }) {
             )}
             {edition.hype_check.length > 0 && (
               <div className={cn(edition.editorial && "lg:col-span-4 lg:border-l lg:border-ink lg:pl-8")}>
-                <h3 className="text-[1.3rem] font-bold text-accent">Hype check</h3>
+                <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Hype check</h3>
                 <p className="text-[0.95rem] italic text-muted">Big claims, checked against what has been shown.</p>
                 <div className="mt-5 space-y-6">
                   {edition.hype_check.map((h, i) => (
@@ -292,7 +285,7 @@ export function EditionView({ edition }: { edition: Edition }) {
           <div className="grid gap-8 lg:grid-cols-2">
             {edition.paper_of_the_day && (
               <div className="border border-ink p-6">
-                <h3 className="text-[1.15rem] font-bold text-accent">Paper of the day</h3>
+                <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Paper of the day</h3>
                 <h4 className="mt-3 text-[1.45rem] font-bold leading-tight text-balance">
                   <a href={edition.paper_of_the_day.url} target="_blank" rel="noopener" className="no-underline hover:underline">
                     {edition.paper_of_the_day.title}
@@ -309,7 +302,7 @@ export function EditionView({ edition }: { edition: Edition }) {
             {edition.try_this_today && (
               <div className="border-2 border-ink p-6">
                 <div className="flex items-baseline justify-between gap-4">
-                  <h3 className="text-[1.15rem] font-bold text-accent">Try this today</h3>
+                  <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Try this today</h3>
                   <span className="text-[0.95rem]">{edition.try_this_today.minutes} minutes</span>
                 </div>
                 <h4 className="mt-3 text-[1.45rem] font-bold leading-tight text-balance">{edition.try_this_today.title}</h4>
@@ -331,7 +324,7 @@ export function EditionView({ edition }: { edition: Edition }) {
           <div className="grid gap-10 lg:grid-cols-12">
             {sp.match_report && (
               <article className={cn(sp.transfers.length ? "lg:col-span-8" : "lg:col-span-12")}>
-                  <p className="text-[1rem] font-bold text-accent">Match report</p>
+                  <p className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Match report</p>
                   <h3 className="mt-1 text-[clamp(1.8rem,3.4vw,2.6rem)] font-bold leading-[1.05] tracking-[-0.02em] text-balance">
                     <a href={sp.match_report.url} target="_blank" rel="noopener" className="no-underline hover:underline">
                       {sp.match_report.headline}
@@ -347,7 +340,7 @@ export function EditionView({ edition }: { edition: Edition }) {
             )}
             {sp.transfers.length > 0 && (
                 <div className={cn(sp.match_report ? "lg:col-span-4 lg:border-l lg:border-ink lg:pl-8" : "lg:col-span-12")}>
-                  <h3 className="text-[1.3rem] font-bold text-accent">Transfer window</h3>
+                  <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Transfer window</h3>
                   <ul className="mt-3 space-y-3">
                     {sp.transfers.map((t, i) => (
                       <li key={i} className="text-[1.0625rem] leading-relaxed">
@@ -368,9 +361,9 @@ export function EditionView({ edition }: { edition: Edition }) {
         <section>
           <PageHead id="back" title="Back page" note="Farewells, updates, and everything else." />
           {fc && (
-            <div className="mb-10 border-2 border-ink">
-              <h3 className="bg-ink px-4 py-2 text-[1.15rem] font-bold text-paper">Corrections desk</h3>
-              <div className="px-4 py-4">
+            <div className="mb-10 border-y border-ink py-4">
+              <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Corrections</h3>
+              <div className="pt-2">
                 <p className="text-[1.0625rem] leading-relaxed">
                   {m.preview
                     ? "This preview was checked by hand. From Edition No. 1, every story is written by one agent and checked by another before printing."
@@ -401,7 +394,7 @@ export function EditionView({ edition }: { edition: Edition }) {
               <div className="space-y-10 lg:col-span-4">
                 {edition.obituaries.length > 0 && (
                   <div>
-                    <h3 className="text-[1.3rem] font-bold text-accent">Obituaries</h3>
+                    <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Obituaries</h3>
                     <p className="text-[0.95rem] italic text-muted">Models and APIs leaving us.</p>
                     <div className="mt-4 space-y-5">
                       {edition.obituaries.map((o, i) => (
@@ -421,7 +414,7 @@ export function EditionView({ edition }: { edition: Edition }) {
                 )}
                 {edition.follow_ups.length > 0 && (
                   <div>
-                    <h3 className="text-[1.3rem] font-bold text-accent">Follow-ups</h3>
+                    <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Follow-ups</h3>
                     <div className="mt-4 space-y-8">
                       {edition.follow_ups.map((s, i) => (
                         <div key={i} className={cn(i > 0 && "border-t border-hairline pt-8")}>
@@ -435,7 +428,7 @@ export function EditionView({ edition }: { edition: Edition }) {
             )}
             {edition.briefs.length > 0 && (
               <div className={cn(edition.obituaries.length + edition.follow_ups.length > 0 ? "lg:col-span-8 lg:border-l lg:border-ink lg:pl-8" : "lg:col-span-12")}>
-                <h3 className="text-[1.3rem] font-bold text-accent">Briefs</h3>
+                <h3 className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">Briefs</h3>
                 <ul className="mt-4 gap-8 sm:columns-2 [column-rule:1px_solid_var(--color-hairline)]">
                   {edition.briefs.map((b, i) => (
                     <li key={i} className="mb-5 break-inside-avoid text-[1.0625rem] leading-relaxed">
@@ -453,7 +446,7 @@ export function EditionView({ edition }: { edition: Edition }) {
       )}
 
       <Separator className="mt-10" />
-      <footer className="py-6 text-[0.95rem] text-muted">
+      <footer className="py-6 font-sans text-[0.8rem] text-muted">
         {m.preview ? (
           <p>Preview edition. Real editions print the cost of making them here.</p>
         ) : (

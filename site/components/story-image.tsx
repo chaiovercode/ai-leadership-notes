@@ -18,7 +18,7 @@ export function StoryImage({ src, credit, className }: { src: string; credit: st
         onError={() => setFailed(true)}
         className="aspect-[16/9] w-full border border-ink/20 object-cover"
       />
-      <figcaption className="mt-1 text-right text-[0.8rem] italic text-muted">Image: {credit}</figcaption>
+      <figcaption className="mt-1 text-right font-sans text-[0.7rem] text-muted">Image: {credit}</figcaption>
     </figure>
   );
 }

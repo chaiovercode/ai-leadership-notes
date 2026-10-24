@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
 @theme {
-  --color-paper: #f2ead8;
-  --color-ink: #1c1a16;
-  --color-muted: #5c554a;
-  --color-hairline: #cbbfa6;
-  --color-accent: #b3121b;
-  --color-salmon: #f5ddd0;
+  --color-paper: #f9f8f5;
+  --color-ink: #121212;
+  --color-muted: #5a5a5a;
+  --color-hairline: #d4d2cc;
+  --color-accent: #121212;
   --font-serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --font-sans: "Libre Franklin", "Franklin Gothic Medium", "Helvetica Neue", Arial, sans-serif;
   --font-masthead: "UnifrakturMaguntia", "Old English Text MT", Georgia, serif;
 }
 
@@ -18,7 +18,7 @@
 html {
   background-color: var(--color-paper);
   /* faint newsprint grain */
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.35 0 0 0 0 0.3 0 0 0 0 0.2 0 0 0 0.07 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.3 0 0 0 0 0.3 0 0 0 0 0.3 0 0 0 0.035 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   color: var(--color-ink);
   font-family: var(--font-serif);
   -webkit-text-size-adjust: 100%;
@@ -80,9 +80,9 @@ a:hover {
   color: var(--color-paper);
 }
 
-/* Business pages print on salmon paper, like the financial dailies */
-.salmon {
-  background-color: var(--color-salmon);
-  box-shadow: 0 0 0 100vmax var(--color-salmon);
-  clip-path: inset(0 -100vmax);
+
+/* Print-style justified columns on the lead */
+.justify-print {
+  text-align: justify;
+  hyphens: auto;
 }
