@@ -152,11 +152,6 @@
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
     },
     {
-      "headline": "Uber puts 30,000 employees on ChatGPT Work",
-      "one_line": "A company-wide agent rollout after a smaller pilot.",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-    },
-    {
       "headline": "Meta Muse passes 10 million users",
       "one_line": "Shopping is one of the top uses, Meta said on its earnings call.",
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
@@ -166,5 +161,72 @@
       "one_line": "A long look back at building distributed SQLite, popular on Hacker News.",
       "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
     }
-  ]
+  ],
+  "weather": {
+    "headline": "Humid, with scattered launches",
+    "detail": "Decision models moving in from the west. A voice front over Block, but no rain for anyone outside the waitlist."
+  },
+  "quote_of_the_day": {
+    "quote": "People can't be the only consumers of intelligence.",
+    "who": "Diogo Almeida, TypeSafe AI, to The Register",
+    "url": "https://www.theregister.com/a/5296711"
+  },
+  "editorial": {
+    "headline": "Stop asking models to write when you need them to decide",
+    "body": "Most production AI is a decision wearing a costume. Is this transaction suspicious? Which team owns this ticket? Is this answer good enough to send? We ask a model that question, it writes us a paragraph, and then we write code to squeeze a yes or no out of the prose.\n\nThat habit is expensive in three ways. It is slow, because the model writes words nobody reads. It is fragile, because the answer hides in free text. And it throws away the most valuable thing a model can tell you: how sure it is.\n\nThis week’s decision-model launches are a reminder that the shape of the output is a design choice. Even without a new model, you can ask for a typed answer, a fixed set of labels, and an explicit option to abstain and hand the case to a person.\n\nThe abstain option is the part most teams skip, and it is the part that makes automation safe. A system that is right 95 percent of the time and knows which 5 percent it is unsure about beats one that is right 97 percent of the time and never says so.\n\nSo here is the test for any AI step you own: if the output is a decision, make it look like one, and measure how often its confidence matches reality. That one habit will do more for your systems than the next model upgrade."
+  },
+  "business": [
+    {
+      "headline": "OpenAI goes shopping for another $30 billion",
+      "dek": "A raise at a reported $1.25 trillion valuation, ahead of an IPO.",
+      "body": "If it closes at that price, it would be the most highly valued private company ever.\n\nWhy you should care: money at this scale has to turn into revenue, which means aggressive enterprise pushes and moving prices. Keep logging what each of your AI calls costs, because the numbers will keep changing.",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "stamp": null,
+      "fits": null,
+      "verified": true
+    },
+    {
+      "headline": "Meta invents a new kind of stock to pay for compute",
+      "dek": "A new share class to fund its AI buildout.",
+      "body": "The bill for AI infrastructure is now big enough to change how one of the largest companies in the world raises money.\n\nWhy you should care: the cost of compute shapes which models stay cheap and which stay open. Worth watching, not acting on.",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "stamp": null,
+      "fits": null,
+      "verified": true
+    },
+    {
+      "headline": "Uber puts all 30,000 staff on ChatGPT Work",
+      "dek": "A company-wide agent rollout after a smaller pilot.",
+      "body": "Agents moving from pilot to whole company is the adoption story of the year.\n\nWhy you should care: rollouts at this size are where cost per user, guardrails and audit trails stop being nice-to-haves. The skills employers will pay for are the boring ones.",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch",
+      "stamp": null,
+      "fits": "Agent guardrails, cost and audit at scale.",
+      "verified": true
+    },
+    {
+      "headline": "Nirva raises $33M for a pendant that only listens to you",
+      "dek": "A $249 ambient AI device, shipping by the end of the year.",
+      "body": "Always-on voice hardware keeps getting funded.\n\nWhy you should care: if voice becomes a common way to reach software, speech-to-speech models like Dessa stop being a curiosity. Know the basics, don’t build for it yet.",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch",
+      "stamp": null,
+      "fits": null,
+      "verified": true
+    }
+  ],
+  "sports": {
+    "scoreboard": null,
+    "match_report": {
+      "headline": "Dessa and GPT‑Live‑1 play an exhibition match",
+      "dek": "Block’s new voice model met OpenAI’s in a friendly. Nobody kept score.",
+      "body": "Among the recordings Block published at launch is a conversation between Dessa and OpenAI’s GPT-Live-1, two models talking to each other in real time.\n\nIt makes for a good highlight reel, but it is an exhibition, not a fixture: Block picked which recordings to publish and there are no benchmark numbers. Until someone runs both models on the same independent test, this one ends in a friendly draw.",
+      "url": "https://cryptobriefing.com/block-unveils-dessa-ai-voice-model/",
+      "source": "Crypto Briefing"
+    },
+    "transfers": []
+  },
+  "obituaries": []
 }

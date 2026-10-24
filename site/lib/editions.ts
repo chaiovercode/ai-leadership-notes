@@ -34,6 +34,23 @@ export type Edition = {
   hype_check: { claim: string; verdict: string; explanation: string; url: string }[];
   follow_ups: Story[];
   briefs: { headline: string; one_line: string; url: string }[];
+  weather: { headline: string; detail: string } | null;
+  quote_of_the_day: { quote: string; who: string; url: string } | null;
+  editorial: { headline: string; body: string } | null;
+  business: Story[];
+  sports: {
+    scoreboard: {
+      title: string;
+      metric: string;
+      source: string;
+      url: string;
+      as_of: string;
+      rows: { rank: number; name: string; lab: string; score: string; change: string | null }[];
+    } | null;
+    match_report: { headline: string; dek: string; body: string; url: string; source: string } | null;
+    transfers: { headline: string; one_line: string; url: string }[];
+  };
+  obituaries: { name: string; lived: string; body: string; url: string }[];
 };
 
 const DIR = path.join(process.cwd(), "..", "editions");
@@ -63,7 +80,13 @@ function normalize(e: Partial<Edition> & { meta: Edition["meta"] }): Edition {
     hype_check: [],
     follow_ups: [],
     briefs: [],
+    weather: null,
+    quote_of_the_day: null,
+    editorial: null,
+    business: [],
+    obituaries: [],
     ...e,
+    sports: { scoreboard: null, match_report: null, transfers: [], ...(e.sports ?? {}) },
   } as Edition;
 }
 

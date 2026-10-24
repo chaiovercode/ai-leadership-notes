@@ -33,7 +33,7 @@ Be a clearly strong AI engineer by January 2027, ready for my next role. Everyth
 
 ## What to skip
 
-- Funding rounds, valuations and hiring news, unless the company ships something I can use
+- Funding rounds, valuations and hiring news outside the business and sports pages
 - Opinion pieces with no new facts
 - Benchmark claims with no way to verify them
 - Anything I’ve already read, unless something new happened
@@ -57,6 +57,8 @@ Also say in one line whether it fits something I actually build: agents, harness
 7. Hype check: yesterday’s big claims, verified or not
 8. Follow-ups: updates on stories covered before
 9. Briefs: one line each for everything else
+
+Plus the inside pages: a weather line and quote of the day on the front, the business page, the editorial, the sports page (leaderboards, head-to-heads, people moving between labs) and obituaries for models and APIs being shut down.
 
 ## Editorial rules
 
