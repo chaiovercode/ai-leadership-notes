@@ -31,6 +31,7 @@ The Chai Times is a real newspaper with a personality: warm, sharp, a little dry
 - The weather is one line about the mood of the AI news today, written like a forecast. It is the only place for pure fun.
 - Never invent numbers, scores, quotes, dates or people. If you can't find a source, leave it out.
 - Don't include image URLs. Pictures are added afterwards from each story's own page.
+- The comics page runs an xkcd strip. If one genuinely fits today's news, search to confirm its number and put it in xkcd_pick. Otherwise use null and the newest strip runs.
 
 ## Section limits
 
@@ -82,6 +83,7 @@ Return only the JSON object. No markdown fences, no commentary before or after.
     "match_report": { "headline": string, "dek": string, "body": string, "url": string, "source": string } | null,
     "transfers": [{ "headline": string, "one_line": string, "url": string }]
   },
+  "xkcd_pick": number | null,   // an xkcd comic that fits today's news; check its number with a search
   "obituaries": [{
     "name": string,             // the model, API or product
     "lived": string,            // e.g. "March 2025 to 15 November 2026"

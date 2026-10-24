@@ -21,7 +21,7 @@ Check every factual claim in the edition against its source, fix what is wrong, 
 - Don't add new stories. Don't rewrite for style. Keep the reporter's voice; change only what accuracy needs.
 - If the front page loses all its stories, promote the strongest confirmed story from another section.
 - Never invent a source, a number or a quote to rescue a story.
-- Leave any "image" fields exactly as they are.
+- Leave any "image" fields and "xkcd_pick" exactly as they are.
 
 ## Output
 

@@ -149,6 +149,43 @@ def add_images(edition):
     return sum(1 for s in stories if s.get("image"))
 
 
+# xkcd is licensed CC BY-NC 2.5: free to share with credit, non-commercially.
+# Fallbacks when the reporter has no pick and the latest strip ran recently.
+XKCD_FAVOURITES = [1838, 2173, 1425, 927, 327, 2347, 1319, 1205, 974, 1613, 2048, 882, 552, 1132, 303, 1987, 1172, 2228, 1897, 2237, 2169]
+
+
+def fetch_xkcd(num=None):
+    url = f"https://xkcd.com/{num}/info.0.json" if num else "https://xkcd.com/info.0.json"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "ChaiTimesBot/1.0"})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            d = json.loads(r.read())
+    except Exception:
+        return None
+    return {"source": "xkcd", "num": d["num"], "title": d["safe_title"], "alt": d["alt"], "img": d["img"],
+            "url": f"https://xkcd.com/{d['num']}/", "date": f"{d['year']}-{int(d['month']):02d}-{int(d['day']):02d}",
+            "credit": "xkcd by Randall Munroe", "license": "CC BY-NC 2.5",
+            "license_url": "https://creativecommons.org/licenses/by-nc/2.5/"}
+
+
+def pick_comic(pick, today):
+    """The reporter's pick if it fits, else the newest strip, else a favourite we haven't run lately."""
+    recent = set()
+    for p in EDITIONS.glob("*.json"):
+        e = load_json(p) or {}
+        if e.get("comic") and datetime.fromisoformat(e["meta"]["date"]).date() >= today - timedelta(days=60):
+            recent.add(e["comic"].get("num"))
+    if isinstance(pick, int) and pick not in recent and (c := fetch_xkcd(pick)):
+        return c
+    latest = fetch_xkcd()
+    if latest and latest["num"] not in recent:
+        return latest
+    for n in sorted(XKCD_FAVOURITES, key=lambda n: hash((n, today.isoformat()))):
+        if n not in recent and (c := fetch_xkcd(n)):
+            return c
+    return latest
+
+
 def run_agent(client, name, model, system, user, tools):
     """One agent turn with server-side tools. Returns (parsed JSON, stats)."""
     usage = {"input": 0, "output": 0, "cache_write": 0, "cache_read": 0, "searches": 0, "fetches": 0}
@@ -225,6 +262,8 @@ def main():
     checked, checker_stats = fact_check(client, today, draft)
     edition = checked.get("edition") or draft
     report = checked.get("report") or []
+
+    edition["comic"] = pick_comic(edition.pop("xkcd_pick", None) or draft.get("xkcd_pick"), today)
 
     found = add_images(edition)
     print(f"Found pictures for {found} stories")

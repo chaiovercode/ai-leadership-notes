@@ -357,6 +357,35 @@ export function EditionView({ edition }: { edition: Edition }) {
         </section>
       )}
 
+      {edition.comic && (
+        <section>
+          <PageHead id="comics" title="Comics" note="One strip a day, from the web’s best-loved open comic." />
+          <figure className="mx-auto max-w-[760px] text-center">
+            <p className="font-sans text-[0.78rem] font-bold uppercase tracking-[0.09em]">
+              {edition.comic.source} #{edition.comic.num}
+            </p>
+            <h3 className="mt-1 text-[clamp(1.5rem,3vw,2.1rem)] font-bold leading-tight">{edition.comic.title}</h3>
+            <a href={edition.comic.url} target="_blank" rel="noopener" className="comic-frame mt-5 block border border-ink bg-white p-4">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={edition.comic.img} alt={`${edition.comic.title}: ${edition.comic.alt}`} title={edition.comic.alt} loading="lazy" className="mx-auto h-auto max-w-full" />
+            </a>
+            <figcaption className="mx-auto mt-4 max-w-[60ch]">
+              <p className="text-[1.0625rem] italic leading-relaxed">“{edition.comic.alt}”</p>
+              <p className="mt-3 font-sans text-[0.75rem] text-muted">
+                <a href={edition.comic.url} target="_blank" rel="noopener" className="underline">
+                  {edition.comic.credit}
+                </a>
+                , licensed{" "}
+                <a href={edition.comic.license_url} target="_blank" rel="noopener" className="underline">
+                  {edition.comic.license}
+                </a>
+                .
+              </p>
+            </figcaption>
+          </figure>
+        </section>
+      )}
+
       {hasBack && (
         <section>
           <PageHead id="back" title="Back page" note="Farewells, updates, and everything else." />

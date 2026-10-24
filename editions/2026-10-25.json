@@ -239,5 +239,17 @@
     },
     "transfers": []
   },
-  "obituaries": []
+  "obituaries": [],
+  "comic": {
+    "source": "xkcd",
+    "num": 1838,
+    "title": "Machine Learning",
+    "alt": "The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent.",
+    "img": "https://imgs.xkcd.com/comics/machine_learning.png",
+    "url": "https://xkcd.com/1838/",
+    "date": "2017-05-17",
+    "credit": "xkcd by Randall Munroe",
+    "license": "CC BY-NC 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.5/"
+  }
 }

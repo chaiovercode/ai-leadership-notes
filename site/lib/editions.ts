@@ -59,6 +59,18 @@ export type Edition = {
     transfers: { headline: string; one_line: string; url: string }[];
   };
   obituaries: { name: string; lived: string; body: string; url: string }[];
+  comic: {
+    source: string;
+    num: number;
+    title: string;
+    alt: string;
+    img: string;
+    url: string;
+    date: string;
+    credit: string;
+    license: string;
+    license_url: string;
+  } | null;
 };
 
 const DIR = path.join(process.cwd(), "..", "editions");
@@ -93,6 +105,7 @@ function normalize(e: Partial<Edition> & { meta: Edition["meta"] }): Edition {
     editorial: null,
     business: [],
     obituaries: [],
+    comic: null,
     ...e,
     sports: { match_report: null, transfers: [], ...(e.sports ?? {}) },
   } as Edition;
