@@ -11,8 +11,12 @@ import json
 import os
 import re
 import sys
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
+from html import unescape
 from pathlib import Path
+from urllib.parse import urljoin
 
 import anthropic
 
@@ -96,6 +100,43 @@ def extract_json(text):
     return json.loads(text[start:end + 1])
 
 
+OG_IMAGE = [
+    re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)(?::src)?["\'][^>]*content=["\']([^"\']+)', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\'](?:og:image|twitter:image)(?::src)?["\']', re.I),
+]
+
+
+def find_image(url):
+    """The preview image a page publishes for link cards (og:image), if any."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; ChaiTimesBot/1.0)"})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            if "html" not in r.headers.get("Content-Type", ""):
+                return None
+            html = r.read(400_000).decode("utf-8", "ignore")
+    except Exception:
+        return None
+    for rx in OG_IMAGE:
+        m = rx.search(html)
+        if m:
+            img = urljoin(url, unescape(m.group(1).strip()))
+            return img if img.startswith("https://") else None
+    return None
+
+
+def add_images(edition):
+    stories = [s for sec in ("front_page", "my_stack", "models_labs", "tools", "business", "follow_ups")
+               for s in edition.get(sec) or [] if s.get("url") and not s.get("image")]
+    mr = (edition.get("sports") or {}).get("match_report")
+    if mr and mr.get("url") and not mr.get("image"):
+        stories.append(mr)
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for story, img in zip(stories, pool.map(lambda s: find_image(s["url"]), stories)):
+            if img:
+                story["image"] = img
+    return sum(1 for s in stories if s.get("image"))
+
+
 def main():
     if not os.environ.get("ANTHROPIC_API_KEY"):
         sys.exit("ANTHROPIC_API_KEY is not set.")
@@ -143,6 +184,9 @@ def main():
             messages=[{"role": "user", "content": "Fix this into valid JSON. Return only the JSON.\n\n" + text}])
         add_usage(usage, fix.usage)
         edition = extract_json("".join(b.text for b in fix.content if b.type == "text"))
+
+    found = add_images(edition)
+    print(f"Found pictures for {found} stories")
 
     cost = (usage["input"] * PRICE["input"] + usage["output"] * PRICE["output"]
             + usage["cache_write"] * PRICE["cache_write"] + usage["cache_read"] * PRICE["cache_read"]) / 1e6 \

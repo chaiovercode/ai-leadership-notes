@@ -12,6 +12,7 @@ export type Story = {
   stamp: Stamp;
   fits: string | null;
   verified: boolean;
+  image?: string;
 };
 
 export type Edition = {
@@ -47,7 +48,7 @@ export type Edition = {
       as_of: string;
       rows: { rank: number; name: string; lab: string; score: string; change: string | null }[];
     } | null;
-    match_report: { headline: string; dek: string; body: string; url: string; source: string } | null;
+    match_report: { headline: string; dek: string; body: string; url: string; source: string; image?: string } | null;
     transfers: { headline: string; one_line: string; url: string }[];
   };
   obituaries: { name: string; lived: string; body: string; url: string }[];

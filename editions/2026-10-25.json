@@ -8,7 +8,7 @@
     {
       "headline": "Decision models are now a category, not a curiosity",
       "dek": "TypeSafe’s Jev started it in September. This week OpenAI shipped a competitor to everyone.",
-      "body": "Most AI models you use are writers: you ask, they reply in sentences, and your code has to fish the answer out of the prose. A decision model skips the essay. You hand it messy input and it returns a typed answer, such as a category, a score or a route, plus how confident it is.\n\nThink of a chat model as a consultant who writes you a memo, and a decision model as a referee who raises a flag and tells you how sure he is. For software that has to make thousands of calls a minute, the referee is what you want.\n\nTypeSafe AI, founded by a former OpenAI researcher, came out of stealth on 16 September with Jev, pitched at high-volume work like classifying service requests, triaging alerts and reviewing AI agents’ output. On 22 October, TechCrunch reported that OpenAI has made its own decision model widely available.\n\nWhy it matters: the interesting number is the confidence score. It tells you when to let the model act alone and when to hand the case to a person, which is the hard part of every triage system.",
+      "body": "Most AI models you use are writers: you ask, they reply in sentences, and your code has to fish the answer out of the prose. A decision model skips the essay. You hand it messy input and it returns a typed answer, such as a category, a score or a route, plus how confident it is.\n\nThink of a chat model as a consultant who writes you a memo, and a decision model as a referee who raises a flag and tells you how sure he is. For software that has to make thousands of calls a minute, the referee is what you want.\n\nTypeSafe AI, founded by a former OpenAI researcher, came out of stealth on 15 September with Jev, pitched at high-volume work like classifying service requests, triaging alerts and reviewing AI agents’ output. On 22 October, TechCrunch reported that OpenAI has made its own decision model widely available.\n\nWhy it matters: the interesting number is the confidence score. It tells you when to let the model act alone and when to hand the case to a person, which is the hard part of every triage system.",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "source": "TechCrunch",
       "stamp": "usable_today",
@@ -19,11 +19,12 @@
       "headline": "Block’s Dessa learned to talk without ever reading",
       "dek": "A voice model trained only on recorded conversations, small enough to run on a MacBook.",
       "body": "Almost every voice assistant is a text model wearing a microphone. Dessa, from a small research lab at Block, was trained on recorded human conversations alone: no text and no pretrained model underneath.\n\nIt is full-duplex, meaning it listens while it talks, so it can be interrupted, say “yeah” while you speak, and match your timing, like a phone call rather than a walkie-talkie. Jack Dorsey announced it on 23 October.\n\nYou can’t use it yet. There is a waitlist, early access is going to AI safety researchers, and there are no weights, benchmarks or pricing. If you want to try a full-duplex model today, Kyutai’s Moshi has open weights.",
-      "url": "https://cellcog.ai/blog/block-dessa/",
-      "source": "CellCog",
+      "url": "https://cryptobriefing.com/block-unveils-dessa-ai-voice-model/",
+      "source": "Crypto Briefing",
       "stamp": "demo_only",
       "fits": null,
-      "verified": false
+      "verified": true,
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/23174503/blocka.jpg"
     }
   ],
   "my_stack": [
@@ -224,7 +225,8 @@
       "dek": "Block’s new voice model met OpenAI’s in a friendly. Nobody kept score.",
       "body": "Among the recordings Block published at launch is a conversation between Dessa and OpenAI’s GPT-Live-1, two models talking to each other in real time.\n\nIt makes for a good highlight reel, but it is an exhibition, not a fixture: Block picked which recordings to publish and there are no benchmark numbers. Until someone runs both models on the same independent test, this one ends in a friendly draw.",
       "url": "https://cryptobriefing.com/block-unveils-dessa-ai-voice-model/",
-      "source": "Crypto Briefing"
+      "source": "Crypto Briefing",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/23174503/blocka.jpg"
     },
     "transfers": []
   },

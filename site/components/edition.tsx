@@ -2,6 +2,7 @@ import type React from "react";
 import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
+import { StoryImage } from "@/components/story-image";
 import { type Edition, type Stamp, type Story, longDate, paragraphs } from "@/lib/editions";
 import { cn } from "@/lib/utils";
 
@@ -42,6 +43,7 @@ function Fits({ fits }: { fits: string | null }) {
 function StoryBlock({ story, size = "md" }: { story: Story; size?: "lg" | "md" | "sm" }) {
   return (
     <article>
+      {story.image && size === "sm" && <StoryImage src={story.image} credit={story.source} className="mt-0" />}
       <h3
         className={cn(
           "font-bold tracking-[-0.01em] text-balance",
@@ -58,6 +60,7 @@ function StoryBlock({ story, size = "md" }: { story: Story; size?: "lg" | "md" |
         {story.dek}
       </p>
       <StoryMeta story={story} />
+      {story.image && size !== "sm" && <StoryImage src={story.image} credit={story.source} className={size === "lg" ? "mt-5" : undefined} />}
       <Body text={story.body} className={cn("mt-4", size === "lg" && "lead-columns drop-cap")} />
       <Fits fits={story.fits} />
     </article>
@@ -396,6 +399,7 @@ export function EditionView({ edition }: { edition: Edition }) {
                     </a>
                   </h3>
                   <p className="mt-2 text-[1.05rem] italic text-muted">{sp.match_report.dek}</p>
+                  {sp.match_report.image && <StoryImage src={sp.match_report.image} credit={sp.match_report.source} />}
                   <Body text={sp.match_report.body} className="mt-3" />
                   <a href={sp.match_report.url} target="_blank" rel="noopener" className="mt-2 inline-block text-[0.95rem] underline">
                     {sp.match_report.source}

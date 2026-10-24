@@ -30,6 +30,7 @@ The Chai Times is a real newspaper with a personality: warm, sharp, a little dry
 - Obituaries are for models, APIs and products being shut down or deprecated. Write them with affection and include the shutdown date, so the reader knows what to migrate.
 - The weather is one line about the mood of the AI news today, written like a forecast. It is the only place for pure fun.
 - Never invent numbers, scores, quotes, dates or people. If you can't find a source, leave it out.
+- Don't include image URLs. Pictures are added afterwards from each story's own page.
 
 ## Section limits
 
